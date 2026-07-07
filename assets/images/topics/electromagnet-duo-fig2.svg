@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">怎麼讓電磁鐵磁力更強？</text>
+  <!-- three factors -->
+  <g>
+    <rect x="30" y="70" width="200" height="230" rx="12" fill="#fff" stroke="#5aa469" stroke-width="2.5"/>
+    <text x="130" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">① 線圈繞更多圈</text>
+    <g stroke="#c98a3a" stroke-width="3" fill="none"><path d="M70 150 q6 -14 12 0 q6 14 12 0 q6 -14 12 0 q6 14 12 0 q6 -14 12 0 q6 14 12 0 q6 -14 12 0 q6 14 12 0 q6 -14 12 0"/></g>
+    <rect x="65" y="150" width="130" height="14" fill="#9aa4ad"/>
+    <text x="130" y="210" text-anchor="middle" font-size="12" fill="#2d2a26">圈數越多</text>
+    <text x="130" y="232" text-anchor="middle" font-size="12" fill="#2d2a26">磁力越強</text>
+    <text x="130" y="270" text-anchor="middle" font-size="22">📎📎📎</text>
+
+    <rect x="250" y="70" width="200" height="230" rx="12" fill="#fff" stroke="#2f7fc1" stroke-width="2.5"/>
+    <text x="350" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">② 電流變大</text>
+    <rect x="290" y="150" width="60" height="30" rx="4" fill="#f4b400" stroke="#c98f00" stroke-width="2"/>
+    <rect x="360" y="150" width="60" height="30" rx="4" fill="#f4b400" stroke="#c98f00" stroke-width="2"/>
+    <text x="350" y="210" text-anchor="middle" font-size="12" fill="#2d2a26">用更多電池</text>
+    <text x="350" y="232" text-anchor="middle" font-size="12" fill="#2d2a26">（電流大）磁力強</text>
+    <text x="350" y="270" text-anchor="middle" font-size="22">📎📎📎</text>
+
+    <rect x="470" y="70" width="200" height="230" rx="12" fill="#fff" stroke="#e8743b" stroke-width="2.5"/>
+    <text x="570" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#e8743b">③ 用鐵芯</text>
+    <rect x="520" y="155" width="100" height="16" rx="3" fill="#9aa4ad"/>
+    <text x="570" y="210" text-anchor="middle" font-size="12" fill="#2d2a26">線圈中間放鐵釘</text>
+    <text x="570" y="232" text-anchor="middle" font-size="12" fill="#2d2a26">磁力大增</text>
+    <text x="570" y="270" text-anchor="middle" font-size="22">📎📎📎</text>
+  </g>
+  <text x="350" y="335" text-anchor="middle" font-size="13" fill="#c0392b">磁力強弱可以「控制」——這是電磁鐵比一般磁鐵方便的地方</text>
+</svg>

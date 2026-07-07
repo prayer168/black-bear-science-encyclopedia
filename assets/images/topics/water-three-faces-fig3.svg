@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">生活中的水三態</text>
+  <!-- 6 examples grid -->
+  <g>
+    <rect x="40" y="70" width="190" height="140" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="135" y="120" text-anchor="middle" font-size="30">🧊</text>
+    <text x="135" y="160" text-anchor="middle" font-size="13" fill="#2f7fc1" font-weight="bold">冰塊・雪（固態）</text>
+    <text x="135" y="185" text-anchor="middle" font-size="11" fill="#6f6a63">冰箱結冰、冬天下雪</text>
+
+    <rect x="255" y="70" width="190" height="140" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="350" y="120" text-anchor="middle" font-size="30">🌧️</text>
+    <text x="350" y="160" text-anchor="middle" font-size="13" fill="#2f7fc1" font-weight="bold">雨・河水（液態）</text>
+    <text x="350" y="185" text-anchor="middle" font-size="11" fill="#6f6a63">下雨、喝水、洗澡</text>
+
+    <rect x="470" y="70" width="190" height="140" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="565" y="120" text-anchor="middle" font-size="30">♨️</text>
+    <text x="565" y="160" text-anchor="middle" font-size="13" fill="#7fb0d6" font-weight="bold">水蒸氣（氣態）</text>
+    <text x="565" y="185" text-anchor="middle" font-size="11" fill="#6f6a63">燒水冒氣、曬乾衣服</text>
+  </g>
+  <!-- note about 白煙 -->
+  <rect x="90" y="240" width="520" height="110" rx="12" fill="#fff8e6" stroke="#f2e0a8" stroke-width="2"/>
+  <text x="350" y="270" text-anchor="middle" font-size="14" font-weight="bold" fill="#c98f00">💡 小提醒：燒開水冒出的「白煙」是什麼？</text>
+  <text x="350" y="298" text-anchor="middle" font-size="13" fill="#2d2a26">真正的水蒸氣是「看不見」的！</text>
+  <text x="350" y="322" text-anchor="middle" font-size="13" fill="#2d2a26">看得到的白煙，是水蒸氣遇冷「凝結」成的小水滴（又變回液態）</text>
+</svg>

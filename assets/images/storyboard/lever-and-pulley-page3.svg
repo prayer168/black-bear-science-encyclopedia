@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <rect x="0" y="240" width="520" height="20" fill="#c9a36a" opacity="0.5"/>
+  <ellipse cx="130" cy="210" rx="46" ry="32" fill="#8a8f96"/>
+  <rect x="185" y="212" width="28" height="26" fill="#b5622a"/>
+  <rect x="110" y="192" width="320" height="10" rx="4" fill="#8a5f36" transform="rotate(-12 270 197)"/>
+  <!-- fox pressing, happy -->
+  <image href="../characters/fox.svg" x="360" y="150" width="82" height="82"/>
+  <text x="405" y="145" font-size="16">😄</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：小狐同學自己試也撬得動！</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「我也撬得動！好神奇！」（施力端在遠側）</text>
+</svg>

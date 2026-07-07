@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eafaf0"/>
+  <!-- club door closed on left -->
+  <rect x="30" y="45" width="120" height="195" rx="10" fill="#5aa469"/>
+  <rect x="44" y="90" width="92" height="150" fill="#7bbf7a"/>
+  <text x="90" y="72" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">昆蟲俱樂部</text>
+  <!-- ladybug guard blocking -->
+  <ellipse cx="175" cy="150" rx="16" ry="13" fill="#c0392b"/><circle cx="175" cy="133" r="6" fill="#2d2a26"/>
+  <line x1="192" y1="150" x2="230" y2="150" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+  <text x="205" y="140" text-anchor="middle" font-size="20" fill="#c0392b">✋</text>
+  <!-- spider (8 legs, 2 body parts) outside -->
+  <g>
+    <ellipse cx="330" cy="160" rx="24" ry="20" fill="#5c4332"/><ellipse cx="298" cy="158" rx="16" ry="14" fill="#4a3628"/>
+    <g stroke="#3a2a1e" stroke-width="3" stroke-linecap="round" fill="none">
+      <path d="M310 148 q-22 -14 -34 -22"/><path d="M308 156 q-24 -4 -38 -6"/><path d="M308 166 q-24 6 -38 12"/><path d="M314 176 q-20 16 -30 26"/>
+      <path d="M348 148 q22 -14 34 -22"/><path d="M350 156 q24 -4 38 -6"/><path d="M350 166 q24 6 38 12"/><path d="M344 176 q20 16 30 26"/>
+    </g>
+    <circle cx="292" cy="153" r="2.5" fill="#fff"/><circle cx="298" cy="150" r="2.5" fill="#fff"/>
+  </g>
+  <text x="330" y="222" text-anchor="middle" font-size="12" fill="#b5462a" font-weight="bold">八隻腳・身體兩段</text>
+  <text x="420" y="120" font-size="22">😢</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：八隻腳的蜘蛛被擋在門外，很委屈。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">蜘蛛：「為什麼我不能進去？」（蜘蛛清楚八隻腳、身體兩段）</text>
+</svg>

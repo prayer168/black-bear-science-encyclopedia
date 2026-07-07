@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#eaf5ff"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">對流循環的祕密（剖面圖）</text>
+
+  <!-- pot -->
+  <path d="M170 130 L530 130 L500 330 L200 330 Z" fill="#cfe4f5" stroke="#2f7fc1" stroke-width="3"/>
+  <rect x="160" y="122" width="380" height="14" rx="4" fill="#8aa0b0"/>
+  <!-- water surface -->
+  <line x1="182" y1="150" x2="518" y2="150" stroke="#2f7fc1" stroke-width="2" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- flame under pot -->
+  <g>
+    <path d="M320 335 q-16 -34 6 -56 q4 22 22 18 q-4 30 -28 38" fill="#e8743b"/>
+    <path d="M340 335 q-14 -28 5 -46 q3 18 18 15 q-3 24 -23 31" fill="#c0392b"/>
+    <path d="M355 337 q-12 -22 4 -36 q2 14 14 12 q-2 18 -18 24" fill="#f4c542"/>
+  </g>
+  <text x="350" y="365" text-anchor="middle" font-size="12" fill="#c0392b">加熱</text>
+
+  <defs>
+    <marker id="up" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#c0392b"/></marker>
+    <marker id="dn" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2f7fc1"/></marker>
+  </defs>
+
+  <!-- rising hot (center, red) -->
+  <path d="M350 300 C350 250 350 210 350 175" fill="none" stroke="#c0392b" stroke-width="5" marker-end="url(#up)"/>
+  <text x="365" y="240" font-size="14" font-weight="bold" fill="#c0392b">熱水變輕上升</text>
+
+  <!-- sinking cold (sides, blue) -->
+  <path d="M245 175 C235 220 240 270 300 300" fill="none" stroke="#2f7fc1" stroke-width="5" marker-end="url(#dn)"/>
+  <path d="M455 175 C465 220 460 270 400 300" fill="none" stroke="#2f7fc1" stroke-width="5" marker-end="url(#dn)"/>
+  <text x="150" y="215" font-size="14" font-weight="bold" fill="#2f7fc1">冷水變重</text>
+  <text x="150" y="235" font-size="14" font-weight="bold" fill="#2f7fc1">往下沉</text>
+
+  <!-- dye specks showing path -->
+  <circle cx="350" cy="260" r="4" fill="#8a56c2"/><circle cx="352" cy="215" r="4" fill="#8a56c2"/>
+  <circle cx="300" cy="250" r="4" fill="#8a56c2"/><circle cx="410" cy="255" r="4" fill="#8a56c2"/>
+  <text x="350" y="405" text-anchor="middle" font-size="13" fill="#2f7fc1">熱水上升、冷水下沉，轉呀轉地把熱帶到整鍋（只發生在液體與氣體）</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="440" fill="#1b2340"/>
+  <text x="350" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#fff">月相：月球一半永遠被太陽照亮，我們看到的角度不同</text>
+  <!-- sunlight from left -->
+  <text x="40" y="230" font-size="14" fill="#f4d060">☀️ 陽光</text>
+  <g stroke="#f4d060" stroke-width="2"><line x1="70" y1="250" x2="150" y2="250"/><line x1="70" y1="200" x2="150" y2="200"/><line x1="70" y1="300" x2="150" y2="300"/></g>
+  <!-- earth center -->
+  <circle cx="360" cy="250" r="34" fill="#3a7d9a"/><text x="360" y="255" text-anchor="middle" font-size="12" fill="#fff">地球</text>
+  <!-- four moon positions, each half-lit (right side lit toward sun... sun from left so LEFT half lit) -->
+  <!-- moon top (first quarter region) -->
+  <g>
+    <!-- new moon (left, between sun and earth) -->
+    <circle cx="200" cy="250" r="20" fill="#2a2f45"/><path d="M200 230 a20 20 0 0 0 0 40 z" fill="#e9e6d8"/>
+    <text x="200" y="300" text-anchor="middle" font-size="11" fill="#9fb0d0">新月（看不到）</text>
+    <!-- full moon (right, opposite sun) -->
+    <circle cx="520" cy="250" r="20" fill="#2a2f45"/><path d="M520 230 a20 20 0 0 0 0 40 z" fill="#e9e6d8"/>
+    <text x="520" y="300" text-anchor="middle" font-size="11" fill="#f4e9b8">滿月（全亮）</text>
+    <!-- top (upper) -->
+    <circle cx="360" cy="120" r="20" fill="#2a2f45"/><path d="M360 100 a20 20 0 0 0 0 40 z" fill="#e9e6d8"/>
+    <text x="360" y="92" text-anchor="middle" font-size="11" fill="#cfe0ff">半邊亮</text>
+    <!-- bottom -->
+    <circle cx="360" cy="380" r="20" fill="#2a2f45"/><path d="M360 360 a20 20 0 0 0 0 40 z" fill="#e9e6d8"/>
+    <text x="360" y="420" text-anchor="middle" font-size="11" fill="#cfe0ff">半邊亮</text>
+  </g>
+  <!-- orbit -->
+  <ellipse cx="360" cy="250" rx="160" ry="130" fill="none" stroke="#4a5578" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <text x="350" y="440" text-anchor="middle" font-size="12" fill="#c0392b" opacity="0"> </text>
+  <text x="620" y="415" text-anchor="end" font-size="11" fill="#9fb0d0">月球繞地球，被照亮那半朝向不同，我們就看到不同月相</text>
+</svg>

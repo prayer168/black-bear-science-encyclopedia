@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf6e6"/>
+  <!-- sturdy desk -->
+  <rect x="120" y="150" width="280" height="18" fill="#8a5f36"/>
+  <rect x="140" y="168" width="16" height="90" fill="#a86f3f"/><rect x="364" y="168" width="16" height="90" fill="#a86f3f"/>
+  <!-- fox under desk holding leg -->
+  <image href="../characters/fox.svg" x="220" y="180" width="76" height="76"/>
+  <text x="258" y="145" text-anchor="middle" font-size="12" fill="#5aa469">躲桌下・護頭頸</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：大家立刻鑽到桌下保護自己。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「先躲起來！」（正確避難動作：趴下、掩護、穩住）</text>
+</svg>

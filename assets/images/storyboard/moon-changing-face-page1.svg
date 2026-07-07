@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#1b2340"/>
+  <!-- stars -->
+  <g fill="#fff"><circle cx="80" cy="60" r="1.5"/><circle cx="160" cy="40" r="1"/><circle cx="300" cy="70" r="1.5"/><circle cx="450" cy="50" r="1"/><circle cx="380" cy="100" r="1"/></g>
+  <!-- full moon -->
+  <circle cx="400" cy="90" r="42" fill="#f4e9b8"/>
+  <circle cx="388" cy="80" r="6" fill="#e0d38a" opacity="0.5"/><circle cx="412" cy="100" r="5" fill="#e0d38a" opacity="0.5"/>
+  <!-- ground -->
+  <rect x="0" y="250" width="520" height="30" fill="#2a3350"/>
+  <!-- fox looking up -->
+  <image href="../characters/fox.svg" x="120" y="160" width="80" height="80"/>
+  <rect x="0" y="278" width="520" height="42" fill="#3a2c20"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：中秋節的月亮又大又圓。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「月亮好圓好亮喔！」（滿月為完整圓形）</text>
+</svg>

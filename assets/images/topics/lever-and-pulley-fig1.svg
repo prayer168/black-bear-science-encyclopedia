@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">槓桿的三個重點：支點、施力點、抗力點</text>
+  <!-- fulcrum triangle -->
+  <path d="M330 230 L370 230 L350 190 Z" fill="#6b4f3a"/>
+  <!-- lever bar -->
+  <rect x="120" y="180" width="460" height="14" rx="4" fill="#c9a35a" transform="rotate(-6 350 187)"/>
+  <!-- load (left, heavy rock) -->
+  <rect x="130" y="150" width="60" height="44" rx="6" fill="#8a8f96"/>
+  <text x="160" y="178" text-anchor="middle" font-size="12" fill="#fff">重物</text>
+  <!-- effort (right hand pushing down) -->
+  <defs><marker id="lv" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2f7fc1"/></marker></defs>
+  <line x1="540" y1="150" x2="540" y2="200" stroke="#2f7fc1" stroke-width="5" marker-end="url(#lv)"/>
+  <text x="575" y="180" text-anchor="middle" font-size="12" fill="#2f7fc1">施力（往下壓）</text>
+  <!-- labels -->
+  <circle cx="160" cy="172" r="6" fill="#c0392b"/><text x="160" y="145" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">抗力點</text>
+  <text x="160" y="215" text-anchor="middle" font-size="10" fill="#6f6a63">（重物在這）</text>
+  <circle cx="350" cy="190" r="6" fill="#6b4f3a"/><text x="350" y="265" text-anchor="middle" font-size="13" font-weight="bold" fill="#6b4f3a">支點</text>
+  <text x="350" y="282" text-anchor="middle" font-size="10" fill="#6f6a63">（撐住不動的點）</text>
+  <circle cx="540" cy="168" r="6" fill="#2f7fc1"/><text x="540" y="145" text-anchor="middle" font-size="13" font-weight="bold" fill="#2f7fc1">施力點</text>
+  <text x="540" y="215" text-anchor="middle" font-size="10" fill="#6f6a63">（我們出力的地方）</text>
+  <text x="350" y="330" text-anchor="middle" font-size="13" fill="#3f7d4f">蹺蹺板、剪刀、開瓶器、獨輪車都是槓桿！</text>
+</svg>

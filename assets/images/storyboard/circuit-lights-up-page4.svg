@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#f3eefa"/>
+  <image href="../characters/monster.svg" x="30" y="120" width="96" height="96"/>
+  <rect x="135" y="72" width="230" height="52" rx="14" fill="#fff" stroke="#8a56c2" stroke-width="2"/>
+  <path d="M150 122 l-10 22 l26 -12 z" fill="#fff" stroke="#8a56c2" stroke-width="2"/>
+  <text x="250" y="104" text-anchor="middle" font-size="13" fill="#6f3fb0">「電存在燈泡裡啦！」</text>
+  <image href="../characters/bear.svg" x="385" y="120" width="90" height="90"/>
+  <rect x="285" y="188" width="215" height="34" rx="14" fill="#f3e9dd" stroke="#6b4f3a" stroke-width="2"/>
+  <text x="392" y="210" text-anchor="middle" font-size="12" fill="#6b4f3a">「電是繞著整個電路流動的！」</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第4頁：迷思怪獸又亂說。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">👾「電存在燈泡裡啦！」🐻「電是繞著整個電路流動的！」</text>
+</svg>

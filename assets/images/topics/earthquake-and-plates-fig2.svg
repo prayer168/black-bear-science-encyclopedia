@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">地震怎麼發生的？（尺子比喻）</text>
+
+  <!-- Step 1 -->
+  <text x="120" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#5aa469">① 慢慢累積</text>
+  <rect x="60" y="120" width="55" height="70" rx="4" fill="#8a5f36"/><rect x="125" y="120" width="55" height="70" rx="4" fill="#a86f3f"/>
+  <defs>
+    <marker id="a1" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#2f7fc1"/></marker>
+    <marker id="a2" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#c0392b"/></marker>
+  </defs>
+  <line x1="40" y1="205" x2="65" y2="205" stroke="#2f7fc1" stroke-width="3" marker-end="url(#a1)"/>
+  <line x1="200" y1="205" x2="175" y2="205" stroke="#2f7fc1" stroke-width="3" marker-end="url(#a1)"/>
+  <text x="120" y="230" text-anchor="middle" font-size="11" fill="#6f6a63">板塊互相擠、卡住</text>
+
+  <!-- Step 2 -->
+  <text x="350" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#e8743b">② 岩層彎曲、能量儲存</text>
+  <path d="M290 155 q60 -30 120 0 q-10 40 -60 40 q-50 0 -60 -40 z" fill="#c98a5a" stroke="#8a5a30" stroke-width="2"/>
+  <path d="M300 150 q50 -22 100 0" stroke="#6b4f3a" stroke-width="2" fill="none"/>
+  <text x="350" y="210" text-anchor="middle" font-size="11" fill="#e8743b">像被彎折的尺，越彎越緊</text>
+
+  <!-- Step 3 -->
+  <text x="580" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">③ 突然斷裂、釋放</text>
+  <path d="M520 150 l50 20 l-6 -26 M640 150 l-50 20 l6 -26" fill="#c98a5a" stroke="#8a5a30" stroke-width="2"/>
+  <line x1="580" y1="120" x2="580" y2="195" stroke="#c0392b" stroke-width="3" stroke-dasharray="4 3"/>
+  <!-- seismic waves -->
+  <g stroke="#c0392b" stroke-width="2" fill="none">
+    <path d="M560 210 q-15 -8 -30 0"/><path d="M600 210 q15 -8 30 0"/>
+  </g>
+  <text x="580" y="235" text-anchor="middle" font-size="11" fill="#c0392b">斷層錯動，震波傳出＝地震</text>
+
+  <!-- bottom: waves to surface -->
+  <line x1="60" y1="290" x2="640" y2="290" stroke="#6b4f3a" stroke-width="3"/>
+  <text x="120" y="285" font-size="11" fill="#6b4f3a">地面</text>
+  <circle cx="350" cy="350" r="8" fill="#c0392b"/>
+  <g stroke="#c0392b" stroke-width="2" fill="none" opacity="0.7">
+    <circle cx="350" cy="350" r="26"/><circle cx="350" cy="350" r="46"/><circle cx="350" cy="350" r="66"/>
+  </g>
+  <text x="350" y="405" text-anchor="middle" font-size="12" fill="#c0392b">震波從震源向四周傳開，我們就感覺到搖晃</text>
+</svg>

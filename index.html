@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>黑熊老師自然科學繪本百科</title>
+<meta name="description" content="用故事、圖解與實驗，陪孩子看懂自然世界。國小三到六年級自然科學科普繪本百科。">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body class="home-page">
+
+<header class="hero">
+  <div class="mascots">🐻 🦊 🪲 💧 👾</div>
+  <h1>黑熊老師自然科學繪本百科</h1>
+  <p class="subtitle">用故事、圖解與實驗，陪孩子看懂自然世界。</p>
+  <div class="search-wrap">
+    <input id="searchInput" type="search" placeholder="🔍 搜尋主題、關鍵字（例如：昆蟲、熱、食物鏈、光合作用）">
+  </div>
+  <div id="searchResults" style="max-width:900px;margin:14px auto 0"></div>
+</header>
+
+<main class="home">
+
+  <!-- 依年級瀏覽 -->
+  <section class="block">
+    <h2>📚 依年級瀏覽</h2>
+    <div class="grid grades">
+      <a class="tile grade-tile" href="topics/grade-3/index.html">
+        <div class="g-num">3</div><div class="t-title">三年級</div><div class="t-sub">自然觀察入門</div></a>
+      <a class="tile grade-tile" href="topics/grade-4/index.html">
+        <div class="g-num">4</div><div class="t-title">四年級</div><div class="t-sub">生活現象解謎</div></a>
+      <a class="tile grade-tile" href="topics/grade-5/index.html">
+        <div class="g-num">5</div><div class="t-title">五年級</div><div class="t-sub">科學偵探與變因探究</div></a>
+      <a class="tile grade-tile" href="topics/grade-6/index.html">
+        <div class="g-num">6</div><div class="t-title">六年級</div><div class="t-sub">系統思考與國中銜接</div></a>
+    </div>
+  </section>
+
+  <!-- 依主題瀏覽 -->
+  <section class="block">
+    <h2>🧭 依主題瀏覽</h2>
+    <div class="grid cats">
+      <a class="tile" href="categories/plants-life/index.html"><div class="emoji">🌱</div><div class="t-title">植物與生命</div></a>
+      <a class="tile" href="categories/animals-insects/index.html"><div class="emoji">🐞</div><div class="t-title">動物與昆蟲</div></a>
+      <a class="tile" href="categories/air-water-weather/index.html"><div class="emoji">🌦️</div><div class="t-title">空氣、水與天氣</div></a>
+      <a class="tile" href="categories/sound-light-electricity/index.html"><div class="emoji">💡</div><div class="t-title">聲音、光與電</div></a>
+      <a class="tile" href="categories/force-motion-machines/index.html"><div class="emoji">⚙️</div><div class="t-title">力、運動與機械</div></a>
+      <a class="tile" href="categories/matter-heat-change/index.html"><div class="emoji">🔥</div><div class="t-title">物質、熱與變化</div></a>
+      <a class="tile" href="categories/earth-resources/index.html"><div class="emoji">🏔️</div><div class="t-title">地表、岩石與自然資源</div></a>
+      <a class="tile" href="categories/ecology-sustainability/index.html"><div class="emoji">🌍</div><div class="t-title">生態系與環境永續</div></a>
+      <a class="tile" href="categories/inquiry-methods/index.html"><div class="emoji">🔬</div><div class="t-title">科學方法與探究實驗</div></a>
+    </div>
+  </section>
+
+  <!-- 認識角色 -->
+  <section class="block">
+    <h2>🎭 認識我們的角色</h2>
+    <div class="grid chars">
+      <div class="char-card"><img src="assets/images/characters/bear.svg" alt="黑熊老師"><div class="c-name">🐻 黑熊老師</div><div class="c-role">解釋概念、破解迷思</div></div>
+      <div class="char-card"><img src="assets/images/characters/fox.svg" alt="小狐同學"><div class="c-name">🦊 小狐同學</div><div class="c-role">好奇愛問問題</div></div>
+      <div class="char-card"><img src="assets/images/characters/beetle.svg" alt="甲蟲博士"><div class="c-name">🪲 甲蟲博士</div><div class="c-role">補充科學冷知識</div></div>
+      <div class="char-card"><img src="assets/images/characters/drop.svg" alt="水滴小隊長"><div class="c-name">💧 水滴小隊長</div><div class="c-role">帶實驗、顧變因</div></div>
+      <div class="char-card"><img src="assets/images/characters/monster.svg" alt="迷思怪獸"><div class="c-name">👾 迷思怪獸</div><div class="c-role">說出常見迷思</div></div>
+    </div>
+  </section>
+
+  <!-- 今日科學問題 -->
+  <section class="block">
+    <h2>❓ 今日科學問題</h2>
+    <div class="callout">
+      <h3>今天，一起想想看：</h3>
+      <p id="dailyQuestion" style="font-size:19px;font-weight:600">載入中…</p>
+      <p style="color:var(--muted);margin-bottom:0">想不出來也沒關係！翻翻下面的推薦閱讀，答案就藏在故事裡。</p>
+    </div>
+  </section>
+
+  <!-- 推薦閱讀 -->
+  <section class="block">
+    <h2>⭐ 推薦閱讀</h2>
+    <div id="recommendList"><p class="result-empty">載入中…</p></div>
+  </section>
+
+  <!-- 教師使用說明 -->
+  <section class="block">
+    <h2>👩‍🏫 教師使用說明</h2>
+    <div class="note-box">
+      <ul style="margin:0;padding-left:1.2em">
+        <li>依<strong>年級</strong>找符合班級程度的文章；依<strong>主題分類</strong>做跨年級課程設計。</li>
+        <li>每篇文章都有 14 個固定區塊：繪本故事、角色對話、三層概念、圖解、小實驗、迷思破解、小測驗、教師補充與內容查核。</li>
+        <li>「給老師的教學補充」可摺疊展開，含教學目標、引導問題、差異化建議、評量與 <strong>Rubric</strong>。</li>
+        <li>「小實驗」皆為安全、低成本、可在教室或家中完成的活動，並清楚標示<strong>操縱／應變／控制三種變因</strong>。</li>
+        <li>標示「⚠️ 需要查證」的內容，請老師確認後再授課。</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 課程銜接說明 -->
+  <section class="block">
+    <h2>🔗 課程銜接說明</h2>
+    <div class="note-box">
+      <p style="margin-top:0">本百科以國小三到六年級的自然科學課程為主題庫，<strong>不照課本單元順序</strong>，改用百科主題方式重新整併，並為每篇標示可延伸到國中的概念：</p>
+      <ul style="margin:0;padding-left:1.2em">
+        <li><strong>三年級·自然觀察入門</strong>：觀察、分類、描述、生活經驗、簡單操作。</li>
+        <li><strong>四年級·生活現象解謎</strong>：找出自然現象背後的原因。</li>
+        <li><strong>五年級·科學偵探與變因探究</strong>：實驗設計、變因控制、證據解釋。</li>
+        <li><strong>六年級·系統思考與國中銜接</strong>：模型、系統、能量、交互作用與永續，直接銜接國中理化、生物、地球科學。</li>
+      </ul>
+      <p style="margin-bottom:0;color:var(--muted)">課程架構參考：115 學年度國小國中自然課程（康軒／翰林／南一）。</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>© 黑熊老師自然科學繪本百科｜用故事、圖解與實驗，陪孩子看懂自然世界。</p>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>

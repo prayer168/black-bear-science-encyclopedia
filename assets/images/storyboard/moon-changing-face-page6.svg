@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- moon calendar grid -->
+  <rect x="140" y="70" width="260" height="150" rx="8" fill="#fff" stroke="#c9b99a" stroke-width="2"/>
+  <text x="270" y="92" text-anchor="middle" font-size="13" font-weight="bold" fill="#6b4f3a">月相日曆</text>
+  <g>
+    <circle cx="175" cy="125" r="12" fill="#2a2f45"/>
+    <path d="M225 113 a12 12 0 0 1 0 24 z" fill="#e9e6d8"/><circle cx="225" cy="125" r="12" fill="none" stroke="#4a5578"/>
+    <circle cx="275" cy="125" r="12" fill="#f4e9b8"/>
+    <path d="M325 113 a12 12 0 0 0 0 24 z" fill="#e9e6d8"/><circle cx="325" cy="125" r="12" fill="none" stroke="#4a5578"/>
+    <circle cx="365" cy="125" r="12" fill="#2a2f45"/>
+    <path d="M175 170 a12 12 0 0 1 0 24 z" fill="#e9e6d8" opacity="0.6"/><circle cx="175" cy="182" r="12" fill="none" stroke="#4a5578"/>
+    <circle cx="225" cy="182" r="12" fill="#f4e9b8"/>
+    <path d="M275 170 a12 12 0 0 0 0 24 z" fill="#e9e6d8"/><circle cx="275" cy="182" r="12" fill="none" stroke="#4a5578"/>
+  </g>
+  <!-- fox + drop -->
+  <image href="../characters/fox.svg" x="40" y="120" width="76" height="76"/>
+  <image href="../characters/drop.svg" x="410" y="130" width="80" height="80"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：用一整個月，親眼看月亮圓了又缺。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「原來牠一直是圓的！」💧「每天同一時間記錄喔！」</text>
+</svg>

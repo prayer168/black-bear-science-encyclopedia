@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#eaf5ff"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">空氣看不見，但它占空間、有力量</text>
+  <!-- concept 1: air takes up space (cup pushed into water) -->
+  <text x="185" y="76" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">① 空氣占空間</text>
+  <rect x="70" y="150" width="230" height="180" rx="6" fill="#bfe0f7"/>
+  <rect x="70" y="150" width="230" height="20" fill="#9fd0ef"/>
+  <!-- inverted cup with trapped air -->
+  <rect x="150" y="120" width="70" height="120" rx="4" fill="#fff" stroke="#6b4f3a" stroke-width="3" opacity="0.9"/>
+  <rect x="153" y="180" width="64" height="57" fill="#eaf6ff"/>
+  <text x="185" y="165" text-anchor="middle" font-size="12" fill="#2f7fc1">空氣</text>
+  <text x="185" y="215" text-anchor="middle" font-size="11" fill="#6f6a63">水進不來</text>
+  <text x="185" y="355" text-anchor="middle" font-size="12" fill="#2f7fc1">杯裡有空氣，水擠不進去</text>
+
+  <!-- divider -->
+  <line x1="360" y1="60" x2="360" y2="380" stroke="#cdd9e3" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- concept 2: air has force (suction cup / balloon) -->
+  <text x="530" y="76" text-anchor="middle" font-size="15" font-weight="bold" fill="#e8743b">② 空氣有力量</text>
+  <!-- suction cup holding a hook on wall -->
+  <rect x="470" y="110" width="16" height="230" fill="#d9c6a8"/>
+  <ellipse cx="500" cy="200" rx="34" ry="26" fill="#f4b400" opacity="0.85"/>
+  <path d="M486 200 h28" stroke="#c98f00" stroke-width="2"/>
+  <rect x="530" y="192" width="10" height="16" rx="2" fill="#8a795c"/>
+  <circle cx="560" cy="230" r="18" fill="#c0392b"/>
+  <line x1="540" y1="200" x2="552" y2="216" stroke="#8a795c" stroke-width="3"/>
+  <text x="530" y="300" text-anchor="middle" font-size="12" fill="#e8743b">吸盤被大氣壓力</text>
+  <text x="530" y="320" text-anchor="middle" font-size="12" fill="#e8743b">緊緊壓在牆上</text>
+  <!-- big arrows showing air pressure -->
+  <defs><marker id="ap" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker></defs>
+  <line x1="600" y1="160" x2="540" y2="185" stroke="#e8743b" stroke-width="4" marker-end="url(#ap)"/>
+  <line x1="600" y1="250" x2="540" y2="220" stroke="#e8743b" stroke-width="4" marker-end="url(#ap)"/>
+  <text x="620" y="205" font-size="12" fill="#e8743b">空氣壓力</text>
+</svg>

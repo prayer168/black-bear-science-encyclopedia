@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">能量金字塔：愈上層能量愈少</text>
+
+  <defs><marker id="heat" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker></defs>
+
+  <!-- pyramid layers (bottom wide -> top narrow), centered at x=300 -->
+  <!-- L1 producer -->
+  <polygon points="80,350 520,350 470,285 130,285" fill="#5aa469"/>
+  <text x="300" y="330" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff">生產者（植物）🌱</text>
+  <!-- L2 -->
+  <polygon points="130,285 470,285 425,225 175,225" fill="#7bbf7a"/>
+  <text x="300" y="265" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">初級消費者（草食）🦗</text>
+  <!-- L3 -->
+  <polygon points="175,225 425,225 380,165 220,165" fill="#6fbf9a"/>
+  <text x="300" y="205" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">次級消費者（肉食）🐸</text>
+  <!-- L4 top -->
+  <polygon points="220,165 380,165 335,105 265,105" fill="#c9a35a"/>
+  <text x="300" y="145" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">頂級掠食者 🦅</text>
+
+  <!-- energy up arrow -->
+  <line x1="300" y1="345" x2="300" y2="115" stroke="#f4b400" stroke-width="3" stroke-dasharray="7 5"/>
+  <text x="315" y="240" font-size="12" fill="#c98f00" transform="rotate(-90 315 240)">能量向上流動</text>
+
+  <!-- heat loss arrows to the right -->
+  <g stroke="#e8743b" stroke-width="3">
+    <line x1="470" y1="315" x2="560" y2="315" marker-end="url(#heat)"/>
+    <line x1="425" y1="255" x2="560" y2="255" marker-end="url(#heat)"/>
+    <line x1="380" y1="195" x2="560" y2="195" marker-end="url(#heat)"/>
+  </g>
+  <text x="620" y="255" text-anchor="middle" font-size="13" fill="#e8743b" font-weight="bold">每層都<tspan x="620" dy="18">散失</tspan><tspan x="620" dy="18">一些熱</tspan></text>
+
+  <!-- side note -->
+  <text x="115" y="120" font-size="13" fill="#6b4f3a">頂層</text>
+  <text x="115" y="140" font-size="12" fill="#b5462a">能量少・數量少</text>
+  <text x="70" y="385" font-size="13" fill="#6b4f3a">底層：能量最多、生物數量最多，撐起整個系統</text>
+</svg>

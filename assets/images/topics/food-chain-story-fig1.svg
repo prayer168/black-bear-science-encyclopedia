@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#eef8ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#6b4f3a">能量的接力賽：箭頭＝能量流向</text>
+
+  <defs><marker id="e" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#e8743b"/></marker></defs>
+
+  <!-- sun -->
+  <circle cx="60" cy="120" r="30" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="3" stroke-linecap="round"><line x1="60" y1="80" x2="60" y2="68"/><line x1="20" y1="120" x2="8" y2="120"/><line x1="34" y1="90" x2="25" y2="81"/></g>
+  <text x="60" y="125" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">太陽</text>
+
+  <!-- chain nodes -->
+  <g text-anchor="middle">
+    <!-- grass -->
+    <circle cx="170" cy="150" r="34" fill="#5aa469"/><text x="170" y="158" font-size="26">🌱</text>
+    <text x="170" y="205" font-size="15" font-weight="bold" fill="#2d2a26">草</text>
+    <text x="170" y="224" font-size="11" fill="#3f7d4f">生產者</text>
+    <!-- grasshopper -->
+    <circle cx="310" cy="150" r="34" fill="#9ec96f"/><text x="310" y="158" font-size="26">🦗</text>
+    <text x="310" y="205" font-size="15" font-weight="bold" fill="#2d2a26">蚱蜢</text>
+    <text x="310" y="224" font-size="11" fill="#6f6a63">初級消費者</text>
+    <!-- frog -->
+    <circle cx="450" cy="150" r="34" fill="#6fbf9a"/><text x="450" y="158" font-size="26">🐸</text>
+    <text x="450" y="205" font-size="15" font-weight="bold" fill="#2d2a26">青蛙</text>
+    <text x="450" y="224" font-size="11" fill="#6f6a63">次級消費者</text>
+    <!-- snake -->
+    <circle cx="600" cy="150" r="34" fill="#c9a35a"/><text x="600" y="158" font-size="26">🐍</text>
+    <text x="600" y="205" font-size="15" font-weight="bold" fill="#2d2a26">蛇</text>
+    <text x="600" y="224" font-size="11" fill="#6f6a63">三級消費者</text>
+  </g>
+
+  <!-- energy arrows (prey -> predator) -->
+  <g stroke="#e8743b" stroke-width="4">
+    <line x1="92" y1="135" x2="132" y2="148" marker-end="url(#e)"/>
+    <line x1="208" y1="150" x2="272" y2="150" marker-end="url(#e)"/>
+    <line x1="348" y1="150" x2="412" y2="150" marker-end="url(#e)"/>
+    <line x1="488" y1="150" x2="562" y2="150" marker-end="url(#e)"/>
+  </g>
+  <text x="240" y="128" text-anchor="middle" font-size="11" fill="#e8743b">能量</text>
+  <text x="380" y="128" text-anchor="middle" font-size="11" fill="#e8743b">能量</text>
+  <text x="525" y="128" text-anchor="middle" font-size="11" fill="#e8743b">能量</text>
+
+  <!-- decomposer cycle -->
+  <defs><marker id="dc" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#8a5a3a"/></marker></defs>
+  <g text-anchor="middle">
+    <circle cx="450" cy="320" r="30" fill="#b98a5a"/><text x="450" y="330" font-size="24">🍄</text>
+    <text x="450" y="372" font-size="13" font-weight="bold" fill="#8a5a3a">分解者</text>
+    <text x="450" y="390" font-size="11" fill="#6f6a63">細菌・真菌</text>
+  </g>
+  <!-- dead organisms into decomposer, nutrients back to grass -->
+  <path d="M590 185 q-40 90 -110 120" fill="none" stroke="#8a5a3a" stroke-width="2.5" stroke-dasharray="6 4" marker-end="url(#dc)"/>
+  <text x="560" y="300" font-size="11" fill="#8a5a3a">遺體</text>
+  <path d="M420 322 C300 340 180 300 172 190" fill="none" stroke="#8a5a3a" stroke-width="2.5" stroke-dasharray="6 4" marker-end="url(#dc)"/>
+  <text x="230" y="330" font-size="11" fill="#8a5a3a">養分回到土壤，草再利用（物質循環）</text>
+
+  <text x="350" y="412" text-anchor="middle" font-size="12" fill="#6b4f3a">實線＝能量流（被吃→吃它）　虛線＝分解者讓養分循環</text>
+</svg>

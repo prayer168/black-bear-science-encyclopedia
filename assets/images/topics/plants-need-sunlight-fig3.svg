@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#eaf5ff"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">草地上的黃色印子</text>
+  <!-- sun -->
+  <circle cx="620" cy="70" r="30" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="4" stroke-linecap="round"><line x1="620" y1="24" x2="620" y2="10"/><line x1="666" y1="70" x2="680" y2="70"/><line x1="654" y1="36" x2="664" y2="26"/><line x1="654" y1="104" x2="664" y2="114"/></g>
+  <!-- grass field -->
+  <rect x="0" y="250" width="700" height="170" fill="#5aa469"/>
+  <g stroke="#3f7d4f" stroke-width="2" stroke-linecap="round">
+    <line x1="40" y1="250" x2="36" y2="235"/><line x1="80" y1="250" x2="84" y2="234"/><line x1="120" y1="250" x2="116" y2="236"/>
+    <line x1="470" y1="250" x2="466" y2="235"/><line x1="520" y1="250" x2="524" y2="233"/><line x1="600" y1="250" x2="596" y2="236"/><line x1="660" y1="250" x2="664" y2="234"/>
+  </g>
+  <!-- yellow circular patch -->
+  <ellipse cx="250" cy="320" rx="95" ry="42" fill="#d9cf7a"/>
+  <ellipse cx="250" cy="320" rx="95" ry="42" fill="none" stroke="#b7ab55" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="250" y="325" text-anchor="middle" font-size="14" font-weight="bold" fill="#7d7333">被蓋住 → 曬不到太陽 → 變黃</text>
+  <!-- moved bucket -->
+  <path d="M430 300 L520 300 L508 372 L442 372 Z" fill="#c0392b" opacity="0.85"/>
+  <ellipse cx="475" cy="300" rx="45" ry="10" fill="#e05545"/>
+  <path d="M436 304 q39 -26 78 0" fill="none" stroke="#8f2519" stroke-width="3"/>
+  <text x="475" y="345" text-anchor="middle" font-size="13" fill="#fff">剛移開的水桶</text>
+  <!-- arrow bucket-to-patch -->
+  <defs><marker id="a3" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#6b4f3a"/></marker></defs>
+  <path d="M430 330 q-45 5 -80 0" fill="none" stroke="#6b4f3a" stroke-width="3" stroke-dasharray="6 4" marker-end="url(#a3)"/>
+  <text x="120" y="405" font-size="14" fill="#3f7d4f">再曬幾天陽光，黃草會慢慢變回綠色！</text>
+</svg>

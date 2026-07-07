@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">觀察 vs 推論：看到的 ≠ 想到的</text>
+  <!-- observation side -->
+  <rect x="40" y="70" width="290" height="300" rx="14" fill="#eef8ee" stroke="#5aa469" stroke-width="2.5"/>
+  <text x="185" y="100" text-anchor="middle" font-size="16" font-weight="bold" fill="#5aa469">👁️ 觀察（看到的事實）</text>
+  <text x="185" y="150" font-size="24" text-anchor="middle">🌿💧</text>
+  <text x="60" y="185" font-size="13" fill="#2d2a26">・葉子上有一顆顆小水珠</text>
+  <text x="60" y="215" font-size="13" fill="#2d2a26">・地面是濕的</text>
+  <text x="60" y="245" font-size="13" fill="#2d2a26">・天空有雲</text>
+  <text x="185" y="330" text-anchor="middle" font-size="12" fill="#3f7d4f">用五官直接得到、大家都會同意</text>
+
+  <!-- inference side -->
+  <rect x="370" y="70" width="290" height="300" rx="14" fill="#f0e8fa" stroke="#8a56c2" stroke-width="2.5"/>
+  <text x="515" y="100" text-anchor="middle" font-size="16" font-weight="bold" fill="#8a56c2">🤔 推論（想到的原因）</text>
+  <text x="515" y="150" font-size="24" text-anchor="middle">💭</text>
+  <text x="390" y="185" font-size="13" fill="#2d2a26">・「可能昨晚下過雨」</text>
+  <text x="390" y="215" font-size="13" fill="#2d2a26">・「也許是清晨的露水」</text>
+  <text x="390" y="245" font-size="13" fill="#2d2a26">・「說不定有人澆過水」</text>
+  <text x="515" y="330" text-anchor="middle" font-size="12" fill="#6f3fb0">根據觀察去猜原因、需要證據驗證</text>
+
+  <text x="350" y="400" text-anchor="middle" font-size="13" fill="#c0392b">好的小觀察家：先分清楚「我看到什麼」和「我猜是為什麼」</text>
+</svg>

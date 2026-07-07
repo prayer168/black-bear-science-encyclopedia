@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <rect x="0" y="230" width="520" height="30" fill="#c9a36a" opacity="0.4"/>
+  <!-- beetle observing closely with magnifier -->
+  <image href="../characters/beetle.svg" x="60" y="120" width="86" height="86"/>
+  <circle cx="230" cy="180" r="40" fill="none" stroke="#6b4f3a" stroke-width="6"/>
+  <line x1="258" y1="208" x2="285" y2="235" stroke="#6b4f3a" stroke-width="9" stroke-linecap="round"/>
+  <!-- detailed leaf -->
+  <path d="M200 180 q30 -22 62 0 q-30 22 -62 0 z" fill="#5aa469"/>
+  <path d="M200 180 h62 M231 168 l-8 -10 M231 192 l-8 10" stroke="#3f7d4f" stroke-width="1.5"/>
+  <!-- detail callouts -->
+  <text x="360" y="120" font-size="11" fill="#2d2a26">・五條葉脈</text>
+  <text x="360" y="145" font-size="11" fill="#2d2a26">・鋸齒邊緣</text>
+  <text x="360" y="170" font-size="11" fill="#2d2a26">・有絨毛</text>
+  <text x="360" y="195" font-size="11" fill="#2d2a26">・被蟲咬的小洞</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：博士看了好久，說了好多細節。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🪲「五條葉脈、鋸齒邊、有絨毛、被蟲咬過……」（仔細觀察）</text>
+</svg>

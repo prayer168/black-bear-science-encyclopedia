@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <text x="260" y="34" text-anchor="middle" font-size="15" font-weight="bold" fill="#6b4f3a">葉子小廚房大揭密</text>
+  <!-- leaf diagram (simplified fig1) -->
+  <ellipse cx="260" cy="150" rx="95" ry="66" fill="#5aa469" stroke="#3f7d4f" stroke-width="3"/>
+  <text x="260" y="145" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">🍳 葉子</text>
+  <text x="260" y="168" text-anchor="middle" font-size="11" fill="#eafaf0">陽光做養分</text>
+  <!-- sun -->
+  <circle cx="120" cy="80" r="20" fill="#f4b400"/><g stroke="#f4b400" stroke-width="3" stroke-linecap="round"><line x1="120" y1="54" x2="120" y2="46"/><line x1="94" y1="80" x2="86" y2="80"/></g>
+  <defs>
+    <marker id="in" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2f7fc1"/></marker>
+    <marker id="sun" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#f4b400"/></marker>
+    <marker id="out" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker>
+  </defs>
+  <line x1="138" y1="95" x2="180" y2="128" stroke="#f4b400" stroke-width="4" marker-end="url(#sun)"/><text x="120" y="118" font-size="11" fill="#c98f00">陽光</text>
+  <line x1="150" y1="200" x2="185" y2="172" stroke="#2f7fc1" stroke-width="4" marker-end="url(#in)"/><text x="105" y="210" font-size="11" fill="#2f7fc1">水・二氧化碳</text>
+  <line x1="338" y1="150" x2="378" y2="150" stroke="#e8743b" stroke-width="4" marker-end="url(#out)"/><text x="384" y="140" font-size="11" fill="#e8743b">氧氣</text>
+  <line x1="330" y1="180" x2="368" y2="205" stroke="#e8743b" stroke-width="4" marker-end="url(#out)"/><text x="372" y="220" font-size="11" fill="#e8743b">養分</text>
+  <!-- bear + beetle -->
+  <image href="../characters/bear.svg" x="10" y="150" width="80" height="80"/>
+  <image href="../characters/beetle.svg" x="430" y="150" width="76" height="76"/>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第5頁：黑熊老師掀開葉子的祕密，甲蟲博士在旁補充。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「葉子用陽光把水和空氣做成養分！」🪲「綠色的葉綠素負責抓陽光！」</text>
+</svg>

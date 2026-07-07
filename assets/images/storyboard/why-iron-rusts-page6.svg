@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fffdf9"/>
+  <!-- clean bike -->
+  <circle cx="200" cy="200" r="46" fill="none" stroke="#c0392b" stroke-width="6"/>
+  <circle cx="330" cy="200" r="46" fill="none" stroke="#c0392b" stroke-width="6"/>
+  <path d="M200 200 L265 145 L330 200 M265 145 L292 145" stroke="#c0392b" stroke-width="5" fill="none"/>
+  <path d="M200 200 Q265 245 330 200" stroke="#c0ccd6" stroke-width="6" fill="none"/>
+  <text x="265" y="120" text-anchor="middle" font-size="14">✨</text>
+  <!-- oil can -->
+  <text x="145" y="150" font-size="16">🛢️</text>
+  <!-- fox + drop -->
+  <image href="../characters/fox.svg" x="380" y="80" width="76" height="76"/>
+  <image href="../characters/drop.svg" x="410" y="180" width="76" height="76"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：懂了原理，就能好好保護它。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「以後淋雨一定擦乾上油！」💧「擋住水和氧氣就對了！」</text>
+</svg>

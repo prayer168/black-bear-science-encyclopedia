@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">支點靠近重物 → 比較省力</text>
+  <line x1="350" y1="55" x2="350" y2="330" stroke="#e7ddcd" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- LEFT: fulcrum near load = 省力 -->
+  <text x="175" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">省力（支點靠近重物）</text>
+  <path d="M215 220 L245 220 L230 190 Z" fill="#6b4f3a"/>
+  <rect x="90" y="196" width="240" height="10" rx="3" fill="#c9a35a"/>
+  <rect x="95" y="168" width="40" height="30" rx="4" fill="#8a8f96"/><text x="115" y="188" text-anchor="middle" font-size="10" fill="#fff">重物</text>
+  <defs>
+    <marker id="s1" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#2f7fc1"/></marker>
+  </defs>
+  <line x1="315" y1="170" x2="315" y2="196" stroke="#2f7fc1" stroke-width="3" marker-end="url(#s1)"/>
+  <text x="315" y="162" text-anchor="middle" font-size="10" fill="#2f7fc1">小力</text>
+  <text x="115" y="235" text-anchor="middle" font-size="11" fill="#6f6a63">力臂短</text>
+  <text x="290" y="235" text-anchor="middle" font-size="11" fill="#6f6a63">施力臂長</text>
+  <text x="175" y="270" text-anchor="middle" font-size="13" fill="#5aa469" font-weight="bold">用較小的力就抬得動 ✔</text>
+
+  <!-- RIGHT: fulcrum near effort = 費力 -->
+  <text x="525" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#b5462a">費力（支點靠近施力）</text>
+  <path d="M545 220 L575 220 L560 190 Z" fill="#6b4f3a"/>
+  <rect x="420" y="196" width="240" height="10" rx="3" fill="#c9a35a"/>
+  <rect x="425" y="168" width="40" height="30" rx="4" fill="#8a8f96"/><text x="445" y="188" text-anchor="middle" font-size="10" fill="#fff">重物</text>
+  <line x1="620" y1="160" x2="620" y2="196" stroke="#c0392b" stroke-width="5" marker-end="url(#s1)"/>
+  <text x="620" y="152" text-anchor="middle" font-size="10" fill="#c0392b">大力</text>
+  <text x="525" y="270" text-anchor="middle" font-size="13" fill="#b5462a" font-weight="bold">要用更大的力才抬得動 ✘</text>
+
+  <text x="350" y="352" text-anchor="middle" font-size="13" fill="#6b4f3a">省力是用「較小的力換較長的移動距離」，天下沒有白吃的午餐！</text>
+</svg>

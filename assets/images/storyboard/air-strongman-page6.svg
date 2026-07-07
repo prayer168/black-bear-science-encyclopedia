@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- basin + inverted cup + dry paper wad held up -->
+  <rect x="140" y="170" width="200" height="90" rx="10" fill="#bfe0f7" stroke="#2f7fc1" stroke-width="3"/>
+  <!-- dry paper wad in hand -->
+  <circle cx="250" cy="120" r="18" fill="#f4e3b8" stroke="#d8b96a" stroke-width="2"/>
+  <text x="250" y="124" text-anchor="middle" font-size="10" fill="#8a6a2a">乾紙團</text>
+  <text x="250" y="95" text-anchor="middle" font-size="12" fill="#5aa469" font-weight="bold">居然是乾的！</text>
+  <!-- fox surprised + drop -->
+  <image href="../characters/fox.svg" x="60" y="150" width="80" height="80"/>
+  <text x="120" y="150" font-size="16">✨</text>
+  <image href="../characters/drop.svg" x="360" y="150" width="80" height="80"/>
+  <text x="400" y="145" font-size="14">👍</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：用實驗，看見了看不見的空氣。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「紙團居然是乾的！」💧「空氣真的是大力士！」</text>
+</svg>

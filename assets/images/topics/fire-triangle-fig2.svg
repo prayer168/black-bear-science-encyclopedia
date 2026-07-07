@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">滅火：拿掉三要素中的任何一個</text>
+  <g>
+    <!-- 隔絕氧氣 -->
+    <rect x="40" y="70" width="200" height="200" rx="12" fill="#fff" stroke="#2f7fc1" stroke-width="2.5"/>
+    <text x="140" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">① 隔絕氧氣</text>
+    <text x="140" y="150" text-anchor="middle" font-size="30">🫙</text>
+    <text x="140" y="195" text-anchor="middle" font-size="12" fill="#2d2a26">蓋鍋蓋、蓋濕布</text>
+    <text x="140" y="218" text-anchor="middle" font-size="12" fill="#2d2a26">沙土覆蓋、CO₂滅火器</text>
+    <text x="140" y="248" text-anchor="middle" font-size="11" fill="#6f6a63">沒有氧氣就燒不下去</text>
+
+    <!-- 降低溫度 -->
+    <rect x="250" y="70" width="200" height="200" rx="12" fill="#fff" stroke="#5aa469" stroke-width="2.5"/>
+    <text x="350" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">② 降低溫度</text>
+    <text x="350" y="150" text-anchor="middle" font-size="30">💧</text>
+    <text x="350" y="195" text-anchor="middle" font-size="12" fill="#2d2a26">澆水降溫</text>
+    <text x="350" y="218" text-anchor="middle" font-size="12" fill="#2d2a26">（一般固體火適用）</text>
+    <text x="350" y="248" text-anchor="middle" font-size="11" fill="#6f6a63">溫度降到燃點以下就熄</text>
+
+    <!-- 移除可燃物 -->
+    <rect x="460" y="70" width="200" height="200" rx="12" fill="#fff" stroke="#e8743b" stroke-width="2.5"/>
+    <text x="560" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#e8743b">③ 移除可燃物</text>
+    <text x="560" y="150" text-anchor="middle" font-size="30">🚫🪵</text>
+    <text x="560" y="195" text-anchor="middle" font-size="12" fill="#2d2a26">關瓦斯、移開易燃物</text>
+    <text x="560" y="218" text-anchor="middle" font-size="12" fill="#2d2a26">開闢防火線</text>
+    <text x="560" y="248" text-anchor="middle" font-size="11" fill="#6f6a63">沒有東西可燒就熄</text>
+  </g>
+  <rect x="120" y="300" width="460" height="70" rx="10" fill="#fff0ee" stroke="#f3c9c0" stroke-width="2"/>
+  <text x="350" y="328" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">⚠️ 油鍋起火千萬不能澆水！</text>
+  <text x="350" y="352" text-anchor="middle" font-size="12" fill="#2d2a26">水會讓熱油濺開、火更大；要用鍋蓋悶熄（隔絕氧氣）</text>
+</svg>

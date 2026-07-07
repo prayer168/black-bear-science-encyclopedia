@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf1e8"/>
+  <!-- cup -->
+  <path d="M150 230 L290 230 L276 150 L164 150 Z" fill="#7a4a2a"/><ellipse cx="220" cy="150" rx="56" ry="10" fill="#8a5a34"/>
+  <!-- metal spoon with heat gradient rising -->
+  <defs><linearGradient id="hs" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#c0392b"/><stop offset="1" stop-color="#f4c542"/></linearGradient></defs>
+  <rect x="216" y="70" width="9" height="90" rx="3" fill="url(#hs)"/>
+  <!-- heat waves near handle top -->
+  <path d="M212 78 q-6 -8 0 -14 M228 78 q6 -8 0 -14" stroke="#c0392b" stroke-width="2" fill="none"/>
+  <text x="255" y="95" font-size="12" fill="#c0392b" font-weight="bold">燙！</text>
+  <!-- fox pulling hand back -->
+  <image href="../characters/fox.svg" x="300" y="120" width="82" height="82"/>
+  <text x="342" y="115" text-anchor="middle" font-size="16">😖</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：小狐同學握金屬湯匙柄，被燙到縮手。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「柄又沒泡到可可，怎麼會燙？」（紅色漸層從可可端往柄端延伸＝傳導）</text>
+</svg>

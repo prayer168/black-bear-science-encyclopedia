@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">影子的方向和長短會變</text>
+  <line x1="350" y1="55" x2="350" y2="330" stroke="#e7ddcd" stroke-width="2" stroke-dasharray="6 6"/>
+  <!-- morning: low sun, long shadow -->
+  <text x="175" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#e8743b">太陽低（早晚）→ 影子長</text>
+  <circle cx="70" cy="150" r="20" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="2" stroke-linecap="round"><line x1="70" y1="126" x2="70" y2="118"/><line x1="46" y1="150" x2="38" y2="150"/></g>
+  <rect x="180" y="180" width="16" height="70" fill="#6b4f3a"/>
+  <rect x="0" y="250" width="330" height="14" fill="#5aa469"/>
+  <polygon points="196,250 300,250 300,258 196,258" fill="#3a4a3a" opacity="0.6"/>
+  <text x="250" y="285" text-anchor="middle" font-size="12" fill="#2d2a26">影子又長又斜</text>
+
+  <!-- noon: high sun, short shadow -->
+  <text x="525" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#c98f00">太陽高（中午）→ 影子短</text>
+  <circle cx="525" cy="115" r="20" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="2" stroke-linecap="round"><line x1="525" y1="91" x2="525" y2="83"/><line x1="549" y1="115" x2="557" y2="115"/></g>
+  <rect x="518" y="180" width="16" height="70" fill="#6b4f3a"/>
+  <rect x="370" y="250" width="330" height="14" fill="#5aa469"/>
+  <polygon points="534,250 560,250 560,258 534,258" fill="#3a4a3a" opacity="0.6"/>
+  <text x="525" y="285" text-anchor="middle" font-size="12" fill="#2d2a26">影子又短又直</text>
+
+  <text x="350" y="320" text-anchor="middle" font-size="13" fill="#c0392b">影子在光源的「另一邊」；光源方向與高度改變，影子就改變</text>
+  <text x="350" y="348" text-anchor="middle" font-size="12" fill="#3f7d4f">所以一天當中，影子的方向和長短會隨太陽移動而變化</text>
+</svg>

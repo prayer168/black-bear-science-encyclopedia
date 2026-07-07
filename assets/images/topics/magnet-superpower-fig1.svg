@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">磁鐵吸什麼？不吸什麼？</text>
+  <!-- magnet in center -->
+  <g>
+    <rect x="315" y="150" width="30" height="70" fill="#c0392b"/>
+    <rect x="345" y="150" width="30" height="70" fill="#2f7fc1"/>
+    <text x="330" y="240" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">N</text>
+    <text x="360" y="240" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">S</text>
+    <text x="345" y="140" text-anchor="middle" font-size="12" fill="#6b4f3a">磁鐵</text>
+  </g>
+  <!-- attracted (left, green) -->
+  <rect x="40" y="90" width="220" height="200" rx="12" fill="#eef8ee" stroke="#5aa469" stroke-width="2.5"/>
+  <text x="150" y="118" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">✔ 吸得住（含鐵的東西）</text>
+  <g font-size="12" fill="#2d2a26" text-anchor="middle">
+    <text x="90" y="160" font-size="24">🔩</text><text x="90" y="185">鐵釘</text>
+    <text x="150" y="160" font-size="24">📎</text><text x="150" y="185">迴紋針</text>
+    <text x="210" y="160" font-size="24">🔑</text><text x="210" y="185">鐵鑰匙</text>
+  </g>
+  <text x="150" y="245" text-anchor="middle" font-size="12" fill="#3f7d4f">鐵、鋼等「含鐵」的金屬</text>
+  <!-- not attracted (right, red) -->
+  <rect x="440" y="90" width="220" height="200" rx="12" fill="#fbeaea" stroke="#c0392b" stroke-width="2.5"/>
+  <text x="550" y="118" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">✘ 吸不住</text>
+  <g font-size="12" fill="#2d2a26" text-anchor="middle">
+    <text x="490" y="160" font-size="22">🥤</text><text x="490" y="185">塑膠</text>
+    <text x="550" y="160" font-size="22">🪵</text><text x="550" y="185">木頭</text>
+    <text x="610" y="160" font-size="22">🥫</text><text x="610" y="185">鋁・銅</text>
+  </g>
+  <text x="550" y="245" text-anchor="middle" font-size="12" fill="#8a2030">塑膠、木頭、紙、銅、鋁、玻璃</text>
+  <text x="350" y="330" text-anchor="middle" font-size="13" fill="#c0392b">注意：不是所有金屬都被吸！銅和鋁就吸不住</text>
+</svg>

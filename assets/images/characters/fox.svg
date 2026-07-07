@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="60" fill="#fdece2"/>
+  <!-- ears -->
+  <path d="M28 44 L34 12 L54 34 Z" fill="#e8743b"/><path d="M92 44 L86 12 L66 34 Z" fill="#e8743b"/>
+  <path d="M33 34 L36 20 L46 32 Z" fill="#2d2a26"/><path d="M87 34 L84 20 L74 32 Z" fill="#2d2a26"/>
+  <!-- head -->
+  <path d="M26 52 Q60 30 94 52 Q92 84 60 100 Q28 84 26 52 Z" fill="#e8743b"/>
+  <!-- white cheeks/muzzle -->
+  <path d="M42 66 Q60 58 78 66 Q74 92 60 98 Q46 92 42 66 Z" fill="#fff6f0"/>
+  <!-- eyes -->
+  <circle cx="47" cy="60" r="5.5" fill="#2d2a26"/><circle cx="73" cy="60" r="5.5" fill="#2d2a26"/>
+  <circle cx="49" cy="58" r="1.8" fill="#fff"/><circle cx="75" cy="58" r="1.8" fill="#fff"/>
+  <!-- curious raised brows -->
+  <path d="M40 50 q7 -4 14 -1 M66 49 q7 -3 14 1" stroke="#c85a24" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- nose + mouth (open, curious) -->
+  <path d="M60 74 l-5 -6 h10 Z" fill="#2d2a26"/>
+  <path d="M60 74 v5 M60 79 q-5 5 -10 2 M60 79 q5 5 10 2" stroke="#8a4a2a" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

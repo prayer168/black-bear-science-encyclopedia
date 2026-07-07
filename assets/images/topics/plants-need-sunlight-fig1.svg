@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">葉子小廚房：陽光做出養分</text>
+
+  <!-- sun -->
+  <circle cx="90" cy="95" r="34" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="4" stroke-linecap="round">
+    <line x1="90" y1="40" x2="90" y2="22"/><line x1="90" y1="150" x2="90" y2="168"/>
+    <line x1="35" y1="95" x2="17" y2="95"/><line x1="145" y1="95" x2="163" y2="95"/>
+    <line x1="52" y1="57" x2="39" y2="44"/><line x1="128" y1="57" x2="141" y2="44"/>
+    <line x1="52" y1="133" x2="39" y2="146"/><line x1="128" y1="133" x2="141" y2="146"/>
+  </g>
+
+  <!-- leaf as kitchen -->
+  <ellipse cx="360" cy="215" rx="150" ry="105" fill="#5aa469"/>
+  <ellipse cx="360" cy="215" rx="150" ry="105" fill="none" stroke="#3f7d4f" stroke-width="3"/>
+  <path d="M360 120 L360 310 M360 215 L280 165 M360 215 L440 165 M360 250 L295 285 M360 250 L425 285" stroke="#3f7d4f" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <text x="360" y="150" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">綠色的葉子</text>
+  <text x="360" y="235" text-anchor="middle" font-size="17" font-weight="bold" fill="#fff">🍳 小廚房</text>
+  <text x="360" y="262" text-anchor="middle" font-size="13" fill="#eafaf0">（葉綠體在這裡工作）</text>
+
+  <!-- arrow markers -->
+  <defs>
+    <marker id="pin" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2f7fc1"/></marker>
+    <marker id="pout" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker>
+    <marker id="psun" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#f4b400"/></marker>
+  </defs>
+
+  <!-- inputs (left) -->
+  <line x1="118" y1="110" x2="215" y2="180" stroke="#f4b400" stroke-width="5" marker-end="url(#psun)"/>
+  <text x="120" y="150" font-size="15" font-weight="bold" fill="#c98f00">陽光</text>
+
+  <line x1="120" y1="330" x2="215" y2="255" stroke="#2f7fc1" stroke-width="5" marker-end="url(#pin)"/>
+  <text x="60" y="345" font-size="15" font-weight="bold" fill="#2f7fc1">水（根吸收）</text>
+
+  <line x1="120" y1="240" x2="210" y2="225" stroke="#2f7fc1" stroke-width="5" marker-end="url(#pin)"/>
+  <text x="30" y="235" font-size="15" font-weight="bold" fill="#2f7fc1">二氧化碳</text>
+  <text x="30" y="215" font-size="12" fill="#6f6a63">（空氣中）</text>
+
+  <!-- outputs (right) -->
+  <line x1="505" y1="185" x2="600" y2="140" stroke="#e8743b" stroke-width="5" marker-end="url(#pout)"/>
+  <text x="565" y="130" font-size="15" font-weight="bold" fill="#e8743b">氧氣</text>
+
+  <line x1="505" y1="250" x2="600" y2="300" stroke="#e8743b" stroke-width="5" marker-end="url(#pout)"/>
+  <text x="545" y="325" font-size="15" font-weight="bold" fill="#e8743b">養分（葡萄糖）</text>
+
+  <!-- legend -->
+  <rect x="180" y="372" width="16" height="16" fill="#2f7fc1"/><text x="202" y="385" font-size="13" fill="#2d2a26">原料進入</text>
+  <rect x="300" y="372" width="16" height="16" fill="#e8743b"/><text x="322" y="385" font-size="13" fill="#2d2a26">產物送出</text>
+  <rect x="420" y="372" width="16" height="16" fill="#f4b400"/><text x="442" y="385" font-size="13" fill="#2d2a26">陽光（能量）</text>
+</svg>

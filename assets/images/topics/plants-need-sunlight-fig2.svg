@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">同樣澆水，差別只在陽光</text>
+
+  <!-- divider -->
+  <line x1="350" y1="60" x2="350" y2="400" stroke="#e7ddcd" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- LEFT: sunlight group -->
+  <text x="175" y="80" text-anchor="middle" font-size="17" font-weight="bold" fill="#5aa469">☀️ 陽光組</text>
+  <!-- sun -->
+  <circle cx="70" cy="110" r="22" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="3" stroke-linecap="round">
+    <line x1="70" y1="78" x2="70" y2="66"/><line x1="38" y1="110" x2="26" y2="110"/><line x1="48" y1="88" x2="39" y2="79"/>
+  </g>
+  <!-- pot -->
+  <path d="M135 355 L215 355 L205 400 L145 400 Z" fill="#c98a5a"/>
+  <rect x="130" y="345" width="90" height="14" rx="3" fill="#a86f3f"/>
+  <!-- healthy sprout: straight, green -->
+  <path d="M175 345 L175 150" stroke="#5aa469" stroke-width="7" fill="none"/>
+  <path d="M175 200 q-45 -20 -60 -55 q40 5 60 40" fill="#5aa469"/>
+  <path d="M175 175 q45 -20 60 -55 q-40 5 -60 40" fill="#5aa469"/>
+  <path d="M175 150 q-30 -25 -12 -55 q28 18 12 55" fill="#5aa469"/>
+  <text x="175" y="425" text-anchor="middle" font-size="13" fill="#3f7d4f" font-weight="bold">翠綠、莖挺直</text>
+  <!-- water drop -->
+  <path d="M270 150 q10 14 0 22 q-10 -8 0 -22" fill="#2f7fc1"/>
+  <text x="255" y="192" font-size="12" fill="#2f7fc1">水一樣多</text>
+
+  <!-- RIGHT: dark group -->
+  <text x="525" y="80" text-anchor="middle" font-size="17" font-weight="bold" fill="#8a795c">📦 遮光組</text>
+  <!-- box -->
+  <path d="M430 120 L620 120 L620 300 L430 300 Z" fill="#d8c6a8" opacity="0.55"/>
+  <rect x="425" y="112" width="200" height="16" fill="#b79a6d"/>
+  <text x="525" y="138" text-anchor="middle" font-size="12" fill="#6b4f3a">紙盒罩住（有通氣孔）</text>
+  <circle cx="470" cy="120" r="3" fill="#6b4f3a"/><circle cx="580" cy="120" r="3" fill="#6b4f3a"/>
+  <!-- pot -->
+  <path d="M485 355 L565 355 L555 400 L495 400 Z" fill="#c98a5a"/>
+  <rect x="480" y="345" width="90" height="14" rx="3" fill="#a86f3f"/>
+  <!-- weak sprout: thin, yellow, bending -->
+  <path d="M525 345 Q505 260 470 200" stroke="#c9b24a" stroke-width="4" fill="none"/>
+  <path d="M500 250 q-25 -6 -35 -22 q22 -2 35 12" fill="#cbbf6a"/>
+  <path d="M480 210 q-18 -8 -24 -20 q16 0 24 10" fill="#cbbf6a"/>
+  <text x="525" y="425" text-anchor="middle" font-size="13" fill="#8a795c" font-weight="bold">泛黃、細長彎曲</text>
+  <!-- water drop -->
+  <path d="M600 340 q10 14 0 22 q-10 -8 0 -22" fill="#2f7fc1"/>
+  <text x="565" y="382" font-size="12" fill="#2f7fc1">水一樣多</text>
+</svg>

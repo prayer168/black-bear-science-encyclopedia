@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">導體讓電通過，絕緣體擋住電</text>
+  <!-- test circuit with a gap to insert material -->
+  <rect x="120" y="90" width="460" height="150" rx="12" fill="none" stroke="#c0392b" stroke-width="5"/>
+  <rect x="320" y="225" width="80" height="30" rx="3" fill="#f4b400" stroke="#c98f00" stroke-width="2"/>
+  <text x="360" y="246" text-anchor="middle" font-size="12" fill="#6b4f3a">電池</text>
+  <circle cx="350" cy="90" r="26" fill="#fff2b0" stroke="#c98f00" stroke-width="3"/>
+  <text x="350" y="150" text-anchor="middle" font-size="12" fill="#c98f00">燈泡</text>
+  <!-- gap with clips -->
+  <circle cx="180" cy="200" r="6" fill="#6b4f3a"/><circle cx="280" cy="200" r="6" fill="#6b4f3a"/>
+  <text x="230" y="180" text-anchor="middle" font-size="12" fill="#6b4f3a">夾入待測物</text>
+  <!-- conductor sample -->
+  <rect x="188" y="270" width="84" height="24" rx="3" fill="#9aa4ad"/>
+  <text x="230" y="287" text-anchor="middle" font-size="12" fill="#fff">鐵釘・銅線</text>
+  <text x="230" y="312" text-anchor="middle" font-size="13" fill="#5aa469" font-weight="bold">導體 → 燈亮 ✔</text>
+  <!-- insulator sample -->
+  <rect x="430" y="270" width="84" height="24" rx="3" fill="#b98a5a"/>
+  <text x="472" y="287" text-anchor="middle" font-size="12" fill="#fff">橡皮・塑膠・木</text>
+  <text x="472" y="312" text-anchor="middle" font-size="13" fill="#b5462a" font-weight="bold">絕緣體 → 燈不亮 ✘</text>
+  <!-- summary -->
+  <rect x="150" y="345" width="400" height="52" rx="10" fill="#fff" stroke="#cde8cd"/>
+  <text x="350" y="368" text-anchor="middle" font-size="12" fill="#2d2a26"><tspan fill="#5aa469" font-weight="bold">導體</tspan>：金屬（鐵、銅、鋁）能讓電流通過</text>
+  <text x="350" y="388" text-anchor="middle" font-size="12" fill="#2d2a26"><tspan fill="#b5462a" font-weight="bold">絕緣體</tspan>：塑膠、橡皮、木頭、玻璃擋住電流</text>
+</svg>

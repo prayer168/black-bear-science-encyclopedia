@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">燃燒的三要素：火三角</text>
+  <!-- triangle -->
+  <polygon points="350,80 180,330 520,330" fill="none" stroke="#e8743b" stroke-width="4"/>
+  <!-- flame in center -->
+  <path d="M350 200 q-24 -40 8 -70 q6 26 26 22 q-6 34 -34 48 z" fill="#e8743b"/>
+  <path d="M350 200 q-16 -28 6 -48 q4 18 18 15 q-4 24 -24 33 z" fill="#f4c542"/>
+  <text x="350" y="250" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">燃燒</text>
+  <!-- three vertices -->
+  <g text-anchor="middle">
+    <circle cx="350" cy="80" r="34" fill="#f4b400"/>
+    <text x="350" y="76" font-size="12" fill="#6b4f3a" font-weight="bold">溫度</text>
+    <text x="350" y="92" font-size="10" fill="#6b4f3a">達燃點</text>
+    <text x="350" y="52" font-size="11" fill="#c98f00">要夠熱才會燒起來</text>
+
+    <circle cx="180" cy="330" r="36" fill="#8a5f36"/>
+    <text x="180" y="326" font-size="12" fill="#fff" font-weight="bold">可燃物</text>
+    <text x="180" y="342" font-size="10" fill="#fff">會燒的東西</text>
+    <text x="180" y="378" font-size="11" fill="#6b4f3a">紙、木、油、瓦斯</text>
+
+    <circle cx="520" cy="330" r="36" fill="#2f7fc1"/>
+    <text x="520" y="326" font-size="12" fill="#fff" font-weight="bold">助燃物</text>
+    <text x="520" y="342" font-size="10" fill="#fff">氧氣</text>
+    <text x="520" y="378" font-size="11" fill="#6b4f3a">空氣中的氧氣</text>
+  </g>
+  <text x="350" y="300" text-anchor="middle" font-size="12" fill="#c0392b">三個都要有，火才燒得起來</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">碳足跡：我們的生活如何影響地球</text>
+  <!-- factory/car emitting CO2 -->
+  <rect x="70" y="180" width="70" height="70" fill="#9aa4ad"/>
+  <rect x="85" y="150" width="16" height="40" fill="#8a8f96"/>
+  <path d="M93 150 q-8 -16 4 -26 M93 145 q10 -14 22 -22" stroke="#8a8f96" stroke-width="3" fill="none" opacity="0.6"/>
+  <text x="105" y="270" text-anchor="middle" font-size="11" fill="#2d2a26">工廠・汽車</text>
+  <text x="150" y="140" font-size="13" fill="#8a5a3a">CO₂</text>
+  <!-- arrow to warming earth -->
+  <defs><marker id="s3" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker></defs>
+  <line x1="200" y1="200" x2="290" y2="200" stroke="#e8743b" stroke-width="4" marker-end="url(#s3)"/>
+  <text x="245" y="190" text-anchor="middle" font-size="11" fill="#e8743b">溫室氣體增加</text>
+  <!-- warming earth -->
+  <circle cx="380" cy="200" r="55" fill="#5aa469"/>
+  <circle cx="365" cy="185" r="18" fill="#3a7d9a"/><circle cx="400" cy="215" r="14" fill="#3a7d9a"/>
+  <path d="M340 160 q40 -14 80 0" stroke="#e8743b" stroke-width="3" fill="none" opacity="0.5"/>
+  <text x="380" y="285" text-anchor="middle" font-size="12" fill="#2d2a26">地球變暖・氣候變遷</text>
+  <!-- reduce actions -->
+  <line x1="450" y1="200" x2="500" y2="200" stroke="#5aa469" stroke-width="4" marker-end="url(#s3)"/>
+  <rect x="510" y="120" width="160" height="170" rx="12" fill="#fff" stroke="#cde8cd" stroke-width="2"/>
+  <text x="590" y="148" text-anchor="middle" font-size="14" font-weight="bold" fill="#5aa469">減少碳足跡</text>
+  <text x="525" y="178" font-size="12" fill="#2d2a26">🚶 走路、騎車、搭大眾運輸</text>
+  <text x="525" y="205" font-size="12" fill="#2d2a26">💡 隨手關燈、省電</text>
+  <text x="525" y="232" font-size="12" fill="#2d2a26">🥗 惜食、少浪費</text>
+  <text x="525" y="259" font-size="12" fill="#2d2a26">🌳 種樹、愛護自然</text>
+  <text x="350" y="345" text-anchor="middle" font-size="13" fill="#c0392b">碳足跡＝我們的行為排放的二氧化碳量；行為改變能減緩氣候變遷</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- big tree -->
+  <rect x="90" y="150" width="24" height="110" fill="#8a5f36"/>
+  <circle cx="102" cy="120" r="60" fill="#5aa469"/><circle cx="60" cy="140" r="40" fill="#6fbf7a"/><circle cx="145" cy="140" r="40" fill="#6fbf7a"/>
+  <!-- ground -->
+  <rect x="0" y="255" width="520" height="20" fill="#c9a36a" opacity="0.5"/>
+  <!-- bear handing paper -->
+  <image href="../characters/bear.svg" x="230" y="150" width="86" height="86"/>
+  <rect x="330" y="175" width="40" height="30" rx="3" fill="#fff" stroke="#c9b99a"/>
+  <text x="410" y="150" font-size="14" fill="#6b4f3a">📄 白紙</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：「撿一片最特別的葉子，說出關於它的事。」</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「盡量說說看喔！」（戶外自然情境）</text>
+</svg>

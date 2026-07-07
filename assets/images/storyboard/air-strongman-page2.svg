@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- deflating balloon -->
+  <path d="M280 150 q-10 -40 20 -55 q30 15 20 55 q-4 30 -20 30 q-16 0 -20 -30 z" fill="#e8a98a" opacity="0.7"/>
+  <path d="M280 165 q-30 6 -70 -6" stroke="#c9c2b6" stroke-width="3" fill="none" stroke-dasharray="5 4"/>
+  <text x="200" y="130" font-size="16" fill="#8a8078">噗——</text>
+  <!-- air stream lines to face -->
+  <path d="M260 175 q-40 8 -70 26 M262 185 q-40 8 -70 26" stroke="#9fb8cc" stroke-width="2.5" fill="none"/>
+  <!-- fox -->
+  <image href="../characters/fox.svg" x="120" y="150" width="84" height="84"/>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：「噗——」一陣風吹到臉上，氣球洩了氣。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「原來裡面裝的是……空氣？」（用線條表示氣流，不畫彩色煙）</text>
+</svg>

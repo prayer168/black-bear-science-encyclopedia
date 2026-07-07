@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eafaf0"/>
+  <!-- door -->
+  <rect x="30" y="45" width="90" height="195" rx="8" fill="#5aa469"/><text x="75" y="150" text-anchor="middle" font-size="26" fill="#fff">🚪</text>
+  <!-- centipede -->
+  <g>
+    <ellipse cx="150" cy="120" rx="12" ry="10" fill="#7a3b2a"/><rect x="160" y="110" width="90" height="20" rx="9" fill="#8a4632"/>
+    <g stroke="#5c2a1d" stroke-width="2.5" stroke-linecap="round"><line x1="170" y1="110" x2="164" y2="96"/><line x1="185" y1="110" x2="179" y2="96"/><line x1="200" y1="110" x2="194" y2="96"/><line x1="215" y1="110" x2="209" y2="96"/><line x1="230" y1="110" x2="224" y2="96"/><line x1="170" y1="130" x2="164" y2="144"/><line x1="185" y1="130" x2="179" y2="144"/><line x1="200" y1="130" x2="194" y2="144"/><line x1="215" y1="130" x2="209" y2="144"/><line x1="230" y1="130" x2="224" y2="144"/></g>
+  </g>
+  <text x="195" y="165" text-anchor="middle" font-size="10" fill="#b5462a">蜈蚣（多足多節）</text>
+  <!-- pillbug -->
+  <ellipse cx="150" cy="205" rx="26" ry="18" fill="#8a7a66"/>
+  <g stroke="#5c4a38" stroke-width="2"><path d="M128 205 h44 M132 192 h36 M132 218 h36"/></g>
+  <text x="150" y="240" text-anchor="middle" font-size="10" fill="#b5462a">西瓜蟲（多足）</text>
+  <!-- monster shouting -->
+  <image href="../characters/monster.svg" x="290" y="90" width="96" height="96"/>
+  <rect x="250" y="60" width="230" height="34" rx="14" fill="#fff" stroke="#8a56c2" stroke-width="2"/>
+  <text x="365" y="82" text-anchor="middle" font-size="13" fill="#6f3fb0">「會爬的蟲全都是昆蟲啦！」</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：蜈蚣、西瓜蟲也來鼓譟，門口吵成一團。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">👾「會爬的蟲全都是昆蟲啦！」（蜈蚣多足多節、西瓜蟲多足）</text>
+</svg>

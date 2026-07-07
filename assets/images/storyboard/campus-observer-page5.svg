@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- eaves/roof overhang -->
+  <path d="M60 90 L300 90 L280 120 L80 120 Z" fill="#a8683c"/>
+  <rect x="80" y="120" width="12" height="120" fill="#8a5f36"/>
+  <!-- dry ground under eaves vs wet outside -->
+  <rect x="80" y="240" width="180" height="16" fill="#d8c6a8"/>
+  <text x="150" y="270" text-anchor="middle" font-size="11" fill="#8a795c">屋簷下：乾的？濕的？</text>
+  <rect x="300" y="240" width="200" height="16" fill="#bcd6ea" opacity="0.7"/>
+  <text x="400" y="270" text-anchor="middle" font-size="11" fill="#2f7fc1">露天：濕的</text>
+  <!-- bear + fox observing -->
+  <image href="../characters/bear.svg" x="150" y="140" width="80" height="80"/>
+  <image href="../characters/fox.svg" x="240" y="150" width="72" height="72"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第5頁：用更多觀察來檢驗猜測。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「遮住的地方也濕嗎？多看幾處！」（用證據驗證推論）</text>
+</svg>

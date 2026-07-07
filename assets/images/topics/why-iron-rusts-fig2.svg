@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf5ff"/>
+  <text x="350" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#6b4f3a">生鏽對照實驗：找出誰是關鍵</text>
+  <!-- three test tubes -->
+  <!-- A: dry (drying agent), sealed -> no rust -->
+  <g>
+    <rect x="90" y="90" width="50" height="180" rx="24" fill="#dfeefb" stroke="#8fb4d6" stroke-width="2"/>
+    <rect x="100" y="120" width="30" height="10" rx="3" fill="#9aa4ad"/>
+    <text x="115" y="115" text-anchor="middle" font-size="18">🔩</text>
+    <circle cx="115" cy="230" r="14" fill="#f4e3b8"/><text x="115" y="234" text-anchor="middle" font-size="8" fill="#8a6a2a">乾燥劑</text>
+    <rect x="90" y="82" width="50" height="10" rx="4" fill="#6b4f3a"/>
+    <text x="115" y="300" text-anchor="middle" font-size="12" fill="#2d2a26">A：乾燥＋密封</text>
+    <text x="115" y="320" text-anchor="middle" font-size="12" fill="#5aa469" font-weight="bold">不生鏽 ✔</text>
+    <text x="115" y="338" text-anchor="middle" font-size="10" fill="#6f6a63">（沒有水）</text>
+  </g>
+  <!-- B: boiled water + oil seal -> no oxygen -> no rust -->
+  <g>
+    <rect x="310" y="90" width="50" height="180" rx="24" fill="#bfe0f7" stroke="#2f7fc1" stroke-width="2"/>
+    <rect x="310" y="150" width="50" height="120" rx="0" fill="#a9d3ef"/>
+    <rect x="310" y="150" width="50" height="10" fill="#f4c542"/>
+    <rect x="320" y="180" width="30" height="10" rx="3" fill="#9aa4ad"/>
+    <text x="335" y="176" text-anchor="middle" font-size="16">🔩</text>
+    <text x="335" y="300" text-anchor="middle" font-size="12" fill="#2d2a26">B：煮沸水＋油封</text>
+    <text x="335" y="320" text-anchor="middle" font-size="12" fill="#5aa469" font-weight="bold">不生鏽 ✔</text>
+    <text x="335" y="338" text-anchor="middle" font-size="10" fill="#6f6a63">（隔絕氧氣）</text>
+  </g>
+  <!-- C: water + air -> rust -->
+  <g>
+    <rect x="540" y="90" width="50" height="180" rx="24" fill="#bfe0f7" stroke="#2f7fc1" stroke-width="2"/>
+    <rect x="540" y="180" width="50" height="90" fill="#a9d3ef"/>
+    <rect x="550" y="185" width="30" height="10" rx="3" fill="#b5622a"/>
+    <text x="565" y="181" text-anchor="middle" font-size="16">🔩</text>
+    <path d="M550 185 q6 -6 12 0" stroke="#b5622a" stroke-width="2" fill="none"/>
+    <text x="565" y="300" text-anchor="middle" font-size="12" fill="#2d2a26">C：一般水＋空氣</text>
+    <text x="565" y="320" text-anchor="middle" font-size="12" fill="#c0392b" font-weight="bold">生鏽了 ✘</text>
+    <text x="565" y="338" text-anchor="middle" font-size="10" fill="#6f6a63">（水＋氧氣都有）</text>
+  </g>
+  <text x="350" y="378" text-anchor="middle" font-size="13" fill="#6b4f3a">只有同時有水又有氧氣的 C 生鏽，證明兩者缺一不可</text>
+</svg>

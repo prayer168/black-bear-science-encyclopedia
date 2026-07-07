@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eafaf0"/>
+  <!-- club entrance -->
+  <rect x="40" y="40" width="150" height="200" rx="10" fill="#5aa469"/>
+  <rect x="55" y="90" width="120" height="150" fill="#7bbf7a"/>
+  <path d="M40 40 h150 l-12 -22 h-126 z" fill="#3f7d4f"/>
+  <text x="115" y="72" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">昆蟲俱樂部</text>
+  <!-- ladybug guard -->
+  <ellipse cx="150" cy="180" rx="20" ry="16" fill="#c0392b"/><line x1="150" y1="164" x2="150" y2="196" stroke="#2d2a26" stroke-width="2"/>
+  <circle cx="140" cy="175" r="3" fill="#2d2a26"/><circle cx="160" cy="175" r="3" fill="#2d2a26"/><circle cx="145" cy="188" r="3" fill="#2d2a26"/><circle cx="156" cy="188" r="3" fill="#2d2a26"/>
+  <circle cx="150" cy="160" r="8" fill="#2d2a26"/>
+  <text x="150" y="215" text-anchor="middle" font-size="10" fill="#6b4f3a">瓢蟲守門</text>
+  <!-- queue: ant, bee, butterfly -->
+  <g>
+    <!-- ant -->
+    <ellipse cx="250" cy="180" rx="10" ry="8" fill="#5a3c22"/><ellipse cx="266" cy="180" rx="8" ry="7" fill="#7a5230"/><ellipse cx="284" cy="180" rx="13" ry="10" fill="#5a3c22"/>
+    <g stroke="#3a2618" stroke-width="2"><line x1="264" y1="188" x2="258" y2="198"/><line x1="270" y1="190" x2="270" y2="200"/><line x1="276" y1="188" x2="282" y2="198"/></g>
+    <text x="268" y="215" text-anchor="middle" font-size="10" fill="#6b4f3a">螞蟻</text>
+    <!-- bee -->
+    <ellipse cx="340" cy="178" rx="18" ry="13" fill="#f4b400"/><path d="M332 168 v20 M348 168 v20" stroke="#2d2a26" stroke-width="3"/><ellipse cx="330" cy="168" rx="10" ry="6" fill="#eaf6ff" opacity="0.7"/>
+    <text x="340" y="215" text-anchor="middle" font-size="10" fill="#6b4f3a">蜜蜂</text>
+    <!-- butterfly -->
+    <path d="M410 178 q-22 -22 -30 -4 q10 12 30 6 z" fill="#e8743b"/><path d="M410 178 q22 -22 30 -4 q-10 12 -30 6 z" fill="#e8743b"/><line x1="410" y1="166" x2="410" y2="192" stroke="#2d2a26" stroke-width="3"/>
+    <text x="410" y="215" text-anchor="middle" font-size="10" fill="#6b4f3a">蝴蝶</text>
+  </g>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：只有真正的昆蟲，才能進入昆蟲俱樂部。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">瓢蟲：「請出示入場券！」（排隊的昆蟲都六隻腳、三體段）</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#eaf5ff"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">土製電話：聲音沿著繩子（固體）傳</text>
+  <!-- two cups connected by string -->
+  <path d="M110 160 L150 150 L155 210 L120 218 Z" fill="#e8d5b0" stroke="#c9a35a" stroke-width="2"/>
+  <path d="M590 150 L550 160 L545 218 L580 210 Z" fill="#e8d5b0" stroke="#c9a35a" stroke-width="2"/>
+  <line x1="155" y1="180" x2="545" y2="180" stroke="#8a5f36" stroke-width="2.5"/>
+  <!-- vibration on string -->
+  <path d="M250 180 q15 -8 30 0 q15 8 30 0 q15 -8 30 0 q15 8 30 0" stroke="#c0392b" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <text x="350" y="165" text-anchor="middle" font-size="12" fill="#c0392b">繩子拉直，振動沿繩傳遞</text>
+  <!-- speak side -->
+  <text x="90" y="150" font-size="20">🗣️</text>
+  <text x="130" y="250" text-anchor="middle" font-size="12" fill="#2d2a26">對著杯子說話</text>
+  <text x="130" y="270" text-anchor="middle" font-size="11" fill="#6f6a63">聲音讓杯底振動</text>
+  <!-- listen side -->
+  <text x="600" y="150" font-size="20">👂</text>
+  <text x="570" y="250" text-anchor="middle" font-size="12" fill="#2d2a26">另一頭聽得見</text>
+  <text x="570" y="270" text-anchor="middle" font-size="11" fill="#6f6a63">繩鬆掉就聽不到了</text>
+  <text x="350" y="330" text-anchor="middle" font-size="13" fill="#3f7d4f">繩子拉緊才能傳振動；這證明固體也能傳聲音</text>
+</svg>

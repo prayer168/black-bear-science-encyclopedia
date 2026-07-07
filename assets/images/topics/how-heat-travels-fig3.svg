@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">湯匙導熱大賽</text>
+  <text x="350" y="56" text-anchor="middle" font-size="13" fill="#6f6a63">同一杯熱水，哪支湯匙的奶油先融化？</text>
+
+  <!-- cup of hot water -->
+  <path d="M250 250 L450 250 L435 380 L265 380 Z" fill="#fdece2" stroke="#e8743b" stroke-width="3"/>
+  <ellipse cx="350" cy="250" rx="100" ry="18" fill="#f7c9b0"/>
+  <text x="350" y="320" text-anchor="middle" font-size="14" fill="#c0392b">熱水（同一杯）</text>
+  <!-- steam -->
+  <path d="M320 240 q-8 -16 4 -28 M350 238 q-8 -16 4 -28 M380 240 q-8 -16 4 -28" fill="none" stroke="#e8b4a0" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- three spoons at same depth -->
+  <!-- metal (winner) -->
+  <g>
+    <rect x="286" y="90" width="10" height="150" rx="4" fill="#9aa4ad"/>
+    <ellipse cx="291" cy="248" rx="12" ry="8" fill="#9aa4ad"/>
+    <!-- butter melted / dripping -->
+    <path d="M283 118 q8 10 16 0 q-2 14 -8 20 q-6 -6 -8 -20" fill="#f4c542"/>
+    <circle cx="291" cy="150" r="4" fill="#f4c542"/>
+    <text x="291" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">金屬</text>
+    <text x="291" y="180" text-anchor="middle" font-size="10" fill="#c0392b">先融!</text>
+  </g>
+  <!-- plastic -->
+  <g>
+    <rect x="345" y="90" width="10" height="150" rx="4" fill="#e08bbf"/>
+    <ellipse cx="350" cy="248" rx="12" ry="8" fill="#e08bbf"/>
+    <rect x="343" y="112" width="14" height="12" rx="4" fill="#f4d97a"/>
+    <text x="350" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#6b4f3a">塑膠</text>
+  </g>
+  <!-- wood (slowest) -->
+  <g>
+    <rect x="404" y="90" width="10" height="150" rx="4" fill="#b98a5a"/>
+    <ellipse cx="409" cy="248" rx="12" ry="8" fill="#b98a5a"/>
+    <rect x="402" y="112" width="14" height="12" rx="4" fill="#f4d97a"/>
+    <text x="409" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#6b4f3a">木頭</text>
+    <text x="409" y="180" text-anchor="middle" font-size="10" fill="#5aa469">最慢</text>
+  </g>
+
+  <!-- butter legend -->
+  <rect x="500" y="110" width="16" height="16" rx="3" fill="#f4d97a"/>
+  <text x="522" y="123" font-size="13" fill="#2d2a26">柄上同位置的奶油</text>
+
+  <!-- variable note -->
+  <rect x="60" y="350" width="580" height="52" rx="10" fill="#eef8ee" stroke="#cde8cd"/>
+  <text x="75" y="372" font-size="12" fill="#2d2a26"><tspan font-weight="bold" fill="#e8743b">操縱：</tspan>湯匙材質　<tspan font-weight="bold" fill="#2f7fc1">應變：</tspan>奶油融化時間</text>
+  <text x="75" y="392" font-size="12" fill="#2d2a26"><tspan font-weight="bold" fill="#5aa469">控制：</tspan>水溫、插入深度、奶油大小與位置都要一樣（才公平）</text>
+</svg>

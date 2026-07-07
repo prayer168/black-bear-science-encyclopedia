@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf6e6"/>
+  <!-- desk -->
+  <rect x="120" y="200" width="280" height="14" fill="#c99a63"/>
+  <rect x="140" y="214" width="12" height="50" fill="#a86f3f"/><rect x="368" y="214" width="12" height="50" fill="#a86f3f"/>
+  <!-- lunch box + jumping spoon -->
+  <rect x="180" y="175" width="60" height="26" rx="4" fill="#e8743b"/>
+  <rect x="300" y="150" width="10" height="30" rx="3" fill="#9aa4ad" transform="rotate(18 305 165)"/>
+  <text x="330" y="150" font-size="16">〰️</text>
+  <!-- shake lines -->
+  <text x="140" y="140" font-size="16" fill="#c0392b">搖！</text>
+  <text x="370" y="150" font-size="16" fill="#c0392b">晃！</text>
+  <!-- window -->
+  <rect x="410" y="60" width="80" height="90" rx="4" fill="#eaf6ff" stroke="#9cc2dd" stroke-width="3"/>
+  <text x="450" y="170" text-anchor="middle" font-size="10" fill="#6b4f3a">窗戶嘎嘎響</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：普通的午餐時間，大地突然搖了起來。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">同學：「地震！」（湯匙跳動、窗戶震動）</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="60" fill="#e5f2ea"/>
+  <!-- antennae -->
+  <path d="M48 34 q-8 -16 -18 -20 M72 34 q8 -16 18 -20" stroke="#2f5d43" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="30" cy="14" r="4" fill="#2f5d43"/><circle cx="90" cy="14" r="4" fill="#2f5d43"/>
+  <!-- head -->
+  <circle cx="60" cy="40" r="18" fill="#2f5d43"/>
+  <!-- shell body -->
+  <ellipse cx="60" cy="78" rx="36" ry="34" fill="#3a7d5d"/>
+  <!-- wing split -->
+  <line x1="60" y1="48" x2="60" y2="110" stroke="#2f5d43" stroke-width="3"/>
+  <ellipse cx="60" cy="78" rx="36" ry="34" fill="none" stroke="#2f5d43" stroke-width="2.5"/>
+  <!-- spots -->
+  <circle cx="44" cy="70" r="5" fill="#2f5d43"/><circle cx="76" cy="70" r="5" fill="#2f5d43"/>
+  <circle cx="46" cy="92" r="4" fill="#2f5d43"/><circle cx="74" cy="92" r="4" fill="#2f5d43"/>
+  <!-- scholar glasses -->
+  <circle cx="52" cy="40" r="9" fill="#eafaf2" stroke="#1f4030" stroke-width="2.5"/>
+  <circle cx="68" cy="40" r="9" fill="#eafaf2" stroke="#1f4030" stroke-width="2.5"/>
+  <line x1="61" y1="40" x2="59" y2="40" stroke="#1f4030" stroke-width="2.5"/>
+  <!-- eyes -->
+  <circle cx="52" cy="40" r="3.2" fill="#2d2a26"/><circle cx="68" cy="40" r="3.2" fill="#2d2a26"/>
+  <circle cx="53" cy="39" r="1" fill="#fff"/><circle cx="69" cy="39" r="1" fill="#fff"/>
+  <!-- smile -->
+  <path d="M53 50 q7 6 14 0" stroke="#1f4030" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

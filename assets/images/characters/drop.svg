@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="60" fill="#e4f0fa"/>
+  <!-- water drop body -->
+  <path d="M60 26 C40 56 34 72 34 82 a26 26 0 0 0 52 0 C86 72 80 56 60 26 Z" fill="#2f7fc1"/>
+  <!-- highlight -->
+  <path d="M50 60 C46 70 46 78 50 84" stroke="#bfe0f7" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- captain cap -->
+  <path d="M36 44 Q60 28 84 44 L82 52 L38 52 Z" fill="#1f5f97"/>
+  <rect x="40" y="50" width="40" height="7" rx="2" fill="#173f66"/>
+  <circle cx="60" cy="40" r="4" fill="#f4b400"/>
+  <!-- eyes -->
+  <circle cx="50" cy="72" r="5" fill="#fff"/><circle cx="70" cy="72" r="5" fill="#fff"/>
+  <circle cx="50" cy="72" r="2.4" fill="#2d2a26"/><circle cx="70" cy="72" r="2.4" fill="#2d2a26"/>
+  <!-- confident smile -->
+  <path d="M52 84 q8 7 16 0" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

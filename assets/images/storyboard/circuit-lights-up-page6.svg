@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- test circuit gap with clips -->
+  <rect x="150" y="90" width="180" height="90" rx="8" fill="none" stroke="#c0392b" stroke-width="4"/>
+  <rect x="215" y="168" width="50" height="20" rx="3" fill="#f4b400"/>
+  <circle cx="240" cy="90" r="18" fill="#fff2b0" stroke="#c98f00" stroke-width="2"/>
+  <!-- iron nail dipped: lit -->
+  <rect x="165" y="118" width="50" height="12" rx="2" fill="#9aa4ad"/>
+  <text x="190" y="150" text-anchor="middle" font-size="10" fill="#5aa469">鐵釘→亮✔</text>
+  <!-- eraser: not lit -->
+  <rect x="265" y="118" width="50" height="12" rx="2" fill="#b98a5a"/>
+  <text x="290" y="150" text-anchor="middle" font-size="10" fill="#b5462a">橡皮→滅✘</text>
+  <!-- fox + drop -->
+  <image href="../characters/fox.svg" x="40" y="120" width="76" height="76"/>
+  <image href="../characters/drop.svg" x="410" y="120" width="80" height="80"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：用實驗，找出誰能通電。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「鐵釘會亮、橡皮不會！」💧「只能用電池，不可以碰插座！」</text>
+</svg>

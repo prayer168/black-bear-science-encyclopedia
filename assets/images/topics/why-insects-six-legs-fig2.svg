@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#6b4f3a">數腳、數身體段數，誰才是昆蟲？</text>
+  <line x1="233" y1="50" x2="233" y2="360" stroke="#e7ddcd" stroke-width="2"/>
+  <line x1="466" y1="50" x2="466" y2="360" stroke="#e7ddcd" stroke-width="2"/>
+
+  <!-- ==== INSECT (ant) ==== -->
+  <text x="116" y="78" text-anchor="middle" font-size="16" font-weight="bold" fill="#5aa469">昆蟲（螞蟻）</text>
+  <ellipse cx="80" cy="150" rx="20" ry="18" fill="#6f4a29"/>
+  <ellipse cx="116" cy="150" rx="16" ry="15" fill="#8a5f36"/>
+  <ellipse cx="160" cy="150" rx="26" ry="20" fill="#6f4a29"/>
+  <path d="M68 135 q-14 -18 -26 -20 M68 165 q-14 18 -26 20" stroke="#5a3c22" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <g stroke="#4f3319" stroke-width="3.5" stroke-linecap="round" fill="none">
+    <path d="M104 165 q-8 20 -22 28"/><path d="M116 168 q0 22 -2 32"/><path d="M128 165 q8 20 20 28"/>
+    <path d="M104 135 q-8 -20 -22 -28"/><path d="M116 132 q0 -22 -2 -32"/><path d="M128 135 q8 -20 20 -28"/>
+  </g>
+  <text x="116" y="290" text-anchor="middle" font-size="14" fill="#2d2a26">腳：<tspan font-weight="bold" fill="#5aa469">6 隻</tspan></text>
+  <text x="116" y="315" text-anchor="middle" font-size="14" fill="#2d2a26">身體：<tspan font-weight="bold" fill="#5aa469">3 段</tspan></text>
+  <text x="116" y="345" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">✔ 是昆蟲</text>
+
+  <!-- ==== SPIDER ==== -->
+  <text x="349" y="78" text-anchor="middle" font-size="16" font-weight="bold" fill="#b5462a">蜘蛛</text>
+  <ellipse cx="330" cy="150" rx="22" ry="20" fill="#4a3628"/>
+  <ellipse cx="372" cy="152" rx="30" ry="26" fill="#5c4332"/>
+  <g stroke="#3a2a1e" stroke-width="3.5" stroke-linecap="round" fill="none">
+    <path d="M315 138 q-30 -18 -46 -30"/><path d="M312 148 q-32 -6 -50 -8"/><path d="M312 158 q-32 8 -50 16"/><path d="M318 168 q-26 22 -40 34"/>
+    <path d="M345 138 q30 -18 46 -30"/><path d="M348 148 q32 -6 50 -8"/><path d="M348 158 q32 8 50 16"/><path d="M342 168 q26 22 40 34"/>
+  </g>
+  <text x="349" y="290" text-anchor="middle" font-size="14" fill="#2d2a26">腳：<tspan font-weight="bold" fill="#b5462a">8 隻</tspan></text>
+  <text x="349" y="315" text-anchor="middle" font-size="14" fill="#2d2a26">身體：<tspan font-weight="bold" fill="#b5462a">2 段</tspan>（無觸角）</text>
+  <text x="349" y="345" text-anchor="middle" font-size="15" font-weight="bold" fill="#b5462a">✘ 不是昆蟲</text>
+
+  <!-- ==== CENTIPEDE ==== -->
+  <text x="583" y="78" text-anchor="middle" font-size="16" font-weight="bold" fill="#b5462a">蜈蚣</text>
+  <g>
+    <ellipse cx="520" cy="150" rx="16" ry="14" fill="#7a3b2a"/>
+    <rect x="530" y="138" width="120" height="24" rx="10" fill="#8a4632"/>
+    <g stroke="#5c2a1d" stroke-width="2.5" stroke-linecap="round">
+      <line x1="540" y1="138" x2="533" y2="120"/><line x1="560" y1="138" x2="553" y2="118"/><line x1="580" y1="138" x2="573" y2="120"/><line x1="600" y1="138" x2="593" y2="118"/><line x1="620" y1="138" x2="613" y2="120"/><line x1="640" y1="138" x2="633" y2="120"/>
+      <line x1="540" y1="162" x2="533" y2="180"/><line x1="560" y1="162" x2="553" y2="182"/><line x1="580" y1="162" x2="573" y2="180"/><line x1="600" y1="162" x2="593" y2="182"/><line x1="620" y1="162" x2="613" y2="180"/><line x1="640" y1="162" x2="633" y2="180"/>
+    </g>
+    <path d="M508 142 q-12 -10 -20 -12 M508 158 q-12 10 -20 12" stroke="#5c2a1d" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="583" y="290" text-anchor="middle" font-size="14" fill="#2d2a26">腳：<tspan font-weight="bold" fill="#b5462a">很多對</tspan></text>
+  <text x="583" y="315" text-anchor="middle" font-size="14" fill="#2d2a26">身體：<tspan font-weight="bold" fill="#b5462a">很多節</tspan></text>
+  <text x="583" y="345" text-anchor="middle" font-size="15" font-weight="bold" fill="#b5462a">✘ 不是昆蟲</text>
+
+  <text x="350" y="398" text-anchor="middle" font-size="13" fill="#6b4f3a">判斷準則：身體「三段」＋腳「六隻」＝昆蟲</text>
+</svg>

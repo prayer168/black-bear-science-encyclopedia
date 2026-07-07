@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf1e8"/>
+  <!-- cup -->
+  <path d="M120 230 L260 230 L246 150 L134 150 Z" fill="#7a4a2a"/><ellipse cx="190" cy="150" rx="56" ry="10" fill="#8a5a34"/>
+  <!-- wood + plastic spoons, no heat -->
+  <rect x="176" y="72" width="9" height="88" rx="3" fill="#b98a5a"/><text x="180" y="66" text-anchor="middle" font-size="10" fill="#6b4f3a">木頭</text>
+  <rect x="200" y="72" width="9" height="88" rx="3" fill="#e08bbf"/><text x="205" y="66" text-anchor="middle" font-size="10" fill="#6b4f3a">塑膠</text>
+  <text x="250" y="110" font-size="12" fill="#5aa469" font-weight="bold">不燙 ✔</text>
+  <!-- fox relieved + bear explaining -->
+  <image href="../characters/fox.svg" x="285" y="150" width="72" height="72"/>
+  <image href="../characters/bear.svg" x="370" y="120" width="86" height="86"/>
+  <rect x="290" y="80" width="200" height="34" rx="14" fill="#fff" stroke="#6b4f3a" stroke-width="2"/>
+  <text x="390" y="102" text-anchor="middle" font-size="12" fill="#6b4f3a">「木頭塑膠是不良導體！」</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：換了木頭和塑膠，居然都不燙。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「木頭塑膠不太會傳熱，是不良導體！」（木/塑膠柄不畫紅色熱漸層）</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- fox holding a leaf casually -->
+  <image href="../characters/fox.svg" x="150" y="120" width="90" height="90"/>
+  <path d="M270 160 q30 -20 55 -5 q-15 25 -55 15 z" fill="#5aa469"/>
+  <path d="M270 165 q28 -5 52 4" stroke="#3f7d4f" stroke-width="2" fill="none"/>
+  <rect x="300" y="90" width="180" height="34" rx="14" fill="#fff" stroke="#e8743b" stroke-width="2"/>
+  <text x="390" y="112" text-anchor="middle" font-size="13" fill="#e8743b">「一片綠色的葉子，沒了。」</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：小狐同學覺得這題太簡單。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「一片綠色的葉子，沒了。」（隨便看 ≠ 觀察）</text>
+</svg>

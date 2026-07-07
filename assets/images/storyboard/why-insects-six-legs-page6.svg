@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eafaf0"/>
+  <!-- two clubs side by side -->
+  <rect x="30" y="55" width="130" height="185" rx="10" fill="#5aa469"/><text x="95" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">昆蟲俱樂部</text>
+  <rect x="340" y="55" width="150" height="185" rx="10" fill="#8a6fb0"/><text x="415" y="80" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">蛛形俱樂部</text>
+  <!-- happy spider in its club -->
+  <g>
+    <ellipse cx="420" cy="150" rx="20" ry="16" fill="#5c4332"/><ellipse cx="395" cy="148" rx="12" ry="10" fill="#4a3628"/>
+    <g stroke="#3a2a1e" stroke-width="2.5" stroke-linecap="round"><path d="M405 140 q-14 -8 -22 -12"/><path d="M404 148 q-16 -2 -24 -2"/><path d="M404 156 q-16 5 -24 9"/><path d="M408 164 q-12 10 -18 16"/><path d="M435 140 q14 -8 22 -12"/><path d="M436 148 q16 -2 24 -2"/><path d="M436 156 q16 5 24 9"/><path d="M432 164 q12 10 18 16"/></g>
+  </g>
+  <text x="415" y="200" text-anchor="middle" font-size="16">😊</text>
+  <!-- insects waving from left club -->
+  <ellipse cx="105" cy="150" rx="18" ry="13" fill="#c0392b"/><circle cx="105" cy="135" r="6" fill="#2d2a26"/>
+  <text x="105" y="200" text-anchor="middle" font-size="16">👋</text>
+  <!-- fox + drop in middle -->
+  <image href="../characters/fox.svg" x="185" y="120" width="72" height="72"/>
+  <image href="../characters/drop.svg" x="255" y="130" width="72" height="72"/>
+  <text x="291" y="128" text-anchor="middle" font-size="14">👍</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：蜘蛛找到自己的家，開心和昆蟲們揮手。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「認識特徵，就能幫大家找到家！」💧「換我們去校園當昆蟲偵探！」</text>
+</svg>

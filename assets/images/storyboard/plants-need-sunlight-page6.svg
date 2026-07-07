@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf6e6"/>
+  <!-- window with sun -->
+  <rect x="40" y="34" width="180" height="130" rx="8" fill="#eaf6ff" stroke="#9cc2dd" stroke-width="4"/>
+  <circle cx="175" cy="72" r="20" fill="#f4b400"/><g stroke="#f4b400" stroke-width="3" stroke-linecap="round"><line x1="175" y1="46" x2="175" y2="38"/><line x1="201" y1="72" x2="209" y2="72"/><line x1="193" y1="54" x2="200" y2="47"/></g>
+  <path d="M160 95 L120 200" stroke="#f7dd9a" stroke-width="10" opacity="0.6" stroke-linecap="round"/>
+  <!-- recovering sprout: mostly green, a little yellow -->
+  <rect x="20" y="235" width="480" height="14" fill="#c99a63"/>
+  <path d="M120 235 l8 -30 h34 l8 30 z" fill="#c98a5a"/><rect x="118" y="200" width="52" height="10" rx="3" fill="#a86f3f"/>
+  <path d="M144 205 v-55" stroke="#5aa469" stroke-width="6"/>
+  <path d="M144 175 q-22 -8 -30 -24 q20 3 30 18" fill="#7bbf7a"/>
+  <path d="M144 160 q22 -8 30 -24 q-20 3 -30 18" fill="#5aa469"/>
+  <text x="144" y="262" text-anchor="middle" font-size="11" fill="#5aa469">回到陽光下，慢慢變綠</text>
+  <!-- fox happy + drop thumbs up -->
+  <image href="../characters/fox.svg" x="250" y="120" width="80" height="80"/>
+  <text x="290" y="115" text-anchor="middle" font-size="18">💡</text>
+  <image href="../characters/drop.svg" x="400" y="130" width="80" height="80"/>
+  <text x="440" y="125" text-anchor="middle" font-size="16">👍</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：回到陽光下，豆苗又有了力氣。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「原來你不是懶惰，是肚子餓呀！」💧「下次用實驗證明給大家看！」</text>
+</svg>

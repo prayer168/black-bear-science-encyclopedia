@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf6e6"/>
+  <line x1="260" y1="30" x2="260" y2="250" stroke="#e7ddcd" stroke-width="2" stroke-dasharray="6 6"/>
+  <!-- LEFT healthy -->
+  <text x="130" y="52" text-anchor="middle" font-size="13" font-weight="bold" fill="#5aa469">窗邊（有陽光）</text>
+  <circle cx="60" cy="80" r="16" fill="#f4b400"/><g stroke="#f4b400" stroke-width="3" stroke-linecap="round"><line x1="60" y1="58" x2="60" y2="50"/><line x1="38" y1="80" x2="30" y2="80"/></g>
+  <path d="M105 240 l8 -30 h34 l8 30 z" fill="#c98a5a"/><rect x="103" y="205" width="52" height="10" rx="3" fill="#a86f3f"/>
+  <path d="M130 210 v-70" stroke="#5aa469" stroke-width="6"/><path d="M130 175 q-24 -8 -32 -26 q22 4 32 20" fill="#5aa469"/><path d="M130 160 q24 -8 32 -26 q-22 4 -32 20" fill="#5aa469"/><path d="M130 140 q-16 -18 -6 -34 q16 12 6 34" fill="#5aa469"/>
+  <text x="130" y="262" text-anchor="middle" font-size="11" fill="#3f7d4f">翠綠、挺直</text>
+  <!-- RIGHT weak -->
+  <text x="390" y="52" text-anchor="middle" font-size="13" font-weight="bold" fill="#8a795c">櫃中（沒陽光）</text>
+  <path d="M365 240 l8 -30 h34 l8 30 z" fill="#c98a5a"/><rect x="363" y="205" width="52" height="10" rx="3" fill="#a86f3f"/>
+  <path d="M390 210 Q368 160 340 130" stroke="#c9b24a" stroke-width="4" fill="none"/>
+  <path d="M366 165 q-16 -5 -22 -16 q14 -1 22 8" fill="#cbbf6a"/><path d="M350 138 q-12 -6 -16 -14 q11 0 16 7" fill="#cbbf6a"/>
+  <text x="390" y="262" text-anchor="middle" font-size="11" fill="#8a795c">泛黃、細長彎曲</text>
+  <!-- fox confused -->
+  <image href="../characters/fox.svg" x="223" y="150" width="74" height="74"/>
+  <text x="260" y="145" text-anchor="middle" font-size="20" fill="#e8743b">❓</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：一個星期後，兩盆豆苗完全不一樣了。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「為什麼會這樣？我水都澆一樣多啊！」（水量相同，差別只在光）</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#1b2340"/>
+  <g fill="#fff"><circle cx="90" cy="55" r="1.5"/><circle cx="260" cy="40" r="1"/><circle cx="470" cy="70" r="1.5"/></g>
+  <!-- crescent moon -->
+  <defs><clipPath id="cm3"><circle cx="400" cy="90" r="40"/></clipPath></defs>
+  <circle cx="400" cy="90" r="40" fill="#2a2f45"/>
+  <path d="M400 50 a40 40 0 0 1 0 80 a28 40 0 0 0 0 -80 z" fill="#e9e6d8"/>
+  <circle cx="400" cy="90" r="40" fill="none" stroke="#4a5578" stroke-width="1.5"/>
+  <rect x="0" y="250" width="520" height="30" fill="#2a3350"/>
+  <!-- fox worried -->
+  <image href="../characters/fox.svg" x="120" y="150" width="82" height="82"/>
+  <text x="215" y="160" font-size="16">😰</text>
+  <rect x="0" y="278" width="520" height="42" fill="#3a2c20"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：月亮瘦成一條眉毛。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「月亮生病了！會不會消失？」（眉月為細彎弧形）</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="360" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#6b4f3a">迷思破解：月相 ≠ 地球影子（那是月食）</text>
+
+  <!-- LEFT: WRONG (earth shadow) -->
+  <rect x="30" y="60" width="300" height="270" rx="12" fill="#fbeaea" stroke="#c0392b" stroke-width="2"/>
+  <text x="180" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">✘ 錯誤想法</text>
+  <text x="180" y="110" text-anchor="middle" font-size="12" fill="#8a3a2a">「月相是地球影子擋住月亮」</text>
+  <circle cx="110" cy="200" r="26" fill="#3a7d9a"/><text x="110" y="240" text-anchor="middle" font-size="11" fill="#6b4f3a">地球</text>
+  <circle cx="240" cy="200" r="22" fill="#e9e6d8"/>
+  <path d="M240 178 a22 22 0 0 1 0 44 z" fill="#4a4a55"/>
+  <text x="180" y="300" text-anchor="middle" font-size="11" fill="#c0392b">（其實這是「月食」才發生的事）</text>
+
+  <!-- RIGHT: CORRECT -->
+  <rect x="370" y="60" width="300" height="270" rx="12" fill="#eef8ee" stroke="#5aa469" stroke-width="2"/>
+  <text x="520" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">✔ 正確想法</text>
+  <text x="520" y="110" text-anchor="middle" font-size="12" fill="#3f7d4f">「看到被太陽照亮的部分多少」</text>
+  <text x="430" y="165" font-size="13" fill="#c98f00">☀️</text>
+  <g stroke="#f4b400" stroke-width="2"><line x1="450" y1="175" x2="490" y2="175"/><line x1="450" y1="200" x2="490" y2="200"/></g>
+  <circle cx="540" cy="190" r="24" fill="#4a4a55"/>
+  <path d="M540 166 a24 24 0 0 1 0 48 z" fill="#f4e9b8"/>
+  <text x="520" y="245" text-anchor="middle" font-size="11" fill="#3f7d4f">月球一半被照亮，</text>
+  <text x="520" y="262" text-anchor="middle" font-size="11" fill="#3f7d4f">我們從不同角度看到不同形狀</text>
+  <text x="520" y="300" text-anchor="middle" font-size="11" fill="#5aa469">👀 每天同一時間看月亮，記錄形狀變化</text>
+</svg>

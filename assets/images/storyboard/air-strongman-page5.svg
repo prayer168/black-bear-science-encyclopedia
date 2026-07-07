@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fffdf9"/>
+  <!-- wall -->
+  <rect x="230" y="60" width="16" height="200" fill="#d9c6a8"/>
+  <!-- suction cup on wall -->
+  <ellipse cx="260" cy="150" rx="30" ry="24" fill="#f4b400" opacity="0.85"/>
+  <rect x="288" y="143" width="10" height="14" rx="2" fill="#8a795c"/>
+  <circle cx="315" cy="175" r="14" fill="#c0392b"/>
+  <line x1="298" y1="150" x2="308" y2="164" stroke="#8a795c" stroke-width="3"/>
+  <!-- pressure arrows -->
+  <defs><marker id="ap5" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker></defs>
+  <line x1="350" y1="120" x2="298" y2="142" stroke="#e8743b" stroke-width="3" marker-end="url(#ap5)"/>
+  <line x1="350" y1="185" x2="298" y2="162" stroke="#e8743b" stroke-width="3" marker-end="url(#ap5)"/>
+  <text x="360" y="160" font-size="11" fill="#e8743b">空氣壓力</text>
+  <!-- bear + beetle -->
+  <image href="../characters/bear.svg" x="60" y="130" width="84" height="84"/>
+  <image href="../characters/beetle.svg" x="410" y="200" width="76" height="76"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第5頁：原來空氣一直從四面八方壓著我們。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「這就是空氣的力氣！」🪲「頭頂的空氣加起來很重呢！」</text>
+</svg>

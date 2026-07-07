@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef2fb"/>
+  <!-- flashlight (sun) -->
+  <rect x="60" y="150" width="50" height="24" rx="4" fill="#6b4f3a"/>
+  <path d="M110 150 L150 138 L150 186 L110 174 Z" fill="#f4d060" opacity="0.7"/>
+  <g stroke="#f4c542" stroke-width="2"><line x1="150" y1="150" x2="230" y2="145"/><line x1="150" y1="174" x2="230" y2="180"/></g>
+  <!-- ball (moon), half lit -->
+  <circle cx="290" cy="162" r="34" fill="#4a4a55"/>
+  <path d="M290 128 a34 34 0 0 0 0 68 z" fill="#f4e9b8"/>
+  <text x="290" y="215" text-anchor="middle" font-size="11" fill="#6b4f3a">球（月亮）永遠一半亮</text>
+  <!-- bear + beetle + fox -->
+  <image href="../characters/bear.svg" x="30" y="60" width="70" height="70"/>
+  <image href="../characters/fox.svg" x="350" y="120" width="70" height="70"/>
+  <image href="../characters/beetle.svg" x="430" y="150" width="72" height="72"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第5頁：原來是光和角度的魔術。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「太陽只照亮一半，角度不同就不同形狀！」🪲「農曆就是看月亮訂的！」</text>
+</svg>

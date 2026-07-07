@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf6e6"/>
+  <!-- bright window side (left) -->
+  <rect x="24" y="34" width="150" height="120" rx="8" fill="#eaf6ff" stroke="#9cc2dd" stroke-width="4"/>
+  <circle cx="130" cy="70" r="16" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="3" stroke-linecap="round"><line x1="130" y1="48" x2="130" y2="40"/><line x1="152" y1="70" x2="160" y2="70"/></g>
+  <!-- bright pot -->
+  <path d="M60 235 l8 -28 h30 l8 28 z" fill="#c98a5a"/><path d="M83 208 v-34" stroke="#5aa469" stroke-width="5"/><path d="M83 188 q-16 -6 -22 -20 q14 3 22 14" fill="#5aa469"/><path d="M83 182 q16 -6 22 -20 q-14 3 -22 14" fill="#5aa469"/>
+  <text x="83" y="255" text-anchor="middle" font-size="11" fill="#5aa469">明亮窗邊</text>
+  <!-- dark cabinet (right) -->
+  <rect x="300" y="70" width="180" height="165" rx="6" fill="#5a4636"/>
+  <rect x="312" y="82" width="156" height="140" rx="4" fill="#3a2c20"/>
+  <line x1="390" y1="82" x2="390" y2="222" stroke="#5a4636" stroke-width="4"/>
+  <text x="390" y="255" text-anchor="middle" font-size="11" fill="#8a795c">陰暗的櫃子</text>
+  <!-- pot inside dark -->
+  <path d="M355 210 l7 -24 h26 l7 24 z" fill="#7a5a3a"/><path d="M375 187 v-28" stroke="#3f7d4f" stroke-width="4"/><path d="M375 172 q-13 -5 -18 -16 q12 2 18 12" fill="#3f7d4f"/>
+  <!-- table -->
+  <rect x="20" y="235" width="480" height="14" fill="#c99a63"/>
+  <!-- fox placing pot -->
+  <image href="../characters/fox.svg" x="200" y="120" width="74" height="74"/>
+  <path d="M258 168 q28 6 44 26" stroke="#c85a24" stroke-width="3" fill="none" stroke-dasharray="5 4"/>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：他想「這裡安靜，一定睡得好」，把一盆搬進陰暗櫃子。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「你在這裡好好休息～」（櫃子明顯陰暗，與窗邊形成對比）</text>
+</svg>

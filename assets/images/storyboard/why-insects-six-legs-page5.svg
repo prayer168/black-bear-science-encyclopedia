@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <text x="260" y="34" text-anchor="middle" font-size="15" font-weight="bold" fill="#6b4f3a">昆蟲 vs 蜘蛛 vs 蜈蚣</text>
+  <!-- three columns -->
+  <g>
+    <rect x="120" y="50" width="110" height="150" rx="8" fill="#fff" stroke="#5aa469" stroke-width="2"/>
+    <text x="175" y="72" text-anchor="middle" font-size="12" font-weight="bold" fill="#5aa469">昆蟲</text>
+    <ellipse cx="155" cy="110" rx="9" ry="7" fill="#5a3c22"/><ellipse cx="172" cy="110" rx="7" ry="6" fill="#7a5230"/><ellipse cx="190" cy="110" rx="11" ry="9" fill="#5a3c22"/>
+    <g stroke="#3a2618" stroke-width="2"><line x1="168" y1="117" x2="164" y2="126"/><line x1="174" y1="118" x2="174" y2="128"/><line x1="180" y1="117" x2="184" y2="126"/><line x1="168" y1="103" x2="164" y2="94"/><line x1="174" y1="102" x2="174" y2="92"/><line x1="180" y1="103" x2="184" y2="94"/></g>
+    <text x="175" y="160" text-anchor="middle" font-size="11" fill="#2d2a26">6 足・3 段</text>
+    <text x="175" y="182" text-anchor="middle" font-size="12" font-weight="bold" fill="#5aa469">✔</text>
+  </g>
+  <g>
+    <rect x="245" y="50" width="110" height="150" rx="8" fill="#fff" stroke="#b5462a" stroke-width="2"/>
+    <text x="300" y="72" text-anchor="middle" font-size="12" font-weight="bold" fill="#b5462a">蜘蛛</text>
+    <ellipse cx="308" cy="110" rx="14" ry="12" fill="#5c4332"/><ellipse cx="288" cy="108" rx="9" ry="8" fill="#4a3628"/>
+    <g stroke="#3a2a1e" stroke-width="2" stroke-linecap="round"><path d="M296 102 q-12 -6 -18 -10"/><path d="M295 108 q-13 -1 -20 -1"/><path d="M295 114 q-13 4 -20 7"/><path d="M298 120 q-10 8 -16 13"/><path d="M320 102 q12 -6 18 -10"/><path d="M321 108 q13 -1 20 -1"/><path d="M321 114 q13 4 20 7"/><path d="M318 120 q10 8 16 13"/></g>
+    <text x="300" y="160" text-anchor="middle" font-size="11" fill="#2d2a26">8 足・2 段</text>
+    <text x="300" y="182" text-anchor="middle" font-size="12" font-weight="bold" fill="#b5462a">✘</text>
+  </g>
+  <g>
+    <rect x="370" y="50" width="110" height="150" rx="8" fill="#fff" stroke="#b5462a" stroke-width="2"/>
+    <text x="425" y="72" text-anchor="middle" font-size="12" font-weight="bold" fill="#b5462a">蜈蚣</text>
+    <ellipse cx="392" cy="112" rx="8" ry="7" fill="#7a3b2a"/><rect x="400" y="104" width="60" height="16" rx="7" fill="#8a4632"/>
+    <g stroke="#5c2a1d" stroke-width="1.8"><line x1="408" y1="104" x2="404" y2="94"/><line x1="420" y1="104" x2="416" y2="94"/><line x1="432" y1="104" x2="428" y2="94"/><line x1="444" y1="104" x2="440" y2="94"/><line x1="408" y1="120" x2="404" y2="130"/><line x1="420" y1="120" x2="416" y2="130"/><line x1="432" y1="120" x2="428" y2="130"/><line x1="444" y1="120" x2="440" y2="130"/></g>
+    <text x="425" y="160" text-anchor="middle" font-size="11" fill="#2d2a26">多足・多節</text>
+    <text x="425" y="182" text-anchor="middle" font-size="12" font-weight="bold" fill="#b5462a">✘</text>
+  </g>
+  <!-- beetle -->
+  <image href="../characters/beetle.svg" x="20" y="120" width="82" height="82"/>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第5頁：甲蟲博士展示三欄對照圖，原來大家身體都不一樣。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🪲「蜘蛛八隻腳，是蛛形類；蜈蚣是另一家族！」</text>
+</svg>

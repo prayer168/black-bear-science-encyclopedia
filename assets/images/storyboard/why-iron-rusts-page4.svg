@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- three test tubes on rack -->
+  <g>
+    <rect x="170" y="110" width="34" height="120" rx="16" fill="#dfeefb" stroke="#8fb4d6" stroke-width="2"/>
+    <text x="187" y="250" text-anchor="middle" font-size="11" fill="#2d2a26">A乾燥</text>
+    <rect x="245" y="110" width="34" height="120" rx="16" fill="#bfe0f7" stroke="#2f7fc1" stroke-width="2"/>
+    <rect x="245" y="150" width="34" height="80" fill="#a9d3ef"/><rect x="245" y="150" width="34" height="8" fill="#f4c542"/>
+    <text x="262" y="250" text-anchor="middle" font-size="11" fill="#2d2a26">B無氧</text>
+    <rect x="320" y="110" width="34" height="120" rx="16" fill="#bfe0f7" stroke="#2f7fc1" stroke-width="2"/>
+    <rect x="320" y="170" width="34" height="60" fill="#a9d3ef"/>
+    <text x="337" y="250" text-anchor="middle" font-size="11" fill="#2d2a26">C水+空氣</text>
+  </g>
+  <!-- rack -->
+  <rect x="150" y="235" width="230" height="10" fill="#8a5f36"/>
+  <!-- bear + fox -->
+  <image href="../characters/bear.svg" x="40" y="120" width="80" height="80"/>
+  <image href="../characters/fox.svg" x="410" y="140" width="76" height="76"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第4頁：把生鏽的「共犯」抓出來。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「我們來找出水和氧氣的角色！」（三試管條件不同）</text>
+</svg>

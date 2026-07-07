@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf5ff"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">滑輪：改變方向，或幫忙省力</text>
+  <line x1="350" y1="55" x2="350" y2="360" stroke="#e7ddcd" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- LEFT: fixed pulley -->
+  <text x="175" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">定滑輪：改變施力方向</text>
+  <rect x="90" y="100" width="170" height="10" fill="#8a795c"/>
+  <circle cx="175" cy="135" r="24" fill="#cfe4f5" stroke="#2f7fc1" stroke-width="3"/>
+  <circle cx="175" cy="135" r="4" fill="#2f7fc1"/>
+  <path d="M151 135 L151 250 M199 135 L199 210" stroke="#6b4f3a" stroke-width="3" fill="none"/>
+  <rect x="185" y="210" width="30" height="26" rx="4" fill="#8a8f96"/><text x="200" y="228" text-anchor="middle" font-size="9" fill="#fff">重物</text>
+  <defs><marker id="pl3" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#c0392b"/></marker></defs>
+  <line x1="151" y1="220" x2="151" y2="255" stroke="#c0392b" stroke-width="3" marker-end="url(#pl3)"/>
+  <text x="130" y="275" text-anchor="middle" font-size="10" fill="#c0392b">往下拉</text>
+  <text x="175" y="310" text-anchor="middle" font-size="12" fill="#2f7fc1">往下拉 → 重物往上升</text>
+  <text x="175" y="330" text-anchor="middle" font-size="11" fill="#6f6a63">不省力，但方向較好施力</text>
+
+  <!-- RIGHT: movable pulley -->
+  <text x="525" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">動滑輪：可以省力</text>
+  <rect x="440" y="100" width="170" height="10" fill="#8a795c"/>
+  <path d="M470 110 L470 200 M580 110 L580 200" stroke="#6b4f3a" stroke-width="3" fill="none"/>
+  <circle cx="525" cy="210" r="24" fill="#eef8ee" stroke="#5aa469" stroke-width="3"/>
+  <path d="M501 210 a24 24 0 0 0 48 0" fill="none" stroke="#6b4f3a" stroke-width="3"/>
+  <rect x="510" y="234" width="30" height="26" rx="4" fill="#8a8f96"/><text x="525" y="252" text-anchor="middle" font-size="9" fill="#fff">重物</text>
+  <line x1="580" y1="200" x2="580" y2="150" stroke="#5aa469" stroke-width="3" marker-end="url(#pl3)"/>
+  <text x="600" y="160" text-anchor="middle" font-size="10" fill="#5aa469">小力</text>
+  <text x="525" y="310" text-anchor="middle" font-size="12" fill="#5aa469">兩條繩分擔重量 → 省力一半</text>
+  <text x="525" y="330" text-anchor="middle" font-size="11" fill="#6f6a63">但要拉更長的繩子</text>
+
+  <text x="350" y="375" text-anchor="middle" font-size="12" fill="#c0392b">組合起來（滑輪組）可以既省力又好施力</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">摩擦力：有時是朋友，有時是敵人</text>
+  <line x1="350" y1="55" x2="350" y2="380" stroke="#e7ddcd" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- FRIEND side -->
+  <text x="175" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#5aa469">👍 朋友（需要摩擦）</text>
+  <!-- shoe sole -->
+  <path d="M90 130 q40 -12 90 0 l0 26 q-45 12 -90 0 z" fill="#6b4f3a"/>
+  <g stroke="#3a2c20" stroke-width="3"><line x1="105" y1="135" x2="105" y2="153"/><line x1="125" y1="133" x2="125" y2="155"/><line x1="145" y1="133" x2="145" y2="155"/><line x1="165" y1="135" x2="165" y2="153"/></g>
+  <text x="135" y="180" text-anchor="middle" font-size="12" fill="#2d2a26">鞋底紋路：走路不滑倒</text>
+  <!-- brake -->
+  <circle cx="135" cy="240" r="30" fill="#4a4a4a"/><circle cx="135" cy="240" r="12" fill="#8a8a8a"/>
+  <rect x="160" y="232" width="24" height="16" rx="3" fill="#c0392b"/>
+  <text x="135" y="292" text-anchor="middle" font-size="12" fill="#2d2a26">煞車：讓車停下來</text>
+  <text x="135" y="330" text-anchor="middle" font-size="11" fill="#5aa469">火柴劃火、握筆、輪胎抓地</text>
+
+  <!-- FOE side -->
+  <text x="525" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#b5462a">👎 敵人（想減少摩擦）</text>
+  <!-- gears with oil -->
+  <circle cx="480" cy="150" r="26" fill="#9aa4ad"/><circle cx="520" cy="170" r="20" fill="#8a94a0"/>
+  <path d="M470 130 q10 -8 20 0" stroke="#f4b400" stroke-width="3" fill="none"/>
+  <text x="500" y="205" text-anchor="middle" font-size="12" fill="#2d2a26">機器零件：上油減少磨損</text>
+  <!-- ice skate -->
+  <path d="M470 250 l70 0 l0 8 l-8 14 l-54 0 z" fill="#7fb0d6"/>
+  <rect x="480" y="272" width="54" height="6" rx="2" fill="#c0392b"/>
+  <text x="505" y="300" text-anchor="middle" font-size="12" fill="#2d2a26">溜冰刀：滑得又快又順</text>
+  <text x="525" y="330" text-anchor="middle" font-size="11" fill="#b5462a">滑水道、滑梯、培林（滾珠）</text>
+
+  <text x="350" y="405" text-anchor="middle" font-size="13" fill="#6b4f3a">需要止滑就「增加」摩擦；想順暢滑動就「減少」摩擦</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <rect x="0" y="240" width="520" height="20" fill="#c9a36a" opacity="0.5"/>
+  <!-- rock -->
+  <ellipse cx="140" cy="215" rx="50" ry="34" fill="#8a8f96"/>
+  <!-- fulcrum (brick) + lever -->
+  <rect x="200" y="215" width="30" height="24" fill="#b5622a"/>
+  <rect x="120" y="195" width="330" height="10" rx="4" fill="#8a5f36" transform="rotate(-10 285 200)"/>
+  <!-- beetle pressing down easily -->
+  <image href="../characters/beetle.svg" x="380" y="150" width="80" height="80"/>
+  <defs><marker id="lp2" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#2f7fc1"/></marker></defs>
+  <line x1="415" y1="150" x2="415" y2="188" stroke="#2f7fc1" stroke-width="3" marker-end="url(#lp2)"/>
+  <text x="235" y="245" text-anchor="middle" font-size="10" fill="#6b4f3a">磚頭＝支點</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：博士只用一隻手就撬起石頭。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🪲「這叫槓桿喔！」（支點靠近石頭）</text>
+</svg>

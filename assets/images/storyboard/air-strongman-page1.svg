@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- corridor -->
+  <rect x="0" y="200" width="520" height="60" fill="#d8c6a8"/>
+  <rect x="0" y="60" width="520" height="20" fill="#cdd9e3"/>
+  <line x1="60" y1="80" x2="60" y2="200" stroke="#cdd9e3" stroke-width="6"/>
+  <line x1="200" y1="80" x2="200" y2="200" stroke="#cdd9e3" stroke-width="6"/>
+  <line x1="340" y1="80" x2="340" y2="200" stroke="#cdd9e3" stroke-width="6"/>
+  <!-- floating balloon -->
+  <ellipse cx="400" cy="110" rx="34" ry="40" fill="#e8743b"/>
+  <path d="M400 150 l-6 10 h12 z" fill="#c85a24"/>
+  <path d="M400 160 q20 30 -10 60" stroke="#8a795c" stroke-width="2" fill="none"/>
+  <!-- fox chasing -->
+  <image href="../characters/fox.svg" x="120" y="150" width="80" height="80"/>
+  <text x="200" y="150" font-size="18">💨</text>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：小狐同學怎麼追都追不到那顆氣球。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「裡面明明什麼都沒有，怎麼跳這麼高？」（氣球鼓鼓飄在半空）</text>
+</svg>

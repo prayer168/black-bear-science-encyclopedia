@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- magnifier over an insect -->
+  <ellipse cx="260" cy="150" rx="20" ry="14" fill="#8a5f36"/>
+  <ellipse cx="235" cy="150" rx="12" ry="10" fill="#6f4a29"/><ellipse cx="290" cy="150" rx="16" ry="12" fill="#6f4a29"/>
+  <g stroke="#4f3319" stroke-width="3" stroke-linecap="round"><line x1="250" y1="162" x2="244" y2="176"/><line x1="260" y1="164" x2="260" y2="178"/><line x1="270" y1="162" x2="276" y2="176"/><line x1="250" y1="138" x2="244" y2="124"/><line x1="260" y1="136" x2="260" y2="122"/><line x1="270" y1="138" x2="276" y2="124"/></g>
+  <!-- magnifier glass -->
+  <circle cx="270" cy="150" r="60" fill="#eaf6ff" opacity="0.35" stroke="#6b4f3a" stroke-width="6"/>
+  <line x1="313" y1="193" x2="345" y2="225" stroke="#6b4f3a" stroke-width="10" stroke-linecap="round"/>
+  <text x="270" y="100" text-anchor="middle" font-size="12" fill="#e8743b" font-weight="bold">頭・胸・腹＋六足</text>
+  <!-- bear + fox -->
+  <image href="../characters/bear.svg" x="20" y="140" width="80" height="80"/>
+  <image href="../characters/fox.svg" x="410" y="150" width="76" height="76"/>
+  <!-- caption -->
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第4頁：黑熊老師拿放大鏡，帶小狐同學數腳與體段。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「三段身體，六隻腳，才是昆蟲！」（被觀察的昆蟲六足三段）</text>
+</svg>

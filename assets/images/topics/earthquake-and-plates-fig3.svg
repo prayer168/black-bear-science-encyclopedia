@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">地震來了怎麼辦？趴、掩、穩</text>
+
+  <!-- three steps -->
+  <!-- 1 DROP -->
+  <rect x="40" y="70" width="200" height="200" rx="14" fill="#fff" stroke="#5aa469" stroke-width="2.5"/>
+  <text x="140" y="100" text-anchor="middle" font-size="17" font-weight="bold" fill="#5aa469">① 趴下 DROP</text>
+  <circle cx="140" cy="150" r="16" fill="#e8a94a"/>
+  <path d="M124 175 q16 -14 32 0 l0 30 q-16 8 -32 0 z" fill="#e8743b"/>
+  <text x="140" y="245" text-anchor="middle" font-size="12" fill="#2d2a26">壓低身體、雙膝跪地</text>
+
+  <!-- 2 COVER -->
+  <rect x="250" y="70" width="200" height="200" rx="14" fill="#fff" stroke="#2f7fc1" stroke-width="2.5"/>
+  <text x="350" y="100" text-anchor="middle" font-size="17" font-weight="bold" fill="#2f7fc1">② 掩護 COVER</text>
+  <rect x="300" y="150" width="100" height="12" fill="#8a5f36"/>
+  <rect x="308" y="162" width="10" height="50" fill="#a86f3f"/><rect x="382" y="162" width="10" height="50" fill="#a86f3f"/>
+  <circle cx="350" cy="195" r="14" fill="#e8a94a"/>
+  <text x="350" y="245" text-anchor="middle" font-size="12" fill="#2d2a26">躲到堅固桌子下、護頭頸</text>
+
+  <!-- 3 HOLD -->
+  <rect x="460" y="70" width="200" height="200" rx="14" fill="#fff" stroke="#e8743b" stroke-width="2.5"/>
+  <text x="560" y="100" text-anchor="middle" font-size="17" font-weight="bold" fill="#e8743b">③ 穩住 HOLD</text>
+  <rect x="510" y="150" width="100" height="12" fill="#8a5f36"/>
+  <rect x="518" y="162" width="10" height="50" fill="#a86f3f"/><rect x="592" y="162" width="10" height="50" fill="#a86f3f"/>
+  <circle cx="545" cy="195" r="13" fill="#e8a94a"/>
+  <line x1="558" y1="188" x2="590" y2="165" stroke="#c98a3a" stroke-width="4" stroke-linecap="round"/>
+  <text x="560" y="245" text-anchor="middle" font-size="12" fill="#2d2a26">抓住桌腳，隨搖晃移動</text>
+
+  <!-- reminders -->
+  <rect x="60" y="300" width="580" height="90" rx="10" fill="#fff8e6" stroke="#f2e0a8"/>
+  <text x="80" y="326" font-size="13" fill="#2d2a26">🚫 不要慌張衝出門、不搭電梯、遠離窗戶與會倒的櫃子</text>
+  <text x="80" y="350" font-size="13" fill="#2d2a26">🎒 平時準備防災包、和家人約好集合地點</text>
+  <text x="80" y="374" font-size="13" fill="#2d2a26">📴 搖完再有序疏散；台灣位在板塊交界，地震是我們要學會相處的鄰居</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- slide -->
+  <path d="M80 90 L160 90 L420 240 L340 240 Z" fill="#f4b45a"/>
+  <path d="M80 90 L160 90" stroke="#c98a3a" stroke-width="4"/>
+  <line x1="120" y1="90" x2="380" y2="240" stroke="#e09a3a" stroke-width="3"/>
+  <!-- fox sliding fast -->
+  <image href="../characters/fox.svg" x="270" y="150" width="76" height="76"/>
+  <text x="360" y="175" font-size="16">💨</text>
+  <text x="200" y="130" font-size="12" fill="#2f7fc1">咻——滑得飛快</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：小狐同學一坐上去就滑得飛快。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「好好玩！」（光滑接觸面，摩擦力小、順暢滑動）</text>
+</svg>

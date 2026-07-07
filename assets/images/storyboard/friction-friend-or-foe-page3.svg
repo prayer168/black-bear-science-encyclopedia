@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- wet floor -->
+  <rect x="0" y="220" width="520" height="50" fill="#bcd6ea"/>
+  <ellipse cx="200" cy="240" rx="40" ry="8" fill="#9fc4e0" opacity="0.7"/>
+  <ellipse cx="330" cy="248" rx="30" ry="6" fill="#9fc4e0" opacity="0.7"/>
+  <text x="430" y="245" font-size="12" fill="#2f7fc1">濕滑地板</text>
+  <!-- warning sign -->
+  <path d="M60 175 l20 -34 l20 34 z" fill="#f4b400" stroke="#c98f00" stroke-width="2"/>
+  <text x="80" y="172" text-anchor="middle" font-size="14" fill="#6b4f3a">!</text>
+  <!-- fox slipping -->
+  <image href="../characters/fox.svg" x="200" y="140" width="80" height="80"/>
+  <text x="285" y="150" font-size="16">😵</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：地板濕濕的，小狐同學腳一滑。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「哎唷！差點跌倒！」（水使摩擦力變小）</text>
+</svg>

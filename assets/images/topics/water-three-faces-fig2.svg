@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">水的變身循環（溫度是關鍵）</text>
+  <!-- circular arrangement -->
+  <!-- ice top-left -->
+  <circle cx="200" cy="150" r="46" fill="#cfe4f5" stroke="#7fb0d6" stroke-width="3"/>
+  <text x="200" y="145" text-anchor="middle" font-size="24">🧊</text>
+  <text x="200" y="168" text-anchor="middle" font-size="12" fill="#2f7fc1">固態</text>
+  <!-- water bottom -->
+  <circle cx="350" cy="300" r="46" fill="#a9d3ef" stroke="#2f7fc1" stroke-width="3"/>
+  <text x="350" y="295" text-anchor="middle" font-size="24">💧</text>
+  <text x="350" y="318" text-anchor="middle" font-size="12" fill="#2f7fc1">液態</text>
+  <!-- vapor top-right -->
+  <circle cx="500" cy="150" r="46" fill="#eef6fc" stroke="#b8d4e8" stroke-width="3" stroke-dasharray="5 4"/>
+  <text x="500" y="145" text-anchor="middle" font-size="24">☁️</text>
+  <text x="500" y="168" text-anchor="middle" font-size="12" fill="#7fb0d6">氣態</text>
+  <defs>
+    <marker id="w2h" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker>
+    <marker id="w2c" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2f7fc1"/></marker>
+  </defs>
+  <!-- ice->water melt (heat) -->
+  <path d="M228 188 Q270 240 312 278" fill="none" stroke="#e8743b" stroke-width="4" marker-end="url(#w2h)"/>
+  <text x="235" y="255" font-size="12" fill="#e8743b">融化🔥</text>
+  <!-- water->ice freeze (cool) -->
+  <path d="M320 262 Q285 215 240 185" fill="none" stroke="#2f7fc1" stroke-width="4" marker-end="url(#w2c)"/>
+  <text x="300" y="215" font-size="12" fill="#2f7fc1">結冰❄️</text>
+  <!-- water->vapor evaporate (heat) -->
+  <path d="M388 278 Q435 240 472 188" fill="none" stroke="#e8743b" stroke-width="4" marker-end="url(#w2h)"/>
+  <text x="440" y="255" font-size="12" fill="#e8743b">蒸發🔥</text>
+  <!-- vapor->water condense (cool) -->
+  <path d="M460 185 Q415 215 380 262" fill="none" stroke="#2f7fc1" stroke-width="4" marker-end="url(#w2c)"/>
+  <text x="395" y="215" font-size="12" fill="#2f7fc1">凝結❄️</text>
+  <text x="350" y="375" text-anchor="middle" font-size="13" fill="#c0392b">🔥加熱往「氣」跑　❄️冷卻往「固」跑，水一直在變身！</text>
+</svg>

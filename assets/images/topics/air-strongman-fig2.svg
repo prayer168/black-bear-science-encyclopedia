@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="420" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">紙杯倒扣入水，紙不會濕？</text>
+  <text x="350" y="58" text-anchor="middle" font-size="13" fill="#6f6a63">杯底塞一團紙，倒扣直直壓進水裡</text>
+  <!-- water tank -->
+  <rect x="120" y="150" width="460" height="230" rx="8" fill="#cfe4f5" stroke="#2f7fc1" stroke-width="3"/>
+  <rect x="120" y="150" width="460" height="18" fill="#a9d3ef"/>
+  <!-- inverted cup pushed down -->
+  <g>
+    <rect x="300" y="180" width="100" height="150" rx="4" fill="#fff" stroke="#6b4f3a" stroke-width="3" opacity="0.92"/>
+    <!-- trapped air -->
+    <rect x="304" y="240" width="92" height="86" fill="#eef8ff"/>
+    <text x="350" y="290" text-anchor="middle" font-size="13" fill="#2f7fc1">空氣</text>
+    <!-- dry paper wad at cup bottom (top since inverted) -->
+    <circle cx="350" cy="210" r="16" fill="#f4e3b8" stroke="#d8b96a" stroke-width="2"/>
+    <text x="350" y="214" text-anchor="middle" font-size="10" fill="#8a6a2a">紙團</text>
+  </g>
+  <!-- push arrow -->
+  <defs><marker id="p2" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#6b4f3a"/></marker></defs>
+  <line x1="350" y1="120" x2="350" y2="172" stroke="#6b4f3a" stroke-width="4" marker-end="url(#p2)"/>
+  <text x="370" y="140" font-size="12" fill="#6b4f3a">往下壓</text>
+  <!-- water level lower inside cup, higher outside -->
+  <line x1="304" y1="240" x2="396" y2="240" stroke="#2f7fc1" stroke-width="2" stroke-dasharray="5 3"/>
+  <text x="470" y="245" font-size="12" fill="#2f7fc1">杯內水面較低</text>
+  <text x="350" y="405" text-anchor="middle" font-size="13" fill="#e8743b" font-weight="bold">杯裡的空氣占住空間，擋住水，紙團保持乾的！</text>
+</svg>

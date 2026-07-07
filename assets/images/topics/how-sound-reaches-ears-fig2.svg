@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">聲音可以透過固體、液體、氣體傳播</text>
+  <!-- three panels -->
+  <g>
+    <rect x="40" y="70" width="190" height="230" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="135" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#5aa469">氣體（空氣）</text>
+    <text x="135" y="150" text-anchor="middle" font-size="30">🗣️</text>
+    <text x="135" y="200" text-anchor="middle" font-size="12" fill="#2d2a26">說話的聲音</text>
+    <text x="135" y="222" text-anchor="middle" font-size="12" fill="#2d2a26">透過空氣傳到耳朵</text>
+    <text x="135" y="270" text-anchor="middle" font-size="20">👂</text>
+
+    <rect x="255" y="70" width="190" height="230" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="350" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">液體（水）</text>
+    <rect x="275" y="120" width="150" height="120" rx="6" fill="#cfe4f5"/>
+    <text x="350" y="180" text-anchor="middle" font-size="26">🐬</text>
+    <text x="350" y="262" text-anchor="middle" font-size="12" fill="#2d2a26">海豚在水中用聲音溝通</text>
+
+    <rect x="470" y="70" width="190" height="230" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="565" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a5f36">固體</text>
+    <rect x="490" y="150" width="150" height="16" fill="#c9a35a"/>
+    <text x="565" y="140" text-anchor="middle" font-size="24">🔨</text>
+    <text x="565" y="200" text-anchor="middle" font-size="12" fill="#2d2a26">趴在桌上聽敲桌聲</text>
+    <text x="565" y="222" text-anchor="middle" font-size="12" fill="#2d2a26">（透過桌子傳來，更清楚）</text>
+  </g>
+  <text x="350" y="335" text-anchor="middle" font-size="13" fill="#c0392b">聲音需要「介質」傳播——真空中（沒有空氣）聽不到聲音！</text>
+</svg>

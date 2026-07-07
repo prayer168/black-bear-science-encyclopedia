@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf6e6"/>
+  <!-- evacuation route sign on wall -->
+  <rect x="360" y="70" width="120" height="70" rx="6" fill="#5aa469"/>
+  <text x="420" y="100" text-anchor="middle" font-size="12" fill="#fff">疏散路線</text>
+  <path d="M385 118 h50" stroke="#fff" stroke-width="4" marker-end="url(#ev)"/>
+  <defs><marker id="ev" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#fff"/></marker></defs>
+  <!-- drop leading + fox practicing DROP COVER HOLD -->
+  <image href="../characters/drop.svg" x="60" y="120" width="86" height="86"/>
+  <image href="../characters/fox.svg" x="200" y="150" width="76" height="76"/>
+  <text x="240" y="140" text-anchor="middle" font-size="12" fill="#e8743b">趴・掩・穩</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：了解地震，是為了學會保護自己。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">💧「趴下、掩護、穩住！」🦊「我們準備好了！」</text>
+</svg>

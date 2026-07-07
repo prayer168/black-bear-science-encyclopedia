@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#1b2340"/>
+  <g fill="#fff"><circle cx="80" cy="60" r="1.5"/><circle cx="200" cy="45" r="1"/><circle cx="460" cy="80" r="1.5"/></g>
+  <!-- half moon (right lit) -->
+  <defs><clipPath id="hm2"><circle cx="400" cy="90" r="40"/></clipPath></defs>
+  <circle cx="400" cy="90" r="40" fill="#2a2f45"/>
+  <rect x="400" y="50" width="40" height="80" fill="#e9e6d8" clip-path="url(#hm2)"/>
+  <circle cx="400" cy="90" r="40" fill="none" stroke="#4a5578" stroke-width="1.5"/>
+  <rect x="0" y="250" width="520" height="30" fill="#2a3350"/>
+  <!-- fox surprised -->
+  <image href="../characters/fox.svg" x="120" y="150" width="82" height="82"/>
+  <text x="215" y="160" font-size="18">❓</text>
+  <rect x="0" y="278" width="520" height="42" fill="#3a2c20"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：過幾天，月亮被「咬掉」一角。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「月亮怎麼變半圓了？」（半月亮部為半圓，非缺口）</text>
+</svg>
