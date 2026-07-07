@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf1e8"/>
+  <!-- three candles different glass sizes -->
+  <g>
+    <rect x="130" y="200" width="16" height="40" fill="#f4d9a8"/><path d="M164 130 L184 130 L184 240 L164 240 Z" fill="#cfe4f5" opacity="0.3" stroke="#7fb0d6"/>
+    <rect x="230" y="200" width="16" height="40" fill="#f4d9a8"/><path d="M258 110 L288 110 L288 240 L258 240 Z" fill="#cfe4f5" opacity="0.3" stroke="#7fb0d6"/>
+    <rect x="330" y="200" width="16" height="40" fill="#f4d9a8"/><path d="M356 90 L400 90 L400 240 L356 240 Z" fill="#cfe4f5" opacity="0.3" stroke="#7fb0d6"/>
+  </g>
+  <text x="255" y="270" text-anchor="middle" font-size="10" fill="#2d2a26">小杯　中杯　大杯</text>
+  <image href="../characters/fox.svg" x="30" y="130" width="72" height="72"/>
+  <image href="../characters/drop.svg" x="420" y="150" width="76" height="76"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：用實驗，證明火需要氧氣。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「小杯子熄得快！」💧「一定要老師操作、發現火災打119！」</text>
+</svg>

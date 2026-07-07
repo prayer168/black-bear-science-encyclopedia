@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- room with wasteful things -->
+  <circle cx="120" cy="120" r="20" fill="#f4d060"/><text x="120" y="150" text-anchor="middle" font-size="10" fill="#6b4f3a">忘關的燈</text>
+  <rect x="200" y="105" width="70" height="45" rx="4" fill="#4a4a55"/><rect x="208" y="112" width="54" height="31" fill="#7fb0d6"/><text x="235" y="165" text-anchor="middle" font-size="10" fill="#6b4f3a">開著的電視</text>
+  <path d="M340 110 l6 30" stroke="#9aa4ad" stroke-width="6"/><path d="M343 145 q3 8 0 12" stroke="#2f7fc1" stroke-width="2" fill="none"/><text x="343" y="170" text-anchor="middle" font-size="10" fill="#6b4f3a">滴水龍頭</text>
+  <image href="../characters/fox.svg" x="220" y="180" width="80" height="80"/>
+  <text x="265" y="180" font-size="16">💭</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：資源會不會也像絕版扭蛋一樣用完？</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「大家一直浪費，會不會用光？」</text>
+</svg>

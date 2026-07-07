@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fffdf9"/>
+  <!-- fox touching throat, saying ah -->
+  <image href="../characters/fox.svg" x="180" y="130" width="90" height="90"/>
+  <!-- throat vibration lines -->
+  <g stroke="#c0392b" stroke-width="2" fill="none"><path d="M285 180 q8 -6 16 0 q8 6 16 0"/><path d="M285 195 q8 -6 16 0 q8 6 16 0"/></g>
+  <text x="330" y="185" font-size="14" fill="#c0392b">抖抖抖</text>
+  <text x="225" y="130" font-size="16" fill="#e8743b">「啊——」</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：喉嚨居然在抖抖抖！</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「聲音是被抖出來的？」（振動產生聲音）</text>
+</svg>

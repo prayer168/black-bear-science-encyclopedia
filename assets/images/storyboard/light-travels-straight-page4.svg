@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#f3eefa"/>
+  <image href="../characters/monster.svg" x="30" y="130" width="86" height="86"/>
+  <rect x="125" y="90" width="220" height="34" rx="14" fill="#fff" stroke="#8a56c2" stroke-width="2"/>
+  <text x="235" y="112" text-anchor="middle" font-size="13" fill="#6f3fb0">「影子是物體養的寵物！」</text>
+  <image href="../characters/bear.svg" x="380" y="140" width="90" height="90"/>
+  <rect x="240" y="185" width="230" height="34" rx="14" fill="#f3e9dd" stroke="#6b4f3a" stroke-width="2"/>
+  <text x="355" y="207" text-anchor="middle" font-size="12" fill="#6b4f3a">「沒有光就沒有影子！」</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第4頁：迷思怪獸又亂想。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">👾「影子是寵物！」🐻「沒有光就沒有影子！」</text>
+</svg>

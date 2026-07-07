@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fffdf9"/>
+  <!-- electromagnet nail with coil + battery, picking up clips -->
+  <rect x="180" y="160" width="120" height="16" rx="4" fill="#9aa4ad"/>
+  <g stroke="#c98a3a" stroke-width="4" fill="none"><path d="M195 160 q8 -14 16 0 q8 14 16 0 q8 -14 16 0 q8 14 16 0 q8 -14 16 0"/></g>
+  <rect x="130" y="200" width="50" height="24" rx="4" fill="#f4b400" stroke="#c98f00" stroke-width="2"/>
+  <path d="M170 210 L185 210 L185 168" stroke="#c0392b" stroke-width="2.5" fill="none"/>
+  <text x="305" y="172" font-size="14">📎📎📎</text>
+  <image href="../characters/beetle.svg" x="60" y="120" width="80" height="80"/>
+  <image href="../characters/fox.svg" x="380" y="140" width="76" height="76"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：一根纏電線的鐵釘吸起一串迴紋針。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🪲「看好囉！」（鐵釘纏線圈接電池）</text>
+</svg>

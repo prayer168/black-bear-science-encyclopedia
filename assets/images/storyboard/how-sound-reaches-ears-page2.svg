@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fffdf9"/>
+  <!-- desk -->
+  <rect x="80" y="200" width="360" height="16" fill="#c9a35a"/>
+  <rect x="100" y="216" width="12" height="50" fill="#a86f3f"/><rect x="408" y="216" width="12" height="50" fill="#a86f3f"/>
+  <!-- fox ear on desk -->
+  <image href="../characters/fox.svg" x="150" y="130" width="76" height="76"/>
+  <!-- beetle tapping -->
+  <image href="../characters/beetle.svg" x="320" y="120" width="76" height="76"/>
+  <text x="300" y="195" font-size="14" fill="#c0392b">咚咚咚</text>
+  <g stroke="#2f7fc1" stroke-width="2" fill="none"><path d="M250 208 q10 -6 20 0"/><path d="M240 208 q15 -8 30 0"/></g>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：貼著桌子聽，聲音好清楚！</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「比用耳朵直接聽還大聲！」（固體傳聲）</text>
+</svg>

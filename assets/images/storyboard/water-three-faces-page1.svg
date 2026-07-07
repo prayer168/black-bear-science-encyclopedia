@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- sun -->
+  <circle cx="440" cy="70" r="28" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="4" stroke-linecap="round"><line x1="440" y1="28" x2="440" y2="16"/><line x1="484" y1="70" x2="496" y2="70"/><line x1="470" y1="42" x2="479" y2="33"/></g>
+  <!-- ground -->
+  <rect x="0" y="250" width="520" height="20" fill="#c9a36a" opacity="0.5"/>
+  <!-- popsicle in hand -->
+  <rect x="150" y="150" width="24" height="50" rx="8" fill="#e8743b"/>
+  <rect x="158" y="200" width="8" height="30" fill="#c9a35a"/>
+  <text x="200" y="150" font-size="12" fill="#c0392b">冰冰的冰棒</text>
+  <!-- fox -->
+  <image href="../characters/fox.svg" x="220" y="140" width="80" height="80"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：炎熱午後，小狐同學拿出最愛的冰棒。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「等我一下～」（冰棒為固態完整）</text>
+</svg>

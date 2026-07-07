@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- ice cube melting on dish -->
+  <ellipse cx="220" cy="220" rx="60" ry="14" fill="#e7ddcd"/>
+  <rect x="195" y="185" width="34" height="30" rx="6" fill="#cfe4f5" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="240" cy="216" rx="20" ry="5" fill="#a9d3ef"/>
+  <text x="220" y="250" text-anchor="middle" font-size="11" fill="#2f7fc1">冰塊慢慢融化</text>
+  <image href="../characters/fox.svg" x="60" y="130" width="78" height="78"/>
+  <image href="../characters/drop.svg" x="360" y="140" width="82" height="82"/>
+  <text x="300" y="150" font-size="14" fill="#5aa469">✏️ 觀察紀錄</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：原來冰、水、水蒸氣都是同一個水。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「是溫度讓水換臉！」💧「摸熱的東西要小心喔！」</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#f3eefa"/>
+  <image href="../characters/monster.svg" x="30" y="130" width="86" height="86"/>
+  <rect x="125" y="88" width="235" height="34" rx="14" fill="#fff" stroke="#8a56c2" stroke-width="2"/>
+  <text x="242" y="110" text-anchor="middle" font-size="12" fill="#6f3fb0">「資源用不完、環保是別人的事！」</text>
+  <image href="../characters/bear.svg" x="385" y="140" width="90" height="90"/>
+  <rect x="245" y="185" width="230" height="34" rx="14" fill="#f3e9dd" stroke="#6b4f3a" stroke-width="2"/>
+  <text x="360" y="207" text-anchor="middle" font-size="12" fill="#6b4f3a">「是我們每個人的事！」</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第4頁：迷思怪獸想得太天真。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">👾「資源用不完！」🐻「是我們每個人的事！」</text>
+</svg>

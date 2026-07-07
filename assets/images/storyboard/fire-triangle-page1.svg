@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf1e8"/>
+  <!-- cake with candles -->
+  <rect x="180" y="180" width="140" height="60" rx="8" fill="#f4d9a8"/>
+  <rect x="180" y="180" width="140" height="14" fill="#e88098"/>
+  <g>
+    <rect x="210" y="150" width="8" height="30" fill="#fff"/><path d="M214 150 q-6 -10 0 -18 q6 8 0 18z" fill="#e8743b"/>
+    <rect x="248" y="150" width="8" height="30" fill="#fff"/><path d="M252 150 q-6 -10 0 -18 q6 8 0 18z" fill="#e8743b"/>
+    <rect x="286" y="150" width="8" height="30" fill="#fff"/><path d="M290 150 q-6 -10 0 -18 q6 8 0 18z" fill="#e8743b"/>
+  </g>
+  <!-- fox blowing -->
+  <image href="../characters/fox.svg" x="80" y="130" width="82" height="82"/>
+  <g stroke="#9fb8cc" stroke-width="2" fill="none"><path d="M160 165 q20 -4 40 -2"/><path d="M160 178 q20 -2 40 0"/></g>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：整人蠟燭吹熄又復燃。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「怎麼吹不熄！」</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- fire triangle mini -->
+  <polygon points="270,110 200,230 340,230" fill="none" stroke="#e8743b" stroke-width="3"/>
+  <path d="M270 160 q-10 -18 4 -30 q3 12 12 10 q-3 16 -16 20z" fill="#e8743b"/>
+  <text x="270" y="95" text-anchor="middle" font-size="10" fill="#c98f00">溫度</text>
+  <text x="185" y="248" text-anchor="middle" font-size="10" fill="#8a5f36">可燃物</text>
+  <text x="355" y="248" text-anchor="middle" font-size="10" fill="#2f7fc1">氧氣</text>
+  <image href="../characters/bear.svg" x="50" y="140" width="80" height="80"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第4頁：火需要三個好朋友。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「可燃物、氧氣、溫度，缺一不可！」</text>
+</svg>

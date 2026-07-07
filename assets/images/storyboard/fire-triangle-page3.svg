@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#f3eefa"/>
+  <image href="../characters/monster.svg" x="30" y="130" width="86" height="86"/>
+  <text x="145" y="145" font-size="16">🪣</text>
+  <rect x="125" y="90" width="215" height="34" rx="14" fill="#fff" stroke="#8a56c2" stroke-width="2"/>
+  <text x="232" y="112" text-anchor="middle" font-size="13" fill="#6f3fb0">「澆水一定滅！」</text>
+  <image href="../characters/bear.svg" x="380" y="140" width="90" height="90"/>
+  <rect x="235" y="185" width="235" height="34" rx="14" fill="#fff0ee" stroke="#c0392b" stroke-width="2"/>
+  <text x="352" y="207" text-anchor="middle" font-size="12" fill="#c0392b">「油火澆水會更危險！」</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：迷思怪獸的觀念很危險。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">👾「澆水一定滅！」🐻「油火澆水會更危險！」</text>
+</svg>

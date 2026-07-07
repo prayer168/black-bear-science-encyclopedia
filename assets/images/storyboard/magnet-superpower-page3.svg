@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- attract pair -->
+  <text x="140" y="100" text-anchor="middle" font-size="12" fill="#5aa469">吸住</text>
+  <rect x="100" y="120" width="30" height="26" fill="#c0392b"/><rect x="130" y="120" width="30" height="26" fill="#2f7fc1"/>
+  <rect x="165" y="120" width="30" height="26" fill="#c0392b"/><rect x="195" y="120" width="30" height="26" fill="#2f7fc1"/>
+  <!-- repel pair -->
+  <text x="360" y="100" text-anchor="middle" font-size="12" fill="#c0392b">推開</text>
+  <rect x="300" y="120" width="30" height="26" fill="#2f7fc1"/><rect x="330" y="120" width="30" height="26" fill="#c0392b"/>
+  <rect x="380" y="120" width="30" height="26" fill="#c0392b"/><rect x="410" y="120" width="30" height="26" fill="#2f7fc1"/>
+  <text x="370" y="140" font-size="12" fill="#c0392b">← →</text>
+  <image href="../characters/fox.svg" x="215" y="180" width="90" height="90"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：兩塊磁鐵好像在鬧脾氣。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「怎麼一下吸一下推？」（磁極吸斥）</text>
+</svg>

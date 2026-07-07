@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#f7e8c8"/>
+  <!-- low sun -->
+  <circle cx="450" cy="90" r="26" fill="#f4a24a"/>
+  <g stroke="#f4a24a" stroke-width="4" stroke-linecap="round"><line x1="450" y1="52" x2="450" y2="40"/><line x1="490" y1="90" x2="502" y2="90"/></g>
+  <rect x="0" y="250" width="520" height="20" fill="#c9a36a"/>
+  <!-- fox + long shadow -->
+  <image href="../characters/fox.svg" x="150" y="150" width="80" height="80"/>
+  <polygon points="230,250 380,250 360,235 230,235" fill="#8a6a4a" opacity="0.6"/>
+  <text x="310" y="245" text-anchor="middle" font-size="11" fill="#6b4f3a">又長又斜的影子</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：一個黑黑的自己一直跟著他。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「別再學我了，跟屁蟲！」</text>
+</svg>

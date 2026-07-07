@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fdf6e6"/>
+  <!-- gachapon machine -->
+  <rect x="150" y="110" width="90" height="140" rx="10" fill="#e8743b"/>
+  <circle cx="195" cy="150" r="30" fill="#fff" stroke="#c85a24" stroke-width="2"/>
+  <circle cx="185" cy="145" r="8" fill="#f4b400"/><circle cx="205" cy="155" r="8" fill="#5aa469"/><circle cx="195" cy="135" r="8" fill="#2f7fc1"/>
+  <rect x="175" y="200" width="40" height="24" rx="4" fill="#c85a24"/>
+  <!-- trash can with discarded -->
+  <path d="M280 200 L320 200 L314 250 L286 250 Z" fill="#8a8f96"/>
+  <circle cx="295" cy="210" r="5" fill="#f4b400"/><circle cx="305" cy="215" r="5" fill="#5aa469"/>
+  <text x="300" y="270" text-anchor="middle" font-size="10" fill="#6f6a63">隨手丟</text>
+  <image href="../characters/fox.svg" x="360" y="140" width="82" height="82"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第1頁：「反正還會再補貨嘛！」</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「再扭一個！」（浪費的心態）</text>
+</svg>

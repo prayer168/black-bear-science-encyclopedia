@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#fffdf9"/>
+  <!-- fox reaching to drink, bear stopping -->
+  <path d="M170 150 L215 150 L209 235 L176 235 Z" fill="#eaf6ff" stroke="#7fb0d6" stroke-width="2"/>
+  <rect x="176" y="180" width="33" height="55" fill="#dff0fb"/>
+  <image href="../characters/fox.svg" x="80" y="130" width="80" height="80"/>
+  <image href="../characters/bear.svg" x="300" y="130" width="86" height="86"/>
+  <text x="260" y="150" font-size="22" fill="#c0392b">✋</text>
+  <rect x="240" y="200" width="230" height="34" rx="14" fill="#f3e9dd" stroke="#6b4f3a" stroke-width="2"/>
+  <text x="355" y="222" text-anchor="middle" font-size="12" fill="#6b4f3a">「不能喝！有更安全的辦法。」</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：「除非喝喝看？」</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🐻「不能喝！有更安全的辦法。」（安全：不可品嚐）</text>
+</svg>

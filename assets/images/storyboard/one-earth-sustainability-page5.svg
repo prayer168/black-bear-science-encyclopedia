@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- 3R circles -->
+  <circle cx="170" cy="150" r="34" fill="#eef8ee" stroke="#5aa469" stroke-width="3"/><text x="170" y="148" text-anchor="middle" font-size="11" fill="#5aa469" font-weight="bold">減量</text><text x="170" y="164" text-anchor="middle" font-size="9" fill="#3f7d4f">Reduce</text>
+  <circle cx="250" cy="150" r="34" fill="#e4f0fa" stroke="#2f7fc1" stroke-width="3"/><text x="250" y="148" text-anchor="middle" font-size="11" fill="#2f7fc1" font-weight="bold">重複</text><text x="250" y="164" text-anchor="middle" font-size="9" fill="#2f6fb0">Reuse</text>
+  <circle cx="330" cy="150" r="34" fill="#fdf1e8" stroke="#e8743b" stroke-width="3"/><text x="330" y="148" text-anchor="middle" font-size="11" fill="#e8743b" font-weight="bold">回收</text><text x="330" y="164" text-anchor="middle" font-size="9" fill="#c85a24">Recycle</text>
+  <image href="../characters/beetle.svg" x="40" y="130" width="82" height="82"/>
+  <text x="250" y="220" text-anchor="middle" font-size="11" fill="#c0392b">減量最有效！</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第5頁：原來小學生也能做很多事。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🪲「3R：減量、重複、回收，減量最有效！」</text>
+</svg>

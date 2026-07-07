@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <rect x="0" y="230" width="520" height="16" fill="#c9a35a"/>
+  <!-- items and magnet test -->
+  <rect x="220" y="150" width="30" height="16" fill="#c0392b"/>
+  <text x="180" y="215" font-size="14">🔩</text><text x="215" y="215" font-size="14">📎</text><text x="250" y="215" font-size="14">🥤</text><text x="285" y="215" font-size="14">🪵</text>
+  <text x="235" y="185" font-size="11" fill="#5aa469">哪些吸得住？</text>
+  <image href="../characters/fox.svg" x="60" y="130" width="78" height="78"/>
+  <image href="../characters/drop.svg" x="380" y="140" width="82" height="82"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：用實驗找出磁鐵的規則。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「鐵才吸得住！」💧「別靠近手機喔！」</text>
+</svg>

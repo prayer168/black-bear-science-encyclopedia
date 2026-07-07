@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <rect x="0" y="230" width="520" height="16" fill="#c9a35a"/>
+  <!-- magnet approaching coin/ring, no attract -->
+  <rect x="200" y="150" width="30" height="16" fill="#c0392b"/>
+  <circle cx="270" cy="220" r="12" fill="#f4d060"/><text x="270" y="245" text-anchor="middle" font-size="9" fill="#6b4f3a">硬幣</text>
+  <ellipse cx="320" cy="222" rx="14" ry="8" fill="#c0ccd6"/><text x="320" y="245" text-anchor="middle" font-size="9" fill="#6b4f3a">鋁環</text>
+  <text x="245" y="180" font-size="14" fill="#c0392b">✗ 吸不動</text>
+  <image href="../characters/fox.svg" x="360" y="130" width="86" height="86"/>
+  <text x="403" y="128" font-size="16">❓</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第2頁：硬幣和鋁罐拉環釣不起來。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「都是金屬，為什麼吸不動？」</text>
+</svg>

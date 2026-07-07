@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <image href="../characters/beetle.svg" x="60" y="130" width="86" height="86"/>
+  <rect x="160" y="120" width="240" height="52" rx="14" fill="#fff" stroke="#3a7d5d" stroke-width="2"/>
+  <text x="280" y="145" text-anchor="middle" font-size="13" fill="#2f5d43">「那是影子，</text>
+  <text x="280" y="165" text-anchor="middle" font-size="13" fill="#2f5d43">是光留下的空缺。」</text>
+  <image href="../characters/fox.svg" x="400" y="150" width="76" height="76"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：「那是影子，是光留下的空缺。」</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🪲「它不是妖怪，是光被擋住！」</text>
+</svg>

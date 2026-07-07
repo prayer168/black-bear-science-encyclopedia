@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <circle cx="440" cy="70" r="26" fill="#f4b400"/>
+  <g stroke="#f4b400" stroke-width="4" stroke-linecap="round"><line x1="440" y1="32" x2="440" y2="20"/><line x1="480" y1="70" x2="492" y2="70"/></g>
+  <rect x="0" y="250" width="520" height="20" fill="#c9a36a" opacity="0.5"/>
+  <!-- cup half empty -->
+  <path d="M180 150 L240 150 L232 250 L188 250 Z" fill="#cfe4f5" stroke="#2f7fc1" stroke-width="2"/>
+  <rect x="188" y="210" width="44" height="40" fill="#a9d3ef"/>
+  <path d="M200 145 q-6 -12 4 -22 M215 145 q-6 -12 4 -22" stroke="#b8d4e8" stroke-width="2" fill="none"/>
+  <text x="210" y="290" text-anchor="middle" font-size="11" fill="#2f7fc1">水越來越少</text>
+  <image href="../characters/fox.svg" x="300" y="150" width="80" height="80"/>
+  <text x="340" y="145" font-size="16">❓</text>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第3頁：連水也越來越少了。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「水也會玩消失魔術？」（液→氣，蒸發）</text>
+</svg>

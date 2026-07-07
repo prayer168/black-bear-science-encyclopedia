@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eef8ee"/>
+  <!-- purple cabbage + juice -->
+  <circle cx="240" cy="170" r="40" fill="#8a56c2"/>
+  <path d="M240 130 q-20 20 0 40 q20 -20 0 -40 M210 170 q30 0 60 0" stroke="#6f3fb0" stroke-width="2" fill="none"/>
+  <text x="240" y="230" text-anchor="middle" font-size="12" fill="#6f3fb0">紫甘藍</text>
+  <path d="M320 160 L360 160 L354 220 L326 220 Z" fill="#a878c0" stroke="#6f3fb0" stroke-width="2"/>
+  <text x="340" y="240" text-anchor="middle" font-size="11" fill="#6f3fb0">紫色汁液</text>
+  <image href="../characters/beetle.svg" x="40" y="130" width="86" height="86"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第5頁：廚房也有天然指示劑。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🪲「紫甘藍汁遇酸紅、遇鹼綠黃！」</text>
+</svg>

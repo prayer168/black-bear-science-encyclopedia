@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="520" height="320" fill="#eaf5ff"/>
+  <!-- cup phone -->
+  <path d="M120 150 L155 142 L160 195 L128 202 Z" fill="#e8d5b0" stroke="#c9a35a" stroke-width="2"/>
+  <path d="M400 142 L365 150 L360 202 L392 195 Z" fill="#e8d5b0" stroke="#c9a35a" stroke-width="2"/>
+  <line x1="158" y1="170" x2="362" y2="170" stroke="#8a5f36" stroke-width="2.5"/>
+  <path d="M230 170 q12 -6 24 0 q12 6 24 0" stroke="#c0392b" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <text x="100" y="140" font-size="16">🗣️</text>
+  <text x="410" y="140" font-size="16">👂</text>
+  <image href="../characters/fox.svg" x="180" y="210" width="70" height="70"/>
+  <image href="../characters/drop.svg" x="290" y="210" width="70" height="70"/>
+  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+  <text x="16" y="298" font-size="14" fill="#fff">📖 第6頁：用實驗，證明固體也能傳聲。</text>
+  <text x="16" y="314" font-size="12" fill="#f4d9a8">🦊「聽得到！」💧「繩子要拉緊喔！」</text>
+</svg>
