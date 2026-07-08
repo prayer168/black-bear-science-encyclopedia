@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf6ef"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#4a6b32">一棵樹，是好多個家</text>
+
+  <!-- tree canopy -->
+  <ellipse cx="300" cy="120" rx="150" ry="80" fill="#9ccb7a" stroke="#5a8a3a" stroke-width="2"/>
+  <ellipse cx="220" cy="140" rx="70" ry="45" fill="#addc8b"/>
+  <ellipse cx="370" cy="135" rx="80" ry="50" fill="#addc8b"/>
+  <!-- trunk -->
+  <path d="M280 190 L275 320 L325 320 L320 190 Z" fill="#b98b5a" stroke="#8a6338" stroke-width="2"/>
+  <!-- ground & leaf litter -->
+  <rect x="0" y="320" width="700" height="80" fill="#cdb187"/>
+  <path d="M0 320 q30 -6 60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0" fill="none" stroke="#a8895f" stroke-width="2"/>
+
+  <!-- animals with labels -->
+  <text x="300" y="112" text-anchor="middle" font-size="22">🐦</text>
+  <line x1="340" y1="105" x2="500" y2="90" stroke="#6b4f3a" stroke-width="1.3"/>
+  <text x="506" y="86" font-size="13" fill="#2d2a26">樹冠：鳥築巢</text>
+  <text x="506" y="103" font-size="10" fill="#6f6a63">高處安全、方便覓食</text>
+
+  <text x="300" y="250" text-anchor="middle" font-size="20">🪲</text>
+  <text x="316" y="230" font-size="16">🦗</text>
+  <line x1="322" y1="245" x2="500" y2="200" stroke="#6b4f3a" stroke-width="1.3"/>
+  <text x="506" y="196" font-size="13" fill="#2d2a26">樹幹：蟬、甲蟲</text>
+  <text x="506" y="213" font-size="10" fill="#6f6a63">吸樹汁、躲樹皮縫</text>
+
+  <text x="150" y="352" text-anchor="middle" font-size="18">🐛</text>
+  <text x="200" y="358" text-anchor="middle" font-size="16">🐌</text>
+  <line x1="230" y1="350" x2="500" y2="300" stroke="#6b4f3a" stroke-width="1.3"/>
+  <text x="506" y="296" font-size="13" fill="#2d2a26">樹根落葉堆：</text>
+  <text x="506" y="313" font-size="13" fill="#2d2a26">鼠婦、蚯蚓、蝸牛</text>
+  <text x="506" y="330" font-size="10" fill="#6f6a63">潮濕、有落葉可吃可躲</text>
+
+  <text x="350" y="388" text-anchor="middle" font-size="13" font-weight="bold" fill="#4a6b32">一棵樹就像一棟大樓，每層住著不同的房客！</text>
+</svg>

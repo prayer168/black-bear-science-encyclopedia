@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#4a6b32">動物與家，連連看</text>
+  <text x="180" y="62" text-anchor="middle" font-size="13" fill="#6f6a63">動物</text>
+  <text x="520" y="62" text-anchor="middle" font-size="13" fill="#6f6a63">牠的家（棲地）</text>
+
+  <!-- left animals -->
+  <g font-size="15" fill="#2d2a26">
+    <g><circle cx="150" cy="105" r="26" fill="#fff" stroke="#c7a37a" stroke-width="2"/><text x="150" y="100" text-anchor="middle" font-size="20">🐛</text><text x="150" y="150" text-anchor="middle">蚯蚓</text></g>
+    <g><circle cx="150" cy="185" r="26" fill="#fff" stroke="#7fb0d6" stroke-width="2"/><text x="150" y="180" text-anchor="middle" font-size="20">🐟</text><text x="150" y="230" text-anchor="middle">小魚</text></g>
+    <g><circle cx="150" cy="265" r="26" fill="#fff" stroke="#c9a44a" stroke-width="2"/><text x="150" y="260" text-anchor="middle" font-size="20">🐦</text><text x="150" y="310" text-anchor="middle">麻雀</text></g>
+    <g><circle cx="150" cy="345" r="26" fill="#fff" stroke="#8fbf6a" stroke-width="2"/><text x="150" y="340" text-anchor="middle" font-size="20">🐌</text><text x="150" y="390" text-anchor="middle">蝸牛</text></g>
+  </g>
+
+  <!-- right habitats -->
+  <g font-size="14" fill="#2d2a26">
+    <g><rect x="500" y="82" width="150" height="46" rx="10" fill="#efe0cc" stroke="#c7a37a" stroke-width="2"/><text x="575" y="110" text-anchor="middle">潮濕的土壤</text></g>
+    <g><rect x="500" y="162" width="150" height="46" rx="10" fill="#d8ecfa" stroke="#7fb0d6" stroke-width="2"/><text x="575" y="190" text-anchor="middle">池塘／水裡</text></g>
+    <g><rect x="500" y="242" width="150" height="46" rx="10" fill="#f3ead6" stroke="#c9a44a" stroke-width="2"/><text x="575" y="270" text-anchor="middle">屋簷／牆縫</text></g>
+    <g><rect x="500" y="322" width="150" height="46" rx="10" fill="#e2f0d6" stroke="#8fbf6a" stroke-width="2"/><text x="575" y="350" text-anchor="middle">潮濕的葉背</text></g>
+  </g>
+
+  <!-- connectors (correct matches) -->
+  <g stroke-width="2.5" fill="none">
+    <path d="M176 105 C300 105 380 105 500 105" stroke="#c78a4a"/>
+    <path d="M176 185 C300 185 380 185 500 185" stroke="#3f8fc1"/>
+    <path d="M176 265 C300 265 380 265 500 265" stroke="#c9a44a"/>
+    <path d="M176 345 C300 345 380 345 500 345" stroke="#6aa84a"/>
+  </g>
+
+  <text x="350" y="30" text-anchor="middle" font-size="1" fill="#eef7ee">.</text>
+</svg>

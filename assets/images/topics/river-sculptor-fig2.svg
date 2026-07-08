@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f3f0e6"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a6b4a">石頭為什麼會變圓？</text>
+
+  <!-- stage 1 -->
+  <rect x="30" y="70" width="190" height="230" rx="12" fill="#fff" stroke="#e0d3b8" stroke-width="2"/>
+  <text x="125" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">上游</text>
+  <path d="M90 150 l40 -25 l35 20 l-8 45 l-45 12 l-30 -30 Z" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/>
+  <text x="125" y="230" text-anchor="middle" font-size="13" fill="#2d2a26">又大又尖</text>
+  <text x="125" y="252" text-anchor="middle" font-size="11" fill="#6f6a63">剛從岩石崩落</text>
+  <text x="125" y="274" text-anchor="middle" font-size="11" fill="#6f6a63">有稜有角</text>
+
+  <!-- stage 2 -->
+  <rect x="255" y="70" width="190" height="230" rx="12" fill="#fff" stroke="#e0d3b8" stroke-width="2"/>
+  <text x="350" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#c98f00">中游·滾動碰撞</text>
+  <path d="M320 145 l28 -16 l24 14 l-6 30 l-30 8 l-20 -20 Z" fill="#b7a07a" stroke="#8a7350" stroke-width="1.5"/>
+  <circle cx="380" cy="185" r="16" fill="#bcaa84" stroke="#8a7350" stroke-width="1.5"/>
+  <path d="M330 200 q10 -12 22 -4" fill="none" stroke="#8a7350" stroke-width="1.5"/>
+  <g stroke="#c98f00" stroke-width="1.5" fill="none">
+    <path d="M300 130 q10 -8 20 0"/><path d="M395 155 q8 -8 16 0"/>
+  </g>
+  <text x="350" y="240" text-anchor="middle" font-size="13" fill="#2d2a26">互相碰撞、摩擦</text>
+  <text x="350" y="262" text-anchor="middle" font-size="11" fill="#6f6a63">稜角慢慢被磨掉</text>
+
+  <!-- stage 3 -->
+  <rect x="480" y="70" width="190" height="230" rx="12" fill="#fff" stroke="#e0d3b8" stroke-width="2"/>
+  <text x="575" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7d3a">下游</text>
+  <ellipse cx="560" cy="150" rx="24" ry="17" fill="#c2b088" stroke="#8a7350" stroke-width="2"/>
+  <circle cx="600" cy="175" r="7" fill="#c2b088" stroke="#8a7350"/>
+  <g fill="#cbbd98"><circle cx="545" cy="185" r="3"/><circle cx="565" cy="192" r="3"/><circle cx="585" cy="195" r="3"/><circle cx="555" cy="200" r="3"/></g>
+  <text x="575" y="235" text-anchor="middle" font-size="13" fill="#2d2a26">又圓又滑、又小</text>
+  <text x="575" y="257" text-anchor="middle" font-size="11" fill="#6f6a63">鵝卵石與細沙</text>
+
+  <!-- arrows -->
+  <g fill="#5a6b4a">
+    <path d="M222 185 l16 0 l-5 -6 l12 6 l-12 6 l5 -6 Z"/>
+    <path d="M447 185 l16 0 l-5 -6 l12 6 l-12 6 l5 -6 Z"/>
+  </g>
+  <text x="350" y="335" text-anchor="middle" font-size="14" font-weight="bold" fill="#c98f00">往下游 →　一路滾、一路撞，尖角就被磨掉了。</text>
+  <text x="350" y="365" text-anchor="middle" font-size="12" fill="#6f6a63">越往下游，石頭通常越圓、越小。</text>
+</svg>

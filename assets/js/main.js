@@ -25,7 +25,7 @@ const TOPICS = [
   {id:"plants-need-sunlight",title:"植物為什麼需要陽光？",grade:3,category:"plants-life",status:"published",path:"topics/grade-3/plants-need-sunlight.html",keywords:["陽光","葉子","光合作用","養分"]},
   {id:"seed-travel",title:"種子去旅行：種子的傳播大冒險",grade:3,category:"plants-life",status:"published",path:"topics/grade-3/seed-travel.html",keywords:["種子","傳播","果實"]},
   {id:"leaf-shape-code",title:"葉子的形狀密碼",grade:3,category:"plants-life",status:"published",path:"topics/grade-3/leaf-shape-code.html",keywords:["葉形","葉脈","分類"]},
-  {id:"animal-homes",title:"動物的家在哪裡？棲息地觀察",grade:3,category:"animals-insects",status:"planned",path:"",keywords:["棲息地","覓食","校園動物"]},
+  {id:"animal-homes",title:"動物的家在哪裡？棲息地觀察",grade:3,category:"animals-insects",status:"published",path:"topics/grade-3/animal-homes.html",keywords:["棲息地","覓食","校園動物"]},
   {id:"air-strongman",title:"空氣是看不見的大力士",grade:3,category:"air-water-weather",status:"published",path:"topics/grade-3/air-strongman.html",keywords:["空氣","大氣壓力","占空間"]},
   {id:"water-three-faces",title:"水的三張臉：固態、液態、氣態",grade:3,category:"air-water-weather",status:"published",path:"topics/grade-3/water-three-faces.html",keywords:["結冰","蒸發","三態"]},
   {id:"magnet-superpower",title:"磁鐵的超能力：吸與不吸",grade:3,category:"force-motion-machines",status:"published",path:"topics/grade-3/magnet-superpower.html",keywords:["磁鐵","磁極","指北針"]},
@@ -41,7 +41,7 @@ const TOPICS = [
   {id:"light-travels-straight",title:"光走直線嗎？影子的祕密",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/light-travels-straight.html",keywords:["光","直進","影子"]},
   {id:"circuit-lights-up",title:"電路接通了！燈泡為什麼會亮",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/circuit-lights-up.html",keywords:["電路","電池","導體","開關"]},
   {id:"moon-changing-face",title:"月亮為什麼會變臉？",grade:4,category:"earth-resources",status:"published",path:"topics/grade-4/moon-changing-face.html",keywords:["月相","滿月","農曆"]},
-  {id:"river-sculptor",title:"河流是大地的雕刻家",grade:4,category:"earth-resources",status:"planned",path:"",keywords:["河流","侵蝕","堆積","地形"]},
+  {id:"river-sculptor",title:"河流是大地的雕刻家",grade:4,category:"earth-resources",status:"published",path:"topics/grade-4/river-sculptor.html",keywords:["河流","侵蝕","堆積","地形"]},
   {id:"what-is-force",title:"力是什麼？推推拉拉的科學",grade:4,category:"force-motion-machines",status:"planned",path:"",keywords:["力","推","拉","形變"]},
 
   {id:"how-heat-travels",title:"熱為什麼會傳來傳去？",grade:5,category:"matter-heat-change",status:"published",path:"topics/grade-5/how-heat-travels.html",keywords:["熱","傳導","對流","輻射","保溫"]},
@@ -52,7 +52,7 @@ const TOPICS = [
   {id:"friction-friend-or-foe",title:"力與運動：摩擦力是敵人還是朋友？",grade:5,category:"force-motion-machines",status:"published",path:"topics/grade-5/friction-friend-or-foe.html",keywords:["摩擦力","接觸面","輪子"]},
   {id:"plant-reproduction",title:"植物的繁殖大作戰",grade:5,category:"plants-life",status:"published",path:"topics/grade-5/plant-reproduction.html",keywords:["繁殖","花","傳粉","扦插"]},
   {id:"sun-shadow-clock",title:"太陽的位置與影子時鐘",grade:5,category:"earth-resources",status:"planned",path:"",keywords:["太陽","影子","方位","日晷"]},
-  {id:"pitch-and-volume",title:"聲音的高低大小從哪裡來？",grade:5,category:"sound-light-electricity",status:"planned",path:"",keywords:["音量","音調","振動","樂器"]},
+  {id:"pitch-and-volume",title:"聲音的高低大小從哪裡來？",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/pitch-and-volume.html",keywords:["音量","音調","振動","樂器"]},
   {id:"animals-in-winter",title:"動物如何度過寒冬？",grade:5,category:"animals-insects",status:"planned",path:"",keywords:["冬眠","遷徙","適應"]},
 
   {id:"food-chain-story",title:"食物鏈是誰吃誰的故事嗎？",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/food-chain-story.html",keywords:["食物鏈","生產者","消費者","分解者","能量"]},
@@ -61,7 +61,7 @@ const TOPICS = [
   {id:"how-typhoon-grows",title:"天氣系統：颱風是怎麼長大的？",grade:6,category:"air-water-weather",status:"published",path:"topics/grade-6/how-typhoon-grows.html",keywords:["颱風","低氣壓","衛星雲圖","防災"]},
   {id:"earthquake-and-plates",title:"大地的變動：地震與板塊",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/earthquake-and-plates.html",keywords:["地震","板塊","斷層","防災"]},
   {id:"energy-journey",title:"能量的旅行：能量轉換與守恆",grade:6,category:"matter-heat-change",status:"published",path:"topics/grade-6/energy-journey.html",keywords:["能量","轉換","太陽能"]},
-  {id:"ecosystem-balance",title:"生態系的平衡與外來種入侵",grade:6,category:"ecology-sustainability",status:"planned",path:"",keywords:["生態系","外來種","族群","平衡"]},
+  {id:"ecosystem-balance",title:"生態系的平衡與外來種入侵",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/ecosystem-balance.html",keywords:["生態系","外來種","族群","平衡"]},
   {id:"one-earth-sustainability",title:"我們只有一個地球：資源與永續",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/one-earth-sustainability.html",keywords:["資源","永續","減塑","節能"]},
   {id:"rock-mineral-story",title:"岩石與礦物的身世之謎",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["岩石","礦物","沉積","火成"]},
   {id:"how-scientists-think",title:"科學家怎麼想？從問題到結論的探究之路",grade:6,category:"inquiry-methods",status:"planned",path:"",keywords:["假設","實驗","證據","科學方法"]}

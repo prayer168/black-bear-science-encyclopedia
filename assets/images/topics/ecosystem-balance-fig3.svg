@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf6ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f6b3a">保護生態平衡，我可以這樣做</text>
+
+  <g>
+    <rect x="30" y="70" width="195" height="130" rx="12" fill="#fff" stroke="#c7e0c9" stroke-width="2"/>
+    <text x="127" y="118" text-anchor="middle" font-size="34">🚫🐢</text>
+    <text x="127" y="152" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6b3a">不隨意放生</text>
+    <text x="127" y="176" text-anchor="middle" font-size="11" fill="#6f6a63">放生外來種害生態</text>
+  </g>
+  <g>
+    <rect x="252" y="70" width="195" height="130" rx="12" fill="#fff" stroke="#c7e0c9" stroke-width="2"/>
+    <text x="350" y="118" text-anchor="middle" font-size="34">🏠❤️</text>
+    <text x="350" y="152" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6b3a">不棄養寵物</text>
+    <text x="350" y="176" text-anchor="middle" font-size="11" fill="#6f6a63">養了就負責到底</text>
+  </g>
+  <g>
+    <rect x="474" y="70" width="196" height="130" rx="12" fill="#fff" stroke="#c7e0c9" stroke-width="2"/>
+    <text x="572" y="118" text-anchor="middle" font-size="34">✈️🚫</text>
+    <text x="572" y="152" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6b3a">不亂引入</text>
+    <text x="572" y="176" text-anchor="middle" font-size="11" fill="#6f6a63">不亂帶動植物回台灣</text>
+  </g>
+  <g>
+    <rect x="140" y="220" width="195" height="130" rx="12" fill="#fff" stroke="#c7e0c9" stroke-width="2"/>
+    <text x="237" y="268" text-anchor="middle" font-size="34">🌳🐛</text>
+    <text x="237" y="302" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6b3a">保護原生棲地</text>
+    <text x="237" y="326" text-anchor="middle" font-size="11" fill="#6f6a63">讓本地生物有家</text>
+  </g>
+  <g>
+    <rect x="362" y="220" width="195" height="130" rx="12" fill="#fff" stroke="#c7e0c9" stroke-width="2"/>
+    <text x="459" y="268" text-anchor="middle" font-size="34">📢👩‍🏫</text>
+    <text x="459" y="302" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6b3a">發現通報</text>
+    <text x="459" y="326" text-anchor="middle" font-size="11" fill="#6f6a63">交專業單位處理，勿自行捕捉</text>
+  </g>
+
+  <text x="350" y="384" text-anchor="middle" font-size="13" font-weight="bold" fill="#a8531e">💡 被破壞的環境極難恢復——預防勝於補救！</text>
+</svg>

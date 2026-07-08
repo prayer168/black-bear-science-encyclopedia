@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf6ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f6b3a">池塘食物網與動態平衡</text>
+
+  <!-- nodes -->
+  <g font-size="26" text-anchor="middle">
+    <g><circle cx="120" cy="300" r="34" fill="#d6ebc4" stroke="#5a8a3a" stroke-width="2"/><text x="120" y="310">🌿</text></g>
+    <g><circle cx="300" cy="320" r="34" fill="#cfe0f2" stroke="#2f7fc1" stroke-width="2"/><text x="300" y="330">🐟</text></g>
+    <g><circle cx="260" cy="180" r="34" fill="#d9f0d0" stroke="#4f9a52" stroke-width="2"/><text x="260" y="190">🐸</text></g>
+    <g><circle cx="450" cy="250" r="34" fill="#efe0cc" stroke="#b8894a" stroke-width="2"/><text x="450" y="260">🐍</text></g>
+    <g><circle cx="470" cy="110" r="34" fill="#f3ead6" stroke="#c9a44a" stroke-width="2"/><text x="470" y="120">🦅</text></g>
+    <g><circle cx="140" cy="150" r="30" fill="#e6ddcf" stroke="#8a7a5a" stroke-width="2"/><text x="140" y="159" font-size="20">🍄</text></g>
+  </g>
+  <g font-size="11" fill="#2d2a26" text-anchor="middle">
+    <text x="120" y="348">水草（生產者）</text>
+    <text x="300" y="366">小魚</text>
+    <text x="260" y="230">青蛙</text>
+    <text x="450" y="298">蛇</text>
+    <text x="470" y="158">白鷺（高階消費者）</text>
+    <text x="140" y="192">分解者</text>
+  </g>
+
+  <!-- food web arrows: from eaten -> eater (energy flow) -->
+  <defs><marker id="eb" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#5a8a3a"/></marker></defs>
+  <g stroke="#5a8a3a" stroke-width="2.5" fill="none" marker-end="url(#eb)">
+    <path d="M148 278 C200 250 230 220 250 205"/>   <!-- 水草->青蛙(食藻) -->
+    <path d="M150 295 C210 300 250 310 268 315"/>   <!-- 水草->小魚 -->
+    <path d="M295 288 C285 250 275 220 268 210"/>   <!-- 小魚->青蛙 -->
+    <path d="M290 200 C350 210 400 230 428 240"/>   <!-- 青蛙->蛇 -->
+    <path d="M330 300 C390 280 420 265 435 258"/>   <!-- 小魚->蛇(局部) -->
+    <path d="M462 220 C470 180 470 150 470 144"/>   <!-- 蛇->白鷺 -->
+    <path d="M285 158 C360 130 420 118 438 114"/>   <!-- 青蛙->白鷺 -->
+  </g>
+  <text x="350" y="70" text-anchor="middle" font-size="11" fill="#5a8a3a">箭頭方向＝能量流向（被吃 → 吃它）</text>
+
+  <!-- dynamic balance mini panel -->
+  <rect x="500" y="300" width="185" height="88" rx="10" fill="#fff" stroke="#c7e0c9" stroke-width="2"/>
+  <text x="592" y="322" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f6b3a">動態平衡</text>
+  <text x="592" y="343" text-anchor="middle" font-size="11" fill="#2d2a26">兔多 → 狐多 → 兔回穩</text>
+  <text x="592" y="362" text-anchor="middle" font-size="11" fill="#2d2a26">數量互相牽制、自動調節</text>
+  <text x="592" y="380" text-anchor="middle" font-size="10" fill="#6f6a63">起伏但維持一定範圍</text>
+</svg>

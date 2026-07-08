@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#4a6b32">一個好的家，要有三樣東西</text>
+
+  <!-- center home -->
+  <circle cx="350" cy="205" r="62" fill="#fff6e0" stroke="#d8b45a" stroke-width="3"/>
+  <text x="350" y="195" text-anchor="middle" font-size="34">🏠</text>
+  <text x="350" y="228" text-anchor="middle" font-size="14" font-weight="bold" fill="#a8722a">棲息地</text>
+  <text x="350" y="246" text-anchor="middle" font-size="11" fill="#6f6a63">動物的家</text>
+
+  <!-- three needs -->
+  <g>
+    <rect x="60" y="90" width="170" height="100" rx="14" fill="#fff" stroke="#c7e0b8" stroke-width="2"/>
+    <text x="100" y="140" text-anchor="middle" font-size="30">🍃</text>
+    <text x="170" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#4a9a3f">食物</text>
+    <text x="170" y="152" text-anchor="middle" font-size="11" fill="#6f6a63">吃得到東西</text>
+  </g>
+  <g>
+    <rect x="470" y="90" width="170" height="100" rx="14" fill="#fff" stroke="#b8d6ea" stroke-width="2"/>
+    <text x="510" y="140" text-anchor="middle" font-size="30">💧</text>
+    <text x="580" y="130" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">水</text>
+    <text x="580" y="152" text-anchor="middle" font-size="11" fill="#6f6a63">喝得到水</text>
+  </g>
+  <g>
+    <rect x="265" y="300" width="170" height="90" rx="14" fill="#fff" stroke="#e0cdb0" stroke-width="2"/>
+    <text x="305" y="350" text-anchor="middle" font-size="28">🕳️</text>
+    <text x="375" y="340" text-anchor="middle" font-size="15" font-weight="bold" fill="#a8722a">遮蔽</text>
+    <text x="375" y="362" text-anchor="middle" font-size="11" fill="#6f6a63">能躲藏、休息、養小孩</text>
+  </g>
+
+  <!-- connectors -->
+  <g stroke="#b7a77e" stroke-width="2" stroke-dasharray="4 4">
+    <line x1="230" y1="150" x2="292" y2="180"/>
+    <line x1="470" y1="150" x2="408" y2="180"/>
+    <line x1="350" y1="267" x2="350" y2="300"/>
+  </g>
+
+  <text x="350" y="392" text-anchor="middle" font-size="13" font-weight="bold" fill="#4a6b32">哪裡同時有吃的、喝的、能躲的，動物就住在那裡。</text>
+</svg>

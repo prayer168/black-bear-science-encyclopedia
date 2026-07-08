@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f0ecfa"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a4a8a">音量看振幅、音調看快慢（是兩回事）</text>
+
+  <!-- top: volume = amplitude -->
+  <text x="350" y="66" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">音量（大小聲）＝振動幅度</text>
+  <!-- big amplitude -->
+  <rect x="40" y="80" width="290" height="95" rx="10" fill="#fff" stroke="#ddd3ef" stroke-width="2"/>
+  <line x1="55" y1="127" x2="315" y2="127" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M55 127 Q80 88 105 127 T155 127 T205 127 T255 127 T305 127" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+  <text x="185" y="165" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">振幅大 → 大聲 🔊</text>
+  <!-- small amplitude -->
+  <rect x="370" y="80" width="290" height="95" rx="10" fill="#fff" stroke="#ddd3ef" stroke-width="2"/>
+  <line x1="385" y1="127" x2="645" y2="127" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M385 127 Q410 112 435 127 T485 127 T535 127 T585 127 T635 127" fill="none" stroke="#e58fb4" stroke-width="2.5"/>
+  <text x="515" y="165" text-anchor="middle" font-size="13" font-weight="bold" fill="#a85a7a">振幅小 → 小聲 🔉</text>
+
+  <!-- bottom: pitch = frequency -->
+  <text x="350" y="222" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">音調（高低音）＝振動快慢</text>
+  <!-- fast = high -->
+  <rect x="40" y="236" width="290" height="95" rx="10" fill="#fff" stroke="#ddd3ef" stroke-width="2"/>
+  <line x1="55" y1="283" x2="315" y2="283" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M55 283 Q66 258 77 283 T99 283 T121 283 T143 283 T165 283 T187 283 T209 283 T231 283 T253 283 T275 283 T297 283" fill="none" stroke="#2f7fc1" stroke-width="2.5"/>
+  <text x="185" y="321" text-anchor="middle" font-size="13" font-weight="bold" fill="#2f7fc1">振動快（波密）→ 高音 ⬆</text>
+  <!-- slow = low -->
+  <rect x="370" y="236" width="290" height="95" rx="10" fill="#fff" stroke="#ddd3ef" stroke-width="2"/>
+  <line x1="385" y1="283" x2="645" y2="283" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M385 283 Q420 258 455 283 T525 283 T595 283 T665 283" fill="none" stroke="#2f5b7c" stroke-width="2.5"/>
+  <text x="515" y="321" text-anchor="middle" font-size="13" font-weight="bold" fill="#2f5b7c">振動慢（波疏）→ 低音 ⬇</text>
+
+  <text x="350" y="362" text-anchor="middle" font-size="13" font-weight="bold" fill="#5a4a8a">大小聲看「振得多大」，高低音看「振得多快」，互不相干。</text>
+  <text x="350" y="386" text-anchor="middle" font-size="11" fill="#6f6a63">所以可以「大聲唱低音」，也可以「小聲唱高音」。</text>
+</svg>

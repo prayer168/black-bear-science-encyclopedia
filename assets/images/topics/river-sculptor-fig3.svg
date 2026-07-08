@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7fb"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a6b4a">河流沖砂盤實驗</text>
+
+  <!-- tilted tray -->
+  <g transform="rotate(-9 350 220)">
+    <rect x="110" y="150" width="480" height="150" rx="10" fill="#e7dcc4" stroke="#b8a37c" stroke-width="3"/>
+    <!-- sand pile top -->
+    <path d="M130 200 C170 165 230 160 280 175 L280 200 Z" fill="#cdb488"/>
+    <text x="185" y="192" text-anchor="middle" font-size="12" fill="#7a6340">濕砂「山」</text>
+    <!-- water channel eroded -->
+    <path d="M175 178 C220 200 320 220 460 245" fill="none" stroke="#5aa3d6" stroke-width="7" stroke-linecap="round"/>
+    <path d="M180 175 C220 192 300 205 400 215" fill="none" stroke="#8a7350" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <!-- deposition fan bottom -->
+    <path d="M430 245 C470 240 520 250 560 275 C520 285 470 285 440 270 Z" fill="#cdb488"/>
+    <text x="510" y="272" text-anchor="middle" font-size="11" fill="#7a6340">堆積扇形</text>
+  </g>
+
+  <!-- water pour -->
+  <text x="150" y="95" font-size="26">🫗</text>
+  <path d="M168 110 C172 130 170 150 176 168" fill="none" stroke="#5aa3d6" stroke-width="3" stroke-dasharray="4 3"/>
+
+  <!-- labels -->
+  <rect x="35" y="230" width="150" height="40" rx="8" fill="#fff" stroke="#cddff0" stroke-width="2"/>
+  <text x="110" y="255" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">① 侵蝕：沖出水道</text>
+  <rect x="270" y="330" width="150" height="40" rx="8" fill="#fff" stroke="#cddff0" stroke-width="2"/>
+  <text x="345" y="355" text-anchor="middle" font-size="13" font-weight="bold" fill="#c98f00">② 搬運：帶走砂</text>
+  <rect x="510" y="315" width="160" height="40" rx="8" fill="#fff" stroke="#cddff0" stroke-width="2"/>
+  <text x="590" y="340" text-anchor="middle" font-size="13" font-weight="bold" fill="#2f7d3a">③ 堆積：砂堆下方</text>
+
+  <rect x="470" y="60" width="205" height="66" rx="10" fill="#fff8ec" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="572" y="84" text-anchor="middle" font-size="12" font-weight="bold" fill="#a85a1e">變因：倒水快慢／坡度</text>
+  <text x="572" y="106" text-anchor="middle" font-size="11" fill="#2d2a26">倒愈快 → 侵蝕搬運愈強</text>
+
+  <text x="350" y="392" text-anchor="middle" font-size="12" fill="#2f5b7c">水由高往低，幾分鐘就看到河流雕刻大地的三招。</text>
+</svg>

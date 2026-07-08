@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <defs>
+    <linearGradient id="rsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfeaf7"/><stop offset="1" stop-color="#eef7fb"/></linearGradient>
+  </defs>
+  <rect width="700" height="400" fill="url(#rsky)"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a6b4a">河流的三招：刮下來、帶著走、放下來</text>
+
+  <!-- terrain slope -->
+  <path d="M0 400 L0 150 L230 150 C330 200 430 260 700 300 L700 400 Z" fill="#c9b58a"/>
+  <path d="M0 150 L230 150 L120 90 Z" fill="#a7c48f" stroke="#7fa066"/>
+  <!-- river -->
+  <path d="M110 100 C140 160 150 210 240 240 C360 280 480 300 700 320" fill="none" stroke="#5aa3d6" stroke-width="10" stroke-linecap="round"/>
+  <!-- sea -->
+  <rect x="600" y="300" width="100" height="100" fill="#7fbfe6"/>
+
+  <!-- section 1 upstream erosion -->
+  <rect x="30" y="70" width="180" height="70" rx="10" fill="#fff" stroke="#e0d3b8" stroke-width="2" opacity="0.95"/>
+  <text x="120" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">上游·侵蝕</text>
+  <text x="120" y="118" text-anchor="middle" font-size="11" fill="#2d2a26">坡陡水急，刮下岩石泥沙</text>
+  <text x="120" y="134" text-anchor="middle" font-size="11" fill="#6f6a63">刻出深谷</text>
+
+  <!-- section 2 transport -->
+  <rect x="255" y="150" width="180" height="70" rx="10" fill="#fff" stroke="#e0d3b8" stroke-width="2" opacity="0.95"/>
+  <text x="345" y="175" text-anchor="middle" font-size="15" font-weight="bold" fill="#c98f00">中游·搬運</text>
+  <text x="345" y="198" text-anchor="middle" font-size="11" fill="#2d2a26">帶著泥沙石子往下游</text>
+  <text x="345" y="214" text-anchor="middle" font-size="11" fill="#6f6a63">石頭一路被磨圓</text>
+
+  <!-- section 3 deposition -->
+  <rect x="480" y="230" width="190" height="70" rx="10" fill="#fff" stroke="#e0d3b8" stroke-width="2" opacity="0.95"/>
+  <text x="575" y="255" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7d3a">下游·堆積</text>
+  <text x="575" y="278" text-anchor="middle" font-size="11" fill="#2d2a26">水變慢，放下泥沙</text>
+  <text x="575" y="294" text-anchor="middle" font-size="11" fill="#6f6a63">形成平原、三角洲</text>
+
+  <!-- flow arrow -->
+  <path d="M130 120 C160 175 220 210 300 235" fill="none" stroke="#2f7fc1" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="655" y="360" text-anchor="middle" font-size="12" fill="#2f5b7c">出海</text>
+
+  <text x="350" y="388" text-anchor="middle" font-size="13" font-weight="bold" fill="#5a6b4a">水由高流到低，一路侵蝕、搬運，最後堆積。</text>
+</svg>
