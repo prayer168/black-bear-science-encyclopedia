@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <defs>
+    <linearGradient id="ssky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bfe0f5"/><stop offset="1" stop-color="#fdf3e0"/></linearGradient>
+  </defs>
+  <rect width="700" height="400" fill="url(#ssky)"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8531e">太陽一天的視運動與影子</text>
+
+  <!-- sun arc -->
+  <path d="M90 300 Q350 60 610 300" fill="none" stroke="#e0a800" stroke-width="2" stroke-dasharray="6 6"/>
+  <!-- sun positions -->
+  <circle cx="110" cy="250" r="20" fill="#ffd45e"/><text x="110" y="257" text-anchor="middle" font-size="16">☀️</text>
+  <text x="110" y="290" text-anchor="middle" font-size="11" fill="#a8531e">早上（東·低）</text>
+  <circle cx="350" cy="95" r="22" fill="#ffd45e"/><text x="350" y="103" text-anchor="middle" font-size="18">☀️</text>
+  <text x="350" y="70" text-anchor="middle" font-size="11" fill="#a8531e">中午（最高）</text>
+  <circle cx="590" cy="250" r="20" fill="#ffd45e"/><text x="590" y="257" text-anchor="middle" font-size="16">☀️</text>
+  <text x="590" y="290" text-anchor="middle" font-size="11" fill="#a8531e">傍晚（西·低）</text>
+
+  <!-- ground -->
+  <rect x="0" y="320" width="700" height="80" fill="#cdb187"/>
+  <line x1="0" y1="320" x2="700" y2="320" stroke="#a8895f" stroke-width="2"/>
+
+  <!-- pole in center -->
+  <rect x="346" y="270" width="8" height="50" fill="#8a6a3f"/>
+  <!-- shadows from center pole -->
+  <!-- morning shadow to the west (left), long -->
+  <polygon points="346,320 350,320 220,340 210,338" fill="#7c6a4a" opacity="0.55"/>
+  <text x="235" y="358" text-anchor="middle" font-size="11" fill="#5a4a2a">早上影子朝西·長</text>
+  <!-- noon shadow short (north / down small) -->
+  <polygon points="346,320 354,320 356,345 344,345" fill="#5a4a2a" opacity="0.6"/>
+  <text x="350" y="360" text-anchor="middle" font-size="11" fill="#5a4a2a">中午·最短</text>
+  <!-- evening shadow to the east (right), long -->
+  <polygon points="350,320 354,320 490,340 480,338" fill="#7c6a4a" opacity="0.55"/>
+  <text x="470" y="358" text-anchor="middle" font-size="11" fill="#5a4a2a">傍晚影子朝東·長</text>
+
+  <!-- compass -->
+  <text x="40" y="335" font-size="12" font-weight="bold" fill="#2f5b7c">西</text>
+  <text x="655" y="335" font-size="12" font-weight="bold" fill="#2f5b7c">東</text>
+
+  <text x="350" y="392" text-anchor="middle" font-size="13" font-weight="bold" fill="#a8531e">太陽走到哪，影子指向相反邊；太陽越高，影子越短。</text>
+</svg>

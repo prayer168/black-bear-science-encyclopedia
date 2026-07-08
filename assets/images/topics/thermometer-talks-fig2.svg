@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff2ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8531e">溫度計怎麼「說話」：熱脹冷縮</text>
+
+  <!-- three thermometers -->
+  <!-- cold -->
+  <g>
+    <rect x="120" y="90" width="18" height="180" rx="9" fill="#fff" stroke="#7fb0d6" stroke-width="2"/>
+    <rect x="122" y="220" width="14" height="48" fill="#2f7fc1"/>
+    <circle cx="129" cy="276" r="14" fill="#2f7fc1"/>
+    <text x="129" y="305" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f7fc1">冷</text>
+    <text x="129" y="326" text-anchor="middle" font-size="11" fill="#6f6a63">液柱低</text>
+    <text x="129" y="345" text-anchor="middle" font-size="20">🧊</text>
+  </g>
+  <!-- normal -->
+  <g>
+    <rect x="341" y="90" width="18" height="180" rx="9" fill="#fff" stroke="#7fb0d6" stroke-width="2"/>
+    <rect x="343" y="175" width="14" height="93" fill="#c98f00"/>
+    <circle cx="350" cy="276" r="14" fill="#c98f00"/>
+    <text x="350" y="305" text-anchor="middle" font-size="14" font-weight="bold" fill="#c98f00">常溫</text>
+    <text x="350" y="326" text-anchor="middle" font-size="11" fill="#6f6a63">液柱中</text>
+    <text x="350" y="345" text-anchor="middle" font-size="20">🌤️</text>
+  </g>
+  <!-- hot -->
+  <g>
+    <rect x="562" y="90" width="18" height="180" rx="9" fill="#fff" stroke="#7fb0d6" stroke-width="2"/>
+    <rect x="564" y="110" width="14" height="158" fill="#c0392b"/>
+    <circle cx="571" cy="276" r="14" fill="#c0392b"/>
+    <text x="571" y="305" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">熱</text>
+    <text x="571" y="326" text-anchor="middle" font-size="11" fill="#6f6a63">液柱高</text>
+    <text x="571" y="345" text-anchor="middle" font-size="20">🔥</text>
+  </g>
+
+  <!-- rising arrow -->
+  <path d="M180 250 L520 130" stroke="#a8531e" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#tup)"/>
+  <text x="350" y="205" text-anchor="middle" font-size="12" fill="#a8531e">愈熱 → 液體膨脹 → 液柱愈高</text>
+  <defs><marker id="tup" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#a8531e"/></marker></defs>
+
+  <!-- reference points -->
+  <rect x="30" y="70" width="70" height="40" rx="8" fill="#eaf4fb" stroke="#7fb0d6"/>
+  <text x="65" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f7fc1">0°C</text>
+  <text x="65" y="103" text-anchor="middle" font-size="10" fill="#6f6a63">水結冰</text>
+  <rect x="600" y="70" width="70" height="40" rx="8" fill="#fbeae6" stroke="#c0392b"/>
+  <text x="635" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">100°C</text>
+  <text x="635" y="103" text-anchor="middle" font-size="10" fill="#6f6a63">水沸騰</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="13" font-weight="bold" fill="#a8531e">液體熱脹冷縮，柱子高低就是溫度。</text>
+</svg>

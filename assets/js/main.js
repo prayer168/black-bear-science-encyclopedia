@@ -30,12 +30,12 @@ const TOPICS = [
   {id:"water-three-faces",title:"水的三張臉：固態、液態、氣態",grade:3,category:"air-water-weather",status:"published",path:"topics/grade-3/water-three-faces.html",keywords:["結冰","蒸發","三態"]},
   {id:"magnet-superpower",title:"磁鐵的超能力：吸與不吸",grade:3,category:"force-motion-machines",status:"published",path:"topics/grade-3/magnet-superpower.html",keywords:["磁鐵","磁極","指北針"]},
   {id:"kitchen-dissolving",title:"廚房裡的溶解魔法",grade:3,category:"matter-heat-change",status:"published",path:"topics/grade-3/kitchen-dissolving.html",keywords:["溶解","糖","鹽","水溶液"]},
-  {id:"thermometer-talks",title:"溫度計會說話：冷熱怎麼量",grade:3,category:"matter-heat-change",status:"planned",path:"",keywords:["溫度","攝氏","測量"]},
+  {id:"thermometer-talks",title:"溫度計會說話：冷熱怎麼量",grade:3,category:"matter-heat-change",status:"published",path:"topics/grade-3/thermometer-talks.html",keywords:["溫度","攝氏","測量"]},
   {id:"campus-observer",title:"校園裡的小小觀察家",grade:3,category:"inquiry-methods",status:"published",path:"topics/grade-3/campus-observer.html",keywords:["觀察","紀錄","放大鏡"]},
 
   {id:"why-insects-six-legs",title:"昆蟲為什麼有六隻腳？",grade:4,category:"animals-insects",status:"published",path:"topics/grade-4/why-insects-six-legs.html",keywords:["昆蟲","六隻腳","頭胸腹","蜘蛛"]},
   {id:"insect-metamorphosis",title:"昆蟲的變身魔術：完全變態與不完全變態",grade:4,category:"animals-insects",status:"published",path:"topics/grade-4/insect-metamorphosis.html",keywords:["變態","蛹","蝴蝶"]},
-  {id:"weather-reporter-secret",title:"天氣預報員的祕密",grade:4,category:"air-water-weather",status:"planned",path:"",keywords:["天氣","氣溫","風向","雲"]},
+  {id:"weather-reporter-secret",title:"天氣預報員的祕密",grade:4,category:"air-water-weather",status:"published",path:"topics/grade-4/weather-reporter-secret.html",keywords:["天氣","氣溫","風向","雲"]},
   {id:"where-does-water-go",title:"水往哪裡去？蒸發與凝結",grade:4,category:"air-water-weather",status:"published",path:"topics/grade-4/where-does-water-go.html",keywords:["蒸發","凝結","水循環"]},
   {id:"how-sound-reaches-ears",title:"聲音是怎麼跑到耳朵裡的？",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/how-sound-reaches-ears.html",keywords:["振動","傳播","介質"]},
   {id:"light-travels-straight",title:"光走直線嗎？影子的祕密",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/light-travels-straight.html",keywords:["光","直進","影子"]},
@@ -51,7 +51,7 @@ const TOPICS = [
   {id:"dissolving-fast-slow",title:"溶解的快與慢：科學偵探的變因實驗",grade:5,category:"inquiry-methods",status:"published",path:"topics/grade-5/dissolving-fast-slow.html",keywords:["操縱變因","控制變因","公平測試"]},
   {id:"friction-friend-or-foe",title:"力與運動：摩擦力是敵人還是朋友？",grade:5,category:"force-motion-machines",status:"published",path:"topics/grade-5/friction-friend-or-foe.html",keywords:["摩擦力","接觸面","輪子"]},
   {id:"plant-reproduction",title:"植物的繁殖大作戰",grade:5,category:"plants-life",status:"published",path:"topics/grade-5/plant-reproduction.html",keywords:["繁殖","花","傳粉","扦插"]},
-  {id:"sun-shadow-clock",title:"太陽的位置與影子時鐘",grade:5,category:"earth-resources",status:"planned",path:"",keywords:["太陽","影子","方位","日晷"]},
+  {id:"sun-shadow-clock",title:"太陽的位置與影子時鐘",grade:5,category:"earth-resources",status:"published",path:"topics/grade-5/sun-shadow-clock.html",keywords:["太陽","影子","方位","日晷"]},
   {id:"pitch-and-volume",title:"聲音的高低大小從哪裡來？",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/pitch-and-volume.html",keywords:["音量","音調","振動","樂器"]},
   {id:"animals-in-winter",title:"動物如何度過寒冬？",grade:5,category:"animals-insects",status:"published",path:"topics/grade-5/animals-in-winter.html",keywords:["冬眠","遷徙","適應"]},
 
@@ -64,7 +64,7 @@ const TOPICS = [
   {id:"ecosystem-balance",title:"生態系的平衡與外來種入侵",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/ecosystem-balance.html",keywords:["生態系","外來種","族群","平衡"]},
   {id:"one-earth-sustainability",title:"我們只有一個地球：資源與永續",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/one-earth-sustainability.html",keywords:["資源","永續","減塑","節能"]},
   {id:"rock-mineral-story",title:"岩石與礦物的身世之謎",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/rock-mineral-story.html",keywords:["岩石","礦物","沉積","火成"]},
-  {id:"how-scientists-think",title:"科學家怎麼想？從問題到結論的探究之路",grade:6,category:"inquiry-methods",status:"planned",path:"",keywords:["假設","實驗","證據","科學方法"]}
+  {id:"how-scientists-think",title:"科學家怎麼想？從問題到結論的探究之路",grade:6,category:"inquiry-methods",status:"published",path:"topics/grade-6/how-scientists-think.html",keywords:["假設","實驗","證據","科學方法"]}
 ];
 
 /* 今日科學問題 */

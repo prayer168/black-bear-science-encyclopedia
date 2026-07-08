@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff2ea"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8531e">三盆水的把戲</text>
+  <text x="350" y="56" text-anchor="middle" font-size="12" fill="#6f6a63">先泡冰／溫水，再同時放進中間的常溫水</text>
+
+  <!-- three basins -->
+  <g>
+    <ellipse cx="130" cy="180" rx="70" ry="22" fill="#bfe0f5" stroke="#5a9fd0" stroke-width="2"/>
+    <path d="M62 180 q68 55 136 0" fill="#d8eefb" stroke="#5a9fd0" stroke-width="2"/>
+    <text x="130" y="150" text-anchor="middle" font-size="24">🧊</text>
+    <text x="130" y="235" text-anchor="middle" font-size="13" font-weight="bold" fill="#2f7fc1">冰水（左手先泡）</text>
+  </g>
+  <g>
+    <ellipse cx="350" cy="200" rx="80" ry="24" fill="#e8dcc4" stroke="#c9a86a" stroke-width="2"/>
+    <path d="M270 200 q80 60 160 0" fill="#f2e8d4" stroke="#c9a86a" stroke-width="2"/>
+    <text x="350" y="258" text-anchor="middle" font-size="14" font-weight="bold" fill="#a8531e">常溫水（同一盆）</text>
+  </g>
+  <g>
+    <ellipse cx="570" cy="180" rx="70" ry="22" fill="#f6d0c0" stroke="#d08a6a" stroke-width="2"/>
+    <path d="M500 180 q70 55 140 0" fill="#fbe2d6" stroke="#d08a6a" stroke-width="2"/>
+    <text x="570" y="150" text-anchor="middle" font-size="24">♨️</text>
+    <text x="570" y="235" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">溫水（右手先泡）</text>
+  </g>
+
+  <!-- both hands into center -->
+  <path d="M150 195 C220 220 280 215 320 205" fill="none" stroke="#2f7fc1" stroke-width="2.5" marker-end="url(#th1)"/>
+  <path d="M550 195 C480 220 420 215 380 205" fill="none" stroke="#c0392b" stroke-width="2.5" marker-end="url(#th2)"/>
+  <defs>
+    <marker id="th1" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#2f7fc1"/></marker>
+    <marker id="th2" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#c0392b"/></marker>
+  </defs>
+
+  <!-- results -->
+  <rect x="120" y="295" width="200" height="60" rx="10" fill="#eaf4fb" stroke="#7fb0d6" stroke-width="2"/>
+  <text x="220" y="320" text-anchor="middle" font-size="13" fill="#2d2a26">先泡冰水的左手覺得</text>
+  <text x="220" y="342" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">「好溫暖！」</text>
+  <rect x="380" y="295" width="200" height="60" rx="10" fill="#fbeae6" stroke="#d08a6a" stroke-width="2"/>
+  <text x="480" y="320" text-anchor="middle" font-size="13" fill="#2d2a26">先泡溫水的右手覺得</text>
+  <text x="480" y="342" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">「好冰涼！」</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="13" font-weight="bold" fill="#a8531e">同一盆水，兩隻手卻感覺相反 → 感覺不可靠，要用溫度計！</text>
+</svg>

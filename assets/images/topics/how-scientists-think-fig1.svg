@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4ef"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f6b4a">科學探究的循環</text>
+
+  <!-- 5 nodes around a circle -->
+  <!-- center -->
+  <circle cx="350" cy="210" r="46" fill="#fff8e6" stroke="#e0c06a" stroke-width="2"/>
+  <text x="350" y="205" text-anchor="middle" font-size="26">🔬</text>
+  <text x="350" y="232" text-anchor="middle" font-size="12" font-weight="bold" fill="#a8860a">科學家的思路</text>
+
+  <!-- node 1 top -->
+  <g>
+    <circle cx="350" cy="80" r="42" fill="#fff" stroke="#5a9fd0" stroke-width="2"/>
+    <text x="350" y="72" text-anchor="middle" font-size="20">👀</text>
+    <text x="350" y="92" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f7fc1">① 觀察定題</text>
+    <text x="350" y="108" text-anchor="middle" font-size="9" fill="#6f6a63">咦，為什麼？</text>
+  </g>
+  <!-- node 2 right -->
+  <g>
+    <circle cx="560" cy="150" r="42" fill="#fff" stroke="#c98f00" stroke-width="2"/>
+    <text x="560" y="142" text-anchor="middle" font-size="20">💡</text>
+    <text x="560" y="162" text-anchor="middle" font-size="12" font-weight="bold" fill="#c98f00">② 提出假設</text>
+    <text x="560" y="178" text-anchor="middle" font-size="9" fill="#6f6a63">我猜是因為…</text>
+  </g>
+  <!-- node 3 bottom right -->
+  <g>
+    <circle cx="490" cy="330" r="42" fill="#fff" stroke="#4f9a52" stroke-width="2"/>
+    <text x="490" y="322" text-anchor="middle" font-size="20">⚗️</text>
+    <text x="490" y="342" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f7d3a">③ 公平實驗</text>
+    <text x="490" y="358" text-anchor="middle" font-size="9" fill="#6f6a63">只改一變因</text>
+  </g>
+  <!-- node 4 bottom left -->
+  <g>
+    <circle cx="210" cy="330" r="42" fill="#fff" stroke="#c0392b" stroke-width="2"/>
+    <text x="210" y="322" text-anchor="middle" font-size="20">📊</text>
+    <text x="210" y="342" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">④ 蒐集證據</text>
+    <text x="210" y="358" text-anchor="middle" font-size="9" fill="#6f6a63">數據、紀錄</text>
+  </g>
+  <!-- node 5 left -->
+  <g>
+    <circle cx="140" cy="150" r="42" fill="#fff" stroke="#7d5aa8" stroke-width="2"/>
+    <text x="140" y="142" text-anchor="middle" font-size="20">🗣️</text>
+    <text x="140" y="162" text-anchor="middle" font-size="12" font-weight="bold" fill="#7d5aa8">⑤ 結論分享</text>
+    <text x="140" y="178" text-anchor="middle" font-size="9" fill="#6f6a63">據證據下結論</text>
+  </g>
+
+  <!-- circular arrows -->
+  <g stroke="#8a9a7a" stroke-width="2.5" fill="none" marker-end="url(#hc)">
+    <path d="M392 88 A140 140 0 0 1 545 108"/>
+    <path d="M566 192 A140 140 0 0 1 520 296"/>
+    <path d="M448 348 A140 140 0 0 1 252 348"/>
+    <path d="M180 296 A140 140 0 0 1 132 192"/>
+    <path d="M155 110 A140 140 0 0 1 308 68"/>
+  </g>
+  <defs><marker id="hc" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#8a9a7a"/></marker></defs>
+
+  <text x="350" y="392" text-anchor="middle" font-size="12" fill="#2f6b4a">從問題出發，靠證據前進，結論又常帶出新問題。</text>
+</svg>

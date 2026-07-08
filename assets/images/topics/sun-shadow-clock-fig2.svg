@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#0e1830"/>
+  <text x="350" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#ffe08a">其實是「地球在自轉」</text>
+
+  <!-- sun fixed left -->
+  <circle cx="90" cy="200" r="48" fill="#ffd45e"/>
+  <g stroke="#ffd45e" stroke-width="3">
+    <line x1="150" y1="200" x2="200" y2="200"/><line x1="150" y1="160" x2="195" y2="150"/><line x1="150" y1="240" x2="195" y2="250"/>
+  </g>
+  <text x="90" y="270" text-anchor="middle" font-size="13" fill="#ffe08a">太陽（不動）</text>
+  <!-- sunlight rays to earth -->
+  <g stroke="#ffe08a" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.7">
+    <line x1="150" y1="180" x2="360" y2="180"/><line x1="150" y1="200" x2="360" y2="200"/><line x1="150" y1="220" x2="360" y2="220"/>
+  </g>
+
+  <!-- earth -->
+  <circle cx="450" cy="200" r="90" fill="#2f6b8a" stroke="#5a9fd0" stroke-width="2"/>
+  <path d="M410 150 q30 10 20 40 q-20 20 10 50 M470 155 q-10 40 25 45" fill="#4f9a52" opacity="0.8"/>
+  <!-- day/night divider -->
+  <path d="M450 110 A90 90 0 0 1 450 290 Z" fill="#0e1830" opacity="0.45"/>
+  <text x="405" y="120" font-size="11" fill="#fff">白天</text>
+  <text x="485" y="120" font-size="11" fill="#aab">黑夜</text>
+
+  <!-- rotation arrow (west to east) -->
+  <path d="M450 95 A105 105 0 0 1 555 200" fill="none" stroke="#ffb347" stroke-width="3" marker-end="url(#se)"/>
+  <text x="560" y="150" font-size="12" fill="#ffb347">自轉</text>
+  <text x="560" y="168" font-size="10" fill="#ffb347">（自西向東）</text>
+  <defs><marker id="se" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#ffb347"/></marker></defs>
+
+  <!-- little person on day side -->
+  <circle cx="360" cy="200" r="5" fill="#fff"/>
+  <text x="360" y="185" text-anchor="middle" font-size="16">🧍</text>
+  <text x="335" y="235" font-size="10" fill="#fff">站在地球上的我們</text>
+
+  <text x="350" y="345" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffe08a">真正在轉的是地球（一天一圈），</text>
+  <text x="350" y="372" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffe08a">我們才覺得太陽在天空由東向西移動。</text>
+</svg>

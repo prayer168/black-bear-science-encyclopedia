@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff2ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8531e">感覺會騙人，溫度計才準</text>
+
+  <!-- same cup of water center -->
+  <path d="M310 200 h80 l-8 110 h-64 Z" fill="#dbeefb" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="350" cy="200" rx="40" ry="10" fill="#bfe0f5" stroke="#7fb0d6"/>
+  <text x="350" y="335" text-anchor="middle" font-size="13" font-weight="bold" fill="#2f5b7c">同一杯水</text>
+
+  <!-- person left: feels hot -->
+  <circle cx="120" cy="130" r="34" fill="#ffe0d0" stroke="#e0a080" stroke-width="2"/>
+  <text x="120" y="140" text-anchor="middle" font-size="28">😰</text>
+  <text x="120" y="185" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">「好燙！」</text>
+  <path d="M154 150 C210 175 260 195 305 210" fill="none" stroke="#e0a080" stroke-width="2" stroke-dasharray="5 4"/>
+
+  <!-- person right: feels fine -->
+  <circle cx="580" cy="130" r="34" fill="#e0f0e0" stroke="#80c080" stroke-width="2"/>
+  <text x="580" y="140" text-anchor="middle" font-size="28">😊</text>
+  <text x="580" y="185" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f7d3a">「剛剛好」</text>
+  <path d="M546 150 C490 175 440 195 395 210" fill="none" stroke="#80c080" stroke-width="2" stroke-dasharray="5 4"/>
+
+  <!-- thermometer with number -->
+  <rect x="300" y="350" width="100" height="4" fill="none"/>
+  <g>
+    <rect x="470" y="240" width="16" height="80" rx="8" fill="#fff" stroke="#c0392b" stroke-width="2"/>
+    <rect x="472" y="285" width="12" height="33" fill="#c0392b"/>
+    <circle cx="478" cy="326" r="12" fill="#c0392b"/>
+    <text x="500" y="290" font-size="20" font-weight="bold" fill="#c0392b">40°C</text>
+    <text x="500" y="312" font-size="12" fill="#6f6a63">確定的數字</text>
+  </g>
+  <path d="M395 250 C430 250 450 260 468 270" fill="none" stroke="#c0392b" stroke-width="2"/>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#a8531e">感覺人人不同，溫度計說了算。</text>
+</svg>
