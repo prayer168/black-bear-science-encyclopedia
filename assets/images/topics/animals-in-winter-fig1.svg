@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf1f7"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a5b7c">又冷又餓，動物各出奇招</text>
+
+  <!-- center: two challenges -->
+  <circle cx="350" cy="205" r="60" fill="#dbe8f2" stroke="#7fa8c9" stroke-width="3"/>
+  <text x="350" y="188" text-anchor="middle" font-size="26">❄️🍽️</text>
+  <text x="350" y="212" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a5b7c">冬天難關</text>
+  <text x="350" y="230" text-anchor="middle" font-size="11" fill="#6f6a63">太冷 ＋ 食物少</text>
+
+  <!-- four strategies -->
+  <g>
+    <rect x="55" y="70" width="180" height="90" rx="12" fill="#fff" stroke="#cdddea" stroke-width="2"/>
+    <text x="90" y="118" text-anchor="middle" font-size="28">🐸</text>
+    <text x="160" y="105" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f7d3a">冬眠</text>
+    <text x="160" y="128" text-anchor="middle" font-size="11" fill="#6f6a63">躲起來睡過冬</text>
+    <text x="160" y="146" text-anchor="middle" font-size="10" fill="#6f6a63">青蛙、蛇、瓢蟲</text>
+  </g>
+  <g>
+    <rect x="465" y="70" width="180" height="90" rx="12" fill="#fff" stroke="#cdddea" stroke-width="2"/>
+    <text x="500" y="118" text-anchor="middle" font-size="28">🕊️</text>
+    <text x="570" y="105" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f7fc1">遷徙</text>
+    <text x="570" y="128" text-anchor="middle" font-size="11" fill="#6f6a63">飛去溫暖南方</text>
+    <text x="570" y="146" text-anchor="middle" font-size="10" fill="#6f6a63">燕子等候鳥</text>
+  </g>
+  <g>
+    <rect x="55" y="250" width="180" height="90" rx="12" fill="#fff" stroke="#cdddea" stroke-width="2"/>
+    <text x="90" y="298" text-anchor="middle" font-size="28">🦊</text>
+    <text x="160" y="285" text-anchor="middle" font-size="14" font-weight="bold" fill="#c98f00">換厚毛</text>
+    <text x="160" y="308" text-anchor="middle" font-size="11" fill="#6f6a63">長出濃密冬毛保暖</text>
+    <text x="160" y="326" text-anchor="middle" font-size="10" fill="#6f6a63">狐狸、兔子</text>
+  </g>
+  <g>
+    <rect x="465" y="250" width="180" height="90" rx="12" fill="#fff" stroke="#cdddea" stroke-width="2"/>
+    <text x="500" y="298" text-anchor="middle" font-size="28">🐿️</text>
+    <text x="570" y="285" text-anchor="middle" font-size="14" font-weight="bold" fill="#a8531e">儲存食物</text>
+    <text x="570" y="308" text-anchor="middle" font-size="11" fill="#6f6a63">秋天存糧慢慢吃</text>
+    <text x="570" y="326" text-anchor="middle" font-size="10" fill="#6f6a63">松鼠、蜜蜂</text>
+  </g>
+
+  <!-- connectors -->
+  <g stroke="#a9c1d6" stroke-width="2" stroke-dasharray="4 3">
+    <line x1="235" y1="115" x2="300" y2="175"/>
+    <line x1="465" y1="115" x2="400" y2="175"/>
+    <line x1="235" y1="295" x2="300" y2="235"/>
+    <line x1="465" y1="295" x2="400" y2="235"/>
+  </g>
+
+  <text x="350" y="384" text-anchor="middle" font-size="12" fill="#3a5b7c">每種辦法都配合牠的身體和食物，是適應環境的本領。</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff4ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8531e">糖溶進水裡的過程</text>
+
+  <!-- three glasses -->
+  <g>
+    <!-- glass 1: cube dropping -->
+    <path d="M60 120 h130 l-12 180 h-106 Z" fill="#d8ecfa" stroke="#7fb0d6" stroke-width="2" opacity="0.7"/>
+    <rect x="105" y="150" width="34" height="34" rx="4" fill="#fff" stroke="#d8c48a" stroke-width="2"/>
+    <text x="125" y="330" text-anchor="middle" font-size="13" fill="#2d2a26">① 方糖入水</text>
+  </g>
+  <g>
+    <!-- glass 2: dissolving -->
+    <path d="M285 120 h130 l-12 180 h-106 Z" fill="#dbeefb" stroke="#7fb0d6" stroke-width="2" opacity="0.7"/>
+    <g fill="#caa24a" opacity="0.85">
+      <circle cx="330" cy="180" r="5"/><circle cx="355" cy="200" r="4"/><circle cx="345" cy="230" r="3"/>
+      <circle cx="370" cy="215" r="4"/><circle cx="320" cy="215" r="3"/><circle cx="360" cy="250" r="3"/>
+    </g>
+    <text x="350" y="330" text-anchor="middle" font-size="13" fill="#2d2a26">② 糖散開變小</text>
+  </g>
+  <g>
+    <!-- glass 3: uniform -->
+    <path d="M510 120 h130 l-12 180 h-106 Z" fill="#f6e9cf" stroke="#7fb0d6" stroke-width="2" opacity="0.8"/>
+    <g fill="#c9a24a" opacity="0.55">
+      <circle cx="540" cy="165" r="2"/><circle cx="565" cy="180" r="2"/><circle cx="590" cy="170" r="2"/><circle cx="615" cy="185" r="2"/>
+      <circle cx="550" cy="205" r="2"/><circle cx="575" cy="220" r="2"/><circle cx="600" cy="210" r="2"/><circle cx="620" cy="230" r="2"/>
+      <circle cx="545" cy="250" r="2"/><circle cx="570" cy="260" r="2"/><circle cx="595" cy="255" r="2"/><circle cx="612" cy="270" r="2"/>
+    </g>
+    <text x="575" y="330" text-anchor="middle" font-size="13" fill="#2d2a26">③ 均勻分散</text>
+    <text x="575" y="352" text-anchor="middle" font-size="12" font-weight="bold" fill="#c98f00">水變甜！</text>
+  </g>
+
+  <!-- arrows -->
+  <g fill="#a8531e">
+    <path d="M200 210 l22 0 l-6 -7 l16 7 l-16 7 l6 -7 Z"/>
+    <path d="M425 210 l22 0 l-6 -7 l16 7 l-16 7 l6 -7 Z"/>
+  </g>
+
+  <text x="350" y="384" text-anchor="middle" font-size="13" font-weight="bold" fill="#a8531e">糖散成看不見的小顆粒，躲進水裡，不是消失。</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f2efe6"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b5a3a">岩石由礦物組成</text>
+
+  <!-- rock chunk -->
+  <path d="M110 120 L250 100 L300 200 L240 300 L110 290 L70 200 Z" fill="#cbbfa0" stroke="#8a7a52" stroke-width="3"/>
+  <!-- mineral grains inside -->
+  <circle cx="140" cy="160" r="18" fill="#e8e0d0" stroke="#b8a87a"/>
+  <circle cx="200" cy="150" r="16" fill="#f2d0d0" stroke="#c98a8a"/>
+  <rect x="165" y="195" width="30" height="24" rx="3" fill="#3a3a3a" stroke="#111"/>
+  <circle cx="240" cy="210" r="15" fill="#e8e0d0" stroke="#b8a87a"/>
+  <circle cx="150" cy="235" r="16" fill="#f2d0d0" stroke="#c98a8a"/>
+  <rect x="195" y="245" width="26" height="20" rx="3" fill="#3a3a3a" stroke="#111"/>
+  <text x="185" y="330" text-anchor="middle" font-size="13" font-weight="bold" fill="#6b5a3a">一塊岩石（花崗岩）</text>
+
+  <!-- legend -->
+  <rect x="380" y="90" width="290" height="160" rx="12" fill="#fff" stroke="#e0d6bc" stroke-width="2"/>
+  <text x="525" y="116" text-anchor="middle" font-size="14" font-weight="bold" fill="#6b5a3a">裡面的礦物顆粒</text>
+  <circle cx="410" cy="145" r="12" fill="#e8e0d0" stroke="#b8a87a"/><text x="435" y="150" font-size="12" fill="#2d2a26">石英（白/透明、硬）</text>
+  <circle cx="410" cy="180" r="12" fill="#f2d0d0" stroke="#c98a8a"/><text x="435" y="185" font-size="12" fill="#2d2a26">長石（粉/白）</text>
+  <rect x="399" y="203" width="22" height="18" rx="3" fill="#3a3a3a" stroke="#111"/><text x="435" y="217" font-size="12" fill="#2d2a26">雲母（黑亮、片狀）</text>
+
+  <!-- brick-house metaphor -->
+  <rect x="380" y="270" width="290" height="90" rx="12" fill="#fff8e6" stroke="#f0dca8" stroke-width="2"/>
+  <text x="525" y="298" text-anchor="middle" font-size="14" font-weight="bold" fill="#a8531e">💡 礦物是磚頭，岩石是房子</text>
+  <text x="440" y="330" text-anchor="middle" font-size="22">🧱</text>
+  <text x="470" y="332" font-size="16">＋🧱＋🧱 →</text>
+  <text x="600" y="332" text-anchor="middle" font-size="24">🏠</text>
+
+  <text x="185" y="90" text-anchor="middle" font-size="12" fill="#8a7a52">放大看，裡面是不同礦物顆粒 →</text>
+</svg>

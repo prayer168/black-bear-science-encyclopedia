@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf1f7"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a5b7c">冬眠：把身體調到「省電模式」</text>
+
+  <!-- left: normal -->
+  <rect x="35" y="70" width="290" height="230" rx="12" fill="#fff" stroke="#cdddea" stroke-width="2"/>
+  <text x="180" y="98" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">平常（活動中）</text>
+  <text x="180" y="135" text-anchor="middle" font-size="30">🐿️</text>
+  <g font-size="13" fill="#2d2a26">
+    <text x="70" y="180">❤️ 心跳</text><text x="250" y="180" text-anchor="end" font-weight="bold" fill="#c0392b">快</text>
+    <text x="70" y="215">💨 呼吸</text><text x="250" y="215" text-anchor="end" font-weight="bold" fill="#c0392b">快</text>
+    <text x="70" y="250">🌡️ 體溫</text><text x="250" y="250" text-anchor="end" font-weight="bold" fill="#c0392b">高</text>
+    <text x="70" y="285">🏃 活動</text><text x="250" y="285" text-anchor="end" font-weight="bold" fill="#c0392b">多</text>
+  </g>
+
+  <!-- arrow -->
+  <text x="350" y="195" text-anchor="middle" font-size="24" fill="#3a5b7c">➜</text>
+
+  <!-- right: hibernation -->
+  <rect x="375" y="70" width="290" height="230" rx="12" fill="#eef4f9" stroke="#a9c1d6" stroke-width="2"/>
+  <text x="520" y="98" text-anchor="middle" font-size="16" font-weight="bold" fill="#2f6b7c">冬眠（省電模式）</text>
+  <text x="520" y="135" text-anchor="middle" font-size="30">😴</text>
+  <g font-size="13" fill="#2d2a26">
+    <text x="410" y="180">❤️ 心跳</text><text x="595" y="180" text-anchor="end" font-weight="bold" fill="#2f7d3a">很低 ↓</text>
+    <text x="410" y="215">💨 呼吸</text><text x="595" y="215" text-anchor="end" font-weight="bold" fill="#2f7d3a">很慢 ↓</text>
+    <text x="410" y="250">🌡️ 體溫</text><text x="595" y="250" text-anchor="end" font-weight="bold" fill="#2f7d3a">很低 ↓</text>
+    <text x="410" y="285">🏃 活動</text><text x="595" y="285" text-anchor="end" font-weight="bold" fill="#2f7d3a">幾乎不動 ↓</text>
+  </g>
+
+  <rect x="90" y="320" width="520" height="50" rx="10" fill="#fff8e6" stroke="#f0dca8" stroke-width="2"/>
+  <text x="350" y="342" text-anchor="middle" font-size="13" font-weight="bold" fill="#a8531e">冬眠前要先「吃胖」、找到安全溫暖的窩</text>
+  <text x="350" y="361" text-anchor="middle" font-size="12" fill="#2d2a26">靠秋天存下的能量，撐過好幾個月——不是隨便一躺就行！</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff4ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8531e">可溶 vs 不可溶，各站一隊</text>
+
+  <!-- left team: soluble -->
+  <rect x="25" y="60" width="315" height="300" rx="12" fill="#eaf7ee" stroke="#c7e0c9" stroke-width="2"/>
+  <text x="182" y="88" text-anchor="middle" font-size="16" font-weight="bold" fill="#2f7d3a">可溶（散進水裡）</text>
+  <g>
+    <path d="M70 130 h80 l-8 120 h-64 Z" fill="#f3e9d0" stroke="#7fb0d6" stroke-width="2" opacity="0.8"/>
+    <g fill="#c9a24a" opacity="0.5"><circle cx="90" cy="160" r="2"/><circle cx="115" cy="175" r="2"/><circle cx="100" cy="200" r="2"/><circle cx="125" cy="215" r="2"/><circle cx="95" cy="235" r="2"/></g>
+    <text x="102" y="272" text-anchor="middle" font-size="12" fill="#2d2a26">糖</text>
+  </g>
+  <g>
+    <path d="M200 130 h80 l-8 120 h-64 Z" fill="#f1f6df" stroke="#7fb0d6" stroke-width="2" opacity="0.8"/>
+    <g fill="#a0a0a0" opacity="0.4"><circle cx="220" cy="165" r="2"/><circle cx="245" cy="180" r="2"/><circle cx="230" cy="205" r="2"/><circle cx="255" cy="220" r="2"/></g>
+    <text x="232" y="272" text-anchor="middle" font-size="12" fill="#2d2a26">鹽</text>
+  </g>
+  <text x="182" y="305" text-anchor="middle" font-size="12" fill="#2f7d3a">水變清澈均勻、變甜或變鹹</text>
+  <text x="182" y="332" text-anchor="middle" font-size="11" fill="#6f6a63">例：糖、鹽、咖啡、蜂蜜</text>
+
+  <!-- right team: insoluble -->
+  <rect x="360" y="60" width="315" height="300" rx="12" fill="#fbeee6" stroke="#e6d3b8" stroke-width="2"/>
+  <text x="517" y="88" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">不可溶（沉底／浮上）</text>
+  <g>
+    <!-- sand sinks -->
+    <path d="M405 130 h80 l-8 120 h-64 Z" fill="#d8ecfa" stroke="#7fb0d6" stroke-width="2" opacity="0.7"/>
+    <path d="M400 235 h74 l-4 15 h-66 Z" fill="#c9a877"/>
+    <g fill="#a8895f"><circle cx="420" cy="238" r="2.5"/><circle cx="445" cy="240" r="2.5"/><circle cx="460" cy="237" r="2.5"/></g>
+    <text x="437" y="272" text-anchor="middle" font-size="12" fill="#2d2a26">沙（沉底）</text>
+  </g>
+  <g>
+    <!-- oil floats -->
+    <path d="M540 130 h80 l-8 120 h-64 Z" fill="#d8ecfa" stroke="#7fb0d6" stroke-width="2" opacity="0.7"/>
+    <path d="M540 138 h78 l-2 20 h-74 Z" fill="#f2d86a" opacity="0.85"/>
+    <text x="577" y="272" text-anchor="middle" font-size="12" fill="#2d2a26">油（浮上）</text>
+  </g>
+  <text x="517" y="305" text-anchor="middle" font-size="12" fill="#c0392b">不會散進水裡</text>
+  <text x="517" y="332" text-anchor="middle" font-size="11" fill="#6f6a63">例：沙、食用油、胡椒粒</text>
+
+  <text x="350" y="382" text-anchor="middle" font-size="12" fill="#a8531e">有的躲進水裡（可溶），有的沉底或浮上（不可溶）。</text>
+</svg>

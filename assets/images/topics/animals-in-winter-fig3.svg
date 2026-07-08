@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf1f7"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a5b7c">保暖大挑戰</text>
+  <text x="350" y="58" text-anchor="middle" font-size="12" fill="#6f6a63">同樣的溫水，包不同材料，比誰降溫最慢</text>
+
+  <!-- 4 bottles -->
+  <g>
+    <rect x="55" y="150" width="60" height="120" rx="8" fill="#dbeefb" stroke="#7fb0d6" stroke-width="2"/>
+    <line x1="85" y1="120" x2="85" y2="200" stroke="#c0392b" stroke-width="2"/><circle cx="85" cy="205" r="6" fill="#c0392b"/>
+    <text x="85" y="292" text-anchor="middle" font-size="12" fill="#2d2a26">不包</text>
+    <text x="85" y="310" text-anchor="middle" font-size="10" font-weight="bold" fill="#c0392b">降最快</text>
+    <text x="85" y="140" text-anchor="middle" font-size="10" fill="#6f6a63">對照組</text>
+  </g>
+  <g>
+    <rect x="200" y="150" width="60" height="120" rx="8" fill="#f2f2ec" stroke="#c9c4b0" stroke-width="8"/>
+    <line x1="230" y1="120" x2="230" y2="200" stroke="#c0392b" stroke-width="2"/><circle cx="230" cy="205" r="6" fill="#c0392b"/>
+    <text x="230" y="292" text-anchor="middle" font-size="12" fill="#2d2a26">棉花</text>
+    <text x="230" y="310" text-anchor="middle" font-size="10" font-weight="bold" fill="#2f7d3a">降較慢</text>
+  </g>
+  <g>
+    <rect x="345" y="150" width="60" height="120" rx="8" fill="#dbeefb" stroke="#b8b8b8" stroke-width="6"/>
+    <line x1="375" y1="120" x2="375" y2="200" stroke="#c0392b" stroke-width="2"/><circle cx="375" cy="205" r="6" fill="#c0392b"/>
+    <text x="375" y="292" text-anchor="middle" font-size="12" fill="#2d2a26">鋁箔</text>
+  </g>
+  <g>
+    <rect x="490" y="150" width="60" height="120" rx="8" fill="#efe4d6" stroke="#caa877" stroke-width="9"/>
+    <line x1="520" y1="120" x2="520" y2="200" stroke="#c0392b" stroke-width="2"/><circle cx="520" cy="205" r="6" fill="#c0392b"/>
+    <text x="520" y="292" text-anchor="middle" font-size="12" fill="#2d2a26">毛巾</text>
+    <text x="520" y="310" text-anchor="middle" font-size="10" font-weight="bold" fill="#2f7d3a">降較慢</text>
+  </g>
+
+  <!-- note -->
+  <rect x="580" y="150" width="95" height="120" rx="10" fill="#fff8e6" stroke="#f0dca8" stroke-width="2"/>
+  <text x="627" y="180" text-anchor="middle" font-size="11" font-weight="bold" fill="#a8531e">變因</text>
+  <text x="627" y="202" text-anchor="middle" font-size="10" fill="#2d2a26">只改</text>
+  <text x="627" y="218" text-anchor="middle" font-size="10" fill="#2d2a26">包的材料</text>
+  <text x="627" y="244" text-anchor="middle" font-size="10" fill="#c0392b">⚠️用溫水</text>
+  <text x="627" y="260" text-anchor="middle" font-size="10" fill="#c0392b">勿用滾水</text>
+
+  <text x="350" y="352" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a5b7c">蓬鬆材料困住空氣、減少散熱——就像動物的厚毛與溫暖的窩。</text>
+</svg>

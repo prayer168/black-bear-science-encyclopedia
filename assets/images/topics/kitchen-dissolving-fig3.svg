@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff4ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8531e">糖水蒸發，糖又現身了！</text>
+  <text x="350" y="60" text-anchor="middle" font-size="13" fill="#6f6a63">☀️ 放在窗邊，讓水慢慢蒸發</text>
+
+  <!-- step 1: full sugar water -->
+  <g>
+    <path d="M70 130 h120 l-10 130 h-100 Z" fill="#f6e9cf" stroke="#7fb0d6" stroke-width="2" opacity="0.85"/>
+    <g fill="#c9a24a" opacity="0.5"><circle cx="100" cy="165" r="2"/><circle cx="130" cy="180" r="2"/><circle cx="155" cy="170" r="2"/><circle cx="110" cy="210" r="2"/><circle cx="145" cy="225" r="2"/><circle cx="120" cy="245" r="2"/></g>
+    <text x="130" y="290" text-anchor="middle" font-size="12" fill="#2d2a26">① 一杯糖水</text>
+  </g>
+  <!-- step 2: less water -->
+  <g>
+    <path d="M290 130 h120 l-10 130 h-100 Z" fill="#f0ddb8" stroke="#7fb0d6" stroke-width="2" opacity="0.5"/>
+    <path d="M298 205 h104 l-6 55 h-92 Z" fill="#f0ddb8" stroke="#7fb0d6" stroke-width="1.5" opacity="0.9"/>
+    <g fill="#c9a24a" opacity="0.7"><circle cx="330" cy="225" r="2.5"/><circle cx="360" cy="235" r="2.5"/><circle cx="345" cy="248" r="2.5"/><circle cx="375" cy="245" r="2.5"/></g>
+    <g stroke="#7fb0d6" stroke-width="1.5" opacity="0.6" fill="none"><path d="M320 120 q4 -10 0 -18"/><path d="M360 118 q4 -10 0 -18"/></g>
+    <text x="350" y="290" text-anchor="middle" font-size="12" fill="#2d2a26">② 水慢慢變少</text>
+  </g>
+  <!-- step 3: crystals -->
+  <g>
+    <path d="M510 130 h120 l-10 130 h-100 Z" fill="#eef7fb" stroke="#7fb0d6" stroke-width="2" opacity="0.4"/>
+    <path d="M525 245 h92 l-3 15 h-86 Z" fill="#fff" stroke="#d8c48a" stroke-width="1.5"/>
+    <g fill="#fff" stroke="#d8c48a" stroke-width="1">
+      <rect x="540" y="235" width="9" height="9" rx="1"/><rect x="558" y="238" width="8" height="8" rx="1"/>
+      <rect x="575" y="234" width="10" height="10" rx="1"/><rect x="595" y="238" width="8" height="8" rx="1"/>
+    </g>
+    <text x="570" y="290" text-anchor="middle" font-size="12" fill="#2d2a26">③ 杯底出現糖結晶</text>
+    <text x="570" y="312" text-anchor="middle" font-size="13" font-weight="bold" fill="#c98f00">糖回來了！</text>
+  </g>
+
+  <g fill="#a8531e">
+    <path d="M198 195 l22 0 l-6 -7 l16 7 l-16 7 l6 -7 Z"/>
+    <path d="M418 195 l22 0 l-6 -7 l16 7 l-16 7 l6 -7 Z"/>
+  </g>
+
+  <text x="350" y="360" text-anchor="middle" font-size="14" font-weight="bold" fill="#a8531e">水乾了，躲起來的糖又現身——證明糖從沒消失。</text>
+</svg>

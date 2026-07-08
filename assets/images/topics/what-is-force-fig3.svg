@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef0f5"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a4a6b">力的三要素，用箭頭表示</text>
+
+  <!-- left: force arrows on a ball -->
+  <rect x="25" y="60" width="380" height="300" rx="12" fill="#fff" stroke="#d3d8e6" stroke-width="2"/>
+  <circle cx="150" cy="210" r="34" fill="#fff" stroke="#333" stroke-width="2"/>
+  <!-- big force -->
+  <line x1="184" y1="210" x2="330" y2="210" stroke="#c0392b" stroke-width="6" marker-end="url(#f3)"/>
+  <text x="260" y="198" text-anchor="middle" font-size="12" fill="#c0392b">力大 → 箭頭長</text>
+  <!-- small force -->
+  <line x1="150" y1="176" x2="150" y2="120" stroke="#2f7fc1" stroke-width="4" marker-end="url(#f3b)"/>
+  <text x="150" y="110" text-anchor="middle" font-size="11" fill="#2f7fc1">方向 = 箭頭指向</text>
+  <!-- action point -->
+  <circle cx="184" cy="210" r="4" fill="#c98f00"/>
+  <text x="235" y="245" text-anchor="middle" font-size="11" fill="#c98f00">作用點 = 起點</text>
+  <text x="215" y="330" text-anchor="middle" font-size="12" font-weight="bold" fill="#3a4a6b">長短＝大小　箭頭＝方向　起點＝作用點</text>
+
+  <!-- right: balanced forces on a book -->
+  <rect x="420" y="60" width="255" height="300" rx="12" fill="#fff" stroke="#d3d8e6" stroke-width="2"/>
+  <text x="547" y="90" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7d3a">靜止 = 力平衡</text>
+  <!-- table -->
+  <rect x="470" y="250" width="155" height="14" fill="#b98b5a"/>
+  <line x1="485" y1="264" x2="485" y2="310" stroke="#b98b5a" stroke-width="8"/>
+  <line x1="610" y1="264" x2="610" y2="310" stroke="#b98b5a" stroke-width="8"/>
+  <!-- book -->
+  <rect x="512" y="222" width="70" height="28" rx="3" fill="#7fa8d6" stroke="#4f7fae" stroke-width="1.5"/>
+  <text x="547" y="241" text-anchor="middle" font-size="12" fill="#fff">書</text>
+  <!-- gravity down -->
+  <line x1="547" y1="200" x2="547" y2="150" stroke="#c0392b" stroke-width="4" marker-end="url(#f3)"/>
+  <text x="547" y="140" text-anchor="middle" font-size="11" fill="#c0392b">重力（往下）</text>
+  <!-- support up -->
+  <line x1="500" y1="222" x2="500" y2="172" stroke="#2f7d3a" stroke-width="4" marker-end="url(#f3c)"/>
+  <text x="500" y="162" text-anchor="middle" font-size="10" fill="#2f7d3a">桌面撐（往上）</text>
+  <text x="547" y="335" text-anchor="middle" font-size="11" fill="#2f7d3a">兩力等大、反向 → 平衡不動</text>
+
+  <defs>
+    <marker id="f3" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#c0392b"/></marker>
+    <marker id="f3b" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#2f7fc1"/></marker>
+    <marker id="f3c" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#2f7d3a"/></marker>
+  </defs>
+  <text x="350" y="384" text-anchor="middle" font-size="12" fill="#3a4a6b">用箭頭表示力：多長、往哪、從哪出發。</text>
+</svg>

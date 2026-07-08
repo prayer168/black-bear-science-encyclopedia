@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef0f5"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a4a6b">力能做的兩件事</text>
+
+  <!-- left: change motion -->
+  <rect x="25" y="60" width="320" height="300" rx="12" fill="#fff" stroke="#d3d8e6" stroke-width="2"/>
+  <text x="185" y="88" text-anchor="middle" font-size="16" font-weight="bold" fill="#2f7fc1">① 改變運動</text>
+  <!-- kick: start moving -->
+  <circle cx="90" cy="130" r="16" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <path d="M60 130 l20 0" stroke="#c0392b" stroke-width="3" marker-end="url(#f1)"/>
+  <text x="150" y="126" font-size="12" fill="#2d2a26">推 → 靜止變動</text>
+  <text x="150" y="144" font-size="10" fill="#6f6a63">踢球</text>
+  <!-- stop -->
+  <circle cx="90" cy="190" r="16" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <path d="M120 190 l-18 0" stroke="#c0392b" stroke-width="3" marker-end="url(#f1)"/>
+  <text x="150" y="186" font-size="12" fill="#2d2a26">擋 → 動變靜止</text>
+  <text x="150" y="204" font-size="10" fill="#6f6a63">守門員擋球</text>
+  <!-- turn -->
+  <circle cx="90" cy="255" r="16" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <path d="M90 280 q-4 -18 24 -22" stroke="#c0392b" stroke-width="3" fill="none" marker-end="url(#f1)"/>
+  <text x="150" y="251" font-size="12" fill="#2d2a26">改變方向</text>
+  <text x="150" y="269" font-size="10" fill="#6f6a63">反彈、轉向</text>
+  <text x="185" y="330" text-anchor="middle" font-size="11" fill="#2f7fc1">讓東西動、停、變快慢或轉向</text>
+
+  <!-- right: change shape -->
+  <rect x="355" y="60" width="320" height="300" rx="12" fill="#fff" stroke="#d3d8e6" stroke-width="2"/>
+  <text x="515" y="88" text-anchor="middle" font-size="16" font-weight="bold" fill="#c98f00">② 改變形狀</text>
+  <!-- clay squash -->
+  <circle cx="430" cy="140" r="22" fill="#d9a86a" stroke="#a8763a" stroke-width="2"/>
+  <path d="M430 108 l0 12 M430 172 l0 -12" stroke="#c0392b" stroke-width="3" marker-end="url(#f1)"/>
+  <text x="470" y="130" font-size="16">→</text>
+  <ellipse cx="560" cy="140" rx="34" ry="14" fill="#d9a86a" stroke="#a8763a" stroke-width="2"/>
+  <text x="515" y="185" text-anchor="middle" font-size="11" fill="#2d2a26">壓黏土 → 變扁</text>
+  <!-- rubber band stretch -->
+  <line x1="410" y1="240" x2="460" y2="240" stroke="#4f9a52" stroke-width="4"/>
+  <path d="M470 240 l14 0" stroke="#c0392b" stroke-width="3" marker-end="url(#f1)"/>
+  <text x="500" y="244" font-size="16">→</text>
+  <line x1="530" y1="240" x2="640" y2="240" stroke="#4f9a52" stroke-width="4"/>
+  <text x="515" y="285" text-anchor="middle" font-size="11" fill="#2d2a26">拉橡皮筋 → 變長</text>
+  <text x="515" y="330" text-anchor="middle" font-size="11" fill="#c98f00">壓、拉、捏，讓東西變形</text>
+
+  <defs><marker id="f1" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#c0392b"/></marker></defs>
+  <text x="350" y="384" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a4a6b">看到東西動、停、轉向或變形，背後就有力（推或拉）。</text>
+</svg>

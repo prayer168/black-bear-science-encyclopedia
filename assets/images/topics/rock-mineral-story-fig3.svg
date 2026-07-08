@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f2efe6"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b5a3a">礦物硬度大比拚</text>
+  <text x="350" y="58" text-anchor="middle" font-size="12" fill="#6f6a63">硬的能刮軟的——用身邊的工具比一比</text>
+
+  <!-- three tools by hardness -->
+  <g>
+    <rect x="55" y="90" width="180" height="150" rx="12" fill="#fff" stroke="#e0d6bc" stroke-width="2"/>
+    <text x="145" y="118" text-anchor="middle" font-size="30">💅</text>
+    <text x="145" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7d3a">指甲</text>
+    <text x="145" y="178" text-anchor="middle" font-size="11" fill="#6f6a63">刮得動 = 很軟</text>
+    <text x="145" y="200" text-anchor="middle" font-size="11" fill="#6f6a63">（如滑石）</text>
+    <text x="145" y="226" text-anchor="middle" font-size="12" fill="#8a531e">硬度小 →</text>
+  </g>
+  <g>
+    <rect x="260" y="90" width="180" height="150" rx="12" fill="#fff" stroke="#e0d6bc" stroke-width="2"/>
+    <circle cx="350" cy="122" r="16" fill="#c98a4a" stroke="#a8722a" stroke-width="2"/>
+    <text x="350" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#c98f00">銅板</text>
+    <text x="350" y="178" text-anchor="middle" font-size="11" fill="#6f6a63">銅板刮得動</text>
+    <text x="350" y="200" text-anchor="middle" font-size="11" fill="#6f6a63">= 中等硬度</text>
+    <text x="350" y="226" text-anchor="middle" font-size="12" fill="#8a531e">→ 中 →</text>
+  </g>
+  <g>
+    <rect x="465" y="90" width="180" height="150" rx="12" fill="#fff" stroke="#e0d6bc" stroke-width="2"/>
+    <text x="555" y="122" text-anchor="middle" font-size="26">🔩</text>
+    <text x="555" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">鐵釘</text>
+    <text x="555" y="178" text-anchor="middle" font-size="11" fill="#6f6a63">連鐵釘都刮不動</text>
+    <text x="555" y="200" text-anchor="middle" font-size="11" fill="#6f6a63">= 很硬（如石英）</text>
+    <text x="555" y="226" text-anchor="middle" font-size="12" fill="#8a531e">→ 硬度大</text>
+  </g>
+
+  <!-- scale arrow -->
+  <line x1="60" y1="262" x2="640" y2="262" stroke="#8a7a52" stroke-width="3" marker-end="url(#rh)"/>
+  <text x="70" y="282" font-size="12" fill="#2f7d3a">軟</text>
+  <text x="620" y="282" text-anchor="end" font-size="12" fill="#c0392b">硬</text>
+  <defs><marker id="rh" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="#8a7a52"/></marker></defs>
+
+  <!-- safety note -->
+  <rect x="150" y="300" width="400" height="66" rx="10" fill="#fbeee6" stroke="#e6c7a8" stroke-width="2"/>
+  <text x="350" y="326" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">⚠️ 安全：戴護目鏡、別對著人刮敲、不品嚐</text>
+  <text x="350" y="350" text-anchor="middle" font-size="12" fill="#2d2a26">把顏色、光澤、層理、硬度填進特徵表，猜它的身世！</text>
+</svg>
