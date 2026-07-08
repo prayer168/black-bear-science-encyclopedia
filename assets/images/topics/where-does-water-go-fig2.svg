@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf4fb"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f5b7c">什麼會讓蒸發變快？</text>
+
+  <!-- factor 1: temperature -->
+  <rect x="25" y="60" width="210" height="300" rx="12" fill="#fff" stroke="#cfe0ee" stroke-width="2"/>
+  <text x="130" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#e0803a">① 溫度</text>
+  <text x="80" y="130" text-anchor="middle" font-size="26">☀️</text>
+  <text x="180" y="130" text-anchor="middle" font-size="26">☁️</text>
+  <path d="M55 160 h50 l-6 14 h-38 Z" fill="#bfe0f5" stroke="#6ba8d6"/>
+  <path d="M155 160 h50 l-6 14 h-38 Z" fill="#bfe0f5" stroke="#6ba8d6"/>
+  <g fill="#e0803a"><circle cx="72" cy="150" r="2"/><circle cx="85" cy="138" r="2"/><circle cx="95" cy="150" r="2"/></g>
+  <g fill="#9bb8c9"><circle cx="180" cy="152" r="2"/></g>
+  <text x="80" y="200" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">快</text>
+  <text x="180" y="200" text-anchor="middle" font-size="13" fill="#6f6a63">慢</text>
+  <text x="130" y="255" text-anchor="middle" font-size="12" fill="#2d2a26">溫度愈高</text>
+  <text x="130" y="278" text-anchor="middle" font-size="12" fill="#2d2a26">蒸發愈快</text>
+  <text x="130" y="325" text-anchor="middle" font-size="11" fill="#8a6a3f">晴天曬太陽的水</text>
+  <text x="130" y="343" text-anchor="middle" font-size="11" fill="#8a6a3f">乾得比較快</text>
+
+  <!-- factor 2: surface area -->
+  <rect x="245" y="60" width="210" height="300" rx="12" fill="#fff" stroke="#cfe0ee" stroke-width="2"/>
+  <text x="350" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">② 表面積</text>
+  <path d="M270 150 h70 l-6 14 h-58 Z" fill="#bfe0f5" stroke="#6ba8d6"/>
+  <text x="305" y="180" text-anchor="middle" font-size="10" fill="#2f5b7c">攤開</text>
+  <rect x="395" y="140" width="26" height="30" rx="3" fill="#bfe0f5" stroke="#6ba8d6"/>
+  <text x="408" y="188" text-anchor="middle" font-size="10" fill="#2f5b7c">聚攏</text>
+  <text x="305" y="215" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">快</text>
+  <text x="408" y="215" text-anchor="middle" font-size="13" fill="#6f6a63">慢</text>
+  <text x="350" y="260" text-anchor="middle" font-size="12" fill="#2d2a26">攤得愈開</text>
+  <text x="350" y="283" text-anchor="middle" font-size="12" fill="#2d2a26">蒸發愈快</text>
+  <text x="350" y="330" text-anchor="middle" font-size="11" fill="#8a6a3f">衣服攤平比揉一團</text>
+  <text x="350" y="348" text-anchor="middle" font-size="11" fill="#8a6a3f">乾得快</text>
+
+  <!-- factor 3: wind -->
+  <rect x="465" y="60" width="210" height="300" rx="12" fill="#fff" stroke="#cfe0ee" stroke-width="2"/>
+  <text x="570" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#4f9a52">③ 風</text>
+  <text x="520" y="135" text-anchor="middle" font-size="24">🌬️</text>
+  <path d="M500 150 h50 l-6 14 h-38 Z" fill="#bfe0f5" stroke="#6ba8d6"/>
+  <path d="M605 150 h50 l-6 14 h-38 Z" fill="#bfe0f5" stroke="#6ba8d6"/>
+  <path d="M498 130 q20 -6 40 0 M500 140 q20 -6 40 0" fill="none" stroke="#4f9a52" stroke-width="1.5"/>
+  <text x="524" y="200" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">快</text>
+  <text x="630" y="200" text-anchor="middle" font-size="13" fill="#6f6a63">慢</text>
+  <text x="570" y="255" text-anchor="middle" font-size="12" fill="#2d2a26">風愈大</text>
+  <text x="570" y="278" text-anchor="middle" font-size="12" fill="#2d2a26">蒸發愈快</text>
+  <text x="570" y="325" text-anchor="middle" font-size="11" fill="#8a6a3f">風把水氣帶走，</text>
+  <text x="570" y="343" text-anchor="middle" font-size="11" fill="#8a6a3f">水就繼續蒸發</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="12" fill="#2f5b7c">實驗時記得：一次只改變一個因素（控制變因）。</text>
+</svg>

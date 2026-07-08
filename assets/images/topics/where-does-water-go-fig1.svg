@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf4fb"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f5b7c">蒸發與凝結：水的兩張臉</text>
+
+  <!-- left: evaporation -->
+  <rect x="40" y="70" width="290" height="270" rx="12" fill="#fff" stroke="#cfe0ee" stroke-width="2"/>
+  <text x="185" y="98" text-anchor="middle" font-size="16" font-weight="bold" fill="#e0803a">受熱 → 蒸發（液 → 氣）</text>
+  <text x="185" y="120" text-anchor="middle" font-size="30">☀️</text>
+  <!-- water dish -->
+  <path d="M110 300 h150 l-14 24 h-122 Z" fill="#bfe0f5" stroke="#6ba8d6" stroke-width="2"/>
+  <rect x="118" y="292" width="134" height="10" rx="4" fill="#8fc4e8"/>
+  <!-- invisible vapor: dotted -->
+  <g fill="#e0803a">
+    <circle cx="150" cy="270" r="2.5"/><circle cx="180" cy="245" r="2.5"/><circle cx="165" cy="220" r="2.5"/>
+    <circle cx="205" cy="255" r="2.5"/><circle cx="220" cy="215" r="2.5"/><circle cx="190" cy="190" r="2.5"/>
+    <circle cx="150" cy="200" r="2.5"/><circle cx="230" cy="185" r="2.5"/><circle cx="170" cy="165" r="2.5"/>
+  </g>
+  <path d="M160 285 C158 250 175 220 168 180" fill="none" stroke="#e0803a" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <path d="M210 285 C212 250 200 215 215 175" fill="none" stroke="#e0803a" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <text x="185" y="160" text-anchor="middle" font-size="11" fill="#8a6a3f">看不見的水蒸氣</text>
+
+  <!-- right: condensation -->
+  <rect x="370" y="70" width="290" height="270" rx="12" fill="#fff" stroke="#cfe0ee" stroke-width="2"/>
+  <text x="515" y="98" text-anchor="middle" font-size="16" font-weight="bold" fill="#2f7fc1">遇冷 → 凝結（氣 → 液）</text>
+  <!-- cold glass -->
+  <path d="M470 150 h90 l-8 170 h-74 Z" fill="#d8ecfa" stroke="#6ba8d6" stroke-width="2" opacity="0.85"/>
+  <rect x="470" y="150" width="90" height="8" fill="#a9d2ee"/>
+  <text x="515" y="205" text-anchor="middle" font-size="20">🧊</text>
+  <text x="515" y="235" text-anchor="middle" font-size="11" fill="#2f5b7c">冰水</text>
+  <!-- water droplets on outside -->
+  <g fill="#2f7fc1">
+    <circle cx="470" cy="185" r="4"/><circle cx="562" cy="200" r="4"/><circle cx="468" cy="235" r="5"/>
+    <circle cx="564" cy="250" r="4"/><circle cx="470" cy="285" r="4"/><circle cx="560" cy="290" r="5"/>
+  </g>
+  <!-- vapor coming in dotted -->
+  <g fill="#7fb0d6">
+    <circle cx="420" cy="200" r="2.5"/><circle cx="430" cy="230" r="2.5"/><circle cx="600" cy="215" r="2.5"/><circle cx="595" cy="255" r="2.5"/>
+  </g>
+  <text x="515" y="332" text-anchor="middle" font-size="11" fill="#8a6a3f">空氣中的水蒸氣碰到冷杯凝結成水珠</text>
+
+  <text x="350" y="378" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">💡 水沒有消失，只是在液態和氣態之間換臉。</text>
+</svg>

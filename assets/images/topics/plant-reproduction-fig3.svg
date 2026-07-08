@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f3f8ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">植物的兩大繁殖招式</text>
+
+  <!-- left: sexual (seed) -->
+  <rect x="25" y="55" width="315" height="300" rx="12" fill="#fff" stroke="#e0e6d4" stroke-width="2"/>
+  <text x="182" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#e0803a">種子繁殖（有性）</text>
+  <text x="70" y="130" text-anchor="middle" font-size="26">🌸</text>
+  <text x="150" y="128" text-anchor="middle" font-size="18">→</text>
+  <text x="215" y="130" text-anchor="middle" font-size="24">🐝</text>
+  <text x="285" y="128" text-anchor="middle" font-size="18">→</text>
+  <text x="182" y="128" text-anchor="middle" font-size="12" fill="#6f6a63"> </text>
+  <text x="70" y="150" text-anchor="middle" font-size="10" fill="#6f6a63">開花</text>
+  <text x="215" y="150" text-anchor="middle" font-size="10" fill="#6f6a63">傳粉受精</text>
+  <!-- seeds to varied seedlings -->
+  <circle cx="120" cy="185" r="8" fill="#c9a24a"/>
+  <text x="150" y="190" font-size="16">→</text>
+  <path d="M185 210 l0 -18 M185 200 l-8 -6 M185 200 l8 -6" stroke="#5a8a3a" stroke-width="2.5" fill="none"/>
+  <path d="M220 212 l0 -22 M220 202 l-9 -7 M220 202 l9 -7" stroke="#3f7d3a" stroke-width="2.5" fill="none"/>
+  <path d="M255 208 l0 -16 M255 199 l-7 -6 M255 199 l7 -6" stroke="#7fa84a" stroke-width="2.5" fill="none"/>
+  <text x="182" y="235" text-anchor="middle" font-size="11" fill="#c0392b">後代略有不同、較多樣</text>
+  <line x1="45" y1="255" x2="320" y2="255" stroke="#eee" />
+  <text x="182" y="278" text-anchor="middle" font-size="12" font-weight="bold" fill="#3f7d3a">✔ 優點</text>
+  <text x="182" y="298" text-anchor="middle" font-size="11" fill="#2d2a26">後代多樣，較能適應環境改變</text>
+  <text x="182" y="322" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">✘ 缺點</text>
+  <text x="182" y="342" text-anchor="middle" font-size="11" fill="#2d2a26">需傳粉、較慢，品質不一定相同</text>
+
+  <!-- right: asexual (vegetative) -->
+  <rect x="360" y="55" width="315" height="300" rx="12" fill="#fff" stroke="#e0e6d4" stroke-width="2"/>
+  <text x="517" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#2f7fc1">營養繁殖（無性）</text>
+  <!-- cutting -->
+  <line x1="400" y1="105" x2="400" y2="150" stroke="#5a8a3a" stroke-width="4"/>
+  <path d="M400 150 q-10 15 -6 26 M400 150 q10 15 6 26" stroke="#cbb488" stroke-width="1.5" fill="none"/>
+  <text x="400" y="195" text-anchor="middle" font-size="10" fill="#6f6a63">扦插莖</text>
+  <!-- tuber -->
+  <ellipse cx="470" cy="130" rx="22" ry="14" fill="#c98a5a" stroke="#9a663a"/>
+  <path d="M470 116 l0 -12 M462 118 l-4 -10" stroke="#5a8a3a" stroke-width="2" fill="none"/>
+  <text x="470" y="195" text-anchor="middle" font-size="10" fill="#6f6a63">塊莖/塊根</text>
+  <!-- runner -->
+  <path d="M520 145 q30 8 55 0" stroke="#5a8a3a" stroke-width="3" fill="none"/>
+  <path d="M575 145 l0 -18 M575 133 l-7 -6 M575 133 l7 -6" stroke="#3f7d3a" stroke-width="2.5" fill="none"/>
+  <text x="558" y="195" text-anchor="middle" font-size="10" fill="#6f6a63">走莖</text>
+  <text x="517" y="222" text-anchor="middle" font-size="11" fill="#2f7fc1">新株與母株一模一樣</text>
+  <line x1="380" y1="255" x2="655" y2="255" stroke="#eee"/>
+  <text x="517" y="278" text-anchor="middle" font-size="12" font-weight="bold" fill="#3f7d3a">✔ 優點</text>
+  <text x="517" y="298" text-anchor="middle" font-size="11" fill="#2d2a26">快速，保留母株優良品質</text>
+  <text x="517" y="322" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">✘ 缺點</text>
+  <text x="517" y="342" text-anchor="middle" font-size="11" fill="#2d2a26">大家基因相同，病害易一起遭殃</text>
+
+  <text x="350" y="378" text-anchor="middle" font-size="13" font-weight="bold" fill="#8a6a3f">一招求多樣、一招求快穩，植物兩招都會！</text>
+</svg>

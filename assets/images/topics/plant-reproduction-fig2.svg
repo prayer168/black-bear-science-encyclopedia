@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f3f8ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">從傳粉到結果的四步驟</text>
+
+  <!-- step 1 -->
+  <rect x="20" y="60" width="155" height="250" rx="12" fill="#fff" stroke="#e0e6d4" stroke-width="2"/>
+  <text x="97" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#e0803a">① 傳粉</text>
+  <text x="97" y="140" text-anchor="middle" font-size="34">🐝</text>
+  <path d="M70 175 q27 -20 54 0" fill="none" stroke="#e0803a" stroke-width="2" stroke-dasharray="3 3"/>
+  <g fill="#e8b84a"><circle cx="80" cy="165" r="2"/><circle cx="110" cy="165" r="2"/><circle cx="95" cy="158" r="2"/></g>
+  <path d="M85 230 C82 200 112 200 109 230 Z" fill="#f6c9de" stroke="#e58fb4"/>
+  <text x="97" y="270" text-anchor="middle" font-size="11" fill="#2d2a26">昆蟲沾花粉</text>
+  <text x="97" y="288" text-anchor="middle" font-size="11" fill="#2d2a26">帶到另一朵花</text>
+
+  <!-- step 2 -->
+  <rect x="192" y="60" width="155" height="250" rx="12" fill="#fff" stroke="#e0e6d4" stroke-width="2"/>
+  <text x="269" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#c98f00">② 花粉到柱頭</text>
+  <path d="M269 260 L269 140" stroke="#3f7d3a" stroke-width="4"/>
+  <ellipse cx="269" cy="136" rx="15" ry="8" fill="#e0a84e"/>
+  <g fill="#c98f00"><circle cx="264" cy="132" r="2.5"/><circle cx="274" cy="133" r="2.5"/><circle cx="269" cy="127" r="2.5"/></g>
+  <ellipse cx="269" cy="252" rx="20" ry="26" fill="#cfe6b8" stroke="#3f7d3a"/>
+  <text x="269" y="298" text-anchor="middle" font-size="11" fill="#2d2a26">花粉落在柱頭上</text>
+
+  <!-- step 3 -->
+  <rect x="364" y="60" width="155" height="250" rx="12" fill="#fff" stroke="#e0e6d4" stroke-width="2"/>
+  <text x="441" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#3f7d3a">③ 受精</text>
+  <path d="M441 250 L441 130" stroke="#3f7d3a" stroke-width="4"/>
+  <ellipse cx="441" cy="126" rx="15" ry="8" fill="#e0a84e"/>
+  <path d="M441 130 C438 170 438 200 441 226" fill="none" stroke="#c98f00" stroke-width="2" stroke-dasharray="4 3"/>
+  <ellipse cx="441" cy="248" rx="24" ry="30" fill="#cfe6b8" stroke="#3f7d3a"/>
+  <circle cx="435" cy="248" r="6" fill="#f2e07a" stroke="#c9a94a"/>
+  <circle cx="449" cy="252" r="6" fill="#f2e07a" stroke="#c9a94a"/>
+  <text x="441" y="300" text-anchor="middle" font-size="11" fill="#2d2a26">花粉與胚珠結合</text>
+
+  <!-- step 4 -->
+  <rect x="536" y="60" width="150" height="250" rx="12" fill="#fff" stroke="#e0e6d4" stroke-width="2"/>
+  <text x="611" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">④ 結果</text>
+  <ellipse cx="611" cy="180" rx="40" ry="55" fill="#a7d17a" stroke="#5a8a3a" stroke-width="2"/>
+  <circle cx="600" cy="170" r="6" fill="#8a5a2a"/>
+  <circle cx="620" cy="185" r="6" fill="#8a5a2a"/>
+  <circle cx="606" cy="200" r="6" fill="#8a5a2a"/>
+  <text x="611" y="270" text-anchor="middle" font-size="11" fill="#2d2a26">子房→果實</text>
+  <text x="611" y="288" text-anchor="middle" font-size="11" fill="#2d2a26">胚珠→種子</text>
+
+  <!-- arrows -->
+  <g fill="#8a6a3f">
+    <path d="M177 185 l14 0 l-4 -5 l10 5 l-10 5 l4 -5 Z"/>
+    <path d="M349 185 l14 0 l-4 -5 l10 5 l-10 5 l4 -5 Z"/>
+    <path d="M521 185 l14 0 l-4 -5 l10 5 l-10 5 l4 -5 Z"/>
+  </g>
+
+  <text x="350" y="345" text-anchor="middle" font-size="13" fill="#c0392b" font-weight="bold">先傳粉 → 再受精 → 才結果，順序不能顛倒！</text>
+  <text x="350" y="372" text-anchor="middle" font-size="12" fill="#8a6a3f">果實是由「子房」長成，不是花瓣變的。</text>
+</svg>

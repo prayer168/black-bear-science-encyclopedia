@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff4e9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#a85a1e">能量的旅行：從太陽到玩具車</text>
+
+  <!-- nodes -->
+  <g>
+    <circle cx="80" cy="150" r="42" fill="#ffe08a" stroke="#e0a800" stroke-width="2"/>
+    <text x="80" y="145" text-anchor="middle" font-size="28">☀️</text>
+    <text x="80" y="172" text-anchor="middle" font-size="11" fill="#a85a1e">太陽·光能</text>
+  </g>
+  <g>
+    <rect x="188" y="115" width="74" height="70" rx="10" fill="#d6ebc4" stroke="#5a8a3a" stroke-width="2"/>
+    <text x="225" y="152" text-anchor="middle" font-size="26">🌿</text>
+    <text x="225" y="205" text-anchor="middle" font-size="11" fill="#5a8a3a">植物·化學能</text>
+  </g>
+  <g>
+    <rect x="345" y="115" width="74" height="70" rx="10" fill="#cfe0f2" stroke="#2f7fc1" stroke-width="2"/>
+    <text x="382" y="152" text-anchor="middle" font-size="24">🔋</text>
+    <text x="382" y="205" text-anchor="middle" font-size="11" fill="#2f7fc1">電池·電能</text>
+  </g>
+  <g>
+    <rect x="502" y="115" width="74" height="70" rx="10" fill="#f3d9c4" stroke="#c07a3a" stroke-width="2"/>
+    <text x="539" y="152" text-anchor="middle" font-size="24">⚙️</text>
+    <text x="539" y="205" text-anchor="middle" font-size="11" fill="#c07a3a">馬達</text>
+  </g>
+  <g>
+    <rect x="612" y="115" width="70" height="70" rx="10" fill="#f6cdcd" stroke="#c0392b" stroke-width="2"/>
+    <text x="647" y="152" text-anchor="middle" font-size="22">🚗</text>
+    <text x="647" y="205" text-anchor="middle" font-size="11" fill="#c0392b">玩具車·動能</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#a85a1e" stroke-width="3" fill="#a85a1e">
+    <line x1="126" y1="150" x2="182" y2="150"/><path d="M182 150 l-10 -5 l0 10 Z"/>
+    <line x1="262" y1="150" x2="339" y2="150"/><path d="M339 150 l-10 -5 l0 10 Z"/>
+    <line x1="419" y1="150" x2="496" y2="150"/><path d="M496 150 l-10 -5 l0 10 Z"/>
+    <line x1="576" y1="150" x2="606" y2="150"/><path d="M606 150 l-10 -5 l0 10 Z"/>
+  </g>
+
+  <!-- heat loss wavy arrows going down -->
+  <g stroke="#e8743b" stroke-width="2" fill="none">
+    <path d="M225 250 q6 10 0 20 q-6 10 0 20"/>
+    <path d="M382 250 q6 10 0 20 q-6 10 0 20"/>
+    <path d="M539 250 q6 10 0 20 q-6 10 0 20"/>
+    <path d="M647 250 q6 10 0 20 q-6 10 0 20"/>
+  </g>
+  <g fill="#e8743b" font-size="11">
+    <text x="225" y="315" text-anchor="middle">熱</text>
+    <text x="382" y="315" text-anchor="middle">熱</text>
+    <text x="539" y="315" text-anchor="middle">熱</text>
+    <text x="647" y="315" text-anchor="middle">熱</text>
+  </g>
+  <text x="120" y="300" font-size="12" fill="#e8743b">每一步都散出一些熱 →</text>
+
+  <text x="350" y="352" text-anchor="middle" font-size="13" font-weight="bold" fill="#a85a1e">能量不會消失，只是一路變身去旅行，並散出一些熱。</text>
+  <text x="350" y="378" text-anchor="middle" font-size="12" fill="#6f6a63">從頭到尾，能量的「總量」始終守恆。</text>
+</svg>

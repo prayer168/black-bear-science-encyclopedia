@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">一片葉子的各部位</text>
+
+  <!-- leaf blade -->
+  <path d="M300 90 C400 110 430 210 360 320 C300 300 250 210 300 90 Z" fill="#a9d6a0" stroke="#4f9a52" stroke-width="3"/>
+  <!-- main vein -->
+  <path d="M330 100 C330 190 345 260 358 315" fill="none" stroke="#2f7d3a" stroke-width="3"/>
+  <!-- side veins -->
+  <path d="M331 140 C360 150 380 165 395 185" fill="none" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M331 140 C300 150 285 165 272 188" fill="none" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M335 185 C365 195 385 210 400 232" fill="none" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M335 185 C305 195 290 210 278 235" fill="none" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M342 235 C368 245 384 258 396 278" fill="none" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M342 235 C318 245 305 258 296 278" fill="none" stroke="#4f9a52" stroke-width="2"/>
+  <!-- petiole -->
+  <line x1="358" y1="315" x2="372" y2="360" stroke="#8a6a3f" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- labels -->
+  <line x1="360" y1="120" x2="470" y2="110" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="476" y="114" font-size="14" fill="#2d2a26">葉尖</text>
+  <line x1="410" y1="200" x2="500" y2="200" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="506" y="196" font-size="14" fill="#2d2a26">葉片（葉身）</text>
+  <text x="506" y="216" font-size="11" fill="#6f6a63">製造養分的地方</text>
+  <line x1="330" y1="230" x2="210" y2="230" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="120" y="226" font-size="14" fill="#2d2a26">主脈</text>
+  <text x="120" y="245" font-size="11" fill="#6f6a63">中間最粗的脈</text>
+  <line x1="393" y1="185" x2="500" y2="150" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="506" y="150" font-size="14" fill="#2d2a26">側脈</text>
+  <line x1="280" y1="188" x2="180" y2="165" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="90" y="162" font-size="14" fill="#2d2a26">側脈</text>
+  <line x1="300" y1="140" x2="200" y2="120" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="120" y="116" font-size="14" fill="#2d2a26">葉緣</text>
+  <text x="120" y="135" font-size="11" fill="#6f6a63">葉子的邊緣</text>
+  <line x1="360" y1="318" x2="470" y2="330" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="476" y="322" font-size="14" fill="#2d2a26">葉基</text>
+  <line x1="368" y1="350" x2="470" y2="368" stroke="#6b4f3a" stroke-width="1.5"/>
+  <text x="476" y="366" font-size="14" fill="#2d2a26">葉柄</text>
+  <text x="476" y="385" font-size="11" fill="#6f6a63">連著莖，運送通道</text>
+
+  <text x="30" y="392" font-size="12" fill="#8a6a3f">葉脈負責運送水分與養分，也撐住葉片。</text>
+</svg>

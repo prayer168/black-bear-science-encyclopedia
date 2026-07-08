@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef8ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">葉子偵探的特徵卡</text>
+
+  <!-- column 1: leaf vein -->
+  <rect x="30" y="55" width="205" height="290" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+  <text x="132" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7d3a">① 葉脈</text>
+  <path d="M90 100 C120 112 128 165 96 205 C70 190 58 135 90 100 Z" fill="#bfe3b6" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M89 108 L94 200 M87 130 C102 136 110 145 116 158 M87 130 C74 136 68 146 63 158" fill="none" stroke="#2f7d3a" stroke-width="1.4"/>
+  <text x="150" y="140" font-size="12" fill="#2d2a26">網狀脈</text>
+  <path d="M180 100 C192 135 192 175 180 208 C168 175 168 135 180 100 Z" fill="#bfe3b6" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M180 105 L180 203 M172 120 L170 195 M188 120 L190 195" fill="none" stroke="#2f7d3a" stroke-width="1.2"/>
+  <text x="150" y="185" font-size="12" fill="#2d2a26">平行脈</text>
+  <text x="132" y="245" text-anchor="middle" font-size="11" fill="#6f6a63">像網子？還是平行？</text>
+  <text x="132" y="285" text-anchor="middle" font-size="11" fill="#8a6a3f">網狀→多為雙子葉</text>
+  <text x="132" y="308" text-anchor="middle" font-size="11" fill="#8a6a3f">平行→多為單子葉</text>
+
+  <!-- column 2: leaf margin -->
+  <rect x="248" y="55" width="205" height="290" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+  <text x="350" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#e8743b">② 葉緣</text>
+  <path d="M310 105 C338 118 344 165 314 205 C290 188 280 138 310 105 Z" fill="#cfe9c8" stroke="#4f9a52" stroke-width="2"/>
+  <text x="350" y="135" font-size="12" fill="#2d2a26">全緣</text>
+  <text x="350" y="152" font-size="10" fill="#6f6a63">邊緣平滑</text>
+  <path d="M395 110 l6 6 l-6 6 l6 6 l-6 6 l6 6 l-6 6 l6 6 l-6 6 l6 6 l-6 6 l6 6 l-6 6 l6 6 l-6 6 l6 6" fill="none" stroke="#4f9a52" stroke-width="2"/>
+  <text x="350" y="235" font-size="12" fill="#2d2a26">鋸齒緣</text>
+  <text x="350" y="252" font-size="10" fill="#6f6a63">邊緣有小鋸齒</text>
+  <text x="350" y="300" text-anchor="middle" font-size="11" fill="#8a6a3f">用放大鏡看邊緣</text>
+
+  <!-- column 3: leaf shape -->
+  <rect x="466" y="55" width="204" height="290" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+  <text x="568" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">③ 葉形</text>
+  <line x1="505" y1="100" x2="505" y2="150" stroke="#4f9a52" stroke-width="5" stroke-linecap="round"/>
+  <text x="525" y="128" font-size="12" fill="#2d2a26">針形（松）</text>
+  <path d="M505 165 C520 165 525 180 505 200 C485 180 490 165 505 165 Z" fill="#bfe3b6" stroke="#4f9a52" stroke-width="1.5"/>
+  <text x="530" y="188" font-size="12" fill="#2d2a26">心形</text>
+  <path d="M600 160 l-14 22 l14 -6 l14 6 Z M600 160 l-22 12 l10 6 M600 160 l22 12 l-10 6" fill="#bfe3b6" stroke="#4f9a52" stroke-width="1.5"/>
+  <text x="568" y="205" text-anchor="middle" font-size="12" fill="#2d2a26">掌狀（木瓜）</text>
+  <line x1="505" y1="235" x2="505" y2="300" stroke="#4f9a52" stroke-width="2"/>
+  <path d="M505 245 l14 -8 M505 245 l-14 -8 M505 262 l14 -8 M505 262 l-14 -8 M505 279 l14 -8 M505 279 l-14 -8" stroke="#4f9a52" stroke-width="3" stroke-linecap="round"/>
+  <text x="560" y="270" font-size="12" fill="#2d2a26">羽狀複葉</text>
+  <text x="568" y="322" text-anchor="middle" font-size="11" fill="#8a6a3f">像什麼？針/心/掌/羽</text>
+
+  <text x="350" y="368" text-anchor="middle" font-size="13" font-weight="bold" fill="#c98f00">把三個密碼組合起來，就能認出更精準的植物！</text>
+</svg>

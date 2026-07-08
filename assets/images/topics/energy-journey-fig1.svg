@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fff4e9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#a85a1e">能量的各種形式</text>
+
+  <!-- row 1 -->
+  <rect x="30" y="60" width="150" height="130" rx="12" fill="#fff" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="105" y="105" text-anchor="middle" font-size="30">🏃</text>
+  <text x="105" y="145" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">動能</text>
+  <text x="105" y="168" text-anchor="middle" font-size="11" fill="#6f6a63">運動中的物體</text>
+
+  <rect x="196" y="60" width="150" height="130" rx="12" fill="#fff" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="271" y="102" text-anchor="middle" font-size="26">⛰️</text>
+  <circle cx="271" cy="88" r="7" fill="#e0803a"/>
+  <text x="271" y="145" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7d3a">位能</text>
+  <text x="271" y="168" text-anchor="middle" font-size="11" fill="#6f6a63">高處或被拉壓</text>
+
+  <rect x="362" y="60" width="150" height="130" rx="12" fill="#fff" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="437" y="105" text-anchor="middle" font-size="30">🔌</text>
+  <text x="437" y="145" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f7fc1">電能</text>
+  <text x="437" y="168" text-anchor="middle" font-size="11" fill="#6f6a63">插座、電流</text>
+
+  <rect x="528" y="60" width="150" height="130" rx="12" fill="#fff" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="603" y="105" text-anchor="middle" font-size="30">🔥</text>
+  <text x="603" y="145" text-anchor="middle" font-size="15" font-weight="bold" fill="#e8743b">熱能</text>
+  <text x="603" y="168" text-anchor="middle" font-size="11" fill="#6f6a63">冷熱、溫度</text>
+
+  <!-- row 2 -->
+  <rect x="70" y="205" width="150" height="130" rx="12" fill="#fff" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="145" y="250" text-anchor="middle" font-size="30">💡</text>
+  <text x="145" y="290" text-anchor="middle" font-size="15" font-weight="bold" fill="#e0a800">光能</text>
+  <text x="145" y="313" text-anchor="middle" font-size="11" fill="#6f6a63">燈光、陽光</text>
+
+  <rect x="275" y="205" width="150" height="130" rx="12" fill="#fff" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="350" y="250" text-anchor="middle" font-size="30">🔊</text>
+  <text x="350" y="290" text-anchor="middle" font-size="15" font-weight="bold" fill="#7d5aa8">聲能</text>
+  <text x="350" y="313" text-anchor="middle" font-size="11" fill="#6f6a63">聲音、振動</text>
+
+  <rect x="480" y="205" width="150" height="130" rx="12" fill="#fff" stroke="#f0dcc4" stroke-width="2"/>
+  <text x="555" y="250" text-anchor="middle" font-size="28">🔋🍎</text>
+  <text x="555" y="290" text-anchor="middle" font-size="15" font-weight="bold" fill="#5a8a3a">化學能</text>
+  <text x="555" y="313" text-anchor="middle" font-size="11" fill="#6f6a63">電池、食物、燃料</text>
+
+  <text x="350" y="372" text-anchor="middle" font-size="14" font-weight="bold" fill="#a85a1e">💡 能量有很多張臉，卻是同一個大家族，能互相轉換！</text>
+</svg>
