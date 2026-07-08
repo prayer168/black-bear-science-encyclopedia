@@ -4,19 +4,20 @@
 
 ## 現況
 
-- **已上線：28 / 40 篇**，四個年級各多篇，九大分類全覆蓋。
+- **已上線：32 / 40 篇**，四個年級各多篇，九大分類全覆蓋。
 - **線上網址**：https://prayer168.github.io/black-bear-science-encyclopedia/
 - **GitHub**：prayer168/black-bear-science-encyclopedia（公開，`main` 分支根目錄部署 + `.nojekyll`）。
 - 所有成果已 commit + push，工作區乾淨。
 - 資產：角色頭像 5、圖解每篇 3、分鏡每篇 6（前 20 篇已配分鏡；最新第一批 4 篇的分鏡尚未補）。
 
-## 待辦：剩 12 篇（分批做，每批 4 篇＝一年級一篇）
+## 待辦：剩 8 篇（分批做，每批 4 篇＝一年級一篇）
 
-> 第 2 批（leaf-shape-code / where-does-water-go / plant-reproduction / energy-journey）已於 2026-07-08 完成並上線。
+> 第 2、3 批已於 2026-07-08 完成並上線：
+> 第 2 批 leaf-shape-code / where-does-water-go / plant-reproduction / energy-journey；
+> 第 3 批 animal-homes / river-sculptor / pitch-and-volume / ecosystem-balance。
 
 | 批 | 三年級 | 四年級 | 五年級 | 六年級 |
 |---|---|---|---|---|
-| 3 | animal-homes | river-sculptor | pitch-and-volume | ecosystem-balance |
 | 4 | kitchen-dissolving | what-is-force | animals-in-winter | rock-mineral-story |
 | 5 | thermometer-talks | weather-reporter-secret | sun-shadow-clock | how-scientists-think |
 
