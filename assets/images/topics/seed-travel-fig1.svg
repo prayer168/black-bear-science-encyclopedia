@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">種子去旅行的四種方法</text>
+  <g>
+    <rect x="30" y="70" width="150" height="150" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="105" y="105" text-anchor="middle" font-size="30">🍃</text>
+    <text x="105" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#5aa469">靠風飛</text>
+    <text x="105" y="175" text-anchor="middle" font-size="11" fill="#6f6a63">蒲公英、楓樹</text>
+    <text x="105" y="195" text-anchor="middle" font-size="10" fill="#6f6a63">有翅膀或絨毛</text>
+
+    <rect x="195" y="70" width="150" height="150" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="270" y="105" text-anchor="middle" font-size="30">🐿️</text>
+    <text x="270" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#e8743b">靠動物帶</text>
+    <text x="270" y="175" text-anchor="middle" font-size="11" fill="#6f6a63">蒼耳、鬼針草</text>
+    <text x="270" y="195" text-anchor="middle" font-size="10" fill="#6f6a63">有鉤刺會黏住</text>
+
+    <rect x="360" y="70" width="150" height="150" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="435" y="105" text-anchor="middle" font-size="30">🍎</text>
+    <text x="435" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">被吃再排出</text>
+    <text x="435" y="175" text-anchor="middle" font-size="11" fill="#6f6a63">果實、漿果</text>
+    <text x="435" y="195" text-anchor="middle" font-size="10" fill="#6f6a63">甜甜的果肉引動物吃</text>
+
+    <rect x="525" y="70" width="150" height="150" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+    <text x="600" y="105" text-anchor="middle" font-size="30">💧</text>
+    <text x="600" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f7fc1">靠水漂</text>
+    <text x="600" y="175" text-anchor="middle" font-size="11" fill="#6f6a63">椰子、蓮子</text>
+    <text x="600" y="195" text-anchor="middle" font-size="10" fill="#6f6a63">能浮在水面</text>
+  </g>
+  <rect x="120" y="250" width="460" height="110" rx="12" fill="#fff8e6" stroke="#f2e0a8" stroke-width="2"/>
+  <text x="350" y="280" text-anchor="middle" font-size="14" font-weight="bold" fill="#c98f00">💡 為什麼種子要旅行？</text>
+  <text x="350" y="310" text-anchor="middle" font-size="13" fill="#2d2a26">如果都掉在媽媽腳邊，會互相搶陽光、水和養分</text>
+  <text x="350" y="335" text-anchor="middle" font-size="13" fill="#2d2a26">傳播到遠一點的地方，才有空間長成新的植物</text>
+</svg>

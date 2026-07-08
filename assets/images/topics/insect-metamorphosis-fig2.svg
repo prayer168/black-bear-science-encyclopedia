@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="360" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#6b4f3a">不完全變態：卵 → 若蟲 → 成蟲（沒有蛹）</text>
+  <defs><marker id="m2" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker></defs>
+  <!-- egg -->
+  <circle cx="120" cy="150" r="26" fill="#fff2b0" stroke="#e0d38a" stroke-width="2"/>
+  <ellipse cx="120" cy="150" rx="8" ry="12" fill="#f4e0a0"/>
+  <text x="120" y="200" text-anchor="middle" font-size="13" font-weight="bold" fill="#2d2a26">卵</text>
+  <!-- nymph (small grasshopper no wings) -->
+  <g>
+    <ellipse cx="330" cy="150" rx="30" ry="12" fill="#9ec96f"/>
+    <circle cx="304" cy="150" r="9" fill="#7bbf5a"/>
+    <path d="M340 158 q10 20 24 26 M330 158 q4 22 2 30" stroke="#5a8a30" stroke-width="2.5" fill="none"/>
+  </g>
+  <text x="330" y="200" text-anchor="middle" font-size="13" font-weight="bold" fill="#2d2a26">若蟲（像小成蟲、沒翅膀）</text>
+  <!-- adult grasshopper with wings -->
+  <g>
+    <ellipse cx="560" cy="150" rx="38" ry="14" fill="#7bbf5a"/>
+    <circle cx="526" cy="150" r="11" fill="#5a8a30"/>
+    <path d="M560 140 q30 -6 46 4 q-16 8 -46 2 z" fill="#9ec96f" opacity="0.8"/>
+    <path d="M574 160 q14 22 30 28 M560 160 q6 24 2 32" stroke="#3a6a1a" stroke-width="2.5" fill="none"/>
+  </g>
+  <text x="560" y="205" text-anchor="middle" font-size="13" font-weight="bold" fill="#2d2a26">成蟲（有翅膀）</text>
+  <!-- arrows -->
+  <g stroke="#e8743b" stroke-width="3">
+    <line x1="150" y1="150" x2="288" y2="150" marker-end="url(#m2)"/>
+    <line x1="372" y1="150" x2="510" y2="150" marker-end="url(#m2)"/>
+  </g>
+  <text x="350" y="290" text-anchor="middle" font-size="13" fill="#c0392b">沒有「蛹」階段，若蟲長得就像小一號的成蟲，慢慢長大長出翅膀</text>
+  <text x="350" y="318" text-anchor="middle" font-size="12" fill="#3f7d4f">蝗蟲、蟬、蟑螂、蜻蜓都是不完全變態</text>
+</svg>

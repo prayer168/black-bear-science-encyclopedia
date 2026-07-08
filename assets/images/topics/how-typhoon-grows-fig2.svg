@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#1e2540"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#fff">從太空看颱風：螺旋雲帶與颱風眼</text>
+  <!-- spiral bands -->
+  <g fill="#dfe8f5" opacity="0.9">
+    <path d="M350 200 m0 -120 a120 120 0 0 1 100 60 a90 90 0 0 0 -80 -20 z"/>
+    <path d="M350 200 m0 120 a120 120 0 0 1 -100 -60 a90 90 0 0 0 80 20 z"/>
+    <path d="M350 200 m120 0 a120 120 0 0 1 -60 100 a90 90 0 0 0 20 -80 z"/>
+    <path d="M350 200 m-120 0 a120 120 0 0 1 60 -100 a90 90 0 0 0 -20 80 z"/>
+  </g>
+  <circle cx="350" cy="200" r="115" fill="none" stroke="#8fb0d0" stroke-width="1.5" opacity="0.4"/>
+  <!-- eye -->
+  <circle cx="350" cy="200" r="26" fill="#2a3350"/>
+  <text x="350" y="204" text-anchor="middle" font-size="12" fill="#fff">颱風眼</text>
+  <!-- rotation arrow -->
+  <defs><marker id="rt2" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#f4b400"/></marker></defs>
+  <path d="M350 90 a110 110 0 0 1 95 55" stroke="#f4b400" stroke-width="2" fill="none" marker-end="url(#rt2)"/>
+  <!-- labels -->
+  <text x="530" y="150" font-size="12" fill="#dfe8f5">螺旋雲雨帶</text>
+  <line x1="440" y1="150" x2="520" y2="145" stroke="#8fb0d0" stroke-width="1"/>
+  <text x="520" y="230" font-size="12" fill="#f4d060">中心無風少雨、</text>
+  <text x="520" y="248" font-size="12" fill="#f4d060">天氣短暫變好（別被騙）</text>
+  <line x1="376" y1="200" x2="510" y2="235" stroke="#8fb0d0" stroke-width="1"/>
+  <text x="350" y="382" text-anchor="middle" font-size="12" fill="#9fb0d0">颱風眼周圍的「眼牆」風雨最強；眼睛通過後風雨會再度變大</text>
+</svg>

@@ -23,7 +23,7 @@ const CATEGORY_EMOJI = {
 
 const TOPICS = [
   {id:"plants-need-sunlight",title:"植物為什麼需要陽光？",grade:3,category:"plants-life",status:"published",path:"topics/grade-3/plants-need-sunlight.html",keywords:["陽光","葉子","光合作用","養分"]},
-  {id:"seed-travel",title:"種子去旅行：種子的傳播大冒險",grade:3,category:"plants-life",status:"planned",path:"",keywords:["種子","傳播","果實"]},
+  {id:"seed-travel",title:"種子去旅行：種子的傳播大冒險",grade:3,category:"plants-life",status:"published",path:"topics/grade-3/seed-travel.html",keywords:["種子","傳播","果實"]},
   {id:"leaf-shape-code",title:"葉子的形狀密碼",grade:3,category:"plants-life",status:"planned",path:"",keywords:["葉形","葉脈","分類"]},
   {id:"animal-homes",title:"動物的家在哪裡？棲息地觀察",grade:3,category:"animals-insects",status:"planned",path:"",keywords:["棲息地","覓食","校園動物"]},
   {id:"air-strongman",title:"空氣是看不見的大力士",grade:3,category:"air-water-weather",status:"published",path:"topics/grade-3/air-strongman.html",keywords:["空氣","大氣壓力","占空間"]},
@@ -34,7 +34,7 @@ const TOPICS = [
   {id:"campus-observer",title:"校園裡的小小觀察家",grade:3,category:"inquiry-methods",status:"published",path:"topics/grade-3/campus-observer.html",keywords:["觀察","紀錄","放大鏡"]},
 
   {id:"why-insects-six-legs",title:"昆蟲為什麼有六隻腳？",grade:4,category:"animals-insects",status:"published",path:"topics/grade-4/why-insects-six-legs.html",keywords:["昆蟲","六隻腳","頭胸腹","蜘蛛"]},
-  {id:"insect-metamorphosis",title:"昆蟲的變身魔術：完全變態與不完全變態",grade:4,category:"animals-insects",status:"planned",path:"",keywords:["變態","蛹","蝴蝶"]},
+  {id:"insect-metamorphosis",title:"昆蟲的變身魔術：完全變態與不完全變態",grade:4,category:"animals-insects",status:"published",path:"topics/grade-4/insect-metamorphosis.html",keywords:["變態","蛹","蝴蝶"]},
   {id:"weather-reporter-secret",title:"天氣預報員的祕密",grade:4,category:"air-water-weather",status:"planned",path:"",keywords:["天氣","氣溫","風向","雲"]},
   {id:"where-does-water-go",title:"水往哪裡去？蒸發與凝結",grade:4,category:"air-water-weather",status:"planned",path:"",keywords:["蒸發","凝結","水循環"]},
   {id:"how-sound-reaches-ears",title:"聲音是怎麼跑到耳朵裡的？",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/how-sound-reaches-ears.html",keywords:["振動","傳播","介質"]},
@@ -48,7 +48,7 @@ const TOPICS = [
   {id:"acid-base-detective",title:"水溶液的酸鹼偵探",grade:5,category:"matter-heat-change",status:"published",path:"topics/grade-5/acid-base-detective.html",keywords:["酸性","鹼性","指示劑","紫甘藍"]},
   {id:"fire-triangle",title:"燃燒需要什麼？火三角的祕密",grade:5,category:"matter-heat-change",status:"published",path:"topics/grade-5/fire-triangle.html",keywords:["燃燒","燃點","滅火"]},
   {id:"why-iron-rusts",title:"鐵為什麼會生鏽？",grade:5,category:"matter-heat-change",status:"published",path:"topics/grade-5/why-iron-rusts.html",keywords:["生鏽","氧化","防鏽"]},
-  {id:"dissolving-fast-slow",title:"溶解的快與慢：科學偵探的變因實驗",grade:5,category:"inquiry-methods",status:"planned",path:"",keywords:["操縱變因","控制變因","公平測試"]},
+  {id:"dissolving-fast-slow",title:"溶解的快與慢：科學偵探的變因實驗",grade:5,category:"inquiry-methods",status:"published",path:"topics/grade-5/dissolving-fast-slow.html",keywords:["操縱變因","控制變因","公平測試"]},
   {id:"friction-friend-or-foe",title:"力與運動：摩擦力是敵人還是朋友？",grade:5,category:"force-motion-machines",status:"published",path:"topics/grade-5/friction-friend-or-foe.html",keywords:["摩擦力","接觸面","輪子"]},
   {id:"plant-reproduction",title:"植物的繁殖大作戰",grade:5,category:"plants-life",status:"planned",path:"",keywords:["繁殖","花","傳粉","扦插"]},
   {id:"sun-shadow-clock",title:"太陽的位置與影子時鐘",grade:5,category:"earth-resources",status:"planned",path:"",keywords:["太陽","影子","方位","日晷"]},
@@ -58,7 +58,7 @@ const TOPICS = [
   {id:"food-chain-story",title:"食物鏈是誰吃誰的故事嗎？",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/food-chain-story.html",keywords:["食物鏈","生產者","消費者","分解者","能量"]},
   {id:"electromagnet-duo",title:"電與磁的雙人舞：電磁鐵",grade:6,category:"sound-light-electricity",status:"published",path:"topics/grade-6/electromagnet-duo.html",keywords:["電磁鐵","線圈","馬達"]},
   {id:"lever-and-pulley",title:"槓桿與滑輪：簡單機械省力術",grade:6,category:"force-motion-machines",status:"published",path:"topics/grade-6/lever-and-pulley.html",keywords:["槓桿","支點","滑輪","省力"]},
-  {id:"how-typhoon-grows",title:"天氣系統：颱風是怎麼長大的？",grade:6,category:"air-water-weather",status:"planned",path:"",keywords:["颱風","低氣壓","衛星雲圖","防災"]},
+  {id:"how-typhoon-grows",title:"天氣系統：颱風是怎麼長大的？",grade:6,category:"air-water-weather",status:"published",path:"topics/grade-6/how-typhoon-grows.html",keywords:["颱風","低氣壓","衛星雲圖","防災"]},
   {id:"earthquake-and-plates",title:"大地的變動：地震與板塊",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/earthquake-and-plates.html",keywords:["地震","板塊","斷層","防災"]},
   {id:"energy-journey",title:"能量的旅行：能量轉換與守恆",grade:6,category:"matter-heat-change",status:"planned",path:"",keywords:["能量","轉換","太陽能"]},
   {id:"ecosystem-balance",title:"生態系的平衡與外來種入侵",grade:6,category:"ecology-sustainability",status:"planned",path:"",keywords:["生態系","外來種","族群","平衡"]},

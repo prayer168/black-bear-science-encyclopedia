@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef8ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">颱風來了：看預報、做準備</text>
+  <!-- weather map symbols -->
+  <rect x="40" y="60" width="290" height="150" rx="12" fill="#fff" stroke="#e7ddcd" stroke-width="2"/>
+  <text x="185" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#6b4f3a">天氣圖上的符號</text>
+  <text x="80" y="120" font-size="14" fill="#c0392b">🌀 颱風</text>
+  <text x="80" y="150" font-size="14" fill="#2f7fc1">L 低氣壓</text>
+  <text x="200" y="150" font-size="14" fill="#e8743b">H 高氣壓</text>
+  <text x="80" y="180" font-size="13" fill="#6b4f3a">鋒面：▲▲ 冷鋒　●● 暖鋒</text>
+  <!-- prepare checklist -->
+  <rect x="370" y="60" width="290" height="150" rx="12" fill="#fff8e6" stroke="#f2e0a8" stroke-width="2"/>
+  <text x="515" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#c98f00">颱風前準備</text>
+  <text x="390" y="115" font-size="12" fill="#2d2a26">🔦 手電筒、備用電池</text>
+  <text x="390" y="140" font-size="12" fill="#2d2a26">🥫 存糧、飲用水</text>
+  <text x="390" y="165" font-size="12" fill="#2d2a26">🪟 固定門窗、收好陽台物品</text>
+  <text x="390" y="190" font-size="12" fill="#2d2a26">📱 關注氣象署預報與警報</text>
+  <!-- during -->
+  <rect x="120" y="240" width="460" height="130" rx="12" fill="#fff0ee" stroke="#f3c9c0" stroke-width="2"/>
+  <text x="350" y="268" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">颱風期間</text>
+  <text x="350" y="296" text-anchor="middle" font-size="13" fill="#2d2a26">🚫 不要外出、遠離海邊河邊山區與危險地帶</text>
+  <text x="350" y="320" text-anchor="middle" font-size="13" fill="#2d2a26">💧 注意淹水、土石流警訊，聽從撤離指示</text>
+  <text x="350" y="344" text-anchor="middle" font-size="13" fill="#2d2a26">⚠️ 颱風眼經過短暫變好時，別以為結束就跑出去</text>
+</svg>

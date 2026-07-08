@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="360" fill="#eaf5ff"/>
+  <text x="350" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#6b4f3a">兩種變態怎麼分？看有沒有「蛹」</text>
+  <!-- table -->
+  <line x1="60" y1="70" x2="640" y2="70" stroke="#c9b99a" stroke-width="2"/>
+  <line x1="240" y1="60" x2="240" y2="300" stroke="#c9b99a" stroke-width="2"/>
+  <line x1="440" y1="60" x2="440" y2="300" stroke="#c9b99a" stroke-width="2"/>
+  <text x="150" y="95" text-anchor="middle" font-size="13" font-weight="bold" fill="#6b4f3a">比較</text>
+  <text x="340" y="95" text-anchor="middle" font-size="13" font-weight="bold" fill="#5aa469">完全變態</text>
+  <text x="540" y="95" text-anchor="middle" font-size="13" font-weight="bold" fill="#e8743b">不完全變態</text>
+
+  <text x="150" y="135" text-anchor="middle" font-size="12" fill="#2d2a26">階段</text>
+  <text x="340" y="135" text-anchor="middle" font-size="11" fill="#2d2a26">卵→幼蟲→蛹→成蟲</text>
+  <text x="540" y="135" text-anchor="middle" font-size="11" fill="#2d2a26">卵→若蟲→成蟲</text>
+
+  <text x="150" y="175" text-anchor="middle" font-size="12" fill="#2d2a26">有沒有蛹</text>
+  <text x="340" y="175" text-anchor="middle" font-size="12" fill="#5aa469" font-weight="bold">有蛹 ✔</text>
+  <text x="540" y="175" text-anchor="middle" font-size="12" fill="#c0392b" font-weight="bold">沒有蛹 ✘</text>
+
+  <text x="150" y="215" text-anchor="middle" font-size="12" fill="#2d2a26">幼期長相</text>
+  <text x="340" y="215" text-anchor="middle" font-size="11" fill="#2d2a26">和成蟲差很多</text>
+  <text x="540" y="215" text-anchor="middle" font-size="11" fill="#2d2a26">像小一號成蟲</text>
+
+  <text x="150" y="255" text-anchor="middle" font-size="12" fill="#2d2a26">例子</text>
+  <text x="340" y="255" text-anchor="middle" font-size="11" fill="#2d2a26">蝴蝶、甲蟲、螞蟻</text>
+  <text x="540" y="255" text-anchor="middle" font-size="11" fill="#2d2a26">蝗蟲、蟬、蜻蜓</text>
+
+  <text x="350" y="330" text-anchor="middle" font-size="13" fill="#c0392b">最快的分辨法：中間有沒有「蛹」這個階段！</text>
+</svg>

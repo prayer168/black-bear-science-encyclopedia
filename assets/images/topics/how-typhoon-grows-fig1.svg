@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#dfeaf5"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">颱風怎麼長大的？溫暖海洋是燃料</text>
+  <!-- warm sea -->
+  <rect x="0" y="300" width="700" height="100" fill="#2f7fc1"/>
+  <path d="M0 300 q40 -12 80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t80 0" fill="none" stroke="#4a90c8" stroke-width="3"/>
+  <text x="350" y="360" text-anchor="middle" font-size="13" fill="#fff">溫暖的海面（26°C 以上）</text>
+  <!-- rising warm moist air -->
+  <defs>
+    <marker id="up1" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#e8743b"/></marker>
+    <marker id="rot" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2f7fc1"/></marker>
+  </defs>
+  <g stroke="#e8743b" stroke-width="3">
+    <line x1="280" y1="295" x2="280" y2="180" marker-end="url(#up1)"/>
+    <line x1="350" y1="295" x2="350" y2="150" marker-end="url(#up1)"/>
+    <line x1="420" y1="295" x2="420" y2="180" marker-end="url(#up1)"/>
+  </g>
+  <text x="470" y="230" font-size="12" fill="#e8743b">溫暖潮濕的空氣上升</text>
+  <!-- clouds forming -->
+  <ellipse cx="350" cy="120" rx="80" ry="34" fill="#fff"/>
+  <ellipse cx="290" cy="130" rx="46" ry="26" fill="#f0f0f0"/>
+  <ellipse cx="410" cy="130" rx="46" ry="26" fill="#f0f0f0"/>
+  <text x="350" y="120" text-anchor="middle" font-size="12" fill="#6b4f3a">水氣凝結成雲、放出熱</text>
+  <!-- spiral inflow arrows -->
+  <path d="M120 290 q60 -20 130 -10" stroke="#2f7fc1" stroke-width="2.5" fill="none" marker-end="url(#rot)"/>
+  <path d="M580 290 q-60 -20 -130 -10" stroke="#2f7fc1" stroke-width="2.5" fill="none" marker-end="url(#rot)"/>
+  <text x="350" y="270" text-anchor="middle" font-size="11" fill="#2f7fc1">四周空氣旋轉流入補充</text>
+  <text x="350" y="392" text-anchor="middle" font-size="12" fill="#c0392b">海溫高→水氣多→上升凝結放熱→吸更多空氣→越轉越強，就成颱風</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="380" fill="#fffdf9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#6b4f3a">公平測試：一次只改一個變因</text>
+  <text x="350" y="58" text-anchor="middle" font-size="13" fill="#6f6a63">要測「溫度」的影響，就只能改溫度</text>
+  <!-- two cups -->
+  <g>
+    <path d="M140 120 L230 120 L218 250 L152 250 Z" fill="#fdd0b0" stroke="#e8743b" stroke-width="2"/>
+    <text x="185" y="190" text-anchor="middle" font-size="13" fill="#c0392b">熱水</text>
+    <text x="185" y="275" text-anchor="middle" font-size="12" fill="#2d2a26">A 杯</text>
+    <path d="M470 120 L560 120 L548 250 L482 250 Z" fill="#cfe4f5" stroke="#2f7fc1" stroke-width="2"/>
+    <text x="515" y="190" text-anchor="middle" font-size="13" fill="#2f7fc1">冷水</text>
+    <text x="515" y="275" text-anchor="middle" font-size="12" fill="#2d2a26">B 杯</text>
+  </g>
+  <!-- checklist -->
+  <rect x="255" y="120" width="190" height="150" rx="10" fill="#eef8ee" stroke="#cde8cd"/>
+  <text x="350" y="145" text-anchor="middle" font-size="12" font-weight="bold" fill="#e8743b">🎛️ 改變：水溫</text>
+  <text x="350" y="172" text-anchor="middle" font-size="11" fill="#5aa469">🔒 一樣：糖量</text>
+  <text x="350" y="194" text-anchor="middle" font-size="11" fill="#5aa469">🔒 一樣：水量</text>
+  <text x="350" y="216" text-anchor="middle" font-size="11" fill="#5aa469">🔒 一樣：都不攪拌</text>
+  <text x="350" y="238" text-anchor="middle" font-size="11" fill="#5aa469">🔒 一樣：糖的顆粒</text>
+  <text x="350" y="262" text-anchor="middle" font-size="11" fill="#2f7fc1">📏 看：哪杯先溶完</text>
+  <text x="350" y="330" text-anchor="middle" font-size="13" fill="#c0392b">如果同時改了溫度又攪拌，就不知道是誰讓它變快——不公平！</text>
+</svg>
