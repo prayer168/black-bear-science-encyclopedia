@@ -4,24 +4,21 @@
 
 ## 現況
 
-- **已上線：36 / 40 篇**，四個年級各多篇，九大分類全覆蓋。
+- **🎯 已上線：40 / 40 篇（第一批主題全數完成！）**，四個年級各 10 篇，九大分類全覆蓋。
 - **線上網址**：https://prayer168.github.io/black-bear-science-encyclopedia/
 - **GitHub**：prayer168/black-bear-science-encyclopedia（公開，`main` 分支根目錄部署 + `.nojekyll`）。
-- 所有成果已 commit + push，工作區乾淨。
-- 資產：角色頭像 5、圖解每篇 3、分鏡每篇 6（前 20 篇已配分鏡；最新第一批 4 篇的分鏡尚未補）。
+- 所有成果已 commit + push，工作區乾淨，線上已驗證 200。
+- 資產：角色頭像 5、圖解每篇 3（共 120 張）、分鏡腳本每篇 6 頁。
 
-## 待辦：剩 4 篇（最後一批，4 篇＝一年級一篇）
+## 待辦：主題文章已全部完成 ✅
 
-> 第 2、3、4 批已於 2026-07-08 完成並上線：
+> 第 2～5 批（共 16 篇）已於 2026-07-08 全部完成並上線：
 > 第 2 批 leaf-shape-code / where-does-water-go / plant-reproduction / energy-journey；
 > 第 3 批 animal-homes / river-sculptor / pitch-and-volume / ecosystem-balance；
-> 第 4 批 kitchen-dissolving / what-is-force / animals-in-winter / rock-mineral-story。
+> 第 4 批 kitchen-dissolving / what-is-force / animals-in-winter / rock-mineral-story；
+> 第 5 批 thermometer-talks / weather-reporter-secret / sun-shadow-clock / how-scientists-think。
 
-| 批 | 三年級 | 四年級 | 五年級 | 六年級 |
-|---|---|---|---|---|
-| 5 | thermometer-talks | weather-reporter-secret | sun-shadow-clock | how-scientists-think |
-
-另：新批文章的**繪本分鏡場景圖**，待主題全數補齊後再統一補一輪。
+**唯一剩餘工作：繪本分鏡「場景圖」**——全 40 篇的分鏡場景插圖（每篇 6 頁）尚未實際繪製（目前是分鏡腳本＋「場景圖籌備中」佔位）。前 20 篇曾配過分鏡場景圖，第一～五批共 20 篇尚未補。作法見下方「分鏡場景 SVG」說明，待有空時統一補一輪。
 
 ## 每篇文章的固定產製流程
 
