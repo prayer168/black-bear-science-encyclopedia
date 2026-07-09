@@ -18,9 +18,7 @@
 > kitchen-dissolving / what-is-force / animals-in-winter / rock-mineral-story /
 > thermometer-talks / weather-reporter-secret / sun-shadow-clock / how-scientists-think。
 
-**分鏡場景圖已全數補齊**：全 40 篇每篇 6 頁場景插圖（`assets/images/storyboard/<id>-page1~6.svg`，520x320、重用角色頭像 `../characters/*.svg`、底部咖啡色字幕列），文章內以 `<img class="scene-img">` 置於各 `<h3>第 N 頁</h3>` 後。後 20 篇的場景圖以腳本從各篇分鏡腳本（旁白＋角色台詞）自動生成主題化畫面。**延伸閱讀中原「（籌備中）」失效連結已全部改為正確超連結。**
-
-未來若要優化：後 20 篇的場景圖以「主題 emoji＋角色頭像＋字幕」構成，較前 20 篇手繪風簡潔，可視需求再逐篇美化。
+**分鏡場景圖已全數補齊（全部手繪風）**：全 40 篇每篇 6 頁場景插圖（`assets/images/storyboard/<id>-page1~6.svg`，520x320、重用角色頭像 `../characters/*.svg`、底部咖啡色字幕列），文章內以 `<img class="scene-img">` 置於各 `<h3>第 N 頁</h3>` 後。後 20 篇的場景圖以「手繪 SVG 元件庫」（太陽/盆栽/杯子/河流/岩石/花/蜜蜂/烏龜/溫度計/日晷/颱風/毛毛蟲等純向量圖形）逐頁依畫面描述組合成實際插畫，風格與前 20 篇一致（非 emoji）。**延伸閱讀中原「（籌備中）」失效連結已全部改為正確超連結。**
 
 ## 每篇文章的固定產製流程
 
