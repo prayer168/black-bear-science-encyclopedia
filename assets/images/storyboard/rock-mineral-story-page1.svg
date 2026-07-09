@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#f2efe6"/>
-<rect x="0" y="236" width="520" height="104" fill="#cdb187"/><rect x="0" y="236" width="520" height="8" fill="#00000018"/><ellipse cx="140" cy="215" rx="22" ry="16" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><path d="M174 230 l6 -16 l14 6 l8 10 z" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><ellipse cx="235" cy="216" rx="18" ry="13" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><text x="180" y="150" text-anchor="middle" font-size="12" fill="#6b5a3a">撿到奇怪的石頭</text>
-<image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="398" y="150" width="74" height="74"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><rect x="0" y="236" width="520" height="104" fill="#cdb187"/><rect x="0" y="236" width="520" height="8" fill="#00000018"/><ellipse cx="140" cy="215" rx="22" ry="16" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><path d="M174 230 l6 -16 l14 6 l8 10 z" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><ellipse cx="235" cy="216" rx="18" ry="13" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><text x="180" y="150" text-anchor="middle" font-size="12" fill="#6b5a3a">撿到奇怪的石頭</text></g>
+<g transform="translate(0,-14)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="402" y="120" width="80" height="80"/></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：看起來都一樣的石頭，其實都不同。</text>

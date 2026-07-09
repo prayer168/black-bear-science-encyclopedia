@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#eaf1f7"/>
-<path d="M124 221 l10 -26 l23 10 l13 16 z" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><ellipse cx="150" cy="225" rx="18" ry="13" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="2"/><circle cx="142" cy="214" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="158" cy="214" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="142" cy="213" r="2" fill="#000"/><circle cx="158" cy="213" r="2" fill="#000"/><text x="150" y="150" text-anchor="middle" font-size="12" fill="#3a5b7c">石頭下的冬眠者</text>
-<image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="398" y="150" width="74" height="74"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><path d="M124 221 l10 -26 l23 10 l13 16 z" fill="#b7a07a" stroke="#8a7350" stroke-width="2"/><ellipse cx="150" cy="225" rx="18" ry="13" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="2"/><circle cx="142" cy="214" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="158" cy="214" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="142" cy="213" r="2" fill="#000"/><circle cx="158" cy="213" r="2" fill="#000"/><text x="150" y="150" text-anchor="middle" font-size="12" fill="#3a5b7c">石頭下的冬眠者</text></g>
+<g transform="translate(0,-14)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="402" y="120" width="80" height="80"/></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：牠們不是不見，是躲起來了。</text>

@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#fff2ea"/>
-<ellipse cx="180" cy="180" rx="55" ry="22" fill="#f6d0c0" stroke="#d08a6a" stroke-width="2"/><path d="M125 180 q55 37 110 0" fill="#f6d0c0" opacity="0.8" stroke="#d08a6a" stroke-width="2"/><text x="180" y="235" text-anchor="middle" font-size="12" fill="#a8531e">洗澡水好燙？</text>
-<image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="398" y="150" width="74" height="74"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><ellipse cx="180" cy="180" rx="55" ry="22" fill="#f6d0c0" stroke="#d08a6a" stroke-width="2"/><path d="M125 180 q55 37 110 0" fill="#f6d0c0" opacity="0.8" stroke="#d08a6a" stroke-width="2"/><text x="180" y="235" text-anchor="middle" font-size="12" fill="#a8531e">洗澡水好燙？</text></g>
+<g transform="translate(0,-14)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="402" y="120" width="80" height="80"/></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：感覺常常靠不住。</text>

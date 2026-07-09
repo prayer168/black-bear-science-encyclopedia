@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#eaf6ee"/>
-<rect x="150" y="140" width="30" height="20" fill="#c98a5a"/><rect x="155" y="120" width="30" height="20" fill="#d9a86a"/><rect x="160" y="100" width="30" height="20" fill="#c98a5a"/><text x="190" y="200" text-anchor="middle" font-size="11" fill="#2f6b3a">積木塔＝生態平衡</text>
-<image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="398" y="150" width="74" height="74"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><rect x="150" y="140" width="30" height="20" fill="#c98a5a"/><rect x="155" y="120" width="30" height="20" fill="#d9a86a"/><rect x="160" y="100" width="30" height="20" fill="#c98a5a"/><text x="190" y="200" text-anchor="middle" font-size="11" fill="#2f6b3a">積木塔＝生態平衡</text></g>
+<g transform="translate(0,-14)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="402" y="120" width="80" height="80"/></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：每種生物都是一塊積木，互相牽動。</text>

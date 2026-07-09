@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#eaf1f7"/>
-<path d="M108 110 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M148 96 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M188 106 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M132 128 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M172 124 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><text x="190" y="180" text-anchor="middle" font-size="12" fill="#3a5b7c">燕子南飛過冬</text>
-
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><path d="M108 110 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M148 96 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M188 106 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M132 128 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><path d="M172 124 q12 -12 24 0 q12 -12 24 0" fill="none" stroke="#5a6b7c" stroke-width="3"/><text x="190" y="180" text-anchor="middle" font-size="12" fill="#3a5b7c">燕子南飛過冬</text></g>
+<g transform="translate(0,-14)"></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：燕子要飛到溫暖的南方過冬。</text>

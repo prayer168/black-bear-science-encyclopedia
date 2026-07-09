@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#eef7ee"/>
-<rect x="0" y="232" width="520" height="108" fill="#a86f3f"/><rect x="0" y="232" width="520" height="6" fill="#6a4a26"/><path d="M130 255 q8 -12 16 0 q8 12 16 0 q8 -12 16 0" fill="none" stroke="#c98a8a" stroke-width="7" stroke-linecap="round"/><text x="150" y="150" text-anchor="middle" font-size="12" fill="#5a3a1a">濕土是蚯蚓的家</text>
-<image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="398" y="150" width="74" height="74"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><rect x="0" y="232" width="520" height="108" fill="#a86f3f"/><rect x="0" y="232" width="520" height="6" fill="#6a4a26"/><path d="M130 255 q8 -12 16 0 q8 12 16 0 q8 -12 16 0" fill="none" stroke="#c98a8a" stroke-width="7" stroke-linecap="round"/><text x="150" y="150" text-anchor="middle" font-size="12" fill="#5a3a1a">濕土是蚯蚓的家</text></g>
+<g transform="translate(0,-14)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="402" y="120" width="80" height="80"/></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：濕土給蚯蚓水、食物和遮蔽。</text>

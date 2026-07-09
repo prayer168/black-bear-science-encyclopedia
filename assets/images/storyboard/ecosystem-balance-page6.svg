@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#eaf6ee"/>
-<ellipse cx="160" cy="220" rx="75" ry="30" fill="#bfe0f5" stroke="#7fb0d6" stroke-width="2"/><ellipse cx="120" cy="214" rx="18" ry="13" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="2"/><circle cx="112" cy="203" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="128" cy="203" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="112" cy="202" r="2" fill="#000"/><circle cx="128" cy="202" r="2" fill="#000"/><ellipse cx="200" cy="220" rx="16" ry="9" fill="#7fb0d6"/><path d="M214 220 l12 -8 v16 z" fill="#7fb0d6"/><circle cx="192" cy="218" r="2" fill="#333"/><text x="180" y="255" text-anchor="middle" font-size="11" fill="#2f6b3a">食物網卡牌</text>
-<image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="398" y="150" width="74" height="74"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><ellipse cx="160" cy="220" rx="75" ry="30" fill="#bfe0f5" stroke="#7fb0d6" stroke-width="2"/><ellipse cx="120" cy="214" rx="18" ry="13" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="2"/><circle cx="112" cy="203" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="128" cy="203" r="6" fill="#7bbf5a" stroke="#4f8a3a" stroke-width="1.5"/><circle cx="112" cy="202" r="2" fill="#000"/><circle cx="128" cy="202" r="2" fill="#000"/><ellipse cx="200" cy="220" rx="16" ry="9" fill="#7fb0d6"/><path d="M214 220 l12 -8 v16 z" fill="#7fb0d6"/><circle cx="192" cy="218" r="2" fill="#333"/><text x="180" y="255" text-anchor="middle" font-size="11" fill="#2f6b3a">食物網卡牌</text></g>
+<g transform="translate(0,-14)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="402" y="120" width="80" height="80"/></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：不放生、不棄養、護棲地，預防勝於補救。</text>

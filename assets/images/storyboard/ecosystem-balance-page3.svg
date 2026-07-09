@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#eaf6ee"/>
-<ellipse cx="170" cy="180" rx="20" ry="13" fill="#4f8a52" stroke="#2f6b3a" stroke-width="2"/><path d="M162 177 h16 M170 171 v18" stroke="#2f6b3a" stroke-width="1.5"/><circle cx="192" cy="178" r="6" fill="#4f8a52"/><circle cx="194" cy="177" r="1.5" fill="#c0392b"/><text x="170" y="240" text-anchor="middle" font-size="12" fill="#c0392b">有人放生巴西龜</text>
-
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><ellipse cx="170" cy="180" rx="20" ry="13" fill="#4f8a52" stroke="#2f6b3a" stroke-width="2"/><path d="M162 177 h16 M170 171 v18" stroke="#2f6b3a" stroke-width="1.5"/><circle cx="192" cy="178" r="6" fill="#4f8a52"/><circle cx="194" cy="177" r="1.5" fill="#c0392b"/><text x="170" y="240" text-anchor="middle" font-size="12" fill="#c0392b">有人放生巴西龜</text></g>
+<g transform="translate(0,-14)"></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：有人養膩了，把牠們放生到池塘。</text>

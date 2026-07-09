@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
 <rect width="520" height="320" fill="#f3f8ee"/>
-<circle cx="152" cy="150" r="9" fill="#f6c9de"/><circle cx="146" cy="160" r="9" fill="#f6c9de"/><circle cx="134" cy="160" r="9" fill="#f6c9de"/><circle cx="128" cy="150" r="9" fill="#f6c9de"/><circle cx="134" cy="140" r="9" fill="#f6c9de"/><circle cx="146" cy="140" r="9" fill="#f6c9de"/><circle cx="140" cy="150" r="8" fill="#e0a84e"/><line x1="140" y1="168" x2="140" y2="206" stroke="#5aa469" stroke-width="4"/><path d="M210 160 h60 l-6 90 h-48 z" fill="#dbeefb" stroke="#7fb0d6" stroke-width="2" opacity="0.85"/><path d="M215 205 h50 l-6 45 h-48 z" fill="#dbeefb"/><line x1="240" y1="170" x2="240" y2="205" stroke="#4f9a52" stroke-width="3"/>
-<image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="398" y="150" width="74" height="74"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.18"/>
+<ellipse cx="235" cy="250" rx="210" ry="26" fill="#00000010"/>
+<g transform="translate(0,-26)"><circle cx="152" cy="150" r="9" fill="#f6c9de"/><circle cx="146" cy="160" r="9" fill="#f6c9de"/><circle cx="134" cy="160" r="9" fill="#f6c9de"/><circle cx="128" cy="150" r="9" fill="#f6c9de"/><circle cx="134" cy="140" r="9" fill="#f6c9de"/><circle cx="146" cy="140" r="9" fill="#f6c9de"/><circle cx="140" cy="150" r="8" fill="#e0a84e"/><line x1="140" y1="168" x2="140" y2="206" stroke="#5aa469" stroke-width="4"/><path d="M210 160 h60 l-6 90 h-48 z" fill="#dbeefb" stroke="#7fb0d6" stroke-width="2" opacity="0.85"/><path d="M215 205 h50 l-6 45 h-48 z" fill="#dbeefb"/><line x1="240" y1="170" x2="240" y2="205" stroke="#4f9a52" stroke-width="3"/></g>
+<g transform="translate(0,-14)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="402" y="120" width="80" height="80"/></g>
 <circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
 <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
 <text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：一招求多樣、一招求快穩，植物兩招都會。</text>
