@@ -1,13 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
-  <rect width="520" height="320" fill="#f0ecfa"/>
-  <rect x="0" y="212" width="520" height="66" fill="#ffffff" opacity="0.35"/>
-  <line x1="0" y1="212" x2="520" y2="212" stroke="#00000010" stroke-width="2"/>
-  <text x="150" y="150" text-anchor="middle" font-size="66">➰</text>
-  <text x="260" y="150" text-anchor="middle" font-size="66">🔊</text>
-  <circle cx="42" cy="42" r="24" fill="#6b4f3a"/>
-  <text x="42" y="49" text-anchor="middle" font-size="20" fill="#fff" font-weight="bold">6</text>
-  <image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="392" y="132" width="78" height="78"/>
-  <rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
-  <text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：控制變因找出音量與音調的祕密，也要保護耳朵。</text>
-  <text x="14" y="314" font-size="12" fill="#f4d9a8">💧「一次改一個因素，撥筋別對眼睛！」</text>
+<rect width="520" height="320" fill="#f0ecfa"/>
+<rect x="110" y="192" width="80" height="40" rx="6" fill="#e8dcc4" stroke="#c9b48a" stroke-width="2"/><path d="M110 212 q40 -8 80 0" stroke="#4f9a52" stroke-width="3" fill="none"/><text x="250" y="150" font-size="24">👂</text><text x="180" y="260" text-anchor="middle" font-size="11" fill="#5a4a8a">護耳</text>
+<image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="398" y="150" width="74" height="74"/>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：控制變因找出音量與音調的祕密，也要保護耳朵。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧「一次改一個因素，撥筋別對眼睛！」</text>
 </svg>
