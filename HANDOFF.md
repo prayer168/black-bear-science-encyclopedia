@@ -8,17 +8,19 @@
 - **線上網址**：https://prayer168.github.io/black-bear-science-encyclopedia/
 - **GitHub**：prayer168/black-bear-science-encyclopedia（公開，`main` 分支根目錄部署 + `.nojekyll`）。
 - 所有成果已 commit + push，工作區乾淨，線上已驗證 200。
-- 資產：角色頭像 5、圖解每篇 3（共 120 張）、分鏡腳本每篇 6 頁。
+- 資產：角色頭像 5、圖解每篇 3（共 120 張）、**分鏡場景圖每篇 6 頁（共 240 張，全數配齊）**。
 
-## 待辦：主題文章已全部完成 ✅
+## 待辦：🎉 第一批全部完成，無待辦主題
 
-> 第 2～5 批（共 16 篇）已於 2026-07-08 全部完成並上線：
-> 第 2 批 leaf-shape-code / where-does-water-go / plant-reproduction / energy-journey；
-> 第 3 批 animal-homes / river-sculptor / pitch-and-volume / ecosystem-balance；
-> 第 4 批 kitchen-dissolving / what-is-force / animals-in-winter / rock-mineral-story；
-> 第 5 批 thermometer-talks / weather-reporter-secret / sun-shadow-clock / how-scientists-think。
+> 主題文章 40/40、圖解 120 張、分鏡場景圖 240 張皆已完成上線（2026-07-08）。
+> 第 2～5 批 16 篇：leaf-shape-code / where-does-water-go / plant-reproduction / energy-journey /
+> animal-homes / river-sculptor / pitch-and-volume / ecosystem-balance /
+> kitchen-dissolving / what-is-force / animals-in-winter / rock-mineral-story /
+> thermometer-talks / weather-reporter-secret / sun-shadow-clock / how-scientists-think。
 
-**唯一剩餘工作：繪本分鏡「場景圖」**——全 40 篇的分鏡場景插圖（每篇 6 頁）尚未實際繪製（目前是分鏡腳本＋「場景圖籌備中」佔位）。前 20 篇曾配過分鏡場景圖，第一～五批共 20 篇尚未補。作法見下方「分鏡場景 SVG」說明，待有空時統一補一輪。
+**分鏡場景圖已全數補齊**：全 40 篇每篇 6 頁場景插圖（`assets/images/storyboard/<id>-page1~6.svg`，520x320、重用角色頭像 `../characters/*.svg`、底部咖啡色字幕列），文章內以 `<img class="scene-img">` 置於各 `<h3>第 N 頁</h3>` 後。後 20 篇的場景圖以腳本從各篇分鏡腳本（旁白＋角色台詞）自動生成主題化畫面。**延伸閱讀中原「（籌備中）」失效連結已全部改為正確超連結。**
+
+未來若要優化：後 20 篇的場景圖以「主題 emoji＋角色頭像＋字幕」構成，較前 20 篇手繪風簡潔，可視需求再逐篇美化。
 
 ## 每篇文章的固定產製流程
 
