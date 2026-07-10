@@ -64,7 +64,52 @@ const TOPICS = [
   {id:"ecosystem-balance",title:"生態系的平衡與外來種入侵",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/ecosystem-balance.html",keywords:["生態系","外來種","族群","平衡"]},
   {id:"one-earth-sustainability",title:"我們只有一個地球：資源與永續",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/one-earth-sustainability.html",keywords:["資源","永續","減塑","節能"]},
   {id:"rock-mineral-story",title:"岩石與礦物的身世之謎",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/rock-mineral-story.html",keywords:["岩石","礦物","沉積","火成"]},
-  {id:"how-scientists-think",title:"科學家怎麼想？從問題到結論的探究之路",grade:6,category:"inquiry-methods",status:"published",path:"topics/grade-6/how-scientists-think.html",keywords:["假設","實驗","證據","科學方法"]}
+  {id:"how-scientists-think",title:"科學家怎麼想？從問題到結論的探究之路",grade:6,category:"inquiry-methods",status:"published",path:"topics/grade-6/how-scientists-think.html",keywords:["假設","實驗","證據","科學方法"]},
+
+  /* ===== 第二批 40 主題（籌備中） ===== */
+  {id:"flower-invitation-card",title:"花是植物的邀請卡：花的構造",grade:3,category:"plants-life",status:"planned",path:"",keywords:["花瓣","雄蕊","雌蕊","傳粉"]},
+  {id:"silkworm-diary",title:"蠶寶寶日記：飼養與觀察",grade:3,category:"animals-insects",status:"planned",path:"",keywords:["蠶","桑葉","結繭","觀察日記"]},
+  {id:"snail-and-earthworm",title:"雨後的小訪客：蝸牛與蚯蚓",grade:3,category:"animals-insects",status:"planned",path:"",keywords:["蝸牛","蚯蚓","觸角","潮溼"]},
+  {id:"float-or-sink",title:"浮與沉：什麼東西會浮在水上？",grade:3,category:"matter-heat-change",status:"planned",path:"",keywords:["浮","沉","水","船"]},
+  {id:"wind-is-running-air",title:"風是空氣在跑步",grade:3,category:"air-water-weather",status:"planned",path:"",keywords:["風","空氣流動","風向"]},
+  {id:"cloud-expressions",title:"雲是天空的表情：認識雲的樣子",grade:3,category:"air-water-weather",status:"planned",path:"",keywords:["雲","積雲","天氣"]},
+  {id:"secrets-in-soil",title:"泥土裡藏著什麼？土壤觀察",grade:3,category:"earth-resources",status:"planned",path:"",keywords:["土壤","腐植質","黏土"]},
+  {id:"mirror-world",title:"鏡子裡的世界：光的反射初體驗",grade:3,category:"sound-light-electricity",status:"planned",path:"",keywords:["鏡子","反射","影像"]},
+  {id:"elastic-toys",title:"彈簧與橡皮筋：玩具裡的彈力",grade:3,category:"force-motion-machines",status:"planned",path:"",keywords:["彈簧","橡皮筋","彈力","形變"]},
+  {id:"measuring-toolbox",title:"我的測量工具箱：長度與體積怎麼量",grade:3,category:"inquiry-methods",status:"planned",path:"",keywords:["尺","量筒","單位","測量"]},
+
+  {id:"bird-beak-code",title:"鳥嘴的形狀密碼：吃什麼長什麼嘴",grade:4,category:"animals-insects",status:"planned",path:"",keywords:["鳥喙","食性","適應"]},
+  {id:"water-surface-tension",title:"水黽為什麼不會沉？水的表面張力",grade:4,category:"air-water-weather",status:"planned",path:"",keywords:["表面張力","水黽","水滴"]},
+  {id:"capillary-action",title:"紙巾會喝水：毛細現象",grade:4,category:"matter-heat-change",status:"planned",path:"",keywords:["毛細現象","紙巾","吸水"]},
+  {id:"plant-drinking-secret",title:"植物喝水的祕密：根與莖的運輸",grade:4,category:"plants-life",status:"planned",path:"",keywords:["根","莖","運輸","蒸散"]},
+  {id:"rainbow-colors",title:"彩虹是怎麼出現的？光的色散",grade:4,category:"sound-light-electricity",status:"planned",path:"",keywords:["彩虹","色散","三稜鏡"]},
+  {id:"static-electricity-magic",title:"頭髮為什麼站起來？靜電魔法",grade:4,category:"sound-light-electricity",status:"planned",path:"",keywords:["靜電","摩擦起電","氣球"]},
+  {id:"air-expands-contracts",title:"空氣也會熱脹冷縮",grade:4,category:"matter-heat-change",status:"planned",path:"",keywords:["熱脹冷縮","空氣","氣球"]},
+  {id:"compass-earth-magnet",title:"指北針與地球大磁鐵",grade:4,category:"force-motion-machines",status:"planned",path:"",keywords:["指北針","地磁","方位"]},
+  {id:"star-constellations",title:"星星的家：認識星座與北極星",grade:4,category:"earth-resources",status:"planned",path:"",keywords:["星座","北極星","北斗七星"]},
+  {id:"campus-weather-station",title:"校園氣象站：自己動手量雨量與風向",grade:4,category:"inquiry-methods",status:"planned",path:"",keywords:["雨量器","風向計","觀測"]},
+
+  {id:"seed-germination-experiment",title:"種子發芽需要什麼？變因大實驗",grade:5,category:"plants-life",status:"planned",path:"",keywords:["發芽","溫度","變因"]},
+  {id:"insect-camouflage",title:"昆蟲的偽裝術：保護色與擬態",grade:5,category:"animals-insects",status:"planned",path:"",keywords:["保護色","擬態","竹節蟲"]},
+  {id:"density-and-buoyancy",title:"死海為什麼淹不死人？密度與浮力",grade:5,category:"matter-heat-change",status:"planned",path:"",keywords:["密度","浮力","鹽水"]},
+  {id:"water-purification",title:"混濁的水變乾淨：過濾與淨水",grade:5,category:"matter-heat-change",status:"planned",path:"",keywords:["過濾","沉澱","淨水"]},
+  {id:"magnifier-refraction",title:"放大鏡的祕密：光的折射與透鏡",grade:5,category:"sound-light-electricity",status:"planned",path:"",keywords:["折射","放大鏡","凸透鏡"]},
+  {id:"echo-and-ultrasound",title:"回聲與超音波：聲音的反彈",grade:5,category:"sound-light-electricity",status:"planned",path:"",keywords:["回聲","反射","蝙蝠"]},
+  {id:"series-parallel-circuits",title:"誰的燈泡比較亮？串聯與並聯",grade:5,category:"sound-light-electricity",status:"planned",path:"",keywords:["串聯","並聯","燈泡"]},
+  {id:"inclined-plane-screw",title:"斜坡與螺絲：省力的斜面",grade:5,category:"force-motion-machines",status:"planned",path:"",keywords:["斜面","螺絲","省力"]},
+  {id:"mold-and-microbes",title:"看不見的分解者：黴菌與微生物",grade:5,category:"ecology-sustainability",status:"planned",path:"",keywords:["黴菌","微生物","分解者"]},
+  {id:"four-seasons-stars",title:"夏夜與冬夜的星星不一樣？四季星空",grade:5,category:"earth-resources",status:"planned",path:"",keywords:["四季星空","獵戶座","公轉"]},
+
+  {id:"solar-lunar-eclipse",title:"天空的捉迷藏：日食與月食",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["日食","月食","日月地"]},
+  {id:"earth-rotation-seasons",title:"四季為什麼會變換？地球的自轉與公轉",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["自轉","公轉","地軸","四季"]},
+  {id:"tides-ocean-breathing",title:"大海的呼吸：潮汐的漲與退",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["潮汐","月球","潮間帶"]},
+  {id:"volcano-earth-chimney",title:"火山：大地的煙囪",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["火山","岩漿","板塊"]},
+  {id:"fermentation-science",title:"麵包為什麼會膨脹？發酵的科學",grade:6,category:"matter-heat-change",status:"planned",path:"",keywords:["發酵","酵母","麵包"]},
+  {id:"photosynthesis-respiration",title:"植物也會呼吸嗎？光合作用與呼吸作用",grade:6,category:"plants-life",status:"planned",path:"",keywords:["光合作用","呼吸作用","氧氣"]},
+  {id:"heredity-family-face",title:"為什麼我像爸爸又像媽媽？遺傳初探",grade:6,category:"animals-insects",status:"planned",path:"",keywords:["遺傳","性狀","親代"]},
+  {id:"greenhouse-warming-earth",title:"地球發燒了：氣候變遷與溫室效應",grade:6,category:"ecology-sustainability",status:"planned",path:"",keywords:["溫室效應","氣候變遷","減碳"]},
+  {id:"renewable-energy",title:"風、光、水來發電：再生能源",grade:6,category:"ecology-sustainability",status:"planned",path:"",keywords:["再生能源","太陽能","風力"]},
+  {id:"data-tells-story",title:"資料會說話：圖表與統計初探",grade:6,category:"inquiry-methods",status:"planned",path:"",keywords:["圖表","長條圖","資料"]}
 ];
 
 /* 今日科學問題 */

@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "黑熊老師自然科學繪本百科",
-    "note": "40 篇主題地圖正式資料來源。修改後必須同步 assets/js/main.js 的 TOPICS。",
+    "note": "80 篇主題地圖正式資料來源（第一批 40 篇已上線、第二批 40 篇籌備中）。修改後必須同步 assets/js/main.js 的 TOPICS。",
     "categories": {
       "plants-life": "植物與生命",
       "animals-insects": "動物與昆蟲",
@@ -57,6 +57,50 @@
     { "id": "ecosystem-balance", "title": "生態系的平衡與外來種入侵", "grade": 6, "bridge": "國中生物與環境、保育", "category": "ecology-sustainability", "coreConcepts": ["生態平衡", "外來種的影響"], "keywords": ["生態系", "外來種", "族群", "平衡", "保育"], "status": "published", "path": "topics/grade-6/ecosystem-balance.html" },
     { "id": "one-earth-sustainability", "title": "我們只有一個地球：資源與永續", "grade": 6, "bridge": "國中環境保育與永續", "category": "ecology-sustainability", "coreConcepts": ["自然資源有限", "永續行動"], "keywords": ["資源", "永續", "減塑", "節能", "循環"], "status": "published", "path": "topics/grade-6/one-earth-sustainability.html" },
     { "id": "rock-mineral-story", "title": "岩石與礦物的身世之謎", "grade": 6, "bridge": "國中岩石與地層", "category": "earth-resources", "coreConcepts": ["岩石種類與成因初步", "礦物特徵觀察"], "keywords": ["岩石", "礦物", "沉積", "火成", "觀察"], "status": "published", "path": "topics/grade-6/rock-mineral-story.html" },
-    { "id": "how-scientists-think", "title": "科學家怎麼想？從問題到結論的探究之路", "grade": 6, "bridge": "國中科學方法與基本測量", "category": "inquiry-methods", "coreConcepts": ["探究流程", "證據與推論", "科學態度"], "keywords": ["假設", "實驗", "證據", "結論", "科學方法"], "status": "published", "path": "topics/grade-6/how-scientists-think.html" }
+    { "id": "how-scientists-think", "title": "科學家怎麼想？從問題到結論的探究之路", "grade": 6, "bridge": "國中科學方法與基本測量", "category": "inquiry-methods", "coreConcepts": ["探究流程", "證據與推論", "科學態度"], "keywords": ["假設", "實驗", "證據", "結論", "科學方法"], "status": "published", "path": "topics/grade-6/how-scientists-think.html" },
+
+    { "id": "flower-invitation-card", "title": "花是植物的邀請卡：花的構造", "grade": 3, "bridge": "5年級植物的繁殖、國中生殖構造", "category": "plants-life", "coreConcepts": ["花的基本構造", "花與傳粉者的關係"], "keywords": ["花瓣", "花萼", "雄蕊", "雌蕊", "傳粉"], "status": "planned", "path": "" },
+    { "id": "silkworm-diary", "title": "蠶寶寶日記：飼養與觀察", "grade": 3, "bridge": "4年級昆蟲變態、國中生活史", "category": "animals-insects", "coreConcepts": ["生活史的觀察與紀錄", "飼養小動物的責任"], "keywords": ["蠶", "桑葉", "結繭", "飼養", "觀察日記"], "status": "planned", "path": "" },
+    { "id": "snail-and-earthworm", "title": "雨後的小訪客：蝸牛與蚯蚓", "grade": 3, "bridge": "4年級動物分類、國中生物分類", "category": "animals-insects", "coreConcepts": ["小動物的構造與運動", "動物對環境的反應"], "keywords": ["蝸牛", "蚯蚓", "觸角", "潮溼", "觀察"], "status": "planned", "path": "" },
+    { "id": "float-or-sink", "title": "浮與沉：什麼東西會浮在水上？", "grade": 3, "bridge": "5年級密度與浮力、國中阿基米德原理", "category": "matter-heat-change", "coreConcepts": ["浮沉現象的觀察", "物體性質與浮沉的關係"], "keywords": ["浮", "沉", "水", "船", "預測"], "status": "planned", "path": "" },
+    { "id": "wind-is-running-air", "title": "風是空氣在跑步", "grade": 3, "bridge": "4年級天氣觀測、國中大氣運動", "category": "air-water-weather", "coreConcepts": ["風是空氣的流動", "風的方向與強弱觀測"], "keywords": ["風", "空氣流動", "風向", "風力"], "status": "planned", "path": "" },
+    { "id": "cloud-expressions", "title": "雲是天空的表情：認識雲的樣子", "grade": 3, "bridge": "4年級天氣觀測、國中天氣系統", "category": "air-water-weather", "coreConcepts": ["雲的形態觀察", "雲與天氣變化的關係"], "keywords": ["雲", "積雲", "捲雲", "天氣", "觀察"], "status": "planned", "path": "" },
+    { "id": "secrets-in-soil", "title": "泥土裡藏著什麼？土壤觀察", "grade": 3, "bridge": "6年級岩石礦物、國中風化與土壤", "category": "earth-resources", "coreConcepts": ["土壤的組成", "土壤中的生物"], "keywords": ["土壤", "腐植質", "砂", "黏土", "蚯蚓"], "status": "planned", "path": "" },
+    { "id": "mirror-world", "title": "鏡子裡的世界：光的反射初體驗", "grade": 3, "bridge": "4年級光的直進、國中光學成像", "category": "sound-light-electricity", "coreConcepts": ["光的反射現象", "平面鏡中的影像"], "keywords": ["鏡子", "反射", "影像", "左右相反"], "status": "planned", "path": "" },
+    { "id": "elastic-toys", "title": "彈簧與橡皮筋：玩具裡的彈力", "grade": 3, "bridge": "4年級力的作用、國中力與彈性", "category": "force-motion-machines", "coreConcepts": ["彈力與形變", "彈力的生活應用"], "keywords": ["彈簧", "橡皮筋", "彈力", "形變", "玩具"], "status": "planned", "path": "" },
+    { "id": "measuring-toolbox", "title": "我的測量工具箱：長度與體積怎麼量", "grade": 3, "bridge": "全年級探究能力、國中科學測量", "category": "inquiry-methods", "coreConcepts": ["測量工具的正確使用", "單位與準確紀錄"], "keywords": ["尺", "量筒", "單位", "測量", "紀錄"], "status": "planned", "path": "" },
+
+    { "id": "bird-beak-code", "title": "鳥嘴的形狀密碼：吃什麼長什麼嘴", "grade": 4, "bridge": "5年級動物的適應、國中演化與適應", "category": "animals-insects", "coreConcepts": ["構造與功能相符", "鳥喙形狀與食性的關係"], "keywords": ["鳥喙", "食性", "適應", "構造與功能"], "status": "planned", "path": "" },
+    { "id": "water-surface-tension", "title": "水黽為什麼不會沉？水的表面張力", "grade": 4, "bridge": "國中分子間作用力", "category": "air-water-weather", "coreConcepts": ["表面張力現象", "水面像有一層薄膜"], "keywords": ["表面張力", "水黽", "水滴", "肥皂水"], "status": "planned", "path": "" },
+    { "id": "capillary-action", "title": "紙巾會喝水：毛細現象", "grade": 4, "bridge": "國中物質特性與植物運輸", "category": "matter-heat-change", "coreConcepts": ["毛細現象", "細縫與水的爬升"], "keywords": ["毛細現象", "紙巾", "棉線", "吸水"], "status": "planned", "path": "" },
+    { "id": "plant-drinking-secret", "title": "植物喝水的祕密：根與莖的運輸", "grade": 4, "bridge": "國中維管束與蒸散作用", "category": "plants-life", "coreConcepts": ["根吸水、莖運輸", "蒸散現象初步"], "keywords": ["根", "莖", "運輸", "蒸散", "芹菜實驗"], "status": "planned", "path": "" },
+    { "id": "rainbow-colors", "title": "彩虹是怎麼出現的？光的色散", "grade": 4, "bridge": "國中光的折射與色散", "category": "sound-light-electricity", "coreConcepts": ["白光由多種色光組成", "色散現象"], "keywords": ["彩虹", "色散", "三稜鏡", "七彩"], "status": "planned", "path": "" },
+    { "id": "static-electricity-magic", "title": "頭髮為什麼站起來？靜電魔法", "grade": 4, "bridge": "國中靜電與電荷", "category": "sound-light-electricity", "coreConcepts": ["摩擦起電", "帶電體的吸引與排斥"], "keywords": ["靜電", "摩擦起電", "氣球", "吸引"], "status": "planned", "path": "" },
+    { "id": "air-expands-contracts", "title": "空氣也會熱脹冷縮", "grade": 4, "bridge": "6年級熱對物質的影響、國中粒子觀點", "category": "matter-heat-change", "coreConcepts": ["熱脹冷縮現象", "溫度改變氣體體積"], "keywords": ["熱脹冷縮", "空氣", "氣球", "瓶子"], "status": "planned", "path": "" },
+    { "id": "compass-earth-magnet", "title": "指北針與地球大磁鐵", "grade": 4, "bridge": "6年級電磁作用、國中磁場", "category": "force-motion-machines", "coreConcepts": ["指北針的原理", "地球像一個大磁鐵"], "keywords": ["指北針", "地磁", "方位", "磁針"], "status": "planned", "path": "" },
+    { "id": "star-constellations", "title": "星星的家：認識星座與北極星", "grade": 4, "bridge": "5年級四季星空、國中天文觀測", "category": "earth-resources", "coreConcepts": ["星座的辨認", "北極星與方位"], "keywords": ["星座", "北極星", "北斗七星", "觀星"], "status": "planned", "path": "" },
+    { "id": "campus-weather-station", "title": "校園氣象站：自己動手量雨量與風向", "grade": 4, "bridge": "6年級天氣系統、國中氣象觀測", "category": "inquiry-methods", "coreConcepts": ["自製觀測儀器", "長期紀錄與整理資料"], "keywords": ["雨量器", "風向計", "觀測", "紀錄"], "status": "planned", "path": "" },
+
+    { "id": "seed-germination-experiment", "title": "種子發芽需要什麼？變因大實驗", "grade": 5, "bridge": "國中種子萌發與科學方法", "category": "plants-life", "coreConcepts": ["發芽的條件", "變因控制的公平測試"], "keywords": ["發芽", "水", "空氣", "溫度", "變因"], "status": "planned", "path": "" },
+    { "id": "insect-camouflage", "title": "昆蟲的偽裝術：保護色與擬態", "grade": 5, "bridge": "國中演化與天擇", "category": "animals-insects", "coreConcepts": ["保護色與擬態", "偽裝與生存的關係"], "keywords": ["保護色", "擬態", "竹節蟲", "枯葉蝶"], "status": "planned", "path": "" },
+    { "id": "density-and-buoyancy", "title": "死海為什麼淹不死人？密度與浮力", "grade": 5, "bridge": "國中密度與阿基米德原理", "category": "matter-heat-change", "coreConcepts": ["密度的概念", "浮力與液體密度的關係"], "keywords": ["密度", "浮力", "鹽水", "死海"], "status": "planned", "path": "" },
+    { "id": "water-purification", "title": "混濁的水變乾淨：過濾與淨水", "grade": 5, "bridge": "國中混合物分離與水資源", "category": "matter-heat-change", "coreConcepts": ["沉澱與過濾", "混合物的分離方法"], "keywords": ["過濾", "沉澱", "淨水", "混合物"], "status": "planned", "path": "" },
+    { "id": "magnifier-refraction", "title": "放大鏡的祕密：光的折射與透鏡", "grade": 5, "bridge": "國中透鏡成像", "category": "sound-light-electricity", "coreConcepts": ["光的折射", "凸透鏡聚光與放大"], "keywords": ["折射", "放大鏡", "凸透鏡", "聚光"], "status": "planned", "path": "" },
+    { "id": "echo-and-ultrasound", "title": "回聲與超音波：聲音的反彈", "grade": 5, "bridge": "國中波的反射", "category": "sound-light-electricity", "coreConcepts": ["聲音的反射", "回聲的應用"], "keywords": ["回聲", "反射", "超音波", "蝙蝠", "海豚"], "status": "planned", "path": "" },
+    { "id": "series-parallel-circuits", "title": "誰的燈泡比較亮？串聯與並聯", "grade": 5, "bridge": "國中電路與電流", "category": "sound-light-electricity", "coreConcepts": ["串聯與並聯的差異", "電池與燈泡的連接方式"], "keywords": ["串聯", "並聯", "電池", "燈泡", "亮度"], "status": "planned", "path": "" },
+    { "id": "inclined-plane-screw", "title": "斜坡與螺絲：省力的斜面", "grade": 5, "bridge": "國中功與機械利益", "category": "force-motion-machines", "coreConcepts": ["斜面省力原理", "省力與距離的取捨"], "keywords": ["斜面", "螺絲", "省力", "坡道"], "status": "planned", "path": "" },
+    { "id": "mold-and-microbes", "title": "看不見的分解者：黴菌與微生物", "grade": 5, "bridge": "國中微生物與物質循環", "category": "ecology-sustainability", "coreConcepts": ["分解者的角色", "發霉條件的變因實驗"], "keywords": ["黴菌", "微生物", "分解者", "發霉"], "status": "planned", "path": "" },
+    { "id": "four-seasons-stars", "title": "夏夜與冬夜的星星不一樣？四季星空", "grade": 5, "bridge": "國中地球公轉與天文", "category": "earth-resources", "coreConcepts": ["四季星空的變化", "星空變化與地球公轉的關係"], "keywords": ["四季星空", "獵戶座", "夏季大三角", "公轉"], "status": "planned", "path": "" },
+
+    { "id": "solar-lunar-eclipse", "title": "天空的捉迷藏：日食與月食", "grade": 6, "bridge": "國中天體運動", "category": "earth-resources", "coreConcepts": ["日食與月食的成因", "日月地的相對位置"], "keywords": ["日食", "月食", "影子", "日月地"], "status": "planned", "path": "" },
+    { "id": "earth-rotation-seasons", "title": "四季為什麼會變換？地球的自轉與公轉", "grade": 6, "bridge": "國中地球運動", "category": "earth-resources", "coreConcepts": ["自轉造成晝夜", "地軸傾斜與公轉造成四季"], "keywords": ["自轉", "公轉", "地軸", "四季", "晝夜"], "status": "planned", "path": "" },
+    { "id": "tides-ocean-breathing", "title": "大海的呼吸：潮汐的漲與退", "grade": 6, "bridge": "國中萬有引力", "category": "earth-resources", "coreConcepts": ["潮汐現象", "月球引力與潮汐的關係"], "keywords": ["潮汐", "漲潮", "退潮", "月球", "潮間帶"], "status": "planned", "path": "" },
+    { "id": "volcano-earth-chimney", "title": "火山：大地的煙囪", "grade": 6, "bridge": "國中板塊運動與火成岩", "category": "earth-resources", "coreConcepts": ["火山的成因", "岩漿與火山地形"], "keywords": ["火山", "岩漿", "板塊", "溫泉"], "status": "planned", "path": "" },
+    { "id": "fermentation-science", "title": "麵包為什麼會膨脹？發酵的科學", "grade": 6, "bridge": "國中微生物與化學變化", "category": "matter-heat-change", "coreConcepts": ["酵母發酵產生氣體", "發酵的生活應用"], "keywords": ["發酵", "酵母", "麵包", "氣泡", "優格"], "status": "planned", "path": "" },
+    { "id": "photosynthesis-respiration", "title": "植物也會呼吸嗎？光合作用與呼吸作用", "grade": 6, "bridge": "國中光合作用與細胞呼吸", "category": "plants-life", "coreConcepts": ["光合作用與呼吸作用的關係", "晝夜的氣體變化"], "keywords": ["光合作用", "呼吸作用", "氧氣", "二氧化碳"], "status": "planned", "path": "" },
+    { "id": "heredity-family-face", "title": "為什麼我像爸爸又像媽媽？遺傳初探", "grade": 6, "bridge": "國中遺傳與基因", "category": "animals-insects", "coreConcepts": ["遺傳與性狀", "親代與子代的相似與差異"], "keywords": ["遺傳", "性狀", "親代", "子代"], "status": "planned", "path": "" },
+    { "id": "greenhouse-warming-earth", "title": "地球發燒了：氣候變遷與溫室效應", "grade": 6, "bridge": "國中全球變遷", "category": "ecology-sustainability", "coreConcepts": ["溫室效應的機制", "氣候變遷的影響與行動"], "keywords": ["溫室效應", "氣候變遷", "二氧化碳", "減碳"], "status": "planned", "path": "" },
+    { "id": "renewable-energy", "title": "風、光、水來發電：再生能源", "grade": 6, "bridge": "國中能源與永續", "category": "ecology-sustainability", "coreConcepts": ["再生與非再生能源", "能量轉換的發電應用"], "keywords": ["再生能源", "太陽能", "風力", "水力"], "status": "planned", "path": "" },
+    { "id": "data-tells-story", "title": "資料會說話：圖表與統計初探", "grade": 6, "bridge": "國中數據分析與科學論證", "category": "inquiry-methods", "coreConcepts": ["整理資料與繪製圖表", "從圖表找規律下結論"], "keywords": ["圖表", "長條圖", "折線圖", "資料", "結論"], "status": "planned", "path": "" }
   ]
 }
