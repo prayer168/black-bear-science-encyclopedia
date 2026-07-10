@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf4fb"/>
+<rect x="0" y="0" width="520" height="278" fill="#fdf6ea" opacity="0.7"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- table with tools and food -->
+<rect x="150" y="180" width="330" height="14" rx="4" fill="#d8b98a"/>
+<g transform="translate(200,150)"><rect x="-3" y="0" width="6" height="34" fill="#bbb"/><path d="M-3 0 l-7 -14 M3 0 l7 -14" stroke="#999" stroke-width="3"/></g>
+<g transform="translate(300,150)"><ellipse cx="0" cy="6" rx="12" ry="8" fill="#dfe3e6" stroke="#9aa"/><rect x="-3" y="12" width="6" height="24" fill="#cfd3d6"/></g>
+<g transform="translate(400,158)"><rect x="-10" y="0" width="20" height="12" rx="3" fill="#e0906a" stroke="#b06a44"/><rect x="-10" y="14" width="20" height="12" rx="3" fill="#e0906a" stroke="#b06a44"/></g>
+<circle cx="250" cy="205" r="5" fill="#c8a15a"/><circle cx="270" cy="207" r="5" fill="#c8a15a"/><circle cx="350" cy="205" r="6" fill="#e0796f"/>
+<!-- drop -->
+<g transform="translate(60,120)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="84" height="84"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：哪種嘴夾哪種食物最厲害？</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧「同樣時間、同樣食物才公平！」</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fdf3f6"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#b0417a">花謝了，果實種子來報到</text>
+
+  <!-- four panels -->
+  <g font-size="14" fill="#333" text-anchor="middle">
+    <!-- panel 1 開花 -->
+    <rect x="20" y="60" width="150" height="230" rx="12" fill="#fff" stroke="#e2b8cc"/>
+    <circle cx="95" cy="150" r="38" fill="#f6a8c8" stroke="#d6699b" stroke-width="2"/>
+    <circle cx="95" cy="150" r="14" fill="#f2c94c" stroke="#c99a1a"/>
+    <line x1="95" y1="188" x2="95" y2="250" stroke="#5fa35f" stroke-width="5"/>
+    <text x="95" y="278" font-weight="bold" fill="#b0417a">①開花</text>
+
+    <!-- panel 2 傳粉 -->
+    <rect x="185" y="60" width="150" height="230" rx="12" fill="#fff" stroke="#e2b8cc"/>
+    <circle cx="260" cy="150" r="38" fill="#f6a8c8" stroke="#d6699b" stroke-width="2"/>
+    <ellipse cx="260" cy="150" rx="9" ry="14" fill="#7fbf6f" stroke="#4d8c4d"/>
+    <ellipse cx="235" cy="112" rx="14" ry="10" fill="#f7d046" stroke="#8a6d1a"/>
+    <text x="260" y="278" font-weight="bold" fill="#b0417a">②傳粉</text>
+
+    <!-- panel 3 花瓣謝 子房大 -->
+    <rect x="350" y="60" width="150" height="230" rx="12" fill="#fff" stroke="#e2b8cc"/>
+    <path d="M400 120 q10 -18 25 -8 M450 118 q-8 -16 -22 -6" stroke="#d6699b" stroke-width="2" fill="none"/>
+    <ellipse cx="425" cy="175" rx="26" ry="30" fill="#a8d56f" stroke="#5a9a2a" stroke-width="2"/>
+    <line x1="425" y1="205" x2="425" y2="250" stroke="#5fa35f" stroke-width="5"/>
+    <text x="425" y="278" font-weight="bold" fill="#b0417a">③花瓣謝·子房脹大</text>
+
+    <!-- panel 4 果實剖面 -->
+    <rect x="515" y="60" width="165" height="230" rx="12" fill="#fff" stroke="#e2b8cc"/>
+    <circle cx="597" cy="170" r="44" fill="#e2554d" stroke="#a8352d" stroke-width="2"/>
+    <circle cx="585" cy="160" r="6" fill="#fbe6b0" stroke="#c9a24a"/>
+    <circle cx="608" cy="158" r="6" fill="#fbe6b0" stroke="#c9a24a"/>
+    <circle cx="597" cy="182" r="6" fill="#fbe6b0" stroke="#c9a24a"/>
+    <circle cx="580" cy="182" r="6" fill="#fbe6b0" stroke="#c9a24a"/>
+    <circle cx="614" cy="180" r="6" fill="#fbe6b0" stroke="#c9a24a"/>
+    <text x="597" y="278" font-weight="bold" fill="#b0417a">④果實·內含種子</text>
+  </g>
+
+  <!-- arrows between -->
+  <g stroke="#e0952a" stroke-width="3" marker-end="url(#a2)">
+    <line x1="172" y1="175" x2="183" y2="175"/>
+    <line x1="337" y1="175" x2="348" y2="175"/>
+    <line x1="502" y1="175" x2="513" y2="175"/>
+  </g>
+  <defs><marker id="a2" markerWidth="10" markerHeight="10" refX="7" refY="4" orient="auto"><path d="M0 0 L7 4 L0 8 z" fill="#e0952a"/></marker></defs>
+
+  <text x="350" y="386" text-anchor="middle" font-size="15" font-weight="bold" fill="#b0417a">花謝不是結束，是果實和種子的開始。</text>
+</svg>

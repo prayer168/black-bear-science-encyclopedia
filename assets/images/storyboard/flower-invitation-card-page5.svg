@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf5e6"/>
+<rect x="0" y="0" width="520" height="278" fill="#c9e8bf" opacity="0.5"/>
+<rect x="0" y="220" width="520" height="58" fill="#7bbf6a" opacity="0.5"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- monster holding flower -->
+<g transform="translate(90,110)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="96" height="96"/></g>
+<g transform="translate(160,180)">
+  <circle cx="0" cy="0" r="20" fill="#f0788f" stroke="#c85272"/>
+  <circle cx="0" cy="0" r="7" fill="#f2c94c"/>
+</g>
+<!-- bear explaining -->
+<g transform="translate(330,110)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="96" height="96"/></g>
+<!-- flowers in forest -->
+<g transform="translate(450,190)">
+  <circle cx="0" cy="0" r="16" fill="#e2554d" stroke="#a8352d"/>
+  <circle cx="0" cy="0" r="6" fill="#f2c94c"/>
+  <line x1="0" y1="16" x2="0" y2="55" stroke="#4d8c4d" stroke-width="4"/>
+</g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：花不是為了給人看才開的。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「給人欣賞的啦！」🐻「是為了吸引傳粉者喔！」</text>
+</svg>

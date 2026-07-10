@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6fb"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f6f9e">五種鳥喙與牠們的食物</text>
+
+  <g font-size="14" fill="#333">
+    <!-- row template: bird head with beak (left) + arrow + food (right) -->
+    <!-- 1 short thick -> seed -->
+    <g transform="translate(60,70)">
+      <circle cx="30" cy="20" r="22" fill="#b3763f" stroke="#8a5a2b" stroke-width="2"/>
+      <circle cx="24" cy="14" r="4" fill="#fff"/><circle cx="24" cy="14" r="2" fill="#000"/>
+      <path d="M50 18 l24 4 l-24 8 z" fill="#e0a52a" stroke="#b07d14"/>
+      <text x="0" y="60" font-size="13" fill="#8a5a2b">短厚嘴（麻雀）</text>
+      <path d="M120 22 h40" stroke="#7aa" stroke-width="2" marker-end="url(#ar)"/>
+      <ellipse cx="185" cy="22" rx="12" ry="8" fill="#c8a15a" stroke="#96702f"/>
+      <text x="170" y="55" font-size="12" fill="#6f6a63">種子</text>
+    </g>
+    <!-- 2 long sharp -> fish -->
+    <g transform="translate(390,70)">
+      <circle cx="30" cy="20" r="22" fill="#e8e8ec" stroke="#9aa" stroke-width="2"/>
+      <circle cx="24" cy="14" r="4" fill="#fff"/><circle cx="24" cy="14" r="2" fill="#000"/>
+      <path d="M50 18 l52 4 l-52 6 z" fill="#f0b429" stroke="#b07d14"/>
+      <text x="0" y="60" font-size="13" fill="#5b7a8a">尖長嘴（白鷺鷥）</text>
+      <path d="M150 22 h30" stroke="#7aa" stroke-width="2" marker-end="url(#ar)"/>
+      <path d="M195 22 q12 -10 24 0 q-12 10 -24 0z" fill="#7fbfe0" stroke="#3d88b8"/>
+      <text x="192" y="52" font-size="12" fill="#6f6a63">魚</text>
+    </g>
+    <!-- 3 hook -> meat -->
+    <g transform="translate(60,180)">
+      <circle cx="30" cy="20" r="22" fill="#8a6a4a" stroke="#5f4630" stroke-width="2"/>
+      <circle cx="24" cy="14" r="4" fill="#fff"/><circle cx="24" cy="14" r="2" fill="#000"/>
+      <path d="M50 14 l22 2 q6 6 -2 14 q-4 -8 -20 -6z" fill="#d99a2a" stroke="#a8721a"/>
+      <text x="0" y="60" font-size="13" fill="#5f4630">鉤狀嘴（老鷹）</text>
+      <path d="M120 22 h40" stroke="#7aa" stroke-width="2" marker-end="url(#ar)"/>
+      <path d="M172 14 h28 v14 h-28z" fill="#e0796f" stroke="#b04a40"/>
+      <text x="170" y="52" font-size="12" fill="#6f6a63">肉</text>
+    </g>
+    <!-- 4 thin tube -> flower -->
+    <g transform="translate(390,180)">
+      <circle cx="30" cy="20" r="22" fill="#4fae7a" stroke="#2f7d52" stroke-width="2"/>
+      <circle cx="24" cy="14" r="4" fill="#fff"/><circle cx="24" cy="14" r="2" fill="#000"/>
+      <path d="M50 19 l54 2 l-54 2z" fill="#333" stroke="#000"/>
+      <text x="0" y="60" font-size="13" fill="#2f7d52">細長嘴（蜂鳥）</text>
+      <path d="M150 22 h28" stroke="#7aa" stroke-width="2" marker-end="url(#ar)"/>
+      <circle cx="200" cy="22" r="12" fill="#f0788f" stroke="#c85272"/><circle cx="200" cy="22" r="4" fill="#f2c94c"/>
+      <text x="185" y="52" font-size="12" fill="#6f6a63">花蜜</text>
+    </g>
+    <!-- 5 flat -> water plants -->
+    <g transform="translate(230,290)">
+      <circle cx="30" cy="20" r="22" fill="#d8c85a" stroke="#a89a2b" stroke-width="2"/>
+      <circle cx="24" cy="14" r="4" fill="#fff"/><circle cx="24" cy="14" r="2" fill="#000"/>
+      <path d="M50 16 q26 0 30 6 q-4 6 -30 4z" fill="#e0a52a" stroke="#b07d14"/>
+      <text x="0" y="60" font-size="13" fill="#a89a2b">扁平嘴（鴨子）</text>
+      <path d="M130 22 h34" stroke="#7aa" stroke-width="2" marker-end="url(#ar)"/>
+      <path d="M175 26 q6 -14 12 0 q6 -14 12 0" stroke="#4d9a4d" stroke-width="3" fill="none"/>
+      <text x="168" y="52" font-size="12" fill="#6f6a63">水草小蟲</text>
+    </g>
+  </g>
+
+  <defs><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="4" orient="auto"><path d="M0 0 L7 4 L0 8 z" fill="#7aa"/></marker></defs>
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6f9e">看嘴的形狀，就能猜牠吃什麼。</text>
+</svg>

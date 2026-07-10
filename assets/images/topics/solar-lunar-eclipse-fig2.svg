@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#0f1a33"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#ffd0a0">月食——地球影子蓋住月亮</text>
+
+  <!-- sun left -->
+  <circle cx="80" cy="200" r="46" fill="#ffcf40" stroke="#ffe89a" stroke-width="3"/>
+  <g stroke="#ffd94a" stroke-width="3">
+    <line x1="80" y1="140" x2="80" y2="126"/><line x1="132" y1="165" x2="146" y2="156"/>
+    <line x1="132" y1="235" x2="146" y2="244"/>
+  </g>
+  <text x="80" y="278" text-anchor="middle" font-size="14" fill="#ffe08a">太陽</text>
+
+  <!-- earth middle -->
+  <circle cx="340" cy="200" r="42" fill="#3a7bd5"/>
+  <path d="M316 182 q18 -6 34 2 q-8 14 -28 10z" fill="#4caf50"/>
+  <path d="M326 222 q16 4 30 -4" stroke="#4caf50" stroke-width="7" fill="none"/>
+  <text x="340" y="158" text-anchor="middle" font-size="14" fill="#bcd4ff">地球</text>
+
+  <!-- earth shadow cone toward moon -->
+  <path d="M340 178 L600 190 L340 222 Z" fill="#1a2440" opacity="0.72"/>
+  <path d="M382 175 L600 188 M382 225 L600 212" stroke="#5a6a8a" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- moon right (in shadow, reddish) -->
+  <circle cx="580" cy="200" r="22" fill="#8a3a2e" stroke="#b0554a" stroke-width="2"/>
+  <circle cx="573" cy="194" r="4" fill="#6f2c22"/><circle cx="588" cy="205" r="5" fill="#6f2c22"/>
+  <text x="580" y="158" text-anchor="middle" font-size="14" fill="#ffb0a0">月亮（滿月·血月）</text>
+  <text x="580" y="242" text-anchor="middle" font-size="12" fill="#ffb0a0">被地影蓋住→變暗紅</text>
+
+  <text x="350" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffd0a0">地球影子蓋住月亮＝月食，滿月晚上才會發生。</text>
+</svg>

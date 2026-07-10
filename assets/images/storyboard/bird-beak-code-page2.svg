@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf4fb"/>
+<rect x="0" y="0" width="520" height="278" fill="#dbeaf5" opacity="0.6"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- utensils -->
+<g transform="translate(300,120)" font-size="12" fill="#5a4632" text-anchor="middle">
+  <text x="0" y="-20" font-size="34">🥄</text><text x="0" y="10" >湯匙</text>
+  <text x="70" y="-20" font-size="34">🥢</text><text x="70" y="10">筷子</text>
+  <text x="140" y="-20" font-size="34">🔪</text><text x="140" y="10">刀子</text>
+</g>
+<g transform="translate(60,110)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：喙是鳥天生帶著的餐具。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「不同食物要用不同工具！」</text>
+</svg>

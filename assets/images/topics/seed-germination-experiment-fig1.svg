@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ec"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a7d3a">種子發芽的三個條件</text>
+
+  <!-- center sprouting seed -->
+  <g transform="translate(350,210)">
+    <ellipse cx="0" cy="20" rx="34" ry="26" fill="#8fbf5a" stroke="#5a8a2a" stroke-width="2"/>
+    <path d="M0 -6 q-4 -40 -22 -54 M0 -6 q4 -40 22 -54" fill="none" stroke="#4d9a3a" stroke-width="5"/>
+    <path d="M-22 -60 q-14 4 -18 -8 q16 -4 18 8z" fill="#7fc050" stroke="#4d9a3a"/>
+    <path d="M22 -60 q14 4 18 -8 q-16 -4 -18 8z" fill="#7fc050" stroke="#4d9a3a"/>
+    <text x="0" y="60" text-anchor="middle" font-size="13" fill="#5a8a2a">種子（內含養分）</text>
+  </g>
+
+  <!-- three conditions -->
+  <g text-anchor="middle" font-size="15" font-weight="bold">
+    <!-- water -->
+    <g transform="translate(130,140)">
+      <path d="M0 -22 q16 22 0 34 q-16 -12 0 -34z" fill="#6fb7e8" stroke="#3d88b8" stroke-width="2"/>
+      <text x="0" y="56" fill="#2f6f9e">適當水分</text>
+      <text x="0" y="76" font-size="12" fill="#6f6a63" font-weight="normal">溼潤·不泡水</text>
+    </g>
+    <!-- air -->
+    <g transform="translate(130,290)">
+      <circle cx="-10" cy="0" r="10" fill="#d6ecf7" stroke="#8fc0e0"/>
+      <circle cx="10" cy="-6" r="7" fill="#d6ecf7" stroke="#8fc0e0"/>
+      <circle cx="8" cy="10" r="6" fill="#d6ecf7" stroke="#8fc0e0"/>
+      <text x="0" y="40" fill="#5b7a8a">空氣（氧氣）</text>
+      <text x="0" y="60" font-size="12" fill="#6f6a63" font-weight="normal">種子要呼吸</text>
+    </g>
+    <!-- temperature -->
+    <g transform="translate(570,215)">
+      <rect x="-6" y="-30" width="12" height="50" rx="6" fill="#fff" stroke="#c0392b" stroke-width="2"/>
+      <rect x="-4" y="0" width="8" height="20" fill="#c0392b"/><circle cx="0" cy="24" r="9" fill="#c0392b"/>
+      <text x="0" y="52" fill="#b0472e">適當溫度</text>
+      <text x="0" y="72" font-size="12" fill="#6f6a63" font-weight="normal">不太冷不太熱</text>
+    </g>
+  </g>
+
+  <!-- sun NOT needed -->
+  <g transform="translate(560,90)">
+    <circle cx="0" cy="0" r="20" fill="#ffe08a" stroke="#e0a52a" stroke-width="2"/>
+    <g stroke="#e0a52a" stroke-width="3"><line x1="0" y1="-28" x2="0" y2="-22"/><line x1="20" y1="-20" x2="24" y2="-24"/><line x1="28" y1="0" x2="22" y2="0"/></g>
+    <line x1="-24" y1="24" x2="24" y2="-24" stroke="#d94f4f" stroke-width="4"/>
+    <text x="0" y="46" text-anchor="middle" font-size="12" fill="#c76a20">陽光：發芽通常不需要</text>
+  </g>
+
+  <text x="350" y="390" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7d3a">發芽要水、空氣、適溫；陽光要等長葉子才用得到。</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fdf3f6"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#b0417a">一朵花的四個部位</text>
+
+  <!-- flower cross-section, center ~ (300,230) -->
+  <!-- petals -->
+  <g>
+    <ellipse cx="300" cy="150" rx="34" ry="60" fill="#f6a8c8" stroke="#d6699b" stroke-width="2"/>
+    <ellipse cx="230" cy="200" rx="60" ry="34" fill="#f6a8c8" stroke="#d6699b" stroke-width="2"/>
+    <ellipse cx="370" cy="200" rx="60" ry="34" fill="#f6a8c8" stroke="#d6699b" stroke-width="2"/>
+    <ellipse cx="260" cy="290" rx="46" ry="40" fill="#f6a8c8" stroke="#d6699b" stroke-width="2" transform="rotate(-25 260 290)"/>
+    <ellipse cx="340" cy="290" rx="46" ry="40" fill="#f6a8c8" stroke="#d6699b" stroke-width="2" transform="rotate(25 340 290)"/>
+  </g>
+  <!-- sepal (green under) -->
+  <path d="M300 340 l-40 30 M300 340 l40 30 M300 345 l0 34" stroke="#5fa35f" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- stamens -->
+  <g stroke="#e0a52a" stroke-width="3">
+    <line x1="300" y1="230" x2="268" y2="170"/>
+    <line x1="300" y1="230" x2="332" y2="170"/>
+    <line x1="300" y1="230" x2="255" y2="205"/>
+    <line x1="300" y1="230" x2="345" y2="205"/>
+  </g>
+  <circle cx="268" cy="168" r="8" fill="#f2c94c" stroke="#c99a1a"/>
+  <circle cx="332" cy="168" r="8" fill="#f2c94c" stroke="#c99a1a"/>
+  <circle cx="253" cy="203" r="8" fill="#f2c94c" stroke="#c99a1a"/>
+  <circle cx="347" cy="203" r="8" fill="#f2c94c" stroke="#c99a1a"/>
+  <!-- pistil center -->
+  <path d="M300 300 q-14 -50 0 -100 q14 50 0 100" fill="#a8d5a0" stroke="#5fa35f" stroke-width="2"/>
+  <ellipse cx="300" cy="200" rx="12" ry="8" fill="#7fbf6f" stroke="#4d8c4d"/>
+  <ellipse cx="300" cy="300" rx="20" ry="16" fill="#c8e6c0" stroke="#5fa35f" stroke-width="2"/>
+
+  <!-- labels on right -->
+  <g font-size="15" fill="#333">
+    <line x1="332" y1="168" x2="500" y2="120" stroke="#c99a1a" stroke-width="1.5"/>
+    <text x="506" y="118" font-weight="bold" fill="#c99a1a">雄蕊</text>
+    <text x="506" y="138" font-size="12" fill="#6f6a63">頂端有黃色花粉</text>
+
+    <line x1="300" y1="200" x2="505" y2="190" stroke="#4d8c4d" stroke-width="1.5"/>
+    <text x="510" y="188" font-weight="bold" fill="#4d8c4d">雌蕊</text>
+    <text x="510" y="208" font-size="12" fill="#6f6a63">柱頭黏花粉·底部子房</text>
+
+    <line x1="360" y1="230" x2="505" y2="258" stroke="#d6699b" stroke-width="1.5"/>
+    <text x="510" y="256" font-weight="bold" fill="#d6699b">花瓣</text>
+    <text x="510" y="276" font-size="12" fill="#6f6a63">鮮豔·吸引昆蟲</text>
+
+    <line x1="330" y1="360" x2="505" y2="330" stroke="#5fa35f" stroke-width="1.5"/>
+    <text x="510" y="328" font-weight="bold" fill="#5fa35f">花萼</text>
+    <text x="510" y="348" font-size="12" fill="#6f6a63">保護花苞</text>
+  </g>
+
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#b0417a">由外到內：花萼、花瓣、雄蕊、雌蕊，各有任務。</text>
+</svg>

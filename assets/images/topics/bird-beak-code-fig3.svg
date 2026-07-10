@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6fb"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f6f9e">工具取食大挑戰</text>
+
+  <!-- tools row -->
+  <g font-size="13" fill="#333" text-anchor="middle">
+    <text x="130" y="72" font-weight="bold" fill="#5b7a8a">鑷子＝尖長嘴</text>
+    <g transform="translate(130,90)"><rect x="-3" y="0" width="6" height="46" fill="#bbb"/><path d="M-3 0 l-8 -18 M3 0 l8 -18" stroke="#999" stroke-width="4"/></g>
+    <text x="350" y="72" font-weight="bold" fill="#a89a2b">湯匙＝扁平嘴</text>
+    <g transform="translate(350,90)"><ellipse cx="0" cy="8" rx="14" ry="9" fill="#dfe3e6" stroke="#9aa"/><rect x="-3" y="14" width="6" height="34" fill="#cfd3d6"/></g>
+    <text x="570" y="72" font-weight="bold" fill="#8a5a2b">夾子＝短厚嘴</text>
+    <g transform="translate(570,90)"><rect x="-12" y="0" width="24" height="14" rx="3" fill="#e0906a" stroke="#b06a44"/><rect x="-12" y="16" width="24" height="14" rx="3" fill="#e0906a" stroke="#b06a44"/></g>
+  </g>
+
+  <!-- food dishes -->
+  <g font-size="13" fill="#333" text-anchor="middle">
+    <ellipse cx="160" cy="230" rx="60" ry="20" fill="#fff" stroke="#c9b98a"/>
+    <circle cx="140" cy="228" r="6" fill="#c8a15a"/><circle cx="160" cy="234" r="6" fill="#c8a15a"/><circle cx="180" cy="226" r="6" fill="#c8a15a"/><circle cx="150" cy="236" r="6" fill="#c8a15a"/>
+    <text x="160" y="268" fill="#6f6a63">豆子</text>
+
+    <ellipse cx="350" cy="230" rx="60" ry="20" fill="#d6eefb" stroke="#8fc0e0"/>
+    <path d="M330 226 q4 -8 8 0 q4 -8 8 0" stroke="#4d9a4d" stroke-width="2" fill="none"/>
+    <text x="350" y="268" fill="#6f6a63">水＋海綿碎</text>
+
+    <ellipse cx="540" cy="230" rx="60" ry="20" fill="#fff" stroke="#c9b98a"/>
+    <circle cx="520" cy="228" r="8" fill="#e0796f"/><circle cx="545" cy="232" r="8" fill="#7fbfe0"/><circle cx="565" cy="226" r="8" fill="#8fd08f"/>
+    <text x="540" y="268" fill="#6f6a63">小球</text>
+  </g>
+
+  <!-- timer + record -->
+  <g transform="translate(350,320)">
+    <circle cx="0" cy="0" r="24" fill="#fff" stroke="#e08a3c" stroke-width="3"/>
+    <line x1="0" y1="0" x2="0" y2="-14" stroke="#e08a3c" stroke-width="3"/>
+    <line x1="0" y1="0" x2="10" y2="6" stroke="#e08a3c" stroke-width="3"/>
+    <text x="0" y="44" text-anchor="middle" font-size="13" fill="#c76a20" font-weight="bold">計時 30 秒</text>
+  </g>
+
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6f9e">哪種嘴，夾哪種食物最厲害？（同食物、同時間才公平）</text>
+</svg>

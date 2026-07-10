@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef7ec"/>
+<rect x="0" y="0" width="520" height="278" fill="#fdf7ea" opacity="0.7"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- rotten beans cup -->
+<g transform="translate(240,150)">
+  <path d="M-28 0 h56 l-5 90 h-46z" fill="#d8dcc0" stroke="#9a9a6a" stroke-width="2"/>
+  <rect x="-26" y="10" width="52" height="76" fill="#b5b06a" opacity="0.7"/>
+  <circle cx="-8" cy="45" r="6" fill="#7a6a3a"/><circle cx="8" cy="60" r="6" fill="#7a6a3a"/>
+  <text x="0" y="-8" font-size="20">🤢</text>
+  <text x="0" y="112" text-anchor="middle" font-size="12" fill="#8a7a2a">泡水→爛掉發臭</text>
+</g>
+<g transform="translate(380,190)">
+  <ellipse cx="0" cy="10" rx="42" ry="14" fill="#fff" stroke="#d8c090"/>
+  <circle cx="-14" cy="8" r="5" fill="#8fbf5a"/><circle cx="6" cy="10" r="5" fill="#8fbf5a"/>
+  <text x="0" y="36" text-anchor="middle" font-size="12" fill="#a86a2a">乾的沒動靜</text>
+</g>
+<g transform="translate(55,115)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="86" height="86"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：兩種極端都失敗了。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「給最多水怎麼反而爛掉？」</text>
+</svg>

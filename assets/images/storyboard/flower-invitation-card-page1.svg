@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf5e6"/>
+<rect x="0" y="0" width="520" height="278" fill="#c9e8bf" opacity="0.5"/>
+<rect x="0" y="210" width="520" height="68" fill="#8fce7e" opacity="0.6"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- flower bush -->
+<g transform="translate(300,150)">
+  <circle cx="0" cy="0" r="34" fill="#e2554d" stroke="#a8352d" stroke-width="2"/>
+  <circle cx="0" cy="0" r="12" fill="#f2c94c" stroke="#c99a1a"/>
+  <line x1="0" y1="34" x2="0" y2="100" stroke="#4d8c4d" stroke-width="6"/>
+  <circle cx="60" cy="40" r="24" fill="#f0788f" stroke="#c85272" stroke-width="2"/>
+  <circle cx="60" cy="40" r="8" fill="#f2c94c"/>
+  <line x1="60" y1="60" x2="60" y2="100" stroke="#4d8c4d" stroke-width="5"/>
+</g>
+<!-- bee -->
+<g transform="translate(268,130)">
+  <ellipse cx="0" cy="0" rx="16" ry="11" fill="#f7d046" stroke="#8a6d1a" stroke-width="2"/>
+  <path d="M-7 -10 v20 M2 -11 v22" stroke="#4a3c12" stroke-width="3"/>
+  <ellipse cx="-14" cy="-5" rx="10" ry="6" fill="#fff" opacity="0.8" stroke="#bbb"/>
+</g>
+<!-- fox -->
+<g transform="translate(70,120)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="86" height="86"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：蟲子為什麼都往花裡鑽？</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「花又不會叫牠們來，牠們為什麼要來？」</text>
+</svg>

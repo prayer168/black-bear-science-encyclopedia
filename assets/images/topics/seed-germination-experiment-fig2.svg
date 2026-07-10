@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ec"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a7d3a">什麼是公平的實驗？三種變因</text>
+
+  <!-- dish A: water, sprouted -->
+  <g transform="translate(180,150)">
+    <ellipse cx="0" cy="40" rx="80" ry="24" fill="#fff" stroke="#c9b98a" stroke-width="2"/>
+    <ellipse cx="0" cy="34" rx="72" ry="18" fill="#d6ecf7"/>
+    <g stroke="#4d9a3a" stroke-width="4" fill="none">
+      <path d="M-30 34 q-4 -24 4 -34"/><path d="M0 36 q4 -26 -4 -36"/><path d="M30 34 q6 -22 -2 -32"/>
+    </g>
+    <text x="0" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7d3a">A 加水 → 發芽 🌱</text>
+  </g>
+  <!-- dish B: no water, no sprout -->
+  <g transform="translate(520,150)">
+    <ellipse cx="0" cy="40" rx="80" ry="24" fill="#fff" stroke="#c9b98a" stroke-width="2"/>
+    <ellipse cx="0" cy="34" rx="72" ry="18" fill="#f0ead6"/>
+    <circle cx="-24" cy="34" r="7" fill="#8fbf5a"/><circle cx="0" cy="36" r="7" fill="#8fbf5a"/><circle cx="26" cy="33" r="7" fill="#8fbf5a"/>
+    <text x="0" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#a86a2a">B 不加水 → 沒發芽</text>
+  </g>
+
+  <!-- variable labels -->
+  <g font-size="14">
+    <rect x="60" y="255" width="580" height="34" rx="8" fill="#fde9c8" stroke="#e0a860"/>
+    <text x="72" y="277" fill="#b0722a"><tspan font-weight="bold">🎛️ 操縱變因：</tspan>有沒有加水（只改這一個）</text>
+
+    <rect x="60" y="298" width="580" height="34" rx="8" fill="#d9eef8" stroke="#8fc0e0"/>
+    <text x="72" y="320" fill="#2f6f9e"><tspan font-weight="bold">📏 應變變因：</tspan>發芽的顆數（觀察測量的結果）</text>
+
+    <rect x="60" y="341" width="580" height="34" rx="8" fill="#e2f0dc" stroke="#8fbf6a"/>
+    <text x="72" y="363" fill="#3a7d3a"><tspan font-weight="bold">🔒 控制變因：</tspan>溫度、空氣、種子數、擺放地點都相同</text>
+  </g>
+
+  <text x="350" y="235" text-anchor="middle" font-size="14" font-weight="bold" fill="#5a8a2a">只改一個條件，其他全一樣，才知道是誰的功勞。</text>
+</svg>

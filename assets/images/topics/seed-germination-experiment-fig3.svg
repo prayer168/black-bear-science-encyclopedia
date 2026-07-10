@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ec"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a7d3a">發芽變因實驗設計（四杯對照）</text>
+
+  <g text-anchor="middle" font-size="13">
+    <!-- cup 1 control -->
+    <g transform="translate(110,110)">
+      <path d="M-34 0 h68 l-6 120 h-56 z" fill="#eaf6ff" stroke="#8fb8d0" stroke-width="2"/>
+      <rect x="-30" y="70" width="60" height="46" fill="#ffe9c0" opacity="0.6"/>
+      <path d="M-16 92 q-3 -20 3 -30 M4 94 q3 -22 -3 -32" stroke="#4d9a3a" stroke-width="4" fill="none"/>
+      <text x="0" y="150" font-weight="bold" fill="#3a7d3a">①對照組</text>
+      <text x="0" y="168" font-size="11" fill="#6f6a63">溼潤·常溫·有空氣</text>
+      <text x="0" y="188" font-size="15" fill="#2f9a2f">✅ 發芽</text>
+    </g>
+    <!-- cup 2 no water -->
+    <g transform="translate(280,110)">
+      <path d="M-34 0 h68 l-6 120 h-56 z" fill="#fdf6ea" stroke="#d8c090" stroke-width="2"/>
+      <circle cx="-14" cy="100" r="6" fill="#8fbf5a"/><circle cx="6" cy="102" r="6" fill="#8fbf5a"/><circle cx="-2" cy="88" r="6" fill="#8fbf5a"/>
+      <text x="0" y="150" font-weight="bold" fill="#a86a2a">②缺水</text>
+      <text x="0" y="168" font-size="11" fill="#6f6a63">乾燥·其他同①</text>
+      <text x="0" y="188" font-size="15" fill="#c0392b">❌ 沒發芽</text>
+    </g>
+    <!-- cup 3 waterlogged -->
+    <g transform="translate(450,110)">
+      <path d="M-34 0 h68 l-6 120 h-56 z" fill="#cfe6f5" stroke="#7fa8c8" stroke-width="2"/>
+      <rect x="-32" y="14" width="62" height="100" fill="#a8d0ec" opacity="0.7"/>
+      <circle cx="-12" cy="80" r="6" fill="#9a8a4a"/><circle cx="8" cy="90" r="6" fill="#9a8a4a"/><circle cx="-2" cy="66" r="6" fill="#9a8a4a"/>
+      <text x="0" y="150" font-weight="bold" fill="#2f6f9e">③泡水</text>
+      <text x="0" y="168" font-size="11" fill="#6f6a63">缺空氣·其他同①</text>
+      <text x="0" y="188" font-size="15" fill="#c0392b">❌ 爛掉</text>
+    </g>
+    <!-- cup 4 cold -->
+    <g transform="translate(620,110)">
+      <path d="M-34 0 h68 l-6 120 h-56 z" fill="#e6f0f6" stroke="#9ab8cc" stroke-width="2"/>
+      <text x="0" y="60" font-size="24">❄️</text>
+      <circle cx="-12" cy="96" r="6" fill="#8fbf5a"/><circle cx="8" cy="98" r="6" fill="#8fbf5a"/>
+      <text x="0" y="150" font-weight="bold" fill="#4a6a8a">④低溫</text>
+      <text x="0" y="168" font-size="11" fill="#6f6a63">冰箱·其他同①</text>
+      <text x="0" y="188" font-size="15" fill="#c0392b">❌ 沒發芽</text>
+    </g>
+  </g>
+
+  <text x="350" y="235" text-anchor="middle" font-size="14" font-weight="bold" fill="#5a8a2a">拿掉一個條件，就知道那個條件重不重要。</text>
+  <rect x="90" y="255" width="520" height="120" rx="10" fill="#fff" stroke="#cfe0cc"/>
+  <text x="350" y="284" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7d3a">預期結果</text>
+  <g font-size="13" fill="#4a5a4a">
+    <text x="120" y="312">• 只有①對照組順利發芽</text>
+    <text x="120" y="336">• ②缺水、③泡水（缺空氣）、④低溫 都失敗</text>
+    <text x="120" y="360">→ 證明：發芽需要「水分＋空氣＋適當溫度」</text>
+  </g>
+</svg>

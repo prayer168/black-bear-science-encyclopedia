@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#3a4a6a"/>
+<rect x="0" y="0" width="520" height="278" fill="#5a6a8a" opacity="0.5"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000020"/>
+<!-- eclipse glasses + pinhole projection -->
+<g transform="translate(250,120)">
+  <rect x="0" y="0" width="90" height="34" rx="6" fill="#222" stroke="#555" stroke-width="2"/>
+  <rect x="8" y="8" width="30" height="18" rx="3" fill="#6a4fd0"/>
+  <rect x="52" y="8" width="30" height="18" rx="3" fill="#6a4fd0"/>
+  <text x="45" y="54" text-anchor="middle" font-size="11" fill="#ffe08a">日食專用眼鏡</text>
+</g>
+<g transform="translate(380,150)">
+  <rect x="0" y="0" width="44" height="56" rx="3" fill="#fff" stroke="#ccc"/>
+  <circle cx="22" cy="28" r="7" fill="#ffcf40"/>
+  <text x="22" y="72" text-anchor="middle" font-size="10" fill="#e0e6f0">針孔投影</text>
+</g>
+<!-- monster dropping gong -->
+<g transform="translate(60,120)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="90" height="90"/></g>
+<g transform="translate(150,175)"><circle r="16" fill="#c9902a" stroke="#8a6414" stroke-width="2"/><circle r="6" fill="#8a6414"/></g>
+<!-- drop -->
+<g transform="translate(180,110)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="64" height="64"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：看日食要護眼；食可以科學預測。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧「絕不能用肉眼直視太陽！」</text>
+</svg>

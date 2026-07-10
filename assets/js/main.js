@@ -67,7 +67,7 @@ const TOPICS = [
   {id:"how-scientists-think",title:"科學家怎麼想？從問題到結論的探究之路",grade:6,category:"inquiry-methods",status:"published",path:"topics/grade-6/how-scientists-think.html",keywords:["假設","實驗","證據","科學方法"]},
 
   /* ===== 第二批 40 主題（籌備中） ===== */
-  {id:"flower-invitation-card",title:"花是植物的邀請卡：花的構造",grade:3,category:"plants-life",status:"planned",path:"",keywords:["花瓣","雄蕊","雌蕊","傳粉"]},
+  {id:"flower-invitation-card",title:"花是植物的邀請卡：花的構造",grade:3,category:"plants-life",status:"published",path:"topics/grade-3/flower-invitation-card.html",keywords:["花瓣","雄蕊","雌蕊","傳粉"]},
   {id:"silkworm-diary",title:"蠶寶寶日記：飼養與觀察",grade:3,category:"animals-insects",status:"planned",path:"",keywords:["蠶","桑葉","結繭","觀察日記"]},
   {id:"snail-and-earthworm",title:"雨後的小訪客：蝸牛與蚯蚓",grade:3,category:"animals-insects",status:"planned",path:"",keywords:["蝸牛","蚯蚓","觸角","潮溼"]},
   {id:"float-or-sink",title:"浮與沉：什麼東西會浮在水上？",grade:3,category:"matter-heat-change",status:"planned",path:"",keywords:["浮","沉","水","船"]},
@@ -78,7 +78,7 @@ const TOPICS = [
   {id:"elastic-toys",title:"彈簧與橡皮筋：玩具裡的彈力",grade:3,category:"force-motion-machines",status:"planned",path:"",keywords:["彈簧","橡皮筋","彈力","形變"]},
   {id:"measuring-toolbox",title:"我的測量工具箱：長度與體積怎麼量",grade:3,category:"inquiry-methods",status:"planned",path:"",keywords:["尺","量筒","單位","測量"]},
 
-  {id:"bird-beak-code",title:"鳥嘴的形狀密碼：吃什麼長什麼嘴",grade:4,category:"animals-insects",status:"planned",path:"",keywords:["鳥喙","食性","適應"]},
+  {id:"bird-beak-code",title:"鳥嘴的形狀密碼：吃什麼長什麼嘴",grade:4,category:"animals-insects",status:"published",path:"topics/grade-4/bird-beak-code.html",keywords:["鳥喙","食性","適應"]},
   {id:"water-surface-tension",title:"水黽為什麼不會沉？水的表面張力",grade:4,category:"air-water-weather",status:"planned",path:"",keywords:["表面張力","水黽","水滴"]},
   {id:"capillary-action",title:"紙巾會喝水：毛細現象",grade:4,category:"matter-heat-change",status:"planned",path:"",keywords:["毛細現象","紙巾","吸水"]},
   {id:"plant-drinking-secret",title:"植物喝水的祕密：根與莖的運輸",grade:4,category:"plants-life",status:"planned",path:"",keywords:["根","莖","運輸","蒸散"]},
@@ -89,7 +89,7 @@ const TOPICS = [
   {id:"star-constellations",title:"星星的家：認識星座與北極星",grade:4,category:"earth-resources",status:"planned",path:"",keywords:["星座","北極星","北斗七星"]},
   {id:"campus-weather-station",title:"校園氣象站：自己動手量雨量與風向",grade:4,category:"inquiry-methods",status:"planned",path:"",keywords:["雨量器","風向計","觀測"]},
 
-  {id:"seed-germination-experiment",title:"種子發芽需要什麼？變因大實驗",grade:5,category:"plants-life",status:"planned",path:"",keywords:["發芽","溫度","變因"]},
+  {id:"seed-germination-experiment",title:"種子發芽需要什麼？變因大實驗",grade:5,category:"plants-life",status:"published",path:"topics/grade-5/seed-germination-experiment.html",keywords:["發芽","溫度","變因"]},
   {id:"insect-camouflage",title:"昆蟲的偽裝術：保護色與擬態",grade:5,category:"animals-insects",status:"planned",path:"",keywords:["保護色","擬態","竹節蟲"]},
   {id:"density-and-buoyancy",title:"死海為什麼淹不死人？密度與浮力",grade:5,category:"matter-heat-change",status:"planned",path:"",keywords:["密度","浮力","鹽水"]},
   {id:"water-purification",title:"混濁的水變乾淨：過濾與淨水",grade:5,category:"matter-heat-change",status:"planned",path:"",keywords:["過濾","沉澱","淨水"]},
@@ -100,7 +100,7 @@ const TOPICS = [
   {id:"mold-and-microbes",title:"看不見的分解者：黴菌與微生物",grade:5,category:"ecology-sustainability",status:"planned",path:"",keywords:["黴菌","微生物","分解者"]},
   {id:"four-seasons-stars",title:"夏夜與冬夜的星星不一樣？四季星空",grade:5,category:"earth-resources",status:"planned",path:"",keywords:["四季星空","獵戶座","公轉"]},
 
-  {id:"solar-lunar-eclipse",title:"天空的捉迷藏：日食與月食",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["日食","月食","日月地"]},
+  {id:"solar-lunar-eclipse",title:"天空的捉迷藏：日食與月食",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/solar-lunar-eclipse.html",keywords:["日食","月食","日月地"]},
   {id:"earth-rotation-seasons",title:"四季為什麼會變換？地球的自轉與公轉",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["自轉","公轉","地軸","四季"]},
   {id:"tides-ocean-breathing",title:"大海的呼吸：潮汐的漲與退",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["潮汐","月球","潮間帶"]},
   {id:"volcano-earth-chimney",title:"火山：大地的煙囪",grade:6,category:"earth-resources",status:"planned",path:"",keywords:["火山","岩漿","板塊"]},

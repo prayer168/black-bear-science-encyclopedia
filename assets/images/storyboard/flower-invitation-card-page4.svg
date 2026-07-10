@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf5e6"/>
+<rect x="0" y="0" width="520" height="278" fill="#c9e8bf" opacity="0.5"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- two flowers + bee path -->
+<g transform="translate(120,180)">
+  <circle cx="0" cy="0" r="30" fill="#f0788f" stroke="#c85272" stroke-width="2"/>
+  <circle cx="0" cy="0" r="11" fill="#f2c94c" stroke="#c99a1a"/>
+  <line x1="0" y1="30" x2="0" y2="80" stroke="#4d8c4d" stroke-width="5"/>
+</g>
+<g transform="translate(400,180)">
+  <circle cx="0" cy="0" r="30" fill="#f0788f" stroke="#c85272" stroke-width="2"/>
+  <ellipse cx="0" cy="0" rx="8" ry="13" fill="#7fbf6f" stroke="#4d8c4d" stroke-width="2"/>
+  <line x1="0" y1="30" x2="0" y2="80" stroke="#4d8c4d" stroke-width="5"/>
+</g>
+<path d="M150 150 C230 90 300 90 375 150" fill="none" stroke="#e0952a" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#a)"/>
+<defs><marker id="a" markerWidth="11" markerHeight="11" refX="7" refY="4" orient="auto"><path d="M0 0 L7 4 L0 8 z" fill="#e0952a"/></marker></defs>
+<g transform="translate(262,105)">
+  <ellipse cx="0" cy="0" rx="17" ry="12" fill="#f7d046" stroke="#8a6d1a" stroke-width="2"/>
+  <path d="M-7 -11 v22 M2 -12 v24" stroke="#4a3c12" stroke-width="3"/>
+  <ellipse cx="-15" cy="-5" rx="10" ry="6" fill="#fff" opacity="0.8" stroke="#bbb"/>
+  <circle cx="10" cy="10" r="3" fill="#f2c94c"/><circle cx="0" cy="13" r="3" fill="#f2c94c"/>
+</g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：蜜蜂當快遞，把花粉送過去。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「原來屁股上的黃粉是花粉！」</text>
+</svg>

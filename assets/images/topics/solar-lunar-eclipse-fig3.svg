@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#0f1a33"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#ffe08a">日食 vs 月食 對照表</text>
+
+  <!-- headers -->
+  <rect x="40" y="56" width="180" height="40" fill="#1c2b4a"/>
+  <rect x="220" y="56" width="220" height="40" fill="#3a2a1a"/>
+  <rect x="440" y="56" width="220" height="40" fill="#2a1a1a"/>
+  <text x="130" y="82" text-anchor="middle" font-size="15" fill="#cfd8ea" font-weight="bold">比一比</text>
+  <text x="330" y="82" text-anchor="middle" font-size="16" fill="#ffcf40" font-weight="bold">☀️ 日食</text>
+  <text x="550" y="82" text-anchor="middle" font-size="16" fill="#ff9a80" font-weight="bold">🌙 月食</text>
+
+  <g font-size="14">
+    <!-- rows -->
+    <g fill="#cfd8ea" text-anchor="middle">
+      <text x="130" y="128">中間是誰</text>
+      <text x="130" y="176">誰被遮住</text>
+      <text x="130" y="224">發生時間</text>
+      <text x="130" y="272">當時月相</text>
+      <text x="130" y="320">能否直接看</text>
+    </g>
+    <g fill="#ffe6b0" text-anchor="middle">
+      <text x="330" y="128">月亮</text>
+      <text x="330" y="176">太陽被遮</text>
+      <text x="330" y="224">白天</text>
+      <text x="330" y="272">新月</text>
+      <text x="330" y="320" fill="#ff6a6a" font-weight="bold">不可直視！要護眼</text>
+    </g>
+    <g fill="#ffcbb8" text-anchor="middle">
+      <text x="550" y="128">地球</text>
+      <text x="550" y="176">月亮被遮</text>
+      <text x="550" y="224">晚上</text>
+      <text x="550" y="272">滿月</text>
+      <text x="550" y="320" fill="#8fe08f" font-weight="bold">可以直接看</text>
+    </g>
+  </g>
+
+  <!-- grid lines -->
+  <g stroke="#3a4a6a" stroke-width="1">
+    <line x1="40" y1="96" x2="660" y2="96"/>
+    <line x1="40" y1="144" x2="660" y2="144"/>
+    <line x1="40" y1="192" x2="660" y2="192"/>
+    <line x1="40" y1="240" x2="660" y2="240"/>
+    <line x1="40" y1="288" x2="660" y2="288"/>
+    <line x1="40" y1="336" x2="660" y2="336"/>
+    <line x1="220" y1="56" x2="220" y2="336"/>
+    <line x1="440" y1="56" x2="440" y2="336"/>
+  </g>
+
+  <text x="350" y="372" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffe08a">記住「中間是誰」，就不會搞混日食月食。</text>
+</svg>

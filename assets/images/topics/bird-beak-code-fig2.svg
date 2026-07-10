@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6fb"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2f6f9e">喙就是鳥的「餐具」</text>
+
+  <g font-size="14" fill="#333" text-anchor="middle">
+    <!-- col 1 -->
+    <g transform="translate(175,90)">
+      <path d="M-30 20 l40 4 l-40 8 z" fill="#e0a52a" stroke="#b07d14"/>
+      <text x="0" y="60" fill="#8a5a2b">短厚嘴</text>
+      <text x="0" y="95" font-size="24">🥜</text>
+      <text x="0" y="130" font-size="13" fill="#6f6a63">像堅果鉗夾種子</text>
+    </g>
+    <!-- col 2 -->
+    <g transform="translate(525,90)">
+      <path d="M-30 20 l56 4 l-56 6 z" fill="#f0b429" stroke="#b07d14"/>
+      <text x="0" y="60" fill="#5b7a8a">尖長嘴</text>
+      <text x="0" y="95" font-size="24">🥢</text>
+      <text x="0" y="130" font-size="13" fill="#6f6a63">像夾子叉魚</text>
+    </g>
+    <!-- col 3 -->
+    <g transform="translate(175,240)">
+      <path d="M-24 14 l22 2 q6 6 -2 14 q-4 -8 -20 -6z" fill="#d99a2a" stroke="#a8721a"/>
+      <text x="0" y="60" fill="#5f4630">鉤狀嘴</text>
+      <text x="0" y="95" font-size="24">🔪</text>
+      <text x="0" y="130" font-size="13" fill="#6f6a63">像小刀撕肉</text>
+    </g>
+    <!-- col 4 -->
+    <g transform="translate(525,240)">
+      <path d="M-30 20 l58 2 l-58 2z" fill="#333" stroke="#000"/>
+      <text x="0" y="60" fill="#2f7d52">細長嘴</text>
+      <text x="0" y="95" font-size="24">🥤</text>
+      <text x="0" y="130" font-size="13" fill="#6f6a63">像吸管吸花蜜</text>
+    </g>
+  </g>
+
+  <line x1="350" y1="70" x2="350" y2="380" stroke="#cfe0ec" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#2f6f9e">喙是鳥天生帶著的餐具。</text>
+</svg>

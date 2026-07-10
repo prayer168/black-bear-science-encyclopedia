@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf5e6"/>
+<rect x="0" y="0" width="520" height="278" fill="#fdf3f6" opacity="0.7"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- dissected flower parts laid out -->
+<g font-size="12" fill="#5a4632" text-anchor="middle">
+  <path d="M300 120 l-16 12 M300 120 l16 12 M300 122 l0 16" stroke="#5fa35f" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="300" y="160" fill="#4d8c4d">花萼</text>
+  <ellipse cx="360" cy="120" rx="20" ry="12" fill="#f0788f" stroke="#c85272"/>
+  <text x="360" y="160" fill="#c85272">花瓣</text>
+  <line x1="415" y1="100" x2="415" y2="140" stroke="#e0a52a" stroke-width="3"/><circle cx="415" cy="98" r="7" fill="#f2c94c" stroke="#c99a1a"/>
+  <text x="415" y="160" fill="#c99a1a">雄蕊</text>
+  <ellipse cx="465" cy="120" rx="10" ry="18" fill="#7fbf6f" stroke="#4d8c4d"/>
+  <text x="465" y="160" fill="#4d8c4d">雌蕊</text>
+</g>
+<!-- bear -->
+<g transform="translate(70,110)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：一朵花有四個重要部位。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「由外到內：花萼、花瓣、雄蕊、雌蕊。」</text>
+</svg>

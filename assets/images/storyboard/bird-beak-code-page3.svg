@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf4fb"/>
+<rect x="0" y="0" width="520" height="278" fill="#cfe8c4" opacity="0.5"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- sparrow pressing seed -->
+<g transform="translate(140,150)" text-anchor="middle" font-size="12" fill="#8a5a2b">
+  <circle cx="0" cy="0" r="28" fill="#b3763f" stroke="#8a5a2b" stroke-width="2"/>
+  <circle cx="-8" cy="-6" r="4" fill="#fff"/><circle cx="-8" cy="-6" r="2" fill="#000"/>
+  <path d="M24 -2 l22 4 l-22 8 z" fill="#e0a52a" stroke="#b07d14"/>
+  <ellipse cx="54" cy="6" rx="7" ry="5" fill="#c8a15a" stroke="#96702f"/>
+  <text x="0" y="58" font-weight="bold">短厚嘴夾種子</text>
+</g>
+<!-- egret with fish -->
+<g transform="translate(380,150)" text-anchor="middle" font-size="12" fill="#5b7a8a">
+  <circle cx="0" cy="0" r="24" fill="#fff" stroke="#c8d2d8" stroke-width="2"/>
+  <circle cx="-6" cy="-4" r="4" fill="#fff" stroke="#999"/><circle cx="-6" cy="-4" r="2" fill="#000"/>
+  <path d="M22 -2 l50 4 l-50 6 z" fill="#f0b429" stroke="#b07d14"/>
+  <path d="M60 2 q10 -8 20 0 q-10 8 -20 0z" fill="#7fbfe0" stroke="#3d88b8"/>
+  <text x="0" y="58" font-weight="bold">尖長嘴叉魚</text>
+</g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：短厚嘴夾種子、尖長嘴抓魚。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「原來嘴配合食物！」</text>
+</svg>

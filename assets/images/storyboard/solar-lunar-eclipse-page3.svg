@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#101a33"/>
+<rect x="0" y="0" width="520" height="278" fill="#1a2748" opacity="0.8"/>
+<circle cx="110" cy="70" r="2" fill="#fff"/><circle cx="180" cy="50" r="1.5" fill="#fff"/><circle cx="430" cy="60" r="2" fill="#fff"/><circle cx="470" cy="120" r="1.5" fill="#fff"/><circle cx="240" cy="40" r="1.5" fill="#fff"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000030"/>
+<!-- blood moon -->
+<g transform="translate(360,120)">
+  <circle cx="0" cy="0" r="40" fill="#8a3a2e" stroke="#b0554a" stroke-width="2"/>
+  <circle cx="-12" cy="-8" r="6" fill="#6f2c22"/><circle cx="14" cy="6" r="8" fill="#6f2c22"/><circle cx="4" cy="18" r="5" fill="#6f2c22"/>
+</g>
+<g transform="translate(70,130)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="86" height="86"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：晚上，滿月變成紅銅色。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「這兩件事是同一群主角嗎？」</text>
+</svg>

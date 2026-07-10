@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef7ec"/>
+<rect x="0" y="0" width="520" height="278" fill="#e4f1de" opacity="0.7"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- four cups -->
+<g font-size="10" text-anchor="middle">
+  <g transform="translate(200,140)"><path d="M-18 0 h36 l-3 60 h-30z" fill="#eaf6ff" stroke="#8fb8d0"/><path d="M-6 44 q-2 -12 2 -18" stroke="#4d9a3a" stroke-width="3" fill="none"/><text x="0" y="76" fill="#3a7d3a">①</text></g>
+  <g transform="translate(260,140)"><path d="M-18 0 h36 l-3 60 h-30z" fill="#fdf6ea" stroke="#d8c090"/><circle cx="-4" cy="44" r="4" fill="#8fbf5a"/><text x="0" y="76" fill="#a86a2a">②</text></g>
+  <g transform="translate(320,140)"><path d="M-18 0 h36 l-3 60 h-30z" fill="#cfe6f5" stroke="#7fa8c8"/><rect x="-16" y="8" width="32" height="50" fill="#a8d0ec" opacity="0.7"/><text x="0" y="76" fill="#2f6f9e">③</text></g>
+  <g transform="translate(380,140)"><path d="M-18 0 h36 l-3 60 h-30z" fill="#e6f0f6" stroke="#9ab8cc"/><text x="0" y="28" font-size="14">❄️</text><text x="0" y="76" fill="#4a6a8a">④</text></g>
+</g>
+<!-- record sheet -->
+<g transform="translate(430,175)"><rect x="0" y="0" width="46" height="56" rx="3" fill="#fff" stroke="#c9a24a"/><line x1="6" y1="14" x2="40" y2="14" stroke="#ddd"/><line x1="6" y1="28" x2="40" y2="28" stroke="#ddd"/><line x1="6" y1="42" x2="40" y2="42" stroke="#ddd"/></g>
+<g transform="translate(55,120)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="84" height="84"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：讓種子自己告訴我們答案。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「我不猜了，我做實驗！」</text>
+</svg>

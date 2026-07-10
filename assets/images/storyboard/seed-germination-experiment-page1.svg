@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef7ec"/>
+<rect x="0" y="0" width="520" height="278" fill="#fdf7ea" opacity="0.7"/>
+<ellipse cx="260" cy="250" rx="230" ry="24" fill="#00000010"/>
+<!-- water cup full of beans -->
+<g transform="translate(250,150)">
+  <path d="M-28 0 h56 l-5 90 h-46z" fill="#cfe6f5" stroke="#7fa8c8" stroke-width="2"/>
+  <rect x="-26" y="10" width="52" height="76" fill="#a8d0ec" opacity="0.7"/>
+  <circle cx="-10" cy="40" r="6" fill="#8fbf5a"/><circle cx="8" cy="55" r="6" fill="#8fbf5a"/><circle cx="0" cy="70" r="6" fill="#8fbf5a"/>
+  <text x="0" y="112" text-anchor="middle" font-size="12" fill="#2f6f9e">滿水杯</text>
+</g>
+<!-- dry cotton dish -->
+<g transform="translate(390,190)">
+  <ellipse cx="0" cy="10" rx="42" ry="14" fill="#fff" stroke="#d8c090"/>
+  <circle cx="-14" cy="8" r="5" fill="#8fbf5a"/><circle cx="6" cy="10" r="5" fill="#8fbf5a"/>
+  <text x="0" y="36" text-anchor="middle" font-size="12" fill="#a86a2a">乾棉花</text>
+</g>
+<g transform="translate(55,115)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="86" height="86"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：給最多水，一定長最快？</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「種子要喝水，我給最多！」</text>
+</svg>
