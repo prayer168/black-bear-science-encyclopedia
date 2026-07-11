@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8f2ea"/>
+<rect x="0" y="0" width="520" height="278" fill="#cfe6d2" opacity="0.5"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- slime trail -->
+<path d="M300 250 Q360 262 440 250" stroke="#bfe3f2" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.85"/>
+<text x="340" y="240" font-size="11" fill="#5aa0c0">亮亮黏液</text>
+<!-- snail with labelled tentacles -->
+<g transform="translate(340,180)">
+  <circle r="44" fill="#d9a15a" stroke="#a9743a" stroke-width="3"/>
+  <path d="M0 0 a14 14 0 1 1 -0.1 0 M0 0 a28 28 0 1 1 -0.1 0" fill="none" stroke="#a9743a" stroke-width="2.5"/>
+  <path d="M-40 12 q-16 2 -24 -12" stroke="#e7c9a0" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <line x1="-60" y1="-2" x2="-72" y2="-40" stroke="#e7c9a0" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="-73" cy="-42" r="5" fill="#3a2f20"/>
+  <line x1="-52" y1="2" x2="-60" y2="-22" stroke="#e7c9a0" stroke-width="4" stroke-linecap="round"/>
+</g>
+<text x="250" y="120" font-size="12" fill="#5a7a3a">長觸角·眼睛</text>
+<line x1="278" y1="126" x2="268" y2="140" stroke="#7a6a55" stroke-width="1"/>
+<!-- bear -->
+<g transform="translate(50,120)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：長觸角看明暗、短觸角聞味道。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「黏液是蝸牛的溜滑梯！」</text>
+</svg>

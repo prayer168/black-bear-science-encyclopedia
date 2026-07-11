@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6f9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f7a8c">重不一定沉、輕不一定浮</text>
+  <line x1="350" y1="58" x2="350" y2="345" stroke="#cfe0e6" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- left: light clip sinks -->
+  <text x="175" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">很輕，卻沉</text>
+  <path d="M80 110 h190 l-16 210 h-158 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="175" cy="110" rx="95" ry="12" fill="#cfe8f2" stroke="#7fb0d6"/>
+  <!-- paperclip at bottom -->
+  <g transform="translate(175,300)" stroke="#8a8a8a" stroke-width="3" fill="none">
+    <path d="M-8 -12 v20 a4 4 0 0 0 8 0 v-16 a4 4 0 0 1 8 0 v14"/>
+  </g>
+  <text x="175" y="345" text-anchor="middle" font-size="14" fill="#3a7a9a">小迴紋針·密度＞水</text>
+
+  <!-- right: heavy ship floats -->
+  <text x="525" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f9d55">很重，卻浮</text>
+  <rect x="380" y="150" width="300" height="170" fill="#cfe6ef" stroke="#5a95b5" stroke-width="2"/>
+  <ellipse cx="530" cy="150" rx="150" ry="10" fill="#bcd8e6" stroke="#5a95b5"/>
+  <!-- ship hull floating -->
+  <path d="M440 150 h180 l-26 46 h-128 Z" fill="#c0504d" stroke="#8a3833" stroke-width="2"/>
+  <rect x="500" y="120" width="50" height="32" fill="#e6e0d0" stroke="#a89c80"/>
+  <rect x="470" y="132" width="20" height="20" fill="#8a8a8a"/>
+  <text x="530" y="345" text-anchor="middle" font-size="14" fill="#2a6a8a">大鐵船·中空·整體密度＜水</text>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f7a8c">小迴紋針會沉，大鐵船卻能浮！</text>
+</svg>

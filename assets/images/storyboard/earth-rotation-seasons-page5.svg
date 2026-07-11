@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#1a2647"/>
+<rect x="0" y="0" width="520" height="278" fill="#101a38" opacity="0.5"/>
+<ellipse cx="260" cy="255" rx="230" ry="20" fill="#00000030"/>
+<!-- sun left -->
+<circle cx="150" cy="150" r="24" fill="#ffd24a"/>
+<g stroke="#ffd24a" stroke-width="2" opacity="0.55"><line x1="174" y1="150" x2="290" y2="150"/></g>
+<!-- earth tilted, N summer S winter -->
+<g transform="translate(360,150)">
+  <circle r="60" fill="#4a90d9"/>
+  <line x1="16" y1="-56" x2="-16" y2="56" stroke="#fff" stroke-width="2"/>
+  <!-- equator -->
+  <line x1="-58" y1="8" x2="58" y2="-8" stroke="#fff" stroke-width="1" opacity="0.5"/>
+  <text x="-6" y="-30" text-anchor="middle" font-size="11" fill="#ffd0a0">北·夏☀️</text>
+  <text x="6" y="44" text-anchor="middle" font-size="11" fill="#a0c8ff">南·冬❄️</text>
+</g>
+<!-- monster -->
+<g transform="translate(40,150)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：我們夏天時，南半球是冬天。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「近就熱遠就冷！」🐻「那南半球怎麼相反？」</text>
+</svg>

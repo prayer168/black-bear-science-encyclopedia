@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#4d8c4d">認識蚯蚓的身體</text>
+
+  <!-- earthworm body with segments -->
+  <g>
+    <path d="M120 180 Q250 120 380 180 Q500 240 610 200" fill="none" stroke="#c4736a" stroke-width="34" stroke-linecap="round"/>
+    <!-- segment rings -->
+    <g stroke="#9a4f47" stroke-width="2" opacity="0.7">
+      <line x1="160" y1="150" x2="160" y2="192"/>
+      <line x1="200" y1="140" x2="200" y2="188"/>
+      <line x1="245" y1="135" x2="245" y2="186"/>
+      <line x1="330" y1="140" x2="330" y2="192"/>
+      <line x1="380" y1="150" x2="380" y2="205"/>
+      <line x1="430" y1="165" x2="430" y2="218"/>
+      <line x1="480" y1="185" x2="480" y2="235"/>
+      <line x1="540" y1="200" x2="540" y2="240"/>
+    </g>
+    <!-- clitellum (環帶) near head end (left) -->
+    <path d="M270 150 Q288 135 305 150 L305 195 Q288 210 270 195 Z" fill="#e39a6a" stroke="#b9713f" stroke-width="2"/>
+  </g>
+  <!-- head marker -->
+  <circle cx="120" cy="180" r="10" fill="#8a3f38"/>
+  <text x="95" y="150" font-size="14" font-weight="bold" fill="#8a3f38">頭端</text>
+
+  <!-- motion arrows -->
+  <path d="M150 250 h60" stroke="#5a9a2a" stroke-width="3" marker-end="url(#a)"/>
+  <text x="150" y="278" font-size="13" fill="#5a9a2a">伸長→</text>
+  <path d="M400 275 h55" stroke="#5a9a2a" stroke-width="3" marker-end="url(#a)"/>
+  <text x="395" y="300" font-size="13" fill="#5a9a2a">收縮前進→</text>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="7" refY="4" orient="auto"><path d="M0 0 L7 4 L0 8 z" fill="#5a9a2a"/></marker></defs>
+
+  <!-- labels -->
+  <g font-size="15" fill="#333">
+    <line x1="288" y1="150" x2="300" y2="90" stroke="#7a6a55" stroke-width="1.5"/>
+    <text x="270" y="82" font-weight="bold" fill="#b9713f">環帶</text>
+    <text x="200" y="102" font-size="12" fill="#6f6a63">較光滑·靠近頭部</text>
+
+    <line x1="245" y1="150" x2="470" y2="95" stroke="#7a6a55" stroke-width="1.5"/>
+    <text x="475" y="92" font-weight="bold" fill="#9a4f47">環節</text>
+    <text x="475" y="111" font-size="12" fill="#6f6a63">身體一節一節</text>
+
+    <circle cx="600" cy="330" r="4" fill="#7a5a4a"/>
+    <text x="470" y="350" font-size="13" fill="#6f6a63">身上有細細的「剛毛」，勾住地面幫忙前進</text>
+  </g>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#4d8c4d">一節一節的身體，一伸一縮就前進。</text>
+</svg>

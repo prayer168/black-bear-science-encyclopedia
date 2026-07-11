@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#0f1b3a"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#ffe08a">自轉造成白天與黑夜</text>
+
+  <!-- sun left -->
+  <circle cx="90" cy="200" r="55" fill="#ffd24a"/>
+  <circle cx="90" cy="200" r="70" fill="none" stroke="#ffd24a" stroke-width="2" opacity="0.4"/>
+  <text x="90" y="290" text-anchor="middle" font-size="15" fill="#ffe08a">太陽</text>
+  <!-- sun rays -->
+  <g stroke="#ffd24a" stroke-width="2" opacity="0.6">
+    <line x1="160" y1="160" x2="420" y2="120"/>
+    <line x1="160" y1="200" x2="430" y2="200"/>
+    <line x1="160" y1="240" x2="420" y2="280"/>
+  </g>
+
+  <!-- earth right -->
+  <g transform="translate(470,200)">
+    <!-- day half (right, facing sun=left? sun is left, so lit side is left) -->
+    <clipPath id="lit"><rect x="-110" y="-110" width="110" height="220"/></clipPath>
+    <circle r="100" fill="#1b3a6b"/>
+    <circle r="100" fill="#4a90d9" clip-path="url(#lit)"/>
+    <!-- continents hint -->
+    <path d="M-30 -40 q30 -10 50 10 q-10 30 -40 20 z" fill="#3a7a4a" opacity="0.8"/>
+    <path d="M10 30 q30 -6 40 20 q-20 20 -46 6 z" fill="#3a7a4a" opacity="0.8"/>
+    <!-- axis -->
+    <line x1="0" y1="-118" x2="0" y2="118" stroke="#fff" stroke-width="2" stroke-dasharray="5 4"/>
+    <!-- Taiwan marker on lit side -->
+    <circle cx="-70" cy="-14" r="6" fill="#ff5a5a"/>
+    <text x="-92" y="-24" font-size="12" fill="#ffd0d0">台灣·白天</text>
+    <!-- rotation arrow -->
+    <path d="M0 -130 a130 130 0 0 1 40 12" fill="none" stroke="#ffe08a" stroke-width="3" marker-end="url(#r)"/>
+    <text x="20" y="-140" font-size="12" fill="#ffe08a">由西向東自轉</text>
+  </g>
+  <defs><marker id="r" markerWidth="10" markerHeight="10" refX="6" refY="4" orient="auto"><path d="M0 0 L7 4 L0 8 z" fill="#ffe08a"/></marker></defs>
+
+  <text x="470" y="330" text-anchor="middle" font-size="13" fill="#9fb8e0">朝太陽的一半＝白天　背對的一半＝黑夜</text>
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffe08a">地球自己轉，白天黑夜輪流來。</text>
+</svg>

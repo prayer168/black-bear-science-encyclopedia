@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6f2f7"/>
+<rect x="0" y="150" width="520" height="128" fill="#bcd8e6" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- ship floats right -->
+<g transform="translate(360,160)">
+  <path d="M-60 0 h120 l-16 30 h-88 Z" fill="#c0504d" stroke="#8a3833" stroke-width="2"/>
+  <rect x="-16" y="-22" width="34" height="22" fill="#e6e0d0" stroke="#a89c80"/>
+</g>
+<text x="360" y="140" text-anchor="middle" font-size="12" fill="#1f9d55">重卻浮</text>
+<!-- paperclip sinks left -->
+<g transform="translate(180,205)" stroke="#8a8a8a" stroke-width="3" fill="none"><path d="M-6 -10 v16 a4 4 0 0 0 8 0 v-12 a4 4 0 0 1 8 0 v10"/></g>
+<text x="185" y="240" text-anchor="middle" font-size="12" fill="#c0392b">輕卻沉</text>
+<!-- monster -->
+<g transform="translate(45,150)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：重不一定沉，輕不一定浮。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「重就沉！」🐻「大鐵船那麼重卻浮著！」</text>
+</svg>

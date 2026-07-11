@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f4f6fb"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a4bb0">白光裡藏著彩虹</text>
+
+  <!-- incoming white beam -->
+  <rect x="60" y="188" width="200" height="12" fill="#f2f2f2" stroke="#cfcfcf"/>
+  <line x1="60" y1="194" x2="255" y2="194" stroke="#ffffff" stroke-width="4"/>
+  <text x="120" y="180" font-size="15" font-weight="bold" fill="#888">白光</text>
+
+  <!-- prism -->
+  <polygon points="300,120 300,280 380,270 360,150" fill="#d8ecf7" stroke="#7fb0d6" stroke-width="2" opacity="0.85"/>
+  <text x="332" y="305" text-anchor="middle" font-size="14" fill="#5a7a9a">三稜鏡</text>
+
+  <!-- dispersed colors -->
+  <g stroke-width="7">
+    <line x1="360" y1="205" x2="640" y2="150" stroke="#e23b3b"/>
+    <line x1="360" y1="208" x2="640" y2="178" stroke="#f0821e"/>
+    <line x1="360" y1="211" x2="640" y2="206" stroke="#f2c60f"/>
+    <line x1="360" y1="214" x2="640" y2="234" stroke="#4caf50"/>
+    <line x1="360" y1="217" x2="640" y2="262" stroke="#3a7bd5"/>
+    <line x1="360" y1="220" x2="640" y2="290" stroke="#7b41c9"/>
+  </g>
+  <g font-size="13" text-anchor="start">
+    <text x="646" y="154" fill="#e23b3b">紅</text>
+    <text x="646" y="182" fill="#f0821e">橙</text>
+    <text x="646" y="210" fill="#c9a10a">黃</text>
+    <text x="646" y="238" fill="#4caf50">綠</text>
+    <text x="646" y="266" fill="#3a7bd5">藍</text>
+    <text x="646" y="294" fill="#7b41c9">紫</text>
+  </g>
+
+  <text x="470" y="110" text-anchor="middle" font-size="15" font-weight="bold" fill="#5a4bb0">色散</text>
+  <text x="350" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#5a4bb0">白光穿過三稜鏡，藏在裡面的顏色排出來。</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#26304f"/>
+<rect x="0" y="0" width="520" height="278" fill="#1a2340" opacity="0.5"/>
+<ellipse cx="260" cy="255" rx="230" ry="20" fill="#00000030"/>
+<!-- flashlight -->
+<g transform="translate(230,130)">
+  <rect x="0" y="-12" width="46" height="24" rx="4" fill="#555"/>
+  <path d="M46 -12 L120 -46 L120 46 L46 12 Z" fill="#ffe9a8" opacity="0.5"/>
+</g>
+<!-- globe on stand -->
+<g transform="translate(400,150)">
+  <circle r="46" fill="#4a90d9"/>
+  <line x1="12" y1="-42" x2="-12" y2="42" stroke="#fff" stroke-width="2"/>
+  <path d="M-30 -20 q20 -8 34 6 q-8 20 -30 12 z" fill="#3a7a4a" opacity="0.8"/>
+  <rect x="-4" y="46" width="8" height="30" fill="#8a7a5a"/>
+  <rect x="-20" y="76" width="40" height="8" rx="3" fill="#8a7a5a"/>
+</g>
+<!-- drop character -->
+<g transform="translate(60,150)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：手電筒當太陽，轉一圈看晝夜與四季。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「燈光別照眼睛，更別看真太陽！」</text>
+</svg>

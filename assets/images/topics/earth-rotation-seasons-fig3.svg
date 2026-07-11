@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf1fb"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#c26a1e">直射與斜射，誰比較熱</text>
+  <line x1="350" y1="56" x2="350" y2="345" stroke="#d5d9e6" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- LEFT: direct (summer) -->
+  <text x="175" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#d0451b">夏天·直射</text>
+  <circle cx="175" cy="110" r="20" fill="#ffd24a"/>
+  <g stroke="#f2b30a" stroke-width="3">
+    <line x1="160" y1="128" x2="160" y2="250"/>
+    <line x1="175" y1="128" x2="175" y2="250"/>
+    <line x1="190" y1="128" x2="190" y2="250"/>
+  </g>
+  <rect x="90" y="250" width="170" height="30" fill="#c9a06a"/>
+  <!-- concentrated bright spot -->
+  <ellipse cx="175" cy="250" rx="20" ry="6" fill="#ffec99" stroke="#e0b000"/>
+  <text x="175" y="300" text-anchor="middle" font-size="12" fill="#555">光集中·又小又亮→熱</text>
+  <!-- short shadow -->
+  <rect x="150" y="230" width="6" height="20" fill="#8a6a4a"/>
+  <rect x="156" y="246" width="16" height="5" fill="#6f5238" opacity="0.7"/>
+  <text x="175" y="325" text-anchor="middle" font-size="12" fill="#8a6a4a">影子短</text>
+
+  <!-- RIGHT: oblique (winter) -->
+  <text x="525" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#2a6ab0">冬天·斜射</text>
+  <circle cx="440" cy="110" r="20" fill="#ffd24a"/>
+  <g stroke="#f2b30a" stroke-width="3">
+    <line x1="452" y1="126" x2="560" y2="250"/>
+    <line x1="468" y1="122" x2="580" y2="250"/>
+    <line x1="484" y1="118" x2="600" y2="250"/>
+  </g>
+  <rect x="440" y="250" width="200" height="30" fill="#c9a06a"/>
+  <!-- spread dim spot -->
+  <ellipse cx="580" cy="250" rx="42" ry="6" fill="#fff4cc" stroke="#e0c060" opacity="0.7"/>
+  <text x="545" y="300" text-anchor="middle" font-size="12" fill="#555">光分散·又大又淡→冷</text>
+  <!-- long shadow -->
+  <rect x="500" y="230" width="6" height="20" fill="#8a6a4a"/>
+  <rect x="470" y="246" width="36" height="5" fill="#6f5238" opacity="0.7"/>
+  <text x="500" y="325" text-anchor="middle" font-size="12" fill="#8a6a4a">影子長</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#c26a1e">直射又集中又熱，斜射又分散又冷。</text>
+</svg>

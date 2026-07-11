@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f4f6fb"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a4bb0">小水滴怎麼變出天空的彩虹</text>
+
+  <!-- big water drop -->
+  <circle cx="250" cy="210" r="120" fill="#d8ecf7" stroke="#7fb0d6" stroke-width="3" opacity="0.75"/>
+  <text x="250" y="345" text-anchor="middle" font-size="14" fill="#5a7a9a">放大的一顆小水滴</text>
+
+  <!-- sun ray in -->
+  <line x1="70" y1="150" x2="180" y2="185" stroke="#f2c60f" stroke-width="5"/>
+  <text x="70" y="140" font-size="14" fill="#c9a10a">陽光</text>
+  <!-- refract into drop, reflect at back, refract out with dispersion -->
+  <line x1="180" y1="185" x2="330" y2="240" stroke="#cccccc" stroke-width="3"/>
+  <line x1="330" y1="240" x2="210" y2="300" stroke="#cccccc" stroke-width="3"/>
+  <g stroke-width="4">
+    <line x1="210" y1="300" x2="120" y2="360" stroke="#e23b3b"/>
+    <line x1="210" y1="300" x2="135" y2="362" stroke="#f2c60f"/>
+    <line x1="210" y1="300" x2="150" y2="364" stroke="#4caf50"/>
+    <line x1="210" y1="300" x2="165" y2="366" stroke="#7b41c9"/>
+  </g>
+  <text x="300" y="225" font-size="12" fill="#777">折射</text>
+  <text x="300" y="258" font-size="12" fill="#777">內部反射</text>
+  <text x="150" y="330" font-size="12" fill="#777">再折射·分色</text>
+
+  <!-- small scene: observer & rainbow -->
+  <g transform="translate(470,90)">
+    <path d="M0 150 A120 120 0 0 1 240 150" fill="none" stroke="#e23b3b" stroke-width="6"/>
+    <path d="M12 150 A108 108 0 0 1 228 150" fill="none" stroke="#f2c60f" stroke-width="6"/>
+    <path d="M24 150 A96 96 0 0 1 216 150" fill="none" stroke="#4caf50" stroke-width="6"/>
+    <path d="M36 150 A84 84 0 0 1 204 150" fill="none" stroke="#7b41c9" stroke-width="6"/>
+    <circle cx="120" cy="150" r="14" fill="#6b4f3a"/>
+    <text x="120" y="185" text-anchor="middle" font-size="12" fill="#6b4f3a">背對太陽的人</text>
+    <circle cx="235" cy="18" r="16" fill="#f2c60f"/>
+    <text x="205" y="14" font-size="11" fill="#c9a10a">太陽在背後</text>
+  </g>
+
+  <text x="350" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#5a4bb0">每顆小水滴都是天然的三稜鏡。</text>
+</svg>

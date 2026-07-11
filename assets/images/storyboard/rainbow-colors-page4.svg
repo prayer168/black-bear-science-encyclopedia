@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf1fb"/>
+<rect x="0" y="0" width="520" height="278" fill="#d6e6f7" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- big water drop with light -->
+<circle cx="330" cy="160" r="80" fill="#d8ecf7" stroke="#7fb0d6" stroke-width="3" opacity="0.8"/>
+<line x1="210" y1="120" x2="290" y2="145" stroke="#f2c60f" stroke-width="4"/>
+<line x1="290" y1="145" x2="370" y2="180" stroke="#ccc" stroke-width="3"/>
+<g stroke-width="4">
+  <line x1="370" y1="180" x2="300" y2="230" stroke="#e23b3b"/>
+  <line x1="370" y1="180" x2="315" y2="234" stroke="#f2c60f"/>
+  <line x1="370" y1="180" x2="330" y2="238" stroke="#4caf50"/>
+  <line x1="370" y1="180" x2="345" y2="240" stroke="#7b41c9"/>
+</g>
+<text x="330" y="255" text-anchor="middle" font-size="12" fill="#5a7a9a">水滴＝天然三稜鏡</text>
+<!-- beetle -->
+<g transform="translate(45,150)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：千萬顆小水滴一起變出彩虹。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「難怪彩虹出現在雨後！」</text>
+</svg>

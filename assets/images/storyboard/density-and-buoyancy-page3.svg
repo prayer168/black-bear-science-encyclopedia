@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6f2f7"/>
+<rect x="0" y="0" width="520" height="278" fill="#dff1f8" opacity="0.5"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- object with up arrow (buoyancy) in water -->
+<g transform="translate(300,110)">
+  <rect x="0" y="0" width="130" height="150" fill="#cfe8f2" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="65" cy="0" rx="65" ry="9" fill="#bfe0f5" stroke="#7fb0d6"/>
+  <rect x="42" y="80" width="46" height="40" rx="5" fill="#d9a15a" stroke="#a9743a"/>
+  <line x1="65" y1="80" x2="65" y2="30" stroke="#1f9d55" stroke-width="6" marker-end="url(#up)"/>
+</g>
+<defs><marker id="up" markerWidth="12" markerHeight="12" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#1f9d55"/></marker></defs>
+<text x="415" y="150" font-size="13" font-weight="bold" fill="#1f9d55">浮力↑</text>
+<!-- beetle -->
+<g transform="translate(45,150)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：水會向上托，這叫浮力。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「水愈濃、密度愈大，浮力愈大！」</text>
+</svg>

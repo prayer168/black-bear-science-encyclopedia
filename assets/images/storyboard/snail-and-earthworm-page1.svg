@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8f2ea"/>
+<rect x="0" y="0" width="520" height="278" fill="#cfe6d2" opacity="0.5"/>
+<!-- rain remnants -->
+<g stroke="#9fc7e0" stroke-width="2" opacity="0.5"><line x1="80" y1="20" x2="72" y2="44"/><line x1="150" y1="14" x2="142" y2="38"/><line x1="430" y1="22" x2="422" y2="46"/></g>
+<rect x="0" y="205" width="520" height="73" fill="#a97e55" opacity="0.55"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- wall with snail -->
+<rect x="360" y="90" width="150" height="120" fill="#d8cfc0" stroke="#b3a892"/>
+<g transform="translate(410,150)">
+  <circle r="26" fill="#d9a15a" stroke="#a9743a" stroke-width="2"/>
+  <path d="M0 0 a10 10 0 1 1 -0.1 0 M0 0 a19 19 0 1 1 -0.1 0" fill="none" stroke="#a9743a" stroke-width="2"/>
+  <path d="M-24 8 q-16 2 -22 -10" stroke="#e7c9a0" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <line x1="-42" y1="-4" x2="-48" y2="-20" stroke="#e7c9a0" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- earthworm on soil -->
+<path d="M150 235 Q185 220 225 236" fill="none" stroke="#c4736a" stroke-width="12" stroke-linecap="round"/>
+<!-- fox -->
+<g transform="translate(60,120)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="88" height="88"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：一下雨，小訪客全冒出來了。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「牠們剛剛躲在哪裡呀？」</text>
+</svg>

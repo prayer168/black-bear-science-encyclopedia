@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8f2ea"/>
+<rect x="0" y="0" width="520" height="278" fill="#cfe6d2" opacity="0.5"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- soil -->
+<rect x="150" y="210" width="360" height="68" fill="#8a6a4a"/>
+<rect x="150" y="210" width="360" height="12" fill="#6f5238"/>
+<!-- worm stretching & diving -->
+<path d="M200 180 Q250 175 300 200 Q340 220 380 235" fill="none" stroke="#c4736a" stroke-width="18" stroke-linecap="round"/>
+<g stroke="#9a4f47" stroke-width="1.6" opacity="0.7"><line x1="235" y1="176" x2="242" y2="196"/><line x1="275" y1="184" x2="284" y2="204"/><line x1="330" y1="212" x2="340" y2="230"/></g>
+<circle cx="200" cy="180" r="7" fill="#8a3f38"/>
+<path d="M215 165 h44" stroke="#5a9a2a" stroke-width="3" marker-end="url(#a)"/>
+<text x="212" y="150" font-size="12" fill="#5a9a2a">伸長→收縮前進</text>
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 L6 4 L0 8 z" fill="#5a9a2a"/></marker></defs>
+<!-- fox -->
+<g transform="translate(45,120)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="88" height="88"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：一伸一縮，蚯蚓就前進。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「牠沒有腳也能爬！」</text>
+</svg>

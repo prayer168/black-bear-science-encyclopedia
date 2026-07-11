@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#0f1b3a"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#ffe08a">地軸傾斜＋公轉造成四季</text>
+
+  <!-- sun center -->
+  <circle cx="350" cy="210" r="42" fill="#ffd24a"/>
+  <text x="350" y="216" text-anchor="middle" font-size="13" fill="#7a5a10" font-weight="bold">太陽</text>
+  <!-- orbit -->
+  <ellipse cx="350" cy="210" rx="270" ry="150" fill="none" stroke="#3a4a75" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- helper to draw tilted earth: axis tilts to upper-right consistently -->
+  <!-- Left = 夏 (N pole tilts toward sun on the right side => here Earth on left, N tilts right toward sun) -->
+  <g transform="translate(80,210)">
+    <circle r="34" fill="#4a90d9"/>
+    <line x1="12" y1="-40" x2="-12" y2="40" stroke="#fff" stroke-width="2"/>
+    <circle cx="10" cy="-33" r="4" fill="#ff5a5a"/>
+    <text x="0" y="62" text-anchor="middle" font-size="13" fill="#ffd0a0" font-weight="bold">北半球·夏</text>
+    <text x="0" y="78" text-anchor="middle" font-size="11" fill="#9fb8e0">朝向太陽·直射</text>
+  </g>
+  <!-- Right = 冬 -->
+  <g transform="translate(620,210)">
+    <circle r="34" fill="#4a90d9"/>
+    <line x1="12" y1="-40" x2="-12" y2="40" stroke="#fff" stroke-width="2"/>
+    <circle cx="-10" cy="-33" r="4" fill="#ff5a5a"/>
+    <text x="0" y="62" text-anchor="middle" font-size="13" fill="#a0c8ff" font-weight="bold">北半球·冬</text>
+    <text x="0" y="78" text-anchor="middle" font-size="11" fill="#9fb8e0">偏離太陽·斜射</text>
+  </g>
+  <!-- Top = 春分 -->
+  <g transform="translate(350,60)">
+    <circle r="30" fill="#4a90d9"/>
+    <line x1="11" y1="-36" x2="-11" y2="36" stroke="#fff" stroke-width="2"/>
+    <text x="0" y="-40" text-anchor="middle" font-size="12" fill="#bfe0b0">春分</text>
+  </g>
+  <!-- Bottom = 秋分 -->
+  <g transform="translate(350,360)">
+    <circle r="30" fill="#4a90d9"/>
+    <line x1="11" y1="-36" x2="-11" y2="36" stroke="#fff" stroke-width="2"/>
+    <text x="0" y="52" text-anchor="middle" font-size="12" fill="#e0c090">秋分</text>
+  </g>
+
+  <text x="350" y="392" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#ffe08a">地球歪著身子繞太陽，地軸方向固定；朝向太陽就是夏天。</text>
+</svg>

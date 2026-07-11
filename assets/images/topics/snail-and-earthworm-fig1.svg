@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#4d8c4d">認識蝸牛的身體</text>
+
+  <!-- slime trail -->
+  <path d="M120 300 Q220 315 330 300" stroke="#bfe3f2" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <text x="150" y="330" font-size="13" fill="#5aa0c0">亮亮的黏液痕跡</text>
+
+  <!-- foot -->
+  <path d="M300 300 q60 -20 150 -6 q30 4 40 12 h-210 Z" fill="#e7c9a0" stroke="#c49a68" stroke-width="2"/>
+  <!-- shell -->
+  <g transform="translate(400,225)">
+    <circle r="70" fill="#d9a15a" stroke="#a9743a" stroke-width="3"/>
+    <path d="M0 0 m0 0 a20 20 0 1 1 -0.1 0 M0 0 a38 38 0 1 1 -0.1 0 M0 0 a56 56 0 1 1 -0.1 0" fill="none" stroke="#a9743a" stroke-width="3"/>
+  </g>
+  <!-- head with tentacles -->
+  <path d="M300 290 q-40 0 -60 -30" stroke="#e7c9a0" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <!-- long tentacles (with eyes) -->
+  <line x1="245" y1="262" x2="215" y2="205" stroke="#e7c9a0" stroke-width="7" stroke-linecap="round"/>
+  <line x1="262" y1="266" x2="252" y2="200" stroke="#e7c9a0" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="215" cy="203" r="8" fill="#3a2f20"/><circle cx="252" cy="198" r="8" fill="#3a2f20"/>
+  <!-- short tentacles -->
+  <line x1="250" y1="280" x2="228" y2="255" stroke="#e7c9a0" stroke-width="5" stroke-linecap="round"/>
+  <line x1="262" y1="282" x2="250" y2="256" stroke="#e7c9a0" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- labels -->
+  <g font-size="15" fill="#333">
+    <line x1="233" y1="200" x2="150" y2="150" stroke="#7a6a55" stroke-width="1.5"/>
+    <text x="40" y="146" font-weight="bold" fill="#5a7a3a">長觸角</text>
+    <text x="40" y="165" font-size="12" fill="#6f6a63">頂端有眼睛·看明暗</text>
+
+    <line x1="240" y1="268" x2="150" y2="238" stroke="#7a6a55" stroke-width="1.5"/>
+    <text x="40" y="234" font-weight="bold" fill="#5a7a3a">短觸角</text>
+    <text x="40" y="253" font-size="12" fill="#6f6a63">聞味道·探路</text>
+
+    <line x1="450" y1="200" x2="560" y2="150" stroke="#7a6a55" stroke-width="1.5"/>
+    <text x="565" y="146" font-weight="bold" fill="#a9743a">殼</text>
+    <text x="565" y="165" font-size="12" fill="#6f6a63">保護柔軟身體</text>
+
+    <line x1="400" y1="300" x2="560" y2="300" stroke="#7a6a55" stroke-width="1.5"/>
+    <text x="565" y="296" font-weight="bold" fill="#c49a68">腹足</text>
+    <text x="565" y="315" font-size="12" fill="#6f6a63">分泌黏液·滑行</text>
+  </g>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#4d8c4d">長觸角看明暗、短觸角聞味道，黏液幫忙滑行。</text>
+</svg>

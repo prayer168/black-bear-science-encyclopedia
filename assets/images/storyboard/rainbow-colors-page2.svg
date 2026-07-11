@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf1fb"/>
+<rect x="0" y="0" width="520" height="278" fill="#eef1f5" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- wall -->
+<rect x="300" y="70" width="200" height="180" fill="#e6e0d4" stroke="#c9bfa8"/>
+<!-- sunbeam -->
+<line x1="150" y1="120" x2="270" y2="160" stroke="#f7e07a" stroke-width="8"/>
+<!-- prism -->
+<polygon points="270,150 270,200 306,192 296,164" fill="#d8ecf7" stroke="#7fb0d6" stroke-width="2"/>
+<!-- dispersed on wall -->
+<g stroke-width="5">
+  <line x1="306" y1="176" x2="470" y2="130" stroke="#e23b3b"/>
+  <line x1="306" y1="178" x2="470" y2="150" stroke="#f2c60f"/>
+  <line x1="306" y1="180" x2="470" y2="170" stroke="#4caf50"/>
+  <line x1="306" y1="182" x2="470" y2="190" stroke="#7b41c9"/>
+</g>
+<!-- bear -->
+<g transform="translate(45,145)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：玻璃裡也有彩虹？</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「它是不是有魔法？」</text>
+</svg>

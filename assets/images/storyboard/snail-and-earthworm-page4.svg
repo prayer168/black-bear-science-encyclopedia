@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8f2ea"/>
+<rect x="0" y="0" width="520" height="278" fill="#cfe6d2" opacity="0.5"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- comparison cards -->
+<g font-size="12" fill="#333" text-anchor="middle">
+  <rect x="180" y="70" width="100" height="80" rx="8" fill="#fff" stroke="#a9743a"/>
+  <g transform="translate(230,105)"><circle r="18" fill="#d9a15a" stroke="#a9743a" stroke-width="2"/><path d="M-16 8 q-10 0 -14 -8" stroke="#e7c9a0" stroke-width="6" fill="none" stroke-linecap="round"/></g>
+  <text x="230" y="140" font-weight="bold" fill="#a9743a">蝸牛·軟體</text>
+
+  <rect x="300" y="70" width="100" height="80" rx="8" fill="#fff" stroke="#c4736a"/>
+  <path d="M315 108 Q345 96 385 110" stroke="#c4736a" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <text x="350" y="140" font-weight="bold" fill="#c4736a">蚯蚓·環節</text>
+
+  <rect x="410" y="70" width="100" height="80" rx="8" fill="#fff" stroke="#8a6d1a"/>
+  <g transform="translate(460,102)"><ellipse rx="16" ry="10" fill="#f7d046" stroke="#8a6d1a"/><line x1="-16" y1="6" x2="-24" y2="14" stroke="#8a6d1a" stroke-width="2"/><line x1="0" y1="10" x2="0" y2="20" stroke="#8a6d1a" stroke-width="2"/><line x1="14" y1="6" x2="22" y2="14" stroke="#8a6d1a" stroke-width="2"/></g>
+  <text x="460" y="140" font-weight="bold" fill="#8a6d1a">昆蟲·六足✔</text>
+</g>
+<text x="345" y="185" text-anchor="middle" font-size="13" fill="#c0392b" font-weight="bold">蝸牛·蚯蚓都沒有六隻腳 → 不是昆蟲</text>
+<!-- beetle -->
+<g transform="translate(45,120)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：沒有六隻腳，就不是昆蟲。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「蝸牛是軟體動物、蚯蚓是環節動物！」</text>
+</svg>

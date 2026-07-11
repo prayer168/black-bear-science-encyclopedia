@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6f9"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f7a8c">浮力是水向上的托力</text>
+
+  <!-- center: object with force arrows -->
+  <rect x="300" y="120" width="120" height="180" fill="#cfe8f2" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="360" cy="120" rx="60" ry="10" fill="#bfe0f5" stroke="#7fb0d6"/>
+  <rect x="335" y="185" width="50" height="50" rx="6" fill="#d9a15a" stroke="#a9743a" stroke-width="2"/>
+  <!-- buoyancy up -->
+  <line x1="360" y1="185" x2="360" y2="135" stroke="#1f9d55" stroke-width="5" marker-end="url(#up)"/>
+  <text x="368" y="150" font-size="14" font-weight="bold" fill="#1f9d55">浮力（向上）</text>
+  <!-- gravity down -->
+  <line x1="360" y1="235" x2="360" y2="285" stroke="#c0392b" stroke-width="5" marker-end="url(#dn)"/>
+  <text x="368" y="278" font-size="14" font-weight="bold" fill="#c0392b">重力（向下）</text>
+  <defs>
+    <marker id="up" markerWidth="12" markerHeight="12" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#1f9d55"/></marker>
+    <marker id="dn" markerWidth="12" markerHeight="12" refX="4" refY="6" orient="auto"><path d="M0 0 L4 8 L8 0 z" fill="#c0392b"/></marker>
+  </defs>
+
+  <!-- left: float (density small) -->
+  <g>
+    <rect x="60" y="200" width="120" height="100" fill="#cfe8f2" stroke="#7fb0d6" stroke-width="2"/>
+    <ellipse cx="120" cy="200" rx="60" ry="8" fill="#bfe0f5" stroke="#7fb0d6"/>
+    <rect x="98" y="188" width="44" height="30" rx="4" fill="#c9a05a" stroke="#8a6a30"/>
+    <text x="120" y="330" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f9d55">木塊：密度＜水 → 浮</text>
+  </g>
+  <!-- right: sink (density big) -->
+  <g>
+    <rect x="520" y="200" width="120" height="100" fill="#cfe8f2" stroke="#7fb0d6" stroke-width="2"/>
+    <ellipse cx="580" cy="200" rx="60" ry="8" fill="#bfe0f5" stroke="#7fb0d6"/>
+    <rect x="560" y="272" width="40" height="26" rx="4" fill="#8a8a8a" stroke="#5a5a5a"/>
+    <text x="580" y="330" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">石頭：密度＞水 → 沉</text>
+  </g>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f7a8c">水會向上托——比水輕就浮，比水重就沉。</text>
+</svg>
