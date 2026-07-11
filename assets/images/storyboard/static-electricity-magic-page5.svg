@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4f7"/>
+<rect x="0" y="0" width="520" height="278" fill="#e2eef2" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<line x1="330" y1="70" x2="330" y2="250" stroke="#cdd8de" stroke-width="2" stroke-dasharray="5 4"/>
+<!-- dry side -->
+<text x="245" y="95" text-anchor="middle" font-size="12" font-weight="bold" fill="#e07a1e">乾燥·明顯</text>
+<circle cx="210" cy="120" r="14" fill="#ffd24a"/>
+<ellipse cx="245" cy="175" rx="24" ry="30" fill="#f2a0b8" stroke="#d06888"/>
+<rect x="235" y="215" width="10" height="8" fill="#fff" stroke="#ccc"/>
+<path d="M240 213 l2 -14" stroke="#1f9d55" stroke-width="2" marker-end="url(#a)"/>
+<!-- humid side -->
+<text x="415" y="95" text-anchor="middle" font-size="12" font-weight="bold" fill="#2a6ab0">潮溼·不明顯</text>
+<g fill="#7fb0d6"><circle cx="390" cy="115" r="5"/><circle cx="415" cy="128" r="4"/></g>
+<ellipse cx="415" cy="175" rx="24" ry="30" fill="#f2a0b8" stroke="#d06888"/>
+<rect x="405" y="235" width="10" height="8" fill="#fff" stroke="#ccc"/>
+<text x="415" y="222" text-anchor="middle" font-size="11" fill="#c0392b">紙片不動</text>
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#1f9d55"/></marker></defs>
+<!-- beetle -->
+<g transform="translate(45,145)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：愈乾燥，靜電愈明顯。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「潮溼時水氣會把靜電帶走！」</text>
+</svg>

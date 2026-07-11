@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6efdc"/>
+<rect x="0" y="0" width="520" height="278" fill="#d6e6c6" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- branch + stick insect highlighted -->
+<path d="M270 130 L460 230" stroke="#9a7a4a" stroke-width="14" stroke-linecap="round"/>
+<g transform="translate(360,180) rotate(28)">
+  <rect x="-36" y="-4" width="72" height="8" rx="4" fill="#b89464" stroke="#7a5a2a" stroke-width="1.5"/>
+  <circle cx="-36" cy="0" r="5" fill="#b89464" stroke="#7a5a2a"/>
+  <g stroke="#7a5a2a" stroke-width="1.2"><line x1="-12" y1="4" x2="-20" y2="16"/><line x1="6" y1="4" x2="4" y2="18"/></g>
+</g>
+<circle cx="360" cy="180" r="30" fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="410" y="150" font-size="11" fill="#c0392b">竹節蟲</text>
+<!-- drop character -->
+<g transform="translate(50,140)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：那不是樹枝，是竹節蟲！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「你差點把牠當扶手了！」</text>
+</svg>

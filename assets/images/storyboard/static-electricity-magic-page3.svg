@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#fff6e6"/>
+<rect x="0" y="0" width="520" height="278" fill="#fdeecd" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- two hairs repelling diagram -->
+<g stroke="#7a4a2a" stroke-width="4" stroke-linecap="round">
+  <line x1="300" y1="210" x2="285" y2="120"/>
+  <line x1="360" y1="210" x2="375" y2="120"/>
+</g>
+<path d="M305 150 l-16 6" stroke="#c0392b" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M355 150 l16 6" stroke="#c0392b" stroke-width="2.5" marker-end="url(#a)"/>
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 L6 4 L0 8 z" fill="#c0392b"/></marker></defs>
+<text x="330" y="105" text-anchor="middle" font-size="12" fill="#c0392b" font-weight="bold">互相推開</text>
+<!-- beetle -->
+<g transform="translate(45,145)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：這不是魔法，是靜電在搗蛋。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「同一種靜電會互相推開！」</text>
+</svg>

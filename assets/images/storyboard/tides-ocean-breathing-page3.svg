@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dcecf2"/>
+<rect x="0" y="0" width="520" height="278" fill="#e6eef2" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- tide table -->
+<g transform="translate(280,80)">
+  <rect x="0" y="0" width="180" height="150" rx="8" fill="#fff" stroke="#7fb0d6" stroke-width="2"/>
+  <rect x="0" y="0" width="180" height="26" fill="#2a6a8a"/>
+  <text x="90" y="18" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">潮汐表</text>
+  <text x="14" y="52" font-size="11" fill="#555">06:20　滿潮 ▲</text>
+  <text x="14" y="78" font-size="11" fill="#555">12:35　乾潮 ▼</text>
+  <text x="14" y="104" font-size="11" fill="#555">18:50　滿潮 ▲</text>
+  <text x="14" y="130" font-size="11" fill="#555">00:55　乾潮 ▼</text>
+</g>
+<!-- grandpa fishing (simple) -->
+<g transform="translate(55,140)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="88" height="88"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：大海每天都會漲上來、退下去。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「原來要看潮汐表！」</text>
+</svg>

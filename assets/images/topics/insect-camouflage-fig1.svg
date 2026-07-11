@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf3e4"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a7a2a">保護色——藏在背景裡</text>
+  <line x1="350" y1="56" x2="350" y2="345" stroke="#cfe0c0" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- LEFT: green katydid in leaves -->
+  <text x="175" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#3a7a2a">綠螽斯躲綠葉</text>
+  <g>
+    <path d="M90 150 q40 -30 90 -10 q20 40 -20 60 q-50 20 -70 -20 Z" fill="#7fbf5f" stroke="#5a9a3a" stroke-width="2"/>
+    <path d="M150 200 q30 -20 70 -6 q10 30 -24 44 q-40 12 -46 -16 Z" fill="#8fce6f" stroke="#5a9a3a" stroke-width="2"/>
+    <!-- katydid, same green -->
+    <g transform="translate(160,175)">
+      <ellipse cx="0" cy="0" rx="34" ry="12" fill="#84c85f" stroke="#5a9a3a" stroke-width="1.5"/>
+      <circle cx="-34" cy="-2" r="7" fill="#84c85f" stroke="#5a9a3a"/>
+      <line x1="-38" y1="-6" x2="-58" y2="-24" stroke="#5a9a3a" stroke-width="1.5"/>
+      <line x1="-40" y1="-2" x2="-62" y2="-14" stroke="#5a9a3a" stroke-width="1.5"/>
+      <g stroke="#5a9a3a" stroke-width="1.5"><line x1="-6" y1="8" x2="-16" y2="26"/><line x1="6" y1="8" x2="4" y2="28"/><line x1="18" y1="6" x2="30" y2="24"/></g>
+    </g>
+    <text x="175" y="300" text-anchor="middle" font-size="12" fill="#4a7a3a">體色和葉子一樣綠</text>
+  </g>
+
+  <!-- RIGHT: brown stick insect on branch -->
+  <text x="525" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#7a5a2a">褐竹節蟲像枝</text>
+  <g>
+    <path d="M430 120 L620 300" stroke="#9a7a4a" stroke-width="14" stroke-linecap="round"/>
+    <path d="M500 190 l40 -30 M540 240 l36 20" stroke="#9a7a4a" stroke-width="7" stroke-linecap="round"/>
+    <!-- stick insect, same brown, along the branch -->
+    <g transform="translate(505,205) rotate(43)">
+      <rect x="-46" y="-4" width="92" height="8" rx="4" fill="#a2824e" stroke="#7a5a2a" stroke-width="1.2"/>
+      <circle cx="-46" cy="0" r="5" fill="#a2824e" stroke="#7a5a2a"/>
+      <line x1="-50" y1="-2" x2="-70" y2="-8" stroke="#7a5a2a" stroke-width="1.2"/>
+      <g stroke="#7a5a2a" stroke-width="1.2"><line x1="-20" y1="4" x2="-30" y2="18"/><line x1="0" y1="4" x2="-2" y2="20"/><line x1="20" y1="4" x2="30" y2="16"/></g>
+    </g>
+    <text x="525" y="330" text-anchor="middle" font-size="12" fill="#7a5a2a">細長褐色·像枝條</text>
+  </g>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7a2a">顏色和背景一樣，敵人就找不到。</text>
+</svg>

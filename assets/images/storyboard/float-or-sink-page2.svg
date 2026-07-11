@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ea"/>
+<rect x="0" y="0" width="520" height="278" fill="#e2eed8" opacity="0.5"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- watermelon -->
+<circle cx="300" cy="150" r="46" fill="#3a8a3a" stroke="#2a6a2a" stroke-width="3"/>
+<path d="M270 130 q30 -8 60 0" stroke="#7fbf6f" stroke-width="3" fill="none"/>
+<text x="300" y="215" text-anchor="middle" font-size="12" fill="#2a6a2a">大西瓜</text>
+<!-- grape -->
+<circle cx="410" cy="165" r="14" fill="#7b41c9" stroke="#5a2a99"/>
+<text x="410" y="200" text-anchor="middle" font-size="12" fill="#5a2a99">小葡萄</text>
+<text x="355" y="120" font-size="20">❓</text>
+<!-- beetle -->
+<g transform="translate(45,140)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：大西瓜和小葡萄，誰浮誰沉？</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「你可能會嚇一跳喔！」</text>
+</svg>

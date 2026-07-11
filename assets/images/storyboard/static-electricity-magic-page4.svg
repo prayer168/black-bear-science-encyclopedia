@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#fff6e6"/>
+<rect x="0" y="0" width="520" height="278" fill="#fdeecd" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- balloon held -->
+<ellipse cx="330" cy="120" rx="42" ry="52" fill="#f2a0b8" stroke="#d06888" stroke-width="2"/>
+<path d="M330 172 l-8 12 h16 Z" fill="#d06888"/>
+<!-- table -->
+<rect x="230" y="235" width="220" height="12" fill="#c9a06a"/>
+<!-- paper flying up -->
+<g fill="#fff" stroke="#ccc">
+  <rect x="310" y="200" width="12" height="9" transform="rotate(15 316 204)"/>
+  <rect x="345" y="205" width="12" height="9" transform="rotate(-15 351 209)"/>
+  <rect x="330" y="225" width="10" height="8"/>
+</g>
+<path d="M322 200 l6 -30" stroke="#1f9d55" stroke-width="2.5" marker-end="url(#a)"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#1f9d55"/></marker></defs>
+<!-- bear -->
+<g transform="translate(45,145)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：摩擦過的氣球把紙片吸上來！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「這就是靜電的吸引。」</text>
+</svg>

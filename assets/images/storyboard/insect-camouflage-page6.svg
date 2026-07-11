@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f2f4f7"/>
+<rect x="0" y="0" width="520" height="278" fill="#ffffff" opacity="0.7"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- white wall, stick insect obvious -->
+<rect x="230" y="80" width="240" height="170" rx="6" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+<g transform="translate(350,165) rotate(-15)">
+  <rect x="-40" y="-4" width="80" height="8" rx="4" fill="#a2824e" stroke="#7a5a2a" stroke-width="1.5"/>
+  <circle cx="-40" cy="0" r="5" fill="#a2824e" stroke="#7a5a2a"/>
+  <g stroke="#7a5a2a" stroke-width="1.2"><line x1="-14" y1="4" x2="-22" y2="16"/><line x1="6" y1="4" x2="4" y2="18"/><line x1="24" y1="4" x2="34" y2="14"/></g>
+</g>
+<circle cx="350" cy="165" r="46" fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="350" y="235" text-anchor="middle" font-size="12" fill="#c0392b">白牆上超明顯！</text>
+<!-- monster -->
+<g transform="translate(50,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="120" font-size="16">❗</text>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：偽裝要配合對的背景才有用。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「牠們照鏡子練過！」🐻「跑到白牆上就露餡囉！」</text>
+</svg>

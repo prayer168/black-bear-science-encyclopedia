@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dcecf2"/>
+<rect x="0" y="150" width="520" height="128" fill="#e6d8a8" opacity="0.9"/>
+<path d="M200 150 h320 v128 h-320 Z" fill="#7fc0d8"/>
+<path d="M210 165 q14 8 0 16 M300 180 q14 8 0 16 M420 165 q14 8 0 16" stroke="#5aa0c0" stroke-width="2" fill="none"/>
+<ellipse cx="260" cy="255" rx="230" ry="20" fill="#00000010"/>
+<!-- tiny remnant of sandcastle underwater -->
+<rect x="270" y="205" width="30" height="14" fill="#c9b878" opacity="0.5"/>
+<text x="330" y="200" font-size="16">💧</text>
+<!-- fox worried -->
+<g transform="translate(55,135)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="90" height="90"/></g>
+<text x="150" y="120" font-size="16">❓</text>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：沙灘不見了大半！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「我的沙堡呢？海水怎麼跑上來了？」</text>
+</svg>

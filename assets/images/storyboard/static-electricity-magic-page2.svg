@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f3eef7"/>
+<rect x="0" y="0" width="520" height="278" fill="#ece3f2" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- mirror -->
+<rect x="300" y="70" width="140" height="170" rx="10" fill="#dfe8f0" stroke="#a8b8c8" stroke-width="3"/>
+<!-- head with hair standing -->
+<circle cx="370" cy="175" r="42" fill="#ffe0c0" stroke="#e0a878" stroke-width="2"/>
+<circle cx="358" cy="172" r="4" fill="#5a4030"/><circle cx="382" cy="172" r="4" fill="#5a4030"/>
+<g stroke="#7a4a2a" stroke-width="2.5" stroke-linecap="round">
+  <line x1="345" y1="140" x2="335" y2="95"/><line x1="360" y1="136" x2="356" y2="90"/>
+  <line x1="375" y1="135" x2="378" y2="88"/><line x1="390" y1="138" x2="402" y2="94"/>
+</g>
+<!-- fox -->
+<g transform="translate(55,140)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：頭髮根根站起來，像被施了魔法。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「我變成魔法師了嗎？」</text>
+</svg>

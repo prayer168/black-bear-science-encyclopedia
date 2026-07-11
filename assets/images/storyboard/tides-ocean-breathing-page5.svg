@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#101a38"/>
+<rect x="0" y="0" width="520" height="278" fill="#0c1530" opacity="0.5"/>
+<ellipse cx="260" cy="255" rx="230" ry="20" fill="#00000030"/>
+<!-- sun-earth-moon aligned -->
+<circle cx="230" cy="150" r="22" fill="#ffd24a"/><text x="230" y="188" text-anchor="middle" font-size="10" fill="#ffd24a">太陽</text>
+<circle cx="340" cy="150" r="20" fill="#3a7a4a" stroke="#2a5a36"/><text x="340" y="186" text-anchor="middle" font-size="10" fill="#9fd0a0">地球</text>
+<circle cx="420" cy="150" r="11" fill="#d8d8d0"/><text x="420" y="176" text-anchor="middle" font-size="10" fill="#e0e0d8">月</text>
+<line x1="200" y1="150" x2="440" y2="150" stroke="#ff9a5a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="330" y="115" text-anchor="middle" font-size="12" fill="#ff9a5a">連成一直線 → 大潮</text>
+<!-- beetle -->
+<g transform="translate(45,145)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：太陽也幫忙拉，連成線就是大潮。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「初一十五前後潮水特別大！」</text>
+</svg>

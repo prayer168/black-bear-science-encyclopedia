@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ea"/>
+<rect x="0" y="0" width="520" height="278" fill="#e2eed8" opacity="0.5"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- bucket water -->
+<path d="M250 150 h180 v80 a14 14 0 0 1 -14 14 h-152 a14 14 0 0 1 -14 -14 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+<ellipse cx="340" cy="150" rx="90" ry="12" fill="#cfe8f2" stroke="#7fb0d6"/>
+<!-- watermelon float -->
+<circle cx="320" cy="150" r="34" fill="#3a8a3a" stroke="#2a6a2a" stroke-width="2"/>
+<path d="M298 136 q22 -6 44 0" stroke="#7fbf6f" stroke-width="2" fill="none"/>
+<text x="320" y="120" text-anchor="middle" font-size="10" fill="#1f9d55">浮</text>
+<!-- grape sink -->
+<circle cx="400" cy="222" r="10" fill="#7b41c9" stroke="#5a2a99"/>
+<text x="400" y="242" text-anchor="middle" font-size="10" fill="#c0392b">沉</text>
+<!-- monster surprised -->
+<g transform="translate(45,145)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="120" font-size="20">❗</text>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：浮沉不是只看大小和重量。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「怎麼跟我猜的相反！」🐻「要觀察不能只用猜的。」</text>
+</svg>

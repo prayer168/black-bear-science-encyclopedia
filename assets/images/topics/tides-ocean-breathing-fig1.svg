@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf4f7"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a6a8a">同一片海灘的退潮與漲潮</text>
+  <line x1="350" y1="56" x2="350" y2="345" stroke="#cde0e6" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- LEFT: low tide -->
+  <text x="175" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#c08a2a">退潮·沙灘寬</text>
+  <rect x="30" y="95" width="290" height="235" rx="8" fill="#eaf4f7"/>
+  <!-- sand wide -->
+  <path d="M30 240 h290 v90 h-290 Z" fill="#e6d8a8"/>
+  <!-- sea far -->
+  <path d="M250 240 h70 v90 h-70 Z" fill="#7fc0d8"/>
+  <path d="M250 250 q10 6 0 12 M250 270 q10 6 0 12" stroke="#5aa0c0" stroke-width="2" fill="none"/>
+  <!-- shells -->
+  <circle cx="90" cy="290" r="6" fill="#f0e0c0" stroke="#c9a24a"/>
+  <path d="M140 300 a8 6 0 1 0 0.1 0" fill="#f5d0d8" stroke="#c090a0"/>
+  <text x="150" y="275" text-anchor="middle" font-size="12" fill="#8a6a3a">露出貝殼、寬沙灘</text>
+
+  <!-- RIGHT: high tide -->
+  <text x="525" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#2a6ab0">漲潮·被淹沒</text>
+  <rect x="380" y="95" width="290" height="235" rx="8" fill="#eaf4f7"/>
+  <path d="M380 240 h290 v90 h-290 Z" fill="#e6d8a8"/>
+  <!-- sea covers most -->
+  <path d="M380 210 h230 v120 h-230 Z" fill="#7fc0d8"/>
+  <path d="M380 222 q12 6 0 12 M420 240 q12 6 0 12 M560 220 q12 6 0 12" stroke="#5aa0c0" stroke-width="2" fill="none"/>
+  <text x="560" y="300" text-anchor="middle" font-size="12" fill="#2a6a8a">海水淹上來、沙灘變窄</text>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a8a">同一片海灘，退潮寬廣、漲潮被淹。</text>
+</svg>

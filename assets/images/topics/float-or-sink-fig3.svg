@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6f9"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f7a8c">鋁箔紙——球會沉、船會浮</text>
+  <line x1="350" y1="56" x2="350" y2="345" stroke="#cfe0e6" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- LEFT: foil ball sinks -->
+  <text x="175" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">揉成球 → 沉</text>
+  <path d="M80 110 h190 l-16 210 h-158 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="175" cy="110" rx="95" ry="12" fill="#cfe8f2" stroke="#7fb0d6"/>
+  <circle cx="175" cy="295" r="20" fill="#c9cdd2" stroke="#8a8f96" stroke-width="2"/>
+  <path d="M162 288 l8 6 M182 285 l-6 8 M170 302 l10 -4" stroke="#8a8f96" stroke-width="1.5"/>
+  <text x="175" y="345" text-anchor="middle" font-size="13" fill="#3a7a9a">緊實·沒裝空氣</text>
+
+  <!-- RIGHT: foil boat floats -->
+  <text x="525" y="80" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f9d55">做成船 → 浮</text>
+  <path d="M400 110 h190 l-16 210 h-158 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="495" cy="110" rx="95" ry="12" fill="#cfe8f2" stroke="#7fb0d6"/>
+  <line x1="400" y1="150" x2="590" y2="150" stroke="#9fcbe4" stroke-width="2"/>
+  <path d="M450 140 h90 l-14 26 h-62 Z" fill="#c9cdd2" stroke="#8a8f96" stroke-width="2"/>
+  <text x="495" y="132" text-anchor="middle" font-size="18">💨</text>
+  <text x="495" y="185" text-anchor="middle" font-size="12" fill="#1f9d55">中空·裝了空氣</text>
+  <text x="495" y="345" text-anchor="middle" font-size="13" fill="#3a7a9a">像大鐵船一樣</text>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f7a8c">同一張鋁箔，揉成球會沉、做成船會浮！</text>
+</svg>

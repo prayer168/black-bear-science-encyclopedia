@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#fbf3dd"/>
+<rect x="0" y="0" width="520" height="278" fill="#f7ecc8" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- hoverfly vs bee comparison -->
+<g transform="translate(300,140)">
+  <ellipse rx="30" ry="19" fill="#f7d046" stroke="#8a6d1a" stroke-width="2"/>
+  <path d="M-11 -17 v34 M5 -18 v36" stroke="#4a3c12" stroke-width="4"/>
+  <ellipse cx="-28" cy="-6" rx="18" ry="10" fill="#fff" opacity="0.7" stroke="#bbb"/>
+</g>
+<text x="300" y="185" text-anchor="middle" font-size="12" fill="#5a7a3a">食蚜蠅·不會螫</text>
+<g transform="translate(410,205)">
+  <ellipse rx="20" ry="13" fill="#f0c040" stroke="#8a6d1a" stroke-width="2"/>
+  <path d="M-7 -12 v24 M3 -13 v26" stroke="#4a3c12" stroke-width="3"/>
+</g>
+<text x="410" y="240" text-anchor="middle" font-size="11" fill="#8a6d1a">真蜜蜂</text>
+<!-- beetle -->
+<g transform="translate(50,140)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：有的蟲假裝成危險的傢伙。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「食蚜蠅像蜜蜂，其實不會螫人！」</text>
+</svg>

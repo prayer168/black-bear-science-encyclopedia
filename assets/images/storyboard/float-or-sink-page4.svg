@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6f2f7"/>
+<rect x="0" y="0" width="520" height="278" fill="#dff1f8" opacity="0.5"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- float group -->
+<g transform="translate(200,80)">
+  <rect x="0" y="0" width="120" height="70" rx="8" fill="#e6f6ec" stroke="#1f9d55" stroke-width="2"/>
+  <text x="60" y="20" text-anchor="middle" font-size="12" fill="#1f9d55" font-weight="bold">浮 · 木塑</text>
+  <rect x="14" y="30" width="24" height="16" rx="3" fill="#c9a05a"/>
+  <rect x="48" y="30" width="20" height="16" rx="4" fill="#f2f2f2" stroke="#ccc"/>
+  <path d="M84 40 a10 6 0 1 0 0.1 0" fill="#e2554d"/>
+</g>
+<!-- sink group -->
+<g transform="translate(200,175)">
+  <rect x="0" y="0" width="120" height="70" rx="8" fill="#fdeeee" stroke="#c0392b" stroke-width="2"/>
+  <text x="60" y="20" text-anchor="middle" font-size="12" fill="#c0392b" font-weight="bold">沉 · 石金屬</text>
+  <rect x="16" y="32" width="20" height="14" fill="#8a8a8a"/>
+  <circle cx="58" cy="40" r="9" fill="#e0b84a" stroke="#a8862a"/>
+  <circle cx="88" cy="40" r="7" fill="#bcd8e6" stroke="#5a95b5"/>
+</g>
+<!-- fox -->
+<g transform="translate(350,150)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="86" height="86"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：看材料，就能猜個八九不離十。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「木頭浮、鐵沉，我發現規律了！」</text>
+</svg>

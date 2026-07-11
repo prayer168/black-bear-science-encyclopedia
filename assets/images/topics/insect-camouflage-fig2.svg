@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f6f1e6"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#a06a2a">擬態——假裝成別的東西</text>
+
+  <!-- three panels -->
+  <g font-size="13" text-anchor="middle">
+    <!-- panel 1: stick insect vs branch -->
+    <rect x="20" y="55" width="200" height="250" rx="10" fill="#fff" stroke="#d8c8a0"/>
+    <text x="120" y="80" font-weight="bold" fill="#7a5a2a">像枯枝</text>
+    <path d="M60 110 L110 200" stroke="#9a7a4a" stroke-width="10" stroke-linecap="round"/>
+    <g transform="translate(150,150) rotate(60)"><rect x="-34" y="-3" width="68" height="6" rx="3" fill="#a2824e" stroke="#7a5a2a"/><circle cx="-34" cy="0" r="4" fill="#a2824e" stroke="#7a5a2a"/></g>
+    <text x="120" y="240" fill="#7a5a2a">竹節蟲 ↔ 樹枝</text>
+    <text x="120" y="288" font-size="11" fill="#8a7a5a">細長褐色·靜止不動</text>
+
+    <!-- panel 2: dead-leaf butterfly -->
+    <rect x="250" y="55" width="200" height="250" rx="10" fill="#fff" stroke="#d8c8a0"/>
+    <text x="350" y="80" font-weight="bold" fill="#a06a2a">像枯葉</text>
+    <path d="M350 110 q40 30 24 90 q-24 30 -24 40 q0 -10 -24 -40 q-16 -60 24 -90 Z" fill="#c99a5a" stroke="#8a6a30" stroke-width="2"/>
+    <line x1="350" y1="120" x2="350" y2="230" stroke="#8a6a30" stroke-width="1.5"/>
+    <g stroke="#8a6a30" stroke-width="1"><line x1="350" y1="150" x2="330" y2="165"/><line x1="350" y1="150" x2="370" y2="165"/><line x1="350" y1="180" x2="328" y2="200"/><line x1="350" y1="180" x2="372" y2="200"/></g>
+    <text x="350" y="260" fill="#a06a2a">枯葉蝶 ↔ 枯葉</text>
+    <text x="350" y="288" font-size="11" fill="#8a7a5a">合翅像有葉脈的枯葉</text>
+
+    <!-- panel 3: hoverfly vs bee -->
+    <rect x="480" y="55" width="200" height="250" rx="10" fill="#fff" stroke="#d8c8a0"/>
+    <text x="580" y="80" font-weight="bold" fill="#c99a1e">假裝危險</text>
+    <g transform="translate(555,150)"><ellipse rx="22" ry="14" fill="#f7d046" stroke="#8a6d1a"/><path d="M-8 -13 v26 M4 -14 v28" stroke="#4a3c12" stroke-width="3"/><ellipse cx="-20" cy="-4" rx="14" ry="8" fill="#fff" opacity="0.7" stroke="#bbb"/></g>
+    <text x="555" y="188" font-size="10" fill="#5a7a3a">食蚜蠅·不會螫</text>
+    <g transform="translate(610,220)"><ellipse rx="16" ry="11" fill="#f0c040" stroke="#8a6d1a"/><path d="M-6 -10 v20 M2 -11 v22" stroke="#4a3c12" stroke-width="2.5"/></g>
+    <text x="605" y="250" font-size="10" fill="#8a6d1a">↔ 蜜蜂</text>
+    <text x="580" y="288" font-size="11" fill="#8a7a5a">黃黑條紋嚇退敵人</text>
+  </g>
+
+  <text x="350" y="332" text-anchor="middle" font-size="14" font-weight="bold" fill="#a06a2a">把整個樣子裝成別的東西，騙過敵人。</text>
+  <text x="350" y="360" text-anchor="middle" font-size="12" fill="#8a7a5a">（食蚜蠅其實沒有螫針、不會螫人）</text>
+</svg>
