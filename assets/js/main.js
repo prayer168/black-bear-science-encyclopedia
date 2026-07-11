@@ -73,7 +73,7 @@ const TOPICS = [
   {id:"float-or-sink",title:"浮與沉：什麼東西會浮在水上？",grade:3,category:"matter-heat-change",status:"published",path:"topics/grade-3/float-or-sink.html",keywords:["浮","沉","水","船"]},
   {id:"wind-is-running-air",title:"風是空氣在跑步",grade:3,category:"air-water-weather",status:"published",path:"topics/grade-3/wind-is-running-air.html",keywords:["風","空氣流動","風向"]},
   {id:"cloud-expressions",title:"雲是天空的表情：認識雲的樣子",grade:3,category:"air-water-weather",status:"published",path:"topics/grade-3/cloud-expressions.html",keywords:["雲","積雲","天氣"]},
-  {id:"secrets-in-soil",title:"泥土裡藏著什麼？土壤觀察",grade:3,category:"earth-resources",status:"planned",path:"",keywords:["土壤","腐植質","黏土"]},
+  {id:"secrets-in-soil",title:"泥土裡藏著什麼？土壤觀察",grade:3,category:"earth-resources",status:"published",path:"topics/grade-3/secrets-in-soil.html",keywords:["土壤","腐植質","黏土"]},
   {id:"mirror-world",title:"鏡子裡的世界：光的反射初體驗",grade:3,category:"sound-light-electricity",status:"planned",path:"",keywords:["鏡子","反射","影像"]},
   {id:"elastic-toys",title:"彈簧與橡皮筋：玩具裡的彈力",grade:3,category:"force-motion-machines",status:"planned",path:"",keywords:["彈簧","橡皮筋","彈力","形變"]},
   {id:"measuring-toolbox",title:"我的測量工具箱：長度與體積怎麼量",grade:3,category:"inquiry-methods",status:"planned",path:"",keywords:["尺","量筒","單位","測量"]},
