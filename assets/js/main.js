@@ -81,7 +81,7 @@ const TOPICS = [
   {id:"bird-beak-code",title:"鳥嘴的形狀密碼：吃什麼長什麼嘴",grade:4,category:"animals-insects",status:"published",path:"topics/grade-4/bird-beak-code.html",keywords:["鳥喙","食性","適應"]},
   {id:"water-surface-tension",title:"水黽為什麼不會沉？水的表面張力",grade:4,category:"air-water-weather",status:"published",path:"topics/grade-4/water-surface-tension.html",keywords:["表面張力","水黽","水滴"]},
   {id:"capillary-action",title:"紙巾會喝水：毛細現象",grade:4,category:"matter-heat-change",status:"published",path:"topics/grade-4/capillary-action.html",keywords:["毛細現象","紙巾","吸水"]},
-  {id:"plant-drinking-secret",title:"植物喝水的祕密：根與莖的運輸",grade:4,category:"plants-life",status:"planned",path:"",keywords:["根","莖","運輸","蒸散"]},
+  {id:"plant-drinking-secret",title:"植物喝水的祕密：根與莖的運輸",grade:4,category:"plants-life",status:"published",path:"topics/grade-4/plant-drinking-secret.html",keywords:["根","莖","運輸","蒸散"]},
   {id:"rainbow-colors",title:"彩虹是怎麼出現的？光的色散",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/rainbow-colors.html",keywords:["彩虹","色散","三稜鏡"]},
   {id:"static-electricity-magic",title:"頭髮為什麼站起來？靜電魔法",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/static-electricity-magic.html",keywords:["靜電","摩擦起電","氣球"]},
   {id:"air-expands-contracts",title:"空氣也會熱脹冷縮",grade:4,category:"matter-heat-change",status:"planned",path:"",keywords:["熱脹冷縮","空氣","氣球"]},
