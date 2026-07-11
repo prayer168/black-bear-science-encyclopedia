@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#d4e8f0"/>
+<rect x="0" y="205" width="520" height="73" fill="#a8c878"/>
+<!-- cliff -->
+<rect x="400" y="70" width="120" height="150" fill="#9a8b74"/>
+<path d="M400 70 l16 30 l-16 40 l20 40 l-16 40" fill="#8a7b64"/>
+<!-- fox shouting -->
+<g transform="translate(80,120)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="98" height="98"/></g>
+<g fill="none" stroke="#e08a3a" stroke-width="3"><path d="M180 150 q30 -22 60 0"/><path d="M180 150 q48 -34 96 0"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：校外教學，小狐對著山谷岩壁大喊。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「你——好——！」</text>
+</svg>

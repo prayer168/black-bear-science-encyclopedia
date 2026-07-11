@@ -94,7 +94,7 @@ const TOPICS = [
   {id:"density-and-buoyancy",title:"死海為什麼淹不死人？密度與浮力",grade:5,category:"matter-heat-change",status:"published",path:"topics/grade-5/density-and-buoyancy.html",keywords:["密度","浮力","鹽水"]},
   {id:"water-purification",title:"混濁的水變乾淨：過濾與淨水",grade:5,category:"matter-heat-change",status:"published",path:"topics/grade-5/water-purification.html",keywords:["過濾","沉澱","淨水"]},
   {id:"magnifier-refraction",title:"放大鏡的祕密：光的折射與透鏡",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/magnifier-refraction.html",keywords:["折射","放大鏡","凸透鏡"]},
-  {id:"echo-and-ultrasound",title:"回聲與超音波：聲音的反彈",grade:5,category:"sound-light-electricity",status:"planned",path:"",keywords:["回聲","反射","蝙蝠"]},
+  {id:"echo-and-ultrasound",title:"回聲與超音波：聲音的反彈",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/echo-and-ultrasound.html",keywords:["回聲","反射","蝙蝠"]},
   {id:"series-parallel-circuits",title:"誰的燈泡比較亮？串聯與並聯",grade:5,category:"sound-light-electricity",status:"planned",path:"",keywords:["串聯","並聯","燈泡"]},
   {id:"inclined-plane-screw",title:"斜坡與螺絲：省力的斜面",grade:5,category:"force-motion-machines",status:"planned",path:"",keywords:["斜面","螺絲","省力"]},
   {id:"mold-and-microbes",title:"看不見的分解者：黴菌與微生物",grade:5,category:"ecology-sustainability",status:"planned",path:"",keywords:["黴菌","微生物","分解者"]},

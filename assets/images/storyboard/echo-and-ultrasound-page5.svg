@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef0e4"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9b878" opacity="0.4"/>
+<!-- drop -->
+<g transform="translate(45,140)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<!-- cup phone -->
+<path d="M200 150 l-8 40 q0 6 8 6 l24 0 q8 0 8 -6 l-8 -40z" fill="#f0c890" stroke="#c9905a" stroke-width="2"/>
+<path d="M410 150 l-8 40 q0 6 8 6 l24 0 q8 0 8 -6 l-8 -40z" fill="#f0c890" stroke="#c9905a" stroke-width="2"/>
+<line x1="212" y1="152" x2="422" y2="152" stroke="#8a5a34" stroke-width="2"/>
+<text x="317" y="145" text-anchor="middle" font-size="12" fill="#8a5a34">棉線拉直（固體傳聲）</text>
+<g fill="none" stroke="#e08a3a" stroke-width="2.5"><path d="M188 172 q-14 6 -26 0"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：拍手聽回聲，紙杯沿線傳聲更清楚。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「聲音在固體傳得更清楚！」</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#1a1a34"/>
+<rect x="0" y="205" width="520" height="73" fill="#0e0e22"/>
+<!-- stars -->
+<g fill="#fff"><circle cx="120" cy="70" r="2"/><circle cx="300" cy="55" r="2"/><circle cx="420" cy="90" r="2"/><circle cx="250" cy="110" r="1.5"/><circle cx="470" cy="60" r="1.5"/></g>
+<!-- monster astronaut shouting -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="90" height="90"/></g>
+<g fill="none" stroke="#e08a3a" stroke-width="3"><path d="M140 150 q20 -12 40 0"/></g>
+<line x1="140" y1="130" x2="200" y2="175" stroke="#ff5a5a" stroke-width="5"/>
+<line x1="200" y1="130" x2="140" y2="175" stroke="#ff5a5a" stroke-width="5"/>
+<!-- bear with radio -->
+<g transform="translate(370,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<rect x="330" y="150" width="20" height="34" rx="4" fill="#888"/>
+<g fill="none" stroke="#7ad0ff" stroke-width="2"><path d="M340 148 q8 -8 16 -2"/></g>
+<text x="340" y="130" text-anchor="middle" font-size="11" fill="#7ad0ff">無線電</text>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#3a2a4a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：太空幾乎真空，聲音傳不出去。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「太空大喊也聽得到！」🐻「真空傳不了聲，要用無線電！」</text>
+</svg>

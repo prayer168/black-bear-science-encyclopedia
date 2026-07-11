@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#2a2a44"/>
+<rect x="0" y="205" width="520" height="73" fill="#1a1a30"/>
+<!-- cave -->
+<text x="90" y="60" font-size="12" fill="#8a8ab0">漆黑山洞</text>
+<!-- bat -->
+<path d="M260 110 q-24 -30 -50 -10 q18 -34 50 -20 q32 -14 50 20 q-26 -20 -50 10z" fill="#6a5a8a"/>
+<circle cx="252" cy="108" r="4" fill="#fff"/><circle cx="268" cy="108" r="4" fill="#fff"/>
+<!-- ultrasound out -->
+<g fill="none" stroke="#c07ad0" stroke-width="3"><path d="M310 120 q22 -14 44 0"/><path d="M310 120 q38 -22 76 0"/></g>
+<!-- bug -->
+<ellipse cx="430" cy="120" rx="12" ry="8" fill="#8fbf50"/>
+<!-- reflected -->
+<g fill="none" stroke="#5a9ac8" stroke-width="3"><path d="M410 138 q-22 14 -44 0"/></g>
+<!-- beetle -->
+<g transform="translate(60,135)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：蝙蝠用回聲在黑暗中「看」路。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「發超音波、聽反彈，叫回聲定位！」</text>
+</svg>
