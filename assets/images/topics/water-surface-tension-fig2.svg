@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#e8f4f7"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a8a9a">輕放浮、丟入沉；水珠變圓</text>
+
+  <!-- panel 1: gently placed - float -->
+  <text x="130" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f9d55">輕放 → 浮</text>
+  <rect x="40" y="90" width="180" height="200" rx="8" fill="#fff" stroke="#a8d0da"/>
+  <rect x="60" y="180" width="140" height="90" fill="#bfe4ef"/>
+  <path d="M60 180 h50 q8 12 20 0 h50" fill="none" stroke="#5aa8bf" stroke-width="3"/>
+  <g transform="translate(120,178)" stroke="#8a8a8a" stroke-width="3" fill="none"><path d="M-14 -3 h20 a4 4 0 0 1 0 8 h-16"/></g>
+  <text x="130" y="250" text-anchor="middle" font-size="11" fill="#1f9d55">平放·浮在水面</text>
+
+  <!-- panel 2: dropped - sink -->
+  <text x="350" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">丟入 → 沉</text>
+  <rect x="260" y="90" width="180" height="200" rx="8" fill="#fff" stroke="#a8d0da"/>
+  <rect x="280" y="150" width="140" height="120" fill="#bfe4ef"/>
+  <path d="M280 150 h140" stroke="#5aa8bf" stroke-width="3"/>
+  <g transform="translate(350,258)" stroke="#8a8a8a" stroke-width="3" fill="none"><path d="M-14 -3 h20 a4 4 0 0 1 0 8 h-16"/></g>
+  <path d="M350 165 v70" stroke="#999" stroke-width="1.5" stroke-dasharray="3 3" marker-end="url(#d)"/>
+  <text x="350" y="250" text-anchor="middle" font-size="11" fill="#c0392b">同一根·沉底</text>
+  <defs><marker id="d" markerWidth="9" markerHeight="9" refX="4" refY="6" orient="auto"><path d="M0 0 L4 8 L8 0 z" fill="#999"/></marker></defs>
+
+  <!-- panel 3: round water drop on coin -->
+  <text x="570" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7a8a">水珠變圓</text>
+  <rect x="480" y="90" width="180" height="200" rx="8" fill="#fff" stroke="#a8d0da"/>
+  <ellipse cx="570" cy="250" rx="60" ry="14" fill="#e0b84a" stroke="#a8862a" stroke-width="2"/>
+  <path d="M528 246 a42 26 0 0 1 84 0 Z" fill="#bfe4ef" stroke="#5aa8bf" stroke-width="2"/>
+  <text x="570" y="285" text-anchor="middle" font-size="11" fill="#3a7a8a">硬幣上凸起的圓水珠</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a8a9a">輕放會浮、用丟的就沉——是表面張力在撐。</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dfe6ec"/>
+<rect x="0" y="0" width="520" height="200" fill="#d0dde6" opacity="0.6"/>
+<rect x="0" y="200" width="520" height="78" fill="#a8b878" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- distant volcano cone -->
+<path d="M300 210 L390 110 L410 110 L500 210 Z" fill="#8a9a7a" stroke="#6a7a5a"/>
+<path d="M390 110 h20 l-4 -12 h-12 Z" fill="#a06a4a"/>
+<g fill="#c8c8c0" opacity="0.6"><circle cx="400" cy="90" r="12"/><circle cx="415" cy="78" r="9"/></g>
+<text x="400" y="235" text-anchor="middle" font-size="11" fill="#5a6a4a">休息中的火山</text>
+<!-- beetle -->
+<g transform="translate(50,150)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：火山是岩漿噴發堆積出來的。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「很多火山正在休息中。」</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe8de"/>
+<rect x="0" y="0" width="520" height="278" fill="#f4eee4" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- cross-section board -->
+<rect x="270" y="80" width="200" height="170" rx="8" fill="#fff" stroke="#c9bfa8" stroke-width="2"/>
+<path d="M300 230 L360 130 L380 130 L440 230 Z" fill="#7a5a44"/>
+<ellipse cx="370" cy="228" rx="40" ry="12" fill="#e0781e"/>
+<path d="M362 228 L366 130 M378 228 L374 130" stroke="#e0781e" stroke-width="4"/>
+<path d="M360 130 q-16 24 -24 60" stroke="#e0521e" stroke-width="5" fill="none"/>
+<text x="370" y="248" text-anchor="middle" font-size="10" fill="#a04530">岩漿沿通道上衝</text>
+<!-- bear -->
+<g transform="translate(45,150)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：地底岩漿沿裂縫往上衝，噴出地表。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「像大地打開了煙囪。」</text>
+</svg>

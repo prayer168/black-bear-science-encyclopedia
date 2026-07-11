@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dcecec"/>
+<rect x="0" y="0" width="520" height="278" fill="#eaf4f4" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- cup with floating clip -->
+<path d="M290 140 h150 l-14 130 h-122 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+<ellipse cx="365" cy="140" rx="75" ry="12" fill="#cfe8f2" stroke="#7fb0d6"/>
+<path d="M300 160 h50 q8 12 20 0 h50" fill="none" stroke="#5aa8bf" stroke-width="2.5"/>
+<g transform="translate(365,158)" stroke="#8a8a8a" stroke-width="3" fill="none"><path d="M-14 -3 h20 a4 4 0 0 1 0 8 h-16"/></g>
+<!-- fork placing -->
+<g transform="translate(310,110) rotate(20)"><rect x="0" y="0" width="30" height="5" fill="#b0b0b0"/><line x1="0" y1="0" x2="-8" y2="-6" stroke="#b0b0b0" stroke-width="2"/></g>
+<!-- bear -->
+<g transform="translate(45,150)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：鐵的迴紋針，輕放也能浮！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「用叉子墊著，輕輕放。」</text>
+</svg>

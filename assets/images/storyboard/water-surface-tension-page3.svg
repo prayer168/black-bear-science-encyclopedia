@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6efe4"/>
+<rect x="0" y="0" width="520" height="278" fill="#dce8d6" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- lotus leaf with round dewdrops -->
+<path d="M250 200 q60 -50 130 -20 q20 50 -30 74 q-70 20 -100 -20 Z" fill="#7fbf5f" stroke="#5a9a3a" stroke-width="2"/>
+<ellipse cx="310" cy="185" rx="16" ry="14" fill="#bfe4ef" stroke="#7fc0d8" stroke-width="2"/>
+<ellipse cx="345" cy="205" rx="12" ry="11" fill="#bfe4ef" stroke="#7fc0d8" stroke-width="2"/>
+<ellipse cx="290" cy="215" rx="9" ry="8" fill="#bfe4ef" stroke="#7fc0d8" stroke-width="2"/>
+<text x="360" y="160" font-size="11" fill="#3a7a8a">圓滾滾的露珠</text>
+<!-- beetle -->
+<g transform="translate(50,150)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：那層看不見的膜叫表面張力。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「它也讓水珠變圓喔！」</text>
+</svg>

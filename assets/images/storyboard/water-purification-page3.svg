@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6eef2"/>
+<rect x="0" y="0" width="520" height="278" fill="#eef4f4" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- funnel with filter -->
+<path d="M300 110 h100 l-34 54 h-32 Z" fill="#e8eef2" stroke="#a8b8c8" stroke-width="2"/>
+<path d="M306 116 h88 l-14 24 h-60 Z" fill="#c9a06a" opacity="0.8"/>
+<line x1="314" y1="150" x2="386" y2="150" stroke="#c0a070" stroke-width="2"/>
+<line x1="350" y1="164" x2="350" y2="215" stroke="#7fc0d8" stroke-width="3" stroke-dasharray="2 5"/>
+<path d="M320 220 h60 l-8 45 h-44 Z" fill="#dff1f8" stroke="#7fb0d6"/>
+<path d="M324 238 h52 l-5 25 h-42 Z" fill="#bfe4ef"/>
+<text x="405" y="150" font-size="10" fill="#a08050">雜質留住</text>
+<!-- bear -->
+<g transform="translate(45,150)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：過濾把雜質攔在濾紙上。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「水穿過細孔，雜質被擋住。」</text>
+</svg>

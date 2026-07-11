@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6eef2"/>
+<rect x="0" y="0" width="520" height="278" fill="#eef4f4" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- filter with salt passing through -->
+<path d="M300 100 h100 l-34 50 h-32 Z" fill="#e8eef2" stroke="#a8b8c8" stroke-width="2"/>
+<path d="M306 106 h88 l-12 20 h-64 Z" fill="#dbeefb"/>
+<g fill="#c0392b"><circle cx="330" cy="114" r="2"/><circle cx="360" cy="116" r="2"/><circle cx="345" cy="120" r="2"/></g>
+<line x1="314" y1="140" x2="386" y2="140" stroke="#c0a070" stroke-width="2"/>
+<!-- salt dots passing below filter -->
+<g fill="#c0392b"><circle cx="345" cy="165" r="2"/><circle cx="352" cy="185" r="2"/><circle cx="345" cy="205" r="2"/></g>
+<path d="M345 150 v70" stroke="#7fc0d8" stroke-width="2" stroke-dasharray="2 4"/>
+<path d="M318 224 h56 l-7 42 h-42 Z" fill="#dbeefb" stroke="#7fb0d6"/>
+<g fill="#c0392b"><circle cx="340" cy="245" r="2"/><circle cx="352" cy="252" r="2"/></g>
+<text x="410" y="185" font-size="11" fill="#c0392b">鹽穿過細孔</text>
+<!-- beetle -->
+<g transform="translate(45,150)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：溶解的鹽，過濾濾不掉。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「鹽比細孔還小，跟著水穿過去！」</text>
+</svg>

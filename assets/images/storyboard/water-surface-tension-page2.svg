@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dcecec"/>
+<rect x="0" y="150" width="520" height="128" fill="#bfe4ef" opacity="0.85"/>
+<ellipse cx="260" cy="255" rx="230" ry="20" fill="#00000010"/>
+<!-- zoomed leg dip -->
+<path d="M170 175 h110 q14 30 34 0 h110" fill="none" stroke="#5aa8bf" stroke-width="4"/>
+<g stroke="#5a4a30" stroke-width="3"><line x1="297" y1="150" x2="297" y2="188"/></g>
+<circle cx="297" cy="146" r="6" fill="#5a4a30"/>
+<text x="360" y="145" font-size="12" fill="#c0392b">凹陷·沒破</text>
+<path d="M330 160 q-10 12 -20 22" stroke="#c0392b" stroke-width="1.5" fill="none" marker-end="url(#a)"/>
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 L6 4 L0 8 z" fill="#c0392b"/></marker></defs>
+<!-- drop character -->
+<g transform="translate(50,150)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：水面被壓凹，卻撐住牠沒破。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「水面好像有一層膜？」</text>
+</svg>

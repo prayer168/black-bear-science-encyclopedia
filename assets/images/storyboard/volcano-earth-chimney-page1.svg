@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8e0d4"/>
+<rect x="0" y="0" width="520" height="278" fill="#dfd6c6" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- rocky wall with steam vents -->
+<path d="M280 90 h200 v160 h-200 Z" fill="#8a7a64" stroke="#6a5a44"/>
+<g fill="#d8d8d0" opacity="0.85"><circle cx="330" cy="120" r="12"/><circle cx="345" cy="100" r="9"/><circle cx="400" cy="130" r="14"/><circle cx="415" cy="108" r="10"/></g>
+<!-- bubbling mud -->
+<ellipse cx="360" cy="235" rx="50" ry="12" fill="#9a7a5a"/>
+<circle cx="345" cy="230" r="4" fill="#b89a7a"/><circle cx="375" cy="232" r="3" fill="#b89a7a"/>
+<text x="420" y="180" font-size="11" fill="#8a6a4a">臭雞蛋味</text>
+<!-- fox -->
+<g transform="translate(55,140)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：山縫冒煙、泥漿冒泡、還有臭雞蛋味。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「這座山是不是在燒東西？」</text>
+</svg>

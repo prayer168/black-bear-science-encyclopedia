@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dcecec"/>
+<rect x="0" y="0" width="520" height="278" fill="#eaf4f4" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<line x1="360" y1="80" x2="360" y2="250" stroke="#cddddd" stroke-width="2" stroke-dasharray="5 4"/>
+<!-- left cup: float -->
+<text x="280" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="#1f9d55">輕放→浮</text>
+<path d="M240 115 h80 l-8 90 h-64 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+<path d="M248 135 h24 q6 8 14 0 h24" fill="none" stroke="#5aa8bf" stroke-width="2"/>
+<g transform="translate(280,133)" stroke="#8a8a8a" stroke-width="2.5" fill="none"><path d="M-10 -2 h14 a3 3 0 0 1 0 6 h-11"/></g>
+<!-- right cup: sink -->
+<text x="440" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">丟入→沉</text>
+<path d="M400 115 h80 l-8 90 h-64 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+<path d="M408 135 h64" stroke="#5aa8bf" stroke-width="2"/>
+<g transform="translate(440,192)" stroke="#8a8a8a" stroke-width="2.5" fill="none"><path d="M-10 -2 h14 a3 3 0 0 1 0 6 h-11"/></g>
+<!-- monster -->
+<g transform="translate(45,150)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="125" font-size="16">❓</text>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：是表面張力在撐，不是因為它輕。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「輕才浮啦！」🐻「用丟的就沉囉！」</text>
+</svg>

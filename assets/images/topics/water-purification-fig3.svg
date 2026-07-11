@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f0"/>
+  <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#2a8a5a">自製濾水器與自來水淨水流程</text>
+  <line x1="300" y1="56" x2="300" y2="345" stroke="#cfe0d0" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- LEFT: bottle filter -->
+  <text x="150" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a8a6a">自製濾水器</text>
+  <!-- inverted bottle -->
+  <path d="M100 100 h100 v70 l-30 30 v-20 h-40 v20 l-30 -30 Z" fill="#eaf4f7" stroke="#7fb0d6" stroke-width="2"/>
+  <!-- muddy water top -->
+  <rect x="102" y="102" width="96" height="24" fill="#c9a06a" opacity="0.8"/>
+  <!-- layers -->
+  <rect x="112" y="128" width="76" height="16" fill="#f0f0f0"/><text x="205" y="140" font-size="10" fill="#888">棉花</text>
+  <rect x="118" y="144" width="64" height="16" fill="#e0d0a0"/><text x="205" y="156" font-size="10" fill="#a08050">細沙</text>
+  <rect x="126" y="160" width="48" height="14" fill="#b0b0b0"/><text x="205" y="172" font-size="10" fill="#777">小石頭</text>
+  <!-- drip to cup -->
+  <line x1="150" y1="200" x2="150" y2="250" stroke="#7fc0d8" stroke-width="3" stroke-dasharray="2 5"/>
+  <path d="M120 255 h60 l-8 50 h-44 Z" fill="#dff1f8" stroke="#7fb0d6"/>
+  <path d="M124 275 h52 l-5 28 h-44 Z" fill="#bfe4ef"/>
+  <text x="150" y="325" text-anchor="middle" font-size="11" fill="#3a7a9a">濾出清水</text>
+
+  <!-- RIGHT: waterworks flow -->
+  <text x="500" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a8a6a">自來水廠淨水</text>
+  <g font-size="12" text-anchor="middle">
+    <rect x="340" y="110" width="90" height="50" rx="8" fill="#dff1f8" stroke="#7fb0d6"/>
+    <text x="385" y="132" fill="#3a7a9a" font-weight="bold">①沉澱</text><text x="385" y="150" font-size="10" fill="#6a8a9a">泥沙沉底</text>
+    <text x="450" y="140" font-size="16">→</text>
+    <rect x="470" y="110" width="90" height="50" rx="8" fill="#dff1f8" stroke="#7fb0d6"/>
+    <text x="515" y="132" fill="#3a7a9a" font-weight="bold">②過濾</text><text x="515" y="150" font-size="10" fill="#6a8a9a">沙石層過濾</text>
+    <rect x="405" y="190" width="90" height="50" rx="8" fill="#e6f6ec" stroke="#5aa878"/>
+    <text x="450" y="212" fill="#2a8a5a" font-weight="bold">③消毒</text><text x="450" y="230" font-size="10" fill="#5a9a7a">加氯殺菌</text>
+    <text x="450" y="180" font-size="16">↓</text>
+  </g>
+  <rect x="360" y="270" width="280" height="34" rx="8" fill="#fdecea" stroke="#e0a0a0"/>
+  <text x="500" y="292" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">⚠️ 濾出的水仍不可生喝，要消毒！</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a8a5a">層層過濾變清澈，還要消毒才能喝。</text>
+</svg>

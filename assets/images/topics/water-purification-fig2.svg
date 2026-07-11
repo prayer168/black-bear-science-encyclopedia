@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f0"/>
+  <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#2a8a5a">過濾濾得掉泥沙，濾不掉溶解的鹽</text>
+
+  <!-- top row: mud water -->
+  <text x="70" y="95" font-size="14" font-weight="bold" fill="#1f9d55">濾得掉</text>
+  <circle cx="130" cy="120" r="22" fill="#c9a06a"/><text x="130" y="160" text-anchor="middle" font-size="11" fill="#8a6a3a">泥水</text>
+  <text x="185" y="125" font-size="20">→</text>
+  <!-- filter -->
+  <path d="M230 100 h70 l-24 34 h-22 Z" fill="#e8eef2" stroke="#a8b8c8"/>
+  <line x1="238" y1="120" x2="292" y2="120" stroke="#c0a070" stroke-width="3"/>
+  <g fill="#8a6a3a"><circle cx="252" cy="110" r="3"/><circle cx="272" cy="112" r="3"/></g>
+  <text x="265" y="150" text-anchor="middle" font-size="10" fill="#a08050">泥沙被擋</text>
+  <text x="315" y="125" font-size="20">→</text>
+  <circle cx="380" cy="120" r="22" fill="#bfe4ef" stroke="#7fb0d6"/><text x="380" y="160" text-anchor="middle" font-size="11" fill="#1f9d55">清水</text>
+  <text x="470" y="125" font-size="14" fill="#1f9d55">泥沙比孔大 → 被擋住 ✔</text>
+
+  <line x1="60" y1="200" x2="640" y2="200" stroke="#cfe0d0" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+  <!-- bottom row: salt water -->
+  <text x="70" y="255" font-size="14" font-weight="bold" fill="#c0392b">濾不掉</text>
+  <circle cx="130" cy="280" r="22" fill="#dbeefb" stroke="#7fb0d6"/>
+  <g fill="#c0392b"><circle cx="122" cy="274" r="2"/><circle cx="134" cy="284" r="2"/><circle cx="128" cy="290" r="2"/><circle cx="140" cy="276" r="2"/></g>
+  <text x="130" y="320" text-anchor="middle" font-size="11" fill="#a03030">鹽水</text>
+  <text x="185" y="285" font-size="20">→</text>
+  <path d="M230 260 h70 l-24 34 h-22 Z" fill="#e8eef2" stroke="#a8b8c8"/>
+  <line x1="238" y1="280" x2="292" y2="280" stroke="#c0a070" stroke-width="3"/>
+  <!-- salt dots passing through -->
+  <g fill="#c0392b"><circle cx="252" cy="288" r="2"/><circle cx="268" cy="290" r="2"/><circle cx="260" cy="298" r="2"/></g>
+  <text x="315" y="285" font-size="20">→</text>
+  <circle cx="380" cy="280" r="22" fill="#dbeefb" stroke="#7fb0d6"/>
+  <g fill="#c0392b"><circle cx="372" cy="274" r="2"/><circle cx="384" cy="284" r="2"/><circle cx="378" cy="290" r="2"/></g>
+  <text x="380" y="320" text-anchor="middle" font-size="11" fill="#a03030">還是鹹的</text>
+  <text x="470" y="285" font-size="14" fill="#c0392b">鹽溶了比孔小 → 穿過去 ✘</text>
+
+  <text x="350" y="382" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2a8a5a">泥沙比孔大→被擋；鹽溶了比孔小→穿過去。</text>
+</svg>

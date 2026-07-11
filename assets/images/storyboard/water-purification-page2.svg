@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6eef2"/>
+<rect x="0" y="0" width="520" height="278" fill="#eef4f4" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- cup with sediment -->
+<path d="M310 120 h90 l-12 130 h-66 Z" fill="#dff1f8" stroke="#7fb0d6" stroke-width="2"/>
+<ellipse cx="355" cy="120" rx="45" ry="9" fill="#cfe8f2" stroke="#7fb0d6"/>
+<path d="M320 210 h70 l-6 40 h-58 Z" fill="#c9a06a" opacity="0.85"/>
+<g fill="#8a6a3a"><circle cx="345" cy="230" r="3"/><circle cx="365" cy="240" r="3"/><circle cx="335" cy="242" r="3"/></g>
+<text x="415" y="160" font-size="11" fill="#3a7a9a">上層清</text>
+<text x="415" y="235" font-size="11" fill="#8a6a3a">泥沙沉底</text>
+<!-- drop character -->
+<g transform="translate(50,150)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：靜靜放著，泥沙沉到杯底了。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「這叫沉澱！」</text>
+</svg>

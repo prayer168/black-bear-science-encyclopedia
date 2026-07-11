@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf2f9"/>
+<rect x="0" y="0" width="520" height="278" fill="#f0f5fa" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- air flow arrows -->
+<g stroke="#7fb8e0" stroke-width="4" fill="none" opacity="0.85">
+  <path d="M250 130 q50 -14 100 0" marker-end="url(#a)"/>
+  <path d="M250 175 q50 -14 100 0" marker-end="url(#a)"/>
+  <path d="M250 220 q50 -14 100 0" marker-end="url(#a)"/>
+</g>
+<defs><marker id="a" markerWidth="11" markerHeight="11" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#7fb8e0"/></marker></defs>
+<text x="360" y="120" font-size="12" fill="#3a8ac0">空氣在跑步</text>
+<!-- beetle -->
+<g transform="translate(45,145)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：風，就是空氣在流動！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「你把空氣推過去了！」</text>
+</svg>

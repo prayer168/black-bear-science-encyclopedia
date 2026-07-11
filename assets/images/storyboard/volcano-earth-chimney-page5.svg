@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe8de"/>
+<rect x="0" y="0" width="520" height="278" fill="#f4eee4" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- model volcano with foam -->
+<path d="M290 245 L360 150 L380 150 L450 245 Z" fill="#a06a4a" stroke="#7a4a2a"/>
+<ellipse cx="370" cy="150" rx="16" ry="6" fill="#7a4a2a"/>
+<!-- foam overflow -->
+<path d="M362 150 q-14 30 -30 60" stroke="#e05a6a" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.9"/>
+<g fill="#f08a9a"><circle cx="360" cy="140" r="8"/><circle cx="372" cy="132" r="6"/><circle cx="380" cy="142" r="7"/></g>
+<text x="410" y="180" font-size="10" fill="#c0506a">泡沫「岩漿」</text>
+<!-- drop -->
+<g transform="translate(45,150)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：用安全的氣泡模擬火山噴發。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「這是氣泡，不是真的高溫岩漿喔！」</text>
+</svg>

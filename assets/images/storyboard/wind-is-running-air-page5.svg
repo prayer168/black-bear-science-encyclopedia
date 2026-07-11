@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dcecf7"/>
+<rect x="0" y="200" width="520" height="78" fill="#a8c878" opacity="0.7"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- weather vane -->
+<line x1="300" y1="110" x2="300" y2="210" stroke="#8a8a8a" stroke-width="4"/>
+<path d="M270 128 h40 l16 -10 l-16 -10 h-40 l-12 10 Z" fill="#e2554d" stroke="#a8352d"/>
+<text x="300" y="230" text-anchor="middle" font-size="11" fill="#6a6a6a">風向計</text>
+<!-- pinwheel -->
+<g transform="translate(410,160)">
+  <line x1="0" y1="0" x2="0" y2="50" stroke="#8a6a4a" stroke-width="5"/>
+  <g fill="#f2c94c" stroke="#c99a1a"><path d="M0 0 l16 -16 l6 16 Z"/><path d="M0 0 l16 16 l-16 6 Z"/><path d="M0 0 l-16 16 l-6 -16 Z"/><path d="M0 0 l-16 -16 l16 -6 Z"/></g>
+  <circle r="5" fill="#e2554d"/>
+</g>
+<text x="410" y="235" text-anchor="middle" font-size="11" fill="#6a6a6a">風車</text>
+<!-- drop -->
+<g transform="translate(45,145)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：自己動手做，觀察風的方向與大小。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「在空曠安全的地方觀察喔！」</text>
+</svg>

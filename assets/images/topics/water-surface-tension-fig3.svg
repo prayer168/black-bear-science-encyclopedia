@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#e8f4f7"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a8a9a">肥皂破壞表面張力</text>
+
+  <!-- bowl top view -->
+  <circle cx="350" cy="215" r="150" fill="#cdeaf2" stroke="#5aa8bf" stroke-width="3"/>
+  <!-- pepper flecks fleeing outward -->
+  <g fill="#3a2f20">
+    <circle cx="350" cy="120" r="3"/><circle cx="420" cy="140" r="3"/><circle cx="470" cy="200" r="3"/>
+    <circle cx="470" cy="250" r="3"/><circle cx="420" cy="300" r="3"/><circle cx="350" cy="330" r="3"/>
+    <circle cx="270" cy="300" r="3"/><circle cx="228" cy="250" r="3"/><circle cx="228" cy="190" r="3"/><circle cx="278" cy="135" r="3"/>
+    <circle cx="400" cy="110" r="3"/><circle cx="300" cy="115" r="3"/>
+  </g>
+  <!-- radial flee arrows -->
+  <g stroke="#c0392b" stroke-width="2">
+    <path d="M350 200 v-50" marker-end="url(#a)"/>
+    <path d="M365 210 l40 -30" marker-end="url(#a)"/>
+    <path d="M370 220 l50 5" marker-end="url(#a)"/>
+    <path d="M360 230 l35 45" marker-end="url(#a)"/>
+    <path d="M335 210 l-40 -25" marker-end="url(#a)"/>
+    <path d="M330 225 l-45 30" marker-end="url(#a)"/>
+  </g>
+  <defs><marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 L6 4 L0 8 z" fill="#c0392b"/></marker></defs>
+  <!-- finger with soap at center -->
+  <circle cx="350" cy="215" r="12" fill="#f0c0a0" stroke="#d0a080" stroke-width="2"/>
+  <text x="350" y="219" text-anchor="middle" font-size="10" fill="#8a5a3a">肥皂</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a8a9a">一點肥皂，膜就破了，胡椒粉四散逃開。</text>
+</svg>
