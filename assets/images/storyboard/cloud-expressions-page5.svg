@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dcecf7"/>
+<rect x="0" y="0" width="520" height="278" fill="#e6f0f7" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- jar with mini cloud -->
+<rect x="300" y="110" width="90" height="130" rx="10" fill="#eaf4f7" stroke="#7fb0d6" stroke-width="2"/>
+<!-- ice on top -->
+<rect x="308" y="96" width="74" height="16" rx="4" fill="#bfe4ef" stroke="#7fb0d6"/>
+<g fill="#dff1f8" stroke="#a8cbe0"><rect x="314" y="98" width="12" height="12"/><rect x="332" y="98" width="12" height="12"/><rect x="350" y="98" width="12" height="12"/></g>
+<!-- fog inside -->
+<g fill="#ffffff" opacity="0.7"><ellipse cx="345" cy="150" rx="30" ry="16"/><ellipse cx="330" cy="165" rx="20" ry="12"/></g>
+<!-- warm water bottom -->
+<rect x="304" y="210" width="82" height="26" fill="#cfe8f2"/>
+<text x="405" y="150" font-size="10" fill="#3a7a9a">瓶中小雲</text>
+<!-- drop character -->
+<g transform="translate(50,150)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：自己動手，造一朵小小的雲。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「用溫水不要用滾水喔！」</text>
+</svg>

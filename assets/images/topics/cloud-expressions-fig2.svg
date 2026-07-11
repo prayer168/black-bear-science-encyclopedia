@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#cfe4f2"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a6a9a">三種常見的雲</text>
+
+  <!-- high: cirrus (wispy) -->
+  <g stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.95">
+    <path d="M120 90 q40 -12 80 -4 q30 6 60 -6"/>
+    <path d="M150 108 q40 -10 80 -2"/>
+    <path d="M480 96 q40 -12 80 -2 q30 4 60 -8"/>
+    <path d="M510 112 q40 -8 70 0"/>
+  </g>
+  <text x="350" y="100" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a7a9a">捲雲（高空·像羽毛·小冰晶）</text>
+
+  <!-- mid: stratus (sheet) -->
+  <rect x="60" y="180" width="580" height="40" rx="18" fill="#b8c4cc" opacity="0.9"/>
+  <text x="350" y="205" text-anchor="middle" font-size="13" font-weight="bold" fill="#4a5a64">層雲（鋪滿天空·灰片·可能毛毛雨）</text>
+
+  <!-- low: cumulus (cotton) -->
+  <g fill="#ffffff" stroke="#c8d8e4" stroke-width="2">
+    <ellipse cx="200" cy="300" rx="70" ry="40"/><ellipse cx="150" cy="315" rx="46" ry="30"/><ellipse cx="255" cy="315" rx="50" ry="32"/>
+    <ellipse cx="500" cy="300" rx="70" ry="40"/><ellipse cx="450" cy="315" rx="46" ry="30"/><ellipse cx="555" cy="315" rx="50" ry="32"/>
+  </g>
+  <text x="350" y="360" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a6a8a">積雲（低空·像棉花·天氣好時常見）</text>
+
+  <text x="350" y="390" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">積雲像棉花、層雲鋪滿天、捲雲像羽毛。</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef2f8"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a5aa0">凸透鏡放大與聚光</text>
+
+  <!-- convex lens shape -->
+  <path d="M330 90 q40 100 0 200 q-40 -100 0 -200 Z" fill="#cfe4f2" stroke="#5a95c8" stroke-width="2.5"/>
+  <text x="330" y="80" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a7a9a">凸透鏡（中厚邊薄）</text>
+
+  <!-- parallel rays converging to focus -->
+  <g stroke="#e0902a" stroke-width="2.5">
+    <line x1="80" y1="130" x2="330" y2="130"/>
+    <line x1="80" y1="190" x2="330" y2="190"/>
+    <line x1="80" y1="250" x2="330" y2="250"/>
+  </g>
+  <g stroke="#e0902a" stroke-width="2.5">
+    <line x1="330" y1="130" x2="500" y2="190" marker-end="url(#a)"/>
+    <line x1="330" y1="190" x2="500" y2="190" marker-end="url(#a)"/>
+    <line x1="330" y1="250" x2="500" y2="190" marker-end="url(#a)"/>
+  </g>
+  <circle cx="500" cy="190" r="6" fill="#c0392b"/>
+  <text x="510" y="185" font-size="13" font-weight="bold" fill="#c0392b">焦點</text>
+  <text x="150" y="120" font-size="12" fill="#c07a1e">平行光</text>
+  <defs><marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 L6 4 L0 8 z" fill="#e0902a"/></marker></defs>
+
+  <!-- small text magnified below -->
+  <text x="200" y="330" font-size="12" fill="#888">abc（小字）</text>
+  <path d="M280 315 q40 30 0 60 q-40 -30 0 -60 Z" fill="#cfe4f2" stroke="#5a95c8" stroke-width="2" opacity="0.8"/>
+  <text x="330" y="352" font-size="26" font-weight="bold" fill="#3a5aa0">A</text>
+  <text x="410" y="352" font-size="12" fill="#3a7a9a">→ 放大的影像</text>
+
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a5aa0">凸透鏡讓光聚集，看到放大的影像。</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f8"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a7a9a">水沿紙巾細縫往上爬</text>
+
+  <!-- cup with water -->
+  <path d="M120 250 h120 l-10 100 h-100 Z" fill="#dbeefb" stroke="#7fb0d6" stroke-width="2"/>
+  <ellipse cx="180" cy="250" rx="60" ry="10" fill="#bfe0f5" stroke="#7fb0d6"/>
+  <!-- paper towel standing, wet lower part colored -->
+  <rect x="170" y="90" width="24" height="230" fill="#f4f4f0" stroke="#d8d8d0"/>
+  <rect x="170" y="180" width="24" height="140" fill="#c8a0e0" opacity="0.7"/>
+  <!-- climb arrow -->
+  <path d="M205 300 v-90" stroke="#8a4ac0" stroke-width="3" marker-end="url(#up)"/>
+  <defs><marker id="up" markerWidth="11" markerHeight="11" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#8a4ac0"/></marker></defs>
+  <text x="215" y="250" font-size="13" font-weight="bold" fill="#8a4ac0">水往上爬</text>
+
+  <!-- zoom circle: fibers -->
+  <circle cx="470" cy="200" r="110" fill="#fff" stroke="#a8c8d8" stroke-width="2"/>
+  <line x1="255" y1="200" x2="362" y2="200" stroke="#a8c8d8" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- fibers with gaps -->
+  <g stroke="#c8a878" stroke-width="4" fill="none">
+    <path d="M410 290 q6 -80 0 -170"/>
+    <path d="M440 290 q-6 -80 4 -170"/>
+    <path d="M470 292 q6 -80 -2 -172"/>
+    <path d="M500 290 q-6 -80 2 -170"/>
+    <path d="M530 290 q6 -80 -4 -170"/>
+  </g>
+  <!-- water climbing between fibers -->
+  <g fill="#8fbfe0">
+    <circle cx="425" cy="240" r="4"/><circle cx="455" cy="235" r="4"/><circle cx="485" cy="238" r="4"/><circle cx="515" cy="240" r="4"/>
+  </g>
+  <g stroke="#5a95c8" stroke-width="2"><path d="M425 250 v-24" marker-end="url(#u2)"/><path d="M485 250 v-24" marker-end="url(#u2)"/></g>
+  <defs><marker id="u2" markerWidth="9" markerHeight="9" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#5a95c8"/></marker></defs>
+  <text x="470" y="315" text-anchor="middle" font-size="12" fill="#3a7a9a">水黏著纖維細縫往上</text>
+
+  <text x="350" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a9a">水黏著紙巾的細縫，一格一格往上爬。</text>
+</svg>

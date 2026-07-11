@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ea"/>
+<rect x="0" y="0" width="520" height="278" fill="#f0f4e8" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- celery in dye water -->
+<path d="M330 120 h22 l-5 120 h-12 Z" fill="#8fce6f" stroke="#5a9a3a" stroke-width="2"/>
+<rect x="337" y="140" width="8" height="100" fill="#c0392b" opacity="0.6"/>
+<path d="M330 120 q-16 -22 -30 -26 M352 120 q16 -22 30 -26" fill="none" stroke="#5a9a3a" stroke-width="3"/>
+<path d="M306 96 q-6 -14 -20 -14 M376 96 q6 -14 20 -14" fill="none" stroke="#c0392b" stroke-width="2"/>
+<path d="M310 240 h60 l-6 40 h-48 Z" fill="#e2848a" stroke="#c0392b"/>
+<text x="405" y="150" font-size="10" fill="#a03030">顏色沿莖上升</text>
+<!-- bear -->
+<g transform="translate(45,150)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：植物也靠它把水運到葉子。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「顏色沿著莖爬上去了！」</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4f4"/>
+<rect x="0" y="0" width="520" height="278" fill="#f0f5f7" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- zoomed fibers with water climbing -->
+<circle cx="350" cy="150" r="80" fill="#fff" stroke="#a8c8d8" stroke-width="2"/>
+<g stroke="#c8a878" stroke-width="4" fill="none"><path d="M320 220 q4 -60 0 -130"/><path d="M345 220 q-4 -60 3 -130"/><path d="M370 222 q4 -60 -2 -132"/><path d="M395 220 q-4 -60 2 -130"/></g>
+<g fill="#8fbfe0"><circle cx="332" cy="180" r="3.5"/><circle cx="358" cy="176" r="3.5"/><circle cx="383" cy="180" r="3.5"/></g>
+<g stroke="#5a95c8" stroke-width="2"><path d="M332 188 v-18" marker-end="url(#u2)"/><path d="M383 188 v-18" marker-end="url(#u2)"/></g>
+<defs><marker id="u2" markerWidth="9" markerHeight="9" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#5a95c8"/></marker></defs>
+<text x="350" y="240" text-anchor="middle" font-size="10" fill="#3a7a9a">紙巾裡的細縫</text>
+<!-- beetle -->
+<g transform="translate(45,150)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：紙巾裡有好多細細的小縫。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「水黏著細縫往上爬！」</text>
+</svg>

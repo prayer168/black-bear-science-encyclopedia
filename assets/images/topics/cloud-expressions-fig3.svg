@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#dcecf7"/>
+  <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#2a6a9a">白雲與烏雲、雲和霧一樣</text>
+
+  <!-- panel 1: thin white cloud with sun -->
+  <text x="120" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f9d55">薄 → 白</text>
+  <circle cx="60" cy="100" r="18" fill="#ffd24a"/>
+  <g fill="#ffffff" stroke="#d0dce6" stroke-width="2"><ellipse cx="140" cy="130" rx="55" ry="28"/><ellipse cx="105" cy="140" rx="34" ry="20"/></g>
+  <g stroke="#ffe08a" stroke-width="2"><line x1="130" y1="158" x2="126" y2="175"/><line x1="150" y1="158" x2="150" y2="176"/></g>
+  <text x="130" y="200" text-anchor="middle" font-size="11" fill="#3a7a5a">陽光穿過·顯白</text>
+
+  <!-- panel 2: thick dark cloud raining -->
+  <text x="350" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0392b">厚 → 暗·下雨</text>
+  <g fill="#8a95a0" stroke="#6a747e" stroke-width="2"><ellipse cx="350" cy="120" rx="70" ry="36"/><ellipse cx="300" cy="132" rx="44" ry="26"/><ellipse cx="405" cy="132" rx="46" ry="28"/></g>
+  <g stroke="#5a95c8" stroke-width="3"><line x1="315" y1="160" x2="308" y2="185"/><line x1="345" y1="160" x2="338" y2="188"/><line x1="375" y1="160" x2="368" y2="185"/><line x1="400" y1="160" x2="393" y2="186"/></g>
+  <text x="350" y="205" text-anchor="middle" font-size="11" fill="#a03030">陽光難穿·顯暗</text>
+
+  <!-- panel 3: person in mountain fog -->
+  <text x="580" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7a8a">雲 ＝ 霧</text>
+  <path d="M500 200 L560 120 L600 200 Z" fill="#8a9a7a" opacity="0.5"/>
+  <path d="M540 160 L590 100 L640 160 Z" fill="#7a8a6a" opacity="0.5"/>
+  <g fill="#e8eef2" opacity="0.85"><ellipse cx="570" cy="150" rx="60" ry="24"/><ellipse cx="540" cy="160" rx="34" ry="16"/></g>
+  <circle cx="560" cy="185" r="8" fill="#6b4f3a"/><rect x="555" y="193" width="10" height="16" fill="#8a6a4a"/>
+  <text x="580" y="230" text-anchor="middle" font-size="11" fill="#3a7a8a">走進山上的雲＝霧</text>
+
+  <line x1="240" y1="90" x2="240" y2="240" stroke="#b8ccdc" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="470" y1="90" x2="470" y2="240" stroke="#b8ccdc" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <text x="350" y="360" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">薄雲顯白、厚雲顯暗；走進山上的雲，就是霧。</text>
+</svg>

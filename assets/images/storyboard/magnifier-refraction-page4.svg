@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef2f8"/>
+<rect x="0" y="0" width="520" height="278" fill="#f2f5fa" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- convex lens with converging rays -->
+<path d="M340 100 q34 80 0 160 q-34 -80 0 -160 Z" fill="#cfe4f2" stroke="#5a95c8" stroke-width="2.5"/>
+<g stroke="#e0902a" stroke-width="2.5"><line x1="250" y1="140" x2="340" y2="140"/><line x1="250" y1="180" x2="340" y2="180"/></g>
+<g stroke="#e0902a" stroke-width="2.5"><line x1="340" y1="140" x2="430" y2="180" marker-end="url(#a)"/><line x1="340" y1="180" x2="430" y2="180" marker-end="url(#a)"/></g>
+<circle cx="430" cy="180" r="5" fill="#c0392b"/>
+<text x="440" y="176" font-size="10" fill="#c0392b">焦點</text>
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 L6 4 L0 8 z" fill="#e0902a"/></marker></defs>
+<!-- bear -->
+<g transform="translate(45,150)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：放大鏡是中間厚的凸透鏡。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「光穿過凸透鏡會聚集。」</text>
+</svg>

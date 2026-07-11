@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#cfe4f2"/>
+<rect x="0" y="200" width="520" height="78" fill="#a8c878" opacity="0.7"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- cotton cloud -->
+<g fill="#ffffff" stroke="#c8d8e4" stroke-width="2"><ellipse cx="360" cy="110" rx="60" ry="34"/><ellipse cx="315" cy="122" rx="38" ry="24"/><ellipse cx="410" cy="122" rx="42" ry="26"/></g>
+<text x="360" y="80" text-anchor="middle" font-size="11" fill="#3a7a9a">像棉花糖？綿羊？</text>
+<!-- fox lying -->
+<g transform="translate(55,150)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：天上的雲一下像這、一下像那。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「那朵雲好像大棉花糖！」</text>
+</svg>

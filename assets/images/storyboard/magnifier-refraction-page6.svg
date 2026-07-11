@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef2f8"/>
+<rect x="0" y="0" width="520" height="278" fill="#f2f5fa" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<line x1="330" y1="80" x2="330" y2="250" stroke="#d0d8e4" stroke-width="2" stroke-dasharray="5 4"/>
+<!-- magnifier with big ant -->
+<circle cx="290" cy="150" r="42" fill="#cfe4f2" stroke="#5a95c8" stroke-width="3" opacity="0.85"/>
+<g transform="translate(290,150)" fill="#4a3a2a"><ellipse cx="0" cy="0" rx="20" ry="10"/><circle cx="-20" cy="-2" r="7"/><circle cx="18" cy="0" r="9"/><g stroke="#4a3a2a" stroke-width="1.5"><line x1="-4" y1="6" x2="-12" y2="18"/><line x1="4" y1="6" x2="6" y2="18"/><line x1="10" y1="5" x2="18" y2="16"/></g></g>
+<text x="290" y="100" text-anchor="middle" font-size="10" fill="#3a7a9a">看起來很大</text>
+<!-- small ant beside -->
+<g transform="translate(400,175)" fill="#4a3a2a"><ellipse cx="0" cy="0" rx="7" ry="3.5"/><circle cx="-7" cy="-1" r="2.5"/><circle cx="6" cy="0" r="3"/></g>
+<text x="400" y="200" text-anchor="middle" font-size="10" fill="#c0392b">拿開還是小小的</text>
+<!-- monster -->
+<g transform="translate(45,150)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：東西沒真的變大，是看起來變大。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「東西長大了！」🐻「拿開放大鏡，螞蟻還是小小的！」</text>
+</svg>

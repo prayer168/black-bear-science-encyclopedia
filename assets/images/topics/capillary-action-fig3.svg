@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f8"/>
+  <text x="350" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#2a7a9a">毛細現象的好幫手</text>
+
+  <!-- panel 1: candle wick -->
+  <text x="130" y="70" text-anchor="middle" font-size="13" font-weight="bold" fill="#c07a1e">燭芯吸蠟油</text>
+  <rect x="105" y="140" width="50" height="120" rx="6" fill="#f0e0c0" stroke="#d0b890"/>
+  <rect x="127" y="90" width="6" height="52" fill="#8a6a4a"/>
+  <path d="M130 90 q-8 -18 0 -32 q8 14 0 32" fill="#f2a020" stroke="#e07010"/>
+  <path d="M130 250 v-108" stroke="#c07a1e" stroke-width="2" marker-end="url(#u)"/>
+  <text x="130" y="285" text-anchor="middle" font-size="11" fill="#a06a2a">蠟油沿燭芯上升</text>
+  <defs><marker id="u" markerWidth="10" markerHeight="10" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#c07a1e"/></marker></defs>
+
+  <!-- panel 2: celery dyed -->
+  <text x="350" y="70" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a8a5a">植物運水</text>
+  <path d="M340 130 h20 l-4 130 h-12 Z" fill="#8fce6f" stroke="#5a9a3a"/>
+  <path d="M340 130 q-14 -20 -26 -24 M360 130 q14 -20 26 -24" fill="none" stroke="#5a9a3a" stroke-width="3"/>
+  <!-- dyed rising -->
+  <rect x="346" y="150" width="8" height="110" fill="#c0392b" opacity="0.6"/>
+  <path d="M320 106 q-6 -12 -18 -12 M380 106 q6 -12 18 -12" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <!-- cup dye water -->
+  <path d="M320 260 h60 l-6 40 h-48 Z" fill="#e2848a" stroke="#c0392b"/>
+  <text x="350" y="322" text-anchor="middle" font-size="11" fill="#a03030">顏色沿莖爬升染葉</text>
+
+  <!-- panel 3: walking water -->
+  <text x="565" y="70" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a6ab0">走路的水</text>
+  <path d="M500 200 h50 l-6 60 h-38 Z" fill="#dbeefb" stroke="#7fb0d6"/>
+  <path d="M504 215 h42 l-4 45 h-34 Z" fill="#7fb8e0" opacity="0.7"/>
+  <path d="M600 200 h50 l-6 60 h-38 Z" fill="#dbeefb" stroke="#7fb0d6"/>
+  <!-- paper bridge -->
+  <path d="M540 205 q35 -30 70 0" fill="none" stroke="#e0d8c0" stroke-width="8"/>
+  <path d="M555 190 h40" stroke="#5a95c8" stroke-width="2" marker-end="url(#h)"/>
+  <defs><marker id="h" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 L6 4 L0 8 z" fill="#5a95c8"/></marker></defs>
+  <text x="575" y="300" text-anchor="middle" font-size="11" fill="#3a6ab0">水爬過紙橋</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2a7a9a">燭芯輸油、植物運水、水會走過紙橋——都是毛細現象。</text>
+</svg>

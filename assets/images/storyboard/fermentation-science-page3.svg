@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f7efe0"/>
+<rect x="0" y="0" width="520" height="278" fill="#f4ecd8" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- zoom yeast + CO2 -->
+<circle cx="350" cy="150" r="75" fill="#fff" stroke="#d0b890" stroke-width="2"/>
+<g fill="#e0b060" stroke="#b0842a" stroke-width="1.5"><ellipse cx="330" cy="165" rx="15" ry="11"/><ellipse cx="370" cy="150" rx="13" ry="10"/></g>
+<g fill="#fff" stroke="#c0c0c0"><rect x="385" y="165" width="7" height="7"/></g>
+<g fill="#bfe0f5" stroke="#7fb0d6"><circle cx="345" cy="120" r="7"/><circle cx="368" cy="110" r="5"/></g>
+<text x="350" y="200" text-anchor="middle" font-size="10" fill="#3a7a9a">酵母吃糖冒二氧化碳</text>
+<!-- beetle -->
+<g transform="translate(45,150)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：讓麵團長大的是酵母！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「酵母吃糖，放出二氧化碳！」</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f8"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a7a9a">縫隙越細，水爬得越高</text>
+
+  <!-- water basin -->
+  <rect x="120" y="300" width="460" height="60" fill="#bfe0f5" stroke="#7fb0d6" stroke-width="2"/>
+  <line x1="120" y1="300" x2="580" y2="300" stroke="#7fb0d6" stroke-width="2"/>
+  <text x="150" y="345" font-size="12" fill="#3a7a9a">一盆水</text>
+
+  <!-- thick tube: low rise -->
+  <rect x="220" y="180" width="34" height="150" fill="none" stroke="#9aa4ac" stroke-width="3"/>
+  <rect x="223" y="270" width="28" height="60" fill="#8fbfe0" opacity="0.8"/>
+  <path d="M223 270 q14 8 28 0" fill="none" stroke="#5a95c8"/>
+  <text x="237" y="360" text-anchor="middle" font-size="12" fill="#6a747e">粗管</text>
+  <text x="237" y="255" text-anchor="middle" font-size="10" fill="#3a7a9a">爬得低</text>
+
+  <!-- medium tube -->
+  <rect x="330" y="180" width="22" height="150" fill="none" stroke="#9aa4ac" stroke-width="3"/>
+  <rect x="332" y="235" width="18" height="95" fill="#8fbfe0" opacity="0.8"/>
+  <path d="M332 235 q9 6 18 0" fill="none" stroke="#5a95c8"/>
+  <text x="341" y="360" text-anchor="middle" font-size="12" fill="#6a747e">中管</text>
+
+  <!-- thin tube: high rise -->
+  <rect x="430" y="180" width="12" height="150" fill="none" stroke="#9aa4ac" stroke-width="3"/>
+  <rect x="431" y="195" width="10" height="135" fill="#8fbfe0" opacity="0.85"/>
+  <path d="M431 195 q5 5 10 0" fill="none" stroke="#5a95c8"/>
+  <text x="436" y="360" text-anchor="middle" font-size="12" fill="#6a747e">細管</text>
+  <text x="470" y="200" font-size="11" fill="#c0392b" font-weight="bold">爬得最高↑</text>
+
+  <text x="350" y="390" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a9a">越細的管子，水爬得越高。</text>
+</svg>

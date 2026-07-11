@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef2f8"/>
+<rect x="0" y="0" width="520" height="278" fill="#f2f5fa" opacity="0.6"/>
+<ellipse cx="260" cy="252" rx="230" ry="22" fill="#00000010"/>
+<!-- magnifier with big fingerprint -->
+<circle cx="360" cy="150" r="55" fill="#cfe4f2" stroke="#5a95c8" stroke-width="4" opacity="0.85"/>
+<g stroke="#8a6a4a" stroke-width="2" fill="none"><path d="M335 150 q25 -30 50 0"/><path d="M340 158 q20 -22 40 0"/><path d="M345 166 q15 -16 30 0"/></g>
+<line x1="400" y1="190" x2="425" y2="220" stroke="#8a6a4a" stroke-width="6"/>
+<text x="360" y="90" text-anchor="middle" font-size="10" fill="#3a7a9a">指紋變大變清楚</text>
+<!-- fox -->
+<g transform="translate(50,150)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="40" cy="40" r="22" fill="#6b4f3a"/><text x="40" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：透明鏡片把東西變大了！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「它為什麼能把東西變大？」</text>
+</svg>
