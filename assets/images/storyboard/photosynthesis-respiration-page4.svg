@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef3e0"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9b878" opacity="0.35"/>
+<!-- daytime plant both processes -->
+<circle cx="440" cy="75" r="20" fill="#ffd24a"/>
+<g stroke="#ffd24a" stroke-width="2"><line x1="440" y1="98" x2="440" y2="108"/><line x1="415" y1="80" x2="405" y2="84"/></g>
+<line x1="300" y1="200" x2="300" y2="120" stroke="#4a7030" stroke-width="6"/>
+<ellipse cx="300" cy="105" rx="40" ry="24" fill="#6ba03a"/>
+<!-- O2 out big -->
+<path d="M338 110 L400 95" stroke="#3a9a4a" stroke-width="4" marker-end="url(#p4)"/>
+<text x="410" y="92" font-size="13" fill="#2a7a2a" font-weight="bold">O₂多</text>
+<!-- CO2 out small -->
+<path d="M338 135 L385 145" stroke="#8a8a8a" stroke-width="2" marker-end="url(#p4)"/>
+<text x="400" y="150" font-size="10" fill="#888">CO₂少</text>
+<defs><marker id="p4" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#3a7030"/></marker></defs>
+<text x="300" y="235" text-anchor="middle" font-size="11" fill="#3a7030">白天：光合＋呼吸同時</text>
+<!-- beetle -->
+<g transform="translate(55,125)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：不是輪流做！白天兩件事同時進行。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「光合只在有光時，呼吸無時無刻！」</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f2f5ee"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a6030">光合作用 vs 呼吸作用</text>
+
+  <!-- left: photosynthesis -->
+  <rect x="20" y="55" width="320" height="290" rx="14" fill="#e8f5dc" stroke="#6ba03a" stroke-width="2"/>
+  <circle cx="65" cy="90" r="18" fill="#ffd24a"/><text x="100" y="96" font-size="16" font-weight="bold" fill="#3a7030">光合作用</text>
+  <text x="180" y="118" text-anchor="middle" font-size="13" fill="#c07a10" font-weight="bold">☀️ 需要光·只在白天</text>
+  <!-- leaf -->
+  <ellipse cx="180" cy="200" rx="70" ry="50" fill="#7bb046" stroke="#4a7030" stroke-width="2"/>
+  <text x="180" y="205" text-anchor="middle" font-size="13" fill="#2a5a1a" font-weight="bold">葉綠體</text>
+  <!-- in CO2 -->
+  <path d="M60 175 L110 190" stroke="#8a8a8a" stroke-width="3.5" marker-end="url(#a2)"/>
+  <text x="55" y="168" font-size="12" fill="#666">CO₂ 進</text>
+  <!-- out O2 -->
+  <path d="M250 190 L300 175" stroke="#3a9a4a" stroke-width="3.5" marker-end="url(#b2)"/>
+  <text x="300" y="168" text-anchor="end" font-size="12" fill="#2a7a2a" font-weight="bold">O₂ 出</text>
+  <text x="180" y="290" text-anchor="middle" font-size="13" fill="#3a7030">製造養分、儲存能量</text>
+  <text x="180" y="315" text-anchor="middle" font-size="12" fill="#5a7a4a">陽光＋水＋CO₂ → 養分＋O₂</text>
+
+  <!-- right: respiration -->
+  <rect x="360" y="55" width="320" height="290" rx="14" fill="#f7ece2" stroke="#c08a4a" stroke-width="2"/>
+  <text x="405" y="96" font-size="16" font-weight="bold" fill="#a0602a">呼吸作用</text>
+  <text x="520" y="118" text-anchor="middle" font-size="13" fill="#7a5a2a" font-weight="bold">☀️🌙 日夜不停</text>
+  <ellipse cx="520" cy="200" rx="70" ry="50" fill="#e6c49a" stroke="#a0703a" stroke-width="2"/>
+  <text x="520" y="205" text-anchor="middle" font-size="13" fill="#7a4a1a" font-weight="bold">分解養分</text>
+  <!-- in O2 -->
+  <path d="M400 175 L450 190" stroke="#3a9a4a" stroke-width="3.5" marker-end="url(#a2)"/>
+  <text x="395" y="168" font-size="12" fill="#2a7a2a" font-weight="bold">O₂ 進</text>
+  <!-- out CO2 -->
+  <path d="M590 190 L640 175" stroke="#8a8a8a" stroke-width="3.5" marker-end="url(#b2)"/>
+  <text x="640" y="168" text-anchor="end" font-size="12" fill="#666">CO₂ 出</text>
+  <text x="520" y="290" text-anchor="middle" font-size="13" fill="#a0602a">釋放能量供生長活動</text>
+  <text x="520" y="315" text-anchor="middle" font-size="12" fill="#7a5a2a">養分＋O₂ → 能量＋CO₂＋水</text>
+
+  <defs>
+    <marker id="a2" markerWidth="11" markerHeight="11" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#555"/></marker>
+    <marker id="b2" markerWidth="11" markerHeight="11" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#3a7030"/></marker>
+  </defs>
+
+  <text x="350" y="378" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a6030">氣體方向相反：光合吸CO₂放O₂（需光）；呼吸吸O₂放CO₂（隨時）。</text>
+</svg>

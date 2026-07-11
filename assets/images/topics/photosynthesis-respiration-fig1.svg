@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7e6"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a7030">光合作用：植物的太陽能廚房</text>
+
+  <!-- leaf -->
+  <path d="M350 120 q90 20 100 130 q-100 40 -160 -10 q-40 -90 60 -120 z" fill="#6ba03a" stroke="#4a7030" stroke-width="3"/>
+  <path d="M330 150 q30 60 60 100" stroke="#3a6020" stroke-width="2" fill="none"/>
+  <!-- chloroplast zoom -->
+  <circle cx="330" cy="210" r="26" fill="#3a7a2a" stroke="#2a5a1a" stroke-width="2"/>
+  <ellipse cx="323" cy="205" rx="5" ry="9" fill="#8fd060"/><ellipse cx="338" cy="215" rx="5" ry="9" fill="#8fd060"/>
+  <text x="330" y="262" text-anchor="middle" font-size="12" fill="#2a5a1a" font-weight="bold">葉綠體</text>
+
+  <!-- sun input -->
+  <circle cx="90" cy="80" r="30" fill="#ffd24a"/>
+  <g stroke="#ffd24a" stroke-width="3"><line x1="90" y1="115" x2="90" y2="130"/><line x1="55" y1="90" x2="42" y2="98"/><line x1="125" y1="90" x2="138" y2="98"/></g>
+  <path d="M120 100 L285 175" stroke="#f0a020" stroke-width="4" marker-end="url(#i)"/>
+  <text x="150" y="150" font-size="14" fill="#c07a10" font-weight="bold">陽光</text>
+
+  <!-- water input -->
+  <path d="M120 320 L285 235" stroke="#3a8ad0" stroke-width="4" marker-end="url(#i)"/>
+  <text x="120" y="345" font-size="14" fill="#2a6aa0" font-weight="bold">水（根／莖送來）</text>
+
+  <!-- CO2 input -->
+  <path d="M120 210 L280 210" stroke="#8a8a8a" stroke-width="4" marker-end="url(#i)"/>
+  <text x="120" y="200" font-size="14" fill="#666" font-weight="bold">二氧化碳 CO₂</text>
+
+  <defs><marker id="i" markerWidth="12" markerHeight="12" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#555"/></marker>
+  <marker id="o" markerWidth="12" markerHeight="12" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#3a7030"/></marker></defs>
+
+  <!-- outputs -->
+  <path d="M450 180 L600 130" stroke="#3a9a4a" stroke-width="4" marker-end="url(#o)"/>
+  <text x="560" y="115" text-anchor="middle" font-size="15" fill="#2a7a2a" font-weight="bold">氧氣 O₂</text>
+  <path d="M455 240 L600 290" stroke="#c08a2a" stroke-width="4" marker-end="url(#o)"/>
+  <text x="575" y="315" text-anchor="middle" font-size="15" fill="#a06a10" font-weight="bold">養分（葡萄糖）</text>
+
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7030">白天用陽光做飯：吸二氧化碳、放氧氣，製造養分。</text>
+</svg>

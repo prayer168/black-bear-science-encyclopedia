@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e2f0f4"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9b878" opacity="0.3"/>
+<!-- sunbeam -->
+<circle cx="440" cy="70" r="18" fill="#ffd24a"/>
+<g stroke="#ffe088" stroke-width="4"><line x1="425" y1="85" x2="360" y2="140"/></g>
+<!-- cup with weed and bubbles -->
+<path d="M290 155 L285 240 q0 8 10 8 L360 248 q10 0 10 -8 L365 155 z" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+<path d="M288 178 L367 178 L362 240 q0 8 -10 8 L295 248 q-10 0 -10 -8 z" fill="#a6d4e4" opacity="0.55"/>
+<g stroke="#3a7a2a" stroke-width="3.5" fill="none"><path d="M325 245 q-6 -40 4 -70"/></g>
+<g fill="#5fa030"><ellipse cx="320" cy="215" rx="8" ry="3.5" transform="rotate(-30 320 215)"/><ellipse cx="333" cy="195" rx="8" ry="3.5" transform="rotate(30 333 195)"/></g>
+<g fill="#bfe8f2" stroke="#7fc0d8" stroke-width="1"><circle cx="335" cy="185" r="4"/><circle cx="342" cy="170" r="3.5"/><circle cx="336" cy="158" r="4"/><circle cx="344" cy="145" r="3"/></g>
+<!-- drop -->
+<g transform="translate(60,135)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：水草在陽光下冒出氧氣泡泡！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「亮處冒泡多，暗處就停了！」</text>
+</svg>

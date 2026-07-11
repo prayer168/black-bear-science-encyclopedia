@@ -105,7 +105,7 @@ const TOPICS = [
   {id:"tides-ocean-breathing",title:"大海的呼吸：潮汐的漲與退",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/tides-ocean-breathing.html",keywords:["潮汐","月球","潮間帶"]},
   {id:"volcano-earth-chimney",title:"火山：大地的煙囪",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/volcano-earth-chimney.html",keywords:["火山","岩漿","板塊"]},
   {id:"fermentation-science",title:"麵包為什麼會膨脹？發酵的科學",grade:6,category:"matter-heat-change",status:"published",path:"topics/grade-6/fermentation-science.html",keywords:["發酵","酵母","麵包"]},
-  {id:"photosynthesis-respiration",title:"植物也會呼吸嗎？光合作用與呼吸作用",grade:6,category:"plants-life",status:"planned",path:"",keywords:["光合作用","呼吸作用","氧氣"]},
+  {id:"photosynthesis-respiration",title:"植物也會呼吸嗎？光合作用與呼吸作用",grade:6,category:"plants-life",status:"published",path:"topics/grade-6/photosynthesis-respiration.html",keywords:["光合作用","呼吸作用","氧氣"]},
   {id:"heredity-family-face",title:"為什麼我像爸爸又像媽媽？遺傳初探",grade:6,category:"animals-insects",status:"planned",path:"",keywords:["遺傳","性狀","親代"]},
   {id:"greenhouse-warming-earth",title:"地球發燒了：氣候變遷與溫室效應",grade:6,category:"ecology-sustainability",status:"planned",path:"",keywords:["溫室效應","氣候變遷","減碳"]},
   {id:"renewable-energy",title:"風、光、水來發電：再生能源",grade:6,category:"ecology-sustainability",status:"planned",path:"",keywords:["再生能源","太陽能","風力"]},

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f6ece0"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9a86a" opacity="0.35"/>
+<!-- whiteboard respiration -->
+<rect x="180" y="55" width="320" height="150" rx="8" fill="#fff" stroke="#c08a4a" stroke-width="3"/>
+<text x="340" y="80" text-anchor="middle" font-size="13" fill="#a0602a" font-weight="bold">☀️🌙 日夜都做</text>
+<ellipse cx="330" cy="130" rx="44" ry="28" fill="#e6c49a"/>
+<path d="M255 130 L295 130" stroke="#3a9a4a" stroke-width="3" marker-end="url(#p3)"/>
+<defs><marker id="p3" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#7a5a2a"/></marker></defs>
+<text x="250" y="122" text-anchor="end" font-size="12" fill="#2a7a2a" font-weight="bold">O₂進</text>
+<path d="M375 130 L440 130" stroke="#8a8a8a" stroke-width="3" marker-end="url(#p3)"/>
+<text x="460" y="127" text-anchor="middle" font-size="12" fill="#666">CO₂出</text>
+<text x="330" y="188" text-anchor="middle" font-size="12" fill="#a0602a">分解養分→能量＋CO₂</text>
+<!-- bear -->
+<g transform="translate(55,120)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="100" height="100"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：植物也要吃飯、呼吸，白天晚上都做。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「呼吸作用吸氧氣、放二氧化碳。」</text>
+</svg>

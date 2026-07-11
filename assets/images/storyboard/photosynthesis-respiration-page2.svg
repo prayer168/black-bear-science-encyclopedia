@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf5dd"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9b878" opacity="0.35"/>
+<!-- whiteboard -->
+<rect x="180" y="55" width="320" height="150" rx="8" fill="#fff" stroke="#88b8c8" stroke-width="3"/>
+<circle cx="230" cy="95" r="16" fill="#ffd24a"/>
+<ellipse cx="330" cy="120" rx="44" ry="30" fill="#7bb046"/>
+<path d="M250 100 L295 115" stroke="#f0a020" stroke-width="3" marker-end="url(#p2)"/>
+<defs><marker id="p2" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#3a7030"/></marker></defs>
+<path d="M375 120 L440 105" stroke="#3a9a4a" stroke-width="3" marker-end="url(#p2)"/>
+<text x="455" y="102" text-anchor="middle" font-size="12" fill="#2a7a2a" font-weight="bold">O₂</text>
+<text x="330" y="170" text-anchor="middle" font-size="12" fill="#3a7030">陽光＋水＋CO₂→養分＋氧氣</text>
+<!-- bear -->
+<g transform="translate(55,120)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="100" height="100"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：白天，植物用陽光做飯（光合作用）。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「這叫光合作用，會放出氧氣！」</text>
+</svg>
