@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8f0e6"/>
+<rect x="0" y="205" width="520" height="73" fill="#a8c890" opacity="0.4"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- rising trend chart -->
+<rect x="210" y="80" width="150" height="110" rx="6" fill="#fff" stroke="#5aa070" stroke-width="2"/>
+<polyline points="222,175 250,165 278,150 306,135 334,110 350,95" fill="none" stroke="#e0603a" stroke-width="3"/>
+<line x1="222" y1="180" x2="352" y2="180" stroke="#888" stroke-width="1.5"/>
+<line x1="222" y1="180" x2="222" y2="92" stroke="#888" stroke-width="1.5"/>
+<text x="286" y="205" text-anchor="middle" font-size="10" fill="#2a7a5a">長期平均氣溫上升</text>
+<!-- bear planting tree -->
+<g transform="translate(390,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a6a3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：要看長期趨勢，不是消滅是減到剛好。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「今天冷哪有暖化！」🐻「氣候看的是長期趨勢喔！」</text>
+</svg>

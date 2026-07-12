@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#fce8c8"/>
+<rect x="0" y="205" width="520" height="73" fill="#e0b878" opacity="0.5"/>
+<!-- hot sun -->
+<circle cx="420" cy="80" r="34" fill="#ff9a3a"/>
+<g stroke="#ff9a3a" stroke-width="4"><line x1="420" y1="120" x2="420" y2="140"/><line x1="378" y1="90" x2="362" y2="98"/><line x1="462" y1="90" x2="478" y2="98"/></g>
+<!-- heat shimmer -->
+<g stroke="#f0a850" stroke-width="2" fill="none" opacity="0.7"><path d="M300 150 q6 10 0 20 q-6 10 0 20"/><path d="M330 150 q6 10 0 20 q-6 10 0 20"/></g>
+<!-- fox with fan sweating -->
+<g transform="translate(80,130)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="96" height="96"/></g>
+<path d="M150 130 q10 -6 20 0 q4 8 -4 12" fill="#bfe0ef" stroke="#7fb0d6"/>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：小狐搧扇子，抱怨夏天一年比一年熱。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「今年夏天比去年還誇張！」</text>
+</svg>

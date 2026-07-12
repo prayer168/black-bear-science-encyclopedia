@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dfeef7"/>
+<rect x="0" y="205" width="520" height="73" fill="#bcd0da" opacity="0.5"/>
+<!-- earth wearing scarf/coat -->
+<circle cx="330" cy="140" r="52" fill="#5aa0e0"/>
+<path d="M292 128 a20 18 0 0 1 40 4 a16 14 0 0 1 30 -2" fill="#6ba03a"/>
+<circle cx="315" cy="140" r="4" fill="#333"/><circle cx="345" cy="140" r="4" fill="#333"/>
+<path d="M315 158 q15 10 30 0" fill="none" stroke="#234" stroke-width="2"/>
+<!-- scarf -->
+<path d="M280 175 q50 24 100 0 l0 14 q-50 22 -100 0z" fill="#e07a6a"/>
+<text x="330" y="80" text-anchor="middle" font-size="11" fill="#2a7a5a">保暖外套（溫室氣體）</text>
+<!-- bear holding coat -->
+<g transform="translate(60,130)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：溫室氣體像地球的保暖外套。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「有它地球才溫暖，本來是好事！」</text>
+</svg>

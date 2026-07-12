@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f2"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a6a5a">剛剛好 vs 太厚的外套</text>
+
+  <!-- left: just right -->
+  <rect x="20" y="55" width="320" height="300" rx="12" fill="#eaf5ec" stroke="#5aa07a" stroke-width="2"/>
+  <text x="180" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#2a7a5a">適量：剛剛好 😊</text>
+  <!-- thin ring -->
+  <circle cx="180" cy="185" r="66" fill="none" stroke="#a8d8b8" stroke-width="10"/>
+  <circle cx="180" cy="185" r="52" fill="#7fb8e0"/>
+  <path d="M150 185 a30 30 0 0 1 60 0" fill="#6ba03a"/>
+  <circle cx="165" cy="178" r="4" fill="#333"/><circle cx="195" cy="178" r="4" fill="#333"/>
+  <path d="M165 198 q15 10 30 0" fill="none" stroke="#333" stroke-width="2"/>
+  <text x="180" y="290" text-anchor="middle" font-size="13" fill="#2a7a5a">溫度剛好、適合生物</text>
+  <text x="180" y="312" text-anchor="middle" font-size="12" fill="#5a8a6a">溫室氣體適量</text>
+
+  <!-- right: too thick -->
+  <rect x="360" y="55" width="320" height="300" rx="12" fill="#fbeee6" stroke="#e0803a" stroke-width="2"/>
+  <text x="520" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0602a">太多：發燒 🥵</text>
+  <!-- thick ring -->
+  <circle cx="520" cy="180" r="70" fill="none" stroke="#e0a878" stroke-width="24"/>
+  <circle cx="520" cy="180" r="46" fill="#e08a6a"/>
+  <path d="M492 180 a28 28 0 0 1 56 0" fill="#b0783a"/>
+  <circle cx="506" cy="174" r="4" fill="#333"/><circle cx="534" cy="174" r="4" fill="#333"/>
+  <path d="M506 196 q14 -6 28 0" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- sweat -->
+  <path d="M556 168 q4 8 0 12 q-4 -4 0 -12z" fill="#5aa0e0"/>
+  <!-- factory/car smoke -->
+  <rect x="440" y="300" width="26" height="30" fill="#888"/>
+  <g fill="#aaa" opacity="0.8"><circle cx="453" cy="295" r="8"/><circle cx="466" cy="285" r="7"/></g>
+  <rect x="560" y="310" width="40" height="20" rx="4" fill="#c05a4a"/><circle cx="568" cy="332" r="6" fill="#333"/><circle cx="592" cy="332" r="6" fill="#333"/>
+  <g fill="#aaa" opacity="0.7"><circle cx="605" cy="308" r="7"/><circle cx="615" cy="300" r="6"/></g>
+  <text x="520" y="352" text-anchor="middle" font-size="12" fill="#c0602a">燒化石燃料、砍樹→溫室氣體太多</text>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a6a5a">外套剛剛好很舒服，太厚就悶出病（暖化）。</text>
+</svg>

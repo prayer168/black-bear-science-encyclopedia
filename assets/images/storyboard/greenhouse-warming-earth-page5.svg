@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef2e4"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9b878" opacity="0.35"/>
+<!-- sun -->
+<circle cx="440" cy="70" r="20" fill="#ffd24a"/>
+<g stroke="#ffe088" stroke-width="4"><line x1="425" y1="85" x2="380" y2="120"/></g>
+<!-- two bottles -->
+<rect x="250" y="140" width="46" height="70" rx="5" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+<rect x="248" y="132" width="50" height="8" fill="#c8dde4"/>
+<rect x="270" y="150" width="6" height="46" fill="#e0503a"/><circle cx="273" cy="200" r="6" fill="#e0503a"/>
+<text x="273" y="228" text-anchor="middle" font-size="10" fill="#a04a2a">密封·較熱</text>
+<rect x="330" y="140" width="46" height="70" rx="5" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+<rect x="350" y="155" width="6" height="41" fill="#e0503a"/><circle cx="353" cy="200" r="6" fill="#e0503a"/>
+<text x="353" y="228" text-anchor="middle" font-size="10" fill="#2a6a9a">開口·較涼</text>
+<!-- drop -->
+<g transform="translate(60,132)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：蓋住的瓶子升溫比較快。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「這就像溫室氣體悶住熱！」</text>
+</svg>

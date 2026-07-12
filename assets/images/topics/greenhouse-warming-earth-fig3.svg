@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6ee"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a7a4a">幫地球退燒的減碳行動</text>
+
+  <!-- center smiling earth -->
+  <circle cx="350" cy="205" r="52" fill="#5aa0e0"/>
+  <path d="M312 190 a20 20 0 0 1 40 5 a16 16 0 0 1 30 -2" fill="#6ba03a"/>
+  <path d="M320 225 q30 14 60 0" fill="#6ba03a"/>
+  <circle cx="335" cy="200" r="5" fill="#fff"/><circle cx="335" cy="200" r="2.5" fill="#333"/>
+  <circle cx="368" cy="200" r="5" fill="#fff"/><circle cx="368" cy="200" r="2.5" fill="#333"/>
+  <path d="M335 218 q15 12 30 0" fill="none" stroke="#234" stroke-width="2.5"/>
+
+  <!-- 1 lights off -->
+  <rect x="30" y="55" width="180" height="110" rx="10" fill="#fff7e0" stroke="#e0b040" stroke-width="2"/>
+  <circle cx="70" cy="100" r="16" fill="#b8b8b8" stroke="#888" stroke-width="2"/>
+  <rect x="60" y="116" width="20" height="12" fill="#888"/>
+  <text x="130" y="95" font-size="13" fill="#a07010" font-weight="bold">隨手關燈</text>
+  <text x="130" y="118" font-size="12" fill="#a07010">冷氣26-28度</text>
+  <text x="120" y="150" text-anchor="middle" font-size="11" fill="#8a6010">省電＝減少排碳</text>
+
+  <!-- 2 transit -->
+  <rect x="490" y="55" width="180" height="110" rx="10" fill="#e6f2fb" stroke="#5a9ac8" stroke-width="2"/>
+  <rect x="510" y="95" width="60" height="34" rx="6" fill="#5a9ac8"/><circle cx="522" cy="132" r="7" fill="#333"/><circle cx="558" cy="132" r="7" fill="#333"/>
+  <circle cx="600" cy="115" r="14" fill="#7bb046"/><path d="M600 105 l0 24 M590 118 l20 0" stroke="#fff" stroke-width="2"/>
+  <text x="580" y="90" font-size="13" fill="#2a6a9a" font-weight="bold">搭大眾運輸</text>
+  <text x="580" y="152" text-anchor="middle" font-size="11" fill="#2a6a9a">走路騎車少開車</text>
+
+  <!-- 3 plant tree -->
+  <rect x="30" y="245" width="180" height="110" rx="10" fill="#eaf6e2" stroke="#5aa050" stroke-width="2"/>
+  <rect x="86" y="300" width="8" height="30" fill="#8a5a34"/>
+  <ellipse cx="90" cy="290" rx="28" ry="24" fill="#6ba03a"/>
+  <text x="130" y="290" font-size="13" fill="#2a7a3a" font-weight="bold">多種樹</text>
+  <text x="145" y="335" text-anchor="middle" font-size="11" fill="#2a7a3a">樹木吸收二氧化碳</text>
+
+  <!-- 4 recycle -->
+  <rect x="490" y="245" width="180" height="110" rx="10" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <g fill="none" stroke="#2a9a5a" stroke-width="5"><path d="M540 285 l12 -20 l12 20" marker-end="url(#rc)"/><path d="M568 300 l-6 22 l-22 -2" marker-end="url(#rc)"/><path d="M528 312 l14 -18 l4 8" marker-end="url(#rc)"/></g>
+  <defs><marker id="rc" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#2a9a5a"/></marker></defs>
+  <text x="620" y="285" font-size="13" fill="#2a7a5a" font-weight="bold">資源回收</text>
+  <text x="600" y="335" text-anchor="middle" font-size="11" fill="#2a7a5a">自備水壺購物袋</text>
+
+  <text x="350" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a4a">省電、少開車、種樹、回收，一起幫地球退燒。</text>
+</svg>

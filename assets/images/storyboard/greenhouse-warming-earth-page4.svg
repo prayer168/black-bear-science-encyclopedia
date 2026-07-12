@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dbeef4"/>
+<rect x="0" y="180" width="520" height="98" fill="#6ab0d8"/>
+<!-- melting iceberg -->
+<path d="M250 150 l40 -30 l40 30 l-10 30 l-60 0z" fill="#eaf6fb" stroke="#a8d0e0" stroke-width="2"/>
+<path d="M250 180 l120 0 l0 6 l-120 0z" fill="#cfe8f2"/>
+<!-- polar bear on small ice -->
+<ellipse cx="410" cy="185" rx="34" ry="12" fill="#eaf6fb"/>
+<ellipse cx="410" cy="172" rx="18" ry="12" fill="#fff"/><circle cx="410" cy="162" r="9" fill="#fff"/>
+<circle cx="406" cy="160" r="1.6" fill="#333"/><circle cx="414" cy="160" r="1.6" fill="#333"/>
+<!-- drips -->
+<g fill="#5aa0e0"><circle cx="290" cy="200" r="3"/><circle cx="330" cy="205" r="3"/></g>
+<!-- drop -->
+<g transform="translate(55,120)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：冰川融化、海面上升、天氣更極端。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「動植物也受到威脅！」</text>
+</svg>

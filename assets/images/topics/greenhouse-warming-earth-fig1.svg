@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#dfeef7"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a6a9a">溫室效應——地球的保暖外套</text>
+
+  <!-- space top -->
+  <rect x="0" y="45" width="700" height="70" fill="#2a3a5a"/>
+  <g fill="#fff"><circle cx="120" cy="70" r="1.5"/><circle cx="560" cy="95" r="1.5"/><circle cx="470" cy="65" r="1.5"/></g>
+  <!-- sun -->
+  <circle cx="80" cy="80" r="26" fill="#ffd24a"/>
+  <g stroke="#ffd24a" stroke-width="3"><line x1="80" y1="108" x2="80" y2="122"/><line x1="108" y1="90" x2="120" y2="96"/></g>
+
+  <!-- atmosphere band with greenhouse gases -->
+  <rect x="0" y="115" width="700" height="70" fill="#bfe0ef" opacity="0.7"/>
+  <g fill="#8fbf6a" opacity="0.8"><circle cx="180" cy="150" r="12"/><circle cx="340" cy="145" r="12"/><circle cx="500" cy="152" r="12"/><circle cx="600" cy="148" r="12"/><circle cx="260" cy="165" r="10"/><circle cx="430" cy="163" r="10"/></g>
+  <text x="600" y="153" text-anchor="middle" font-size="10" fill="#3a6a2a" font-weight="bold">CO₂</text>
+  <text x="120" y="140" font-size="13" fill="#2a6a4a" font-weight="bold">大氣層的溫室氣體</text>
+
+  <!-- ground -->
+  <rect x="0" y="300" width="700" height="100" fill="#8fbf5a"/>
+  <path d="M0 300 q60 -12 120 0 q60 12 120 0 q60 -12 120 0 q60 12 120 0 q60 -12 120 0 q40 6 60 0 L700 300 L700 400 L0 400 z" fill="#6ba03a"/>
+
+  <!-- sunlight in -->
+  <path d="M105 100 L300 300" stroke="#f0b020" stroke-width="4" marker-end="url(#in1)"/>
+  <text x="150" y="230" font-size="13" fill="#c08010" font-weight="bold">太陽光進來曬暖地面</text>
+
+  <!-- heat out, some trapped -->
+  <path d="M420 300 L470 160" stroke="#e0603a" stroke-width="3" marker-end="url(#in1)"/>
+  <path d="M470 160 L430 260" stroke="#e0603a" stroke-width="3" stroke-dasharray="6 4" marker-end="url(#in2)"/>
+  <text x="500" y="240" font-size="12" fill="#c0402a" font-weight="bold">部分熱被留住</text>
+  <path d="M560 300 L610 120" stroke="#e08a5a" stroke-width="3" marker-end="url(#in1)"/>
+  <text x="560" y="270" font-size="11" fill="#b06a2a">部分熱逸散太空</text>
+
+  <defs>
+    <marker id="in1" markerWidth="11" markerHeight="11" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#e0603a"/></marker>
+    <marker id="in2" markerWidth="11" markerHeight="11" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#e0603a"/></marker>
+  </defs>
+
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">溫室氣體像保暖外套，留住部分熱讓地球溫暖（自然又必要）。</text>
+</svg>
