@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#c8a0b8" opacity="0.35"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- basketball & child practicing -->
+<circle cx="290" cy="150" r="22" fill="#e0803a"/><path d="M268 150 h44 M290 128 v44" stroke="#8a4a1a" stroke-width="2"/>
+<path d="M290 128 q-14 22 0 44 M290 128 q14 22 0 44" stroke="#8a4a1a" stroke-width="1.5" fill="none"/>
+<text x="290" y="192" text-anchor="middle" font-size="10" fill="#8a5a2a">技術要自己練</text>
+<!-- bear -->
+<g transform="translate(400,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：不是平均，後天學的不會遺傳。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「爸爸會打球小孩天生會！」🐻「技術要自己練喔！」</text>
+</svg>

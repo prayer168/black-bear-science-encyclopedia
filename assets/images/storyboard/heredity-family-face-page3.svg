@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ee"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab090" opacity="0.35"/>
+<!-- two different siblings -->
+<g transform="translate(280,130)">
+<circle cx="0" cy="0" r="26" fill="#f5cba0"/><path d="M-20 -14 q20 -18 40 0" fill="#5a3a2a"/>
+<circle cx="-9" cy="-2" r="3" fill="#333"/><circle cx="9" cy="-2" r="3" fill="#333"/>
+<path d="M-8 12 q8 8 16 0" fill="none" stroke="#333" stroke-width="2"/>
+</g>
+<g transform="translate(370,135)">
+<circle cx="0" cy="0" r="26" fill="#f2c79a"/>
+<path d="M-24 0 q0 -28 24 -28 q24 0 24 28 q-8 -12 -24 -12 q-16 0 -24 12z" fill="#7a4a2a"/>
+<circle cx="-9" cy="-2" r="4" fill="#333"/><circle cx="9" cy="-2" r="4" fill="#333"/>
+<path d="M-8 12 q8 8 16 0" fill="none" stroke="#333" stroke-width="2"/>
+</g>
+<text x="325" y="185" text-anchor="middle" font-size="11" fill="#3a7a4a">兄弟姊妹各不同</text>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：你是獨一無二的組合，不是平均。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「這種不同叫變異！」</text>
+</svg>

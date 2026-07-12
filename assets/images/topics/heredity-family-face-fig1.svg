@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f6eef4"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#9a4a7a">性狀從親代傳給子代</text>
+
+  <!-- dad left -->
+  <g transform="translate(140,120)">
+    <circle cx="0" cy="0" r="42" fill="#f2c79a"/>
+    <path d="M-30 -20 q30 -26 60 0" fill="#5a3a2a"/>
+    <circle cx="-14" cy="-4" r="4" fill="#333"/><circle cx="14" cy="-4" r="4" fill="#333"/>
+    <path d="M-14 18 q14 12 28 0" fill="none" stroke="#333" stroke-width="2"/>
+    <circle cx="-16" cy="18" r="3" fill="#e0a0b0"/><circle cx="16" cy="18" r="3" fill="#e0a0b0"/>
+  </g>
+  <text x="140" y="185" text-anchor="middle" font-size="14" fill="#8a5a2a" font-weight="bold">爸爸（有酒窩）</text>
+
+  <!-- mom right -->
+  <g transform="translate(560,120)">
+    <circle cx="0" cy="0" r="42" fill="#f7d0aa"/>
+    <path d="M-40 0 q0 -46 40 -46 q40 0 40 46 q-14 -20 -40 -20 q-26 0 -40 20z" fill="#7a4a2a"/>
+    <circle cx="-15" cy="-2" r="6" fill="#fff"/><circle cx="-15" cy="-2" r="3" fill="#333"/>
+    <circle cx="15" cy="-2" r="6" fill="#fff"/><circle cx="15" cy="-2" r="3" fill="#333"/>
+    <path d="M-12 18 q12 10 24 0" fill="none" stroke="#333" stroke-width="2"/>
+  </g>
+  <text x="560" y="185" text-anchor="middle" font-size="14" fill="#8a5a2a" font-weight="bold">媽媽（大眼睛）</text>
+
+  <!-- arrows to child -->
+  <path d="M175 155 q90 60 165 90" stroke="#c07aa0" stroke-width="3" fill="none" marker-end="url(#h1)"/>
+  <path d="M525 155 q-90 60 -165 90" stroke="#c07aa0" stroke-width="3" fill="none" marker-end="url(#h1)"/>
+  <defs><marker id="h1" markerWidth="11" markerHeight="11" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#c07aa0"/></marker></defs>
+
+  <!-- child bottom center -->
+  <g transform="translate(350,285)">
+    <circle cx="0" cy="0" r="46" fill="#f5cba0"/>
+    <path d="M-32 -22 q32 -28 64 0" fill="#5a3a2a"/>
+    <circle cx="-16" cy="-2" r="6" fill="#fff"/><circle cx="-16" cy="-2" r="3" fill="#333"/>
+    <circle cx="16" cy="-2" r="6" fill="#fff"/><circle cx="16" cy="-2" r="3" fill="#333"/>
+    <path d="M-14 20 q14 12 28 0" fill="none" stroke="#333" stroke-width="2"/>
+    <circle cx="-18" cy="20" r="3" fill="#e0a0b0"/><circle cx="18" cy="20" r="3" fill="#e0a0b0"/>
+  </g>
+  <text x="350" y="355" text-anchor="middle" font-size="13" fill="#9a4a7a" font-weight="bold">小孩：媽媽的大眼睛＋爸爸的酒窩，又獨一無二</text>
+
+  <text x="350" y="388" text-anchor="middle" font-size="13" font-weight="bold" fill="#9a4a7a">爸媽把特徵傳給你，所以你又像爸爸又像媽媽。</text>
+</svg>

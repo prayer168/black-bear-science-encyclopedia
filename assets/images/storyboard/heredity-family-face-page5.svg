@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8f0f2"/>
+<rect x="0" y="205" width="520" height="73" fill="#88b0b8" opacity="0.35"/>
+<!-- bar chart -->
+<rect x="270" y="90" width="180" height="120" rx="6" fill="#fff" stroke="#7aa0b0" stroke-width="2"/>
+<line x1="290" y1="195" x2="440" y2="195" stroke="#888" stroke-width="1.5"/>
+<rect x="300" y="120" width="26" height="75" fill="#6aa0c8"/>
+<rect x="340" y="150" width="26" height="45" fill="#e0a860"/>
+<rect x="380" y="110" width="26" height="85" fill="#7ab080"/>
+<rect x="410" y="165" width="20" height="30" fill="#c07aa0"/>
+<text x="360" y="80" text-anchor="middle" font-size="11" fill="#3a6a7a">班上性狀統計</text>
+<!-- drop -->
+<g transform="translate(60,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：調查家人與同學的性狀比例。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「每個人的特徵都值得尊重！」</text>
+</svg>

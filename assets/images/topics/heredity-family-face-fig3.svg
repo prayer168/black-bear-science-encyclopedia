@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f0f2f4"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#4a5a7a">先天遺傳 vs 後天環境</text>
+
+  <!-- left: inherited -->
+  <rect x="20" y="55" width="320" height="300" rx="12" fill="#eaf2ec" stroke="#5aa070" stroke-width="2"/>
+  <text x="180" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#2a7a4a">先天遺傳 ✓（會傳給下一代）</text>
+  <!-- blood type -->
+  <circle cx="80" cy="140" r="20" fill="#e05a5a"/><text x="80" y="146" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">A</text>
+  <text x="180" y="145" font-size="13" fill="#3a6a4a">血型</text>
+  <!-- curly hair -->
+  <path d="M60 200 q10 -12 20 0 q10 -12 20 0 q10 -12 20 0" fill="none" stroke="#5a3a2a" stroke-width="4"/>
+  <text x="180" y="205" font-size="13" fill="#3a6a4a">自然捲</text>
+  <!-- eyelid -->
+  <ellipse cx="80" cy="255" rx="22" ry="12" fill="#f2c79a"/><path d="M62 250 q18 -8 36 0" fill="none" stroke="#8a5a3a" stroke-width="2"/><circle cx="80" cy="256" r="4" fill="#333"/>
+  <text x="180" y="260" font-size="13" fill="#3a6a4a">單／雙眼皮</text>
+  <text x="180" y="320" text-anchor="middle" font-size="12" fill="#2a7a4a">生下來就決定，會遺傳</text>
+
+  <!-- right: acquired -->
+  <rect x="360" y="55" width="320" height="300" rx="12" fill="#f6efe8" stroke="#c09060" stroke-width="2"/>
+  <text x="520" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#a06830">後天環境 ✗（不會遺傳）</text>
+  <!-- suntan -->
+  <circle cx="420" cy="140" r="20" fill="#c08a5a"/>
+  <g stroke="#e0a040" stroke-width="2"><line x1="420" y1="112" x2="420" y2="104"/><line x1="446" y1="130" x2="454" y2="126"/></g>
+  <text x="520" y="145" font-size="13" fill="#8a5a2a">曬太陽變黑</text>
+  <!-- muscle -->
+  <path d="M405 195 q14 -14 28 0 q6 14 -4 22 q-14 6 -24 -4 q-6 -10 0 -18z" fill="#d69a6a"/>
+  <text x="520" y="205" font-size="13" fill="#8a5a2a">健身變壯</text>
+  <!-- speech/skill -->
+  <path d="M400 245 q0 -14 20 -14 l24 0 q20 0 20 14 q0 14 -20 14 l-8 0 l-8 10 l0 -10 q-28 0 -28 -14z" fill="#e0c090"/>
+  <text x="520" y="262" font-size="13" fill="#8a5a2a">口音／學會的技術</text>
+  <text x="520" y="320" text-anchor="middle" font-size="12" fill="#a06830">生活環境學來，不會遺傳</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#4a5a7a">天生的會遺傳，後天學來的不會遺傳。</text>
+</svg>

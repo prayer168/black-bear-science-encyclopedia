@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f2"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a7a6a">好玩的遺傳性狀</text>
+
+  <!-- 1 tongue rolling -->
+  <rect x="30" y="60" width="200" height="220" rx="12" fill="#fdeef2" stroke="#d68aa8" stroke-width="2"/>
+  <text x="130" y="86" text-anchor="middle" font-size="15" font-weight="bold" fill="#a04a70">捲舌</text>
+  <ellipse cx="90" cy="150" rx="30" ry="20" fill="#e07a8a"/>
+  <path d="M78 150 q12 -16 24 0" fill="#c04a5a"/>
+  <text x="90" y="195" text-anchor="middle" font-size="12" fill="#a04a70">能捲舌（U形）</text>
+  <ellipse cx="170" cy="150" rx="30" ry="20" fill="#e07a8a"/>
+  <ellipse cx="170" cy="152" rx="16" ry="8" fill="#c04a5a"/>
+  <text x="170" y="195" text-anchor="middle" font-size="12" fill="#a04a70">不能捲舌</text>
+  <text x="130" y="235" text-anchor="middle" font-size="11" fill="#8a5a6a">你是哪一種？</text>
+
+  <!-- 2 earlobe -->
+  <rect x="250" y="60" width="200" height="220" rx="12" fill="#eef6ec" stroke="#7aa070" stroke-width="2"/>
+  <text x="350" y="86" text-anchor="middle" font-size="15" font-weight="bold" fill="#3a7a4a">耳垂</text>
+  <path d="M310 120 q20 -20 34 0 q8 20 -2 40 q-6 16 -18 12 q-8 8 -14 -4z" fill="#f2c79a"/>
+  <text x="322" y="205" text-anchor="middle" font-size="12" fill="#3a7a4a">分離耳垂</text>
+  <path d="M380 120 q20 -20 34 0 q8 26 -4 52 q-14 -2 -26 -12 q-8 -20 -4 -40z" fill="#f2c79a"/>
+  <text x="394" y="205" text-anchor="middle" font-size="12" fill="#3a7a4a">連著耳垂</text>
+  <text x="350" y="235" text-anchor="middle" font-size="11" fill="#5a7a6a">你是哪一種？</text>
+
+  <!-- 3 dimple -->
+  <rect x="470" y="60" width="200" height="220" rx="12" fill="#fef4e8" stroke="#e0a860" stroke-width="2"/>
+  <text x="570" y="86" text-anchor="middle" font-size="15" font-weight="bold" fill="#a07020">酒窩</text>
+  <circle cx="530" cy="150" r="30" fill="#f5cba0"/>
+  <path d="M522 158 q8 8 16 0" fill="none" stroke="#333" stroke-width="2"/>
+  <circle cx="518" cy="156" r="3" fill="#d09a70"/><circle cx="542" cy="156" r="3" fill="#d09a70"/>
+  <text x="530" y="200" text-anchor="middle" font-size="12" fill="#a07020">有酒窩</text>
+  <circle cx="610" cy="150" r="30" fill="#f5cba0"/>
+  <path d="M602 158 q8 8 16 0" fill="none" stroke="#333" stroke-width="2"/>
+  <text x="610" y="200" text-anchor="middle" font-size="12" fill="#a07020">沒酒窩</text>
+  <text x="570" y="235" text-anchor="middle" font-size="11" fill="#8a6a30">你是哪一種？</text>
+
+  <text x="350" y="315" text-anchor="middle" font-size="13" fill="#5a7a6a">班上同學各種類型都有，比例不同——這就是多樣性</text>
+  <text x="350" y="360" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7a6a">捲舌、耳垂、酒窩，看看你是哪一種？</text>
+  <text x="350" y="384" text-anchor="middle" font-size="11" fill="#8a8a8a">（每種特徵都很獨特，沒有好壞之分）</text>
+</svg>
