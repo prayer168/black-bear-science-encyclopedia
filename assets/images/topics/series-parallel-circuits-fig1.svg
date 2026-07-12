@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef3f7"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a5a8a">串聯 vs 並聯的接法</text>
+
+  <!-- left: series -->
+  <rect x="20" y="55" width="320" height="300" rx="12" fill="#fdf2e6" stroke="#e0a050" stroke-width="2"/>
+  <text x="180" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#b07020">串聯（一條路）</text>
+  <!-- battery -->
+  <rect x="150" y="300" width="60" height="26" fill="#f4d67a" stroke="#c0902a" stroke-width="2"/>
+  <text x="180" y="318" text-anchor="middle" font-size="12" fill="#8a6010">電池</text>
+  <!-- single loop wire -->
+  <path d="M150 313 L70 313 L70 130 L300 130 L300 313 L210 313" fill="none" stroke="#555" stroke-width="3"/>
+  <!-- bulb1 on top wire -->
+  <circle cx="140" cy="130" r="18" fill="#ffe07a" stroke="#c0902a" stroke-width="2"/><text x="140" y="135" text-anchor="middle" font-size="11" fill="#8a6010">燈1</text>
+  <circle cx="240" cy="130" r="18" fill="#ffe07a" stroke="#c0902a" stroke-width="2"/><text x="240" y="135" text-anchor="middle" font-size="11" fill="#8a6010">燈2</text>
+  <!-- current arrow -->
+  <path d="M100 130 L120 130" stroke="#e0603a" stroke-width="3" marker-end="url(#c1)"/>
+  <text x="180" y="350" text-anchor="middle" font-size="13" fill="#b07020">電流只有一條路，依序過兩燈</text>
+
+  <!-- right: parallel -->
+  <rect x="360" y="55" width="320" height="300" rx="12" fill="#eaf4ef" stroke="#4aa07a" stroke-width="2"/>
+  <text x="520" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#2a7a5a">並聯（各走各的路）</text>
+  <rect x="490" y="300" width="60" height="26" fill="#f4d67a" stroke="#c0902a" stroke-width="2"/>
+  <text x="520" y="318" text-anchor="middle" font-size="12" fill="#8a6010">電池</text>
+  <!-- main rails -->
+  <path d="M490 313 L410 313 L410 130 L630 130 L630 313 L550 313" fill="none" stroke="#555" stroke-width="3"/>
+  <!-- two branch bulbs -->
+  <line x1="470" y1="130" x2="470" y2="313" stroke="#555" stroke-width="3"/>
+  <line x1="570" y1="130" x2="570" y2="313" stroke="#555" stroke-width="3"/>
+  <circle cx="470" cy="222" r="20" fill="#ffe86a" stroke="#c0902a" stroke-width="2"/><text x="470" y="227" text-anchor="middle" font-size="11" fill="#8a6010">燈1</text>
+  <circle cx="570" cy="222" r="20" fill="#ffe86a" stroke="#c0902a" stroke-width="2"/><text x="570" y="227" text-anchor="middle" font-size="11" fill="#8a6010">燈2</text>
+  <text x="520" y="350" text-anchor="middle" font-size="13" fill="#2a7a5a">每顆燈泡各接電池兩端，各一條路</text>
+
+  <defs><marker id="c1" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#e0603a"/></marker></defs>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a5a8a">串聯一條路、並聯各走各的路。</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6f0ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#7ab08a" opacity="0.3"/>
+<!-- parallel: one removed, one on -->
+<rect x="300" y="185" width="46" height="20" fill="#f4d67a" stroke="#c0902a" stroke-width="2"/>
+<path d="M300 195 L260 195 L260 100 L410 100 L410 195 L346 195" fill="none" stroke="#555" stroke-width="3"/>
+<line x1="370" y1="100" x2="370" y2="195" stroke="#555" stroke-width="3"/>
+<!-- removed bulb branch gap -->
+<line x1="300" y1="100" x2="300" y2="130" stroke="#555" stroke-width="3"/>
+<line x1="300" y1="166" x2="300" y2="195" stroke="#555" stroke-width="3"/>
+<circle cx="300" cy="148" r="15" fill="none" stroke="#c0402a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="300" y="152" text-anchor="middle" font-size="14" fill="#c0402a">拔</text>
+<circle cx="370" cy="148" r="17" fill="#ffe645" stroke="#c0902a" stroke-width="2"/>
+<g stroke="#f0c020" stroke-width="2"><line x1="370" y1="126" x2="370" y2="118"/></g>
+<text x="405" y="150" font-size="11" fill="#2a7a5a">仍亮</text>
+<!-- drop -->
+<g transform="translate(65,132)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：並聯拔一顆，另一顆照樣亮。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「所以家裡電燈用並聯！」</text>
+</svg>

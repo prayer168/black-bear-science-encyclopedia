@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eff3ee"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a6a4a">家裡的電燈為什麼用並聯</text>
+
+  <!-- left: house parallel -->
+  <rect x="20" y="55" width="340" height="290" rx="12" fill="#eaf4ef" stroke="#4aa07a" stroke-width="2"/>
+  <text x="190" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a5a">家裡電燈（並聯）</text>
+  <!-- house -->
+  <rect x="60" y="120" width="260" height="180" fill="#fff6e8" stroke="#c0a060" stroke-width="2"/>
+  <line x1="190" y1="120" x2="190" y2="300" stroke="#c0a060" stroke-width="2"/>
+  <text x="125" y="140" text-anchor="middle" font-size="12" fill="#888">客廳</text>
+  <text x="255" y="140" text-anchor="middle" font-size="12" fill="#888">房間</text>
+  <!-- living room lamp OFF -->
+  <circle cx="125" cy="185" r="20" fill="#b8b8b8" stroke="#888" stroke-width="2"/>
+  <rect x="112" y="225" width="26" height="16" rx="3" fill="#888"/><text x="125" y="237" text-anchor="middle" font-size="9" fill="#fff">關</text>
+  <text x="125" y="265" text-anchor="middle" font-size="11" fill="#666">關掉了</text>
+  <!-- bedroom lamp ON -->
+  <circle cx="255" cy="185" r="20" fill="#ffe645" stroke="#c0902a" stroke-width="2"/>
+  <g stroke="#f0c020" stroke-width="2"><line x1="255" y1="160" x2="255" y2="150"/><line x1="230" y1="185" x2="220" y2="185"/></g>
+  <rect x="242" y="225" width="26" height="16" rx="3" fill="#e0a030"/><text x="255" y="237" text-anchor="middle" font-size="9" fill="#fff">開</text>
+  <text x="255" y="265" text-anchor="middle" font-size="11" fill="#2a7a5a">照樣亮</text>
+  <text x="190" y="325" text-anchor="middle" font-size="12" fill="#2a7a5a">各自開關、互不影響</text>
+
+  <!-- right: series christmas lights -->
+  <rect x="375" y="55" width="305" height="290" rx="12" fill="#fdf2e6" stroke="#e0a050" stroke-width="2"/>
+  <text x="527" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#b07020">串聯聖誕燈</text>
+  <!-- string -->
+  <path d="M400 140 q30 30 60 0 q30 30 60 0 q30 30 60 0 q30 30 60 0" fill="none" stroke="#555" stroke-width="2"/>
+  <circle cx="415" cy="150" r="10" fill="#b8b8b8" stroke="#888"/>
+  <circle cx="475" cy="150" r="10" fill="#b8b8b8" stroke="#888"/>
+  <circle cx="535" cy="150" r="10" fill="#b8b8b8" stroke="#888"/>
+  <line x1="527" y1="142" x2="543" y2="158" stroke="#c0402a" stroke-width="3"/><line x1="543" y1="142" x2="527" y2="158" stroke="#c0402a" stroke-width="3"/>
+  <circle cx="595" cy="150" r="10" fill="#b8b8b8" stroke="#888"/>
+  <text x="535" y="185" text-anchor="middle" font-size="11" fill="#c0402a">一顆壞</text>
+  <text x="527" y="240" text-anchor="middle" font-size="24" fill="#888" font-weight="bold">整串黑</text>
+  <text x="527" y="300" text-anchor="middle" font-size="12" fill="#b07020">一顆壞，全部不亮</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a4a">家裡電燈並聯，各自開關互不影響。</text>
+</svg>
