@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f3f1ea"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#7a5a2a">熱脹冷縮的生活應用</text>
+
+  <!-- panel 1: rail gap -->
+  <rect x="20" y="55" width="210" height="200" rx="10" fill="#eceae0" stroke="#a5934a" stroke-width="2"/>
+  <text x="125" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#7a5a2a">鐵軌留伸縮縫</text>
+  <rect x="45" y="150" width="80" height="20" fill="#9a9aa0"/>
+  <rect x="135" y="150" width="80" height="20" fill="#9a9aa0"/>
+  <rect x="45" y="175" width="170" height="10" fill="#7a5a3a"/>
+  <text x="130" y="145" text-anchor="middle" font-size="18" fill="#c0402a">↔</text>
+  <text x="125" y="215" text-anchor="middle" font-size="12" fill="#7a5a2a">留縫給夏天熱脹</text>
+
+  <!-- panel 2: thermometer -->
+  <rect x="245" y="55" width="210" height="200" rx="10" fill="#eaf0f5" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="350" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">溫度計液柱升降</text>
+  <rect x="342" y="100" width="16" height="120" rx="8" fill="#fff" stroke="#888" stroke-width="2"/>
+  <circle cx="350" cy="225" r="16" fill="#e0503a"/>
+  <rect x="345" y="140" width="10" height="85" fill="#e0503a"/>
+  <path d="M370 140 l14 0" stroke="#c0602a" stroke-width="2"/><text x="392" y="145" font-size="11" fill="#c0602a">熱→升</text>
+  <path d="M370 200 l14 0" stroke="#2a6a9a" stroke-width="2"/><text x="392" y="205" font-size="11" fill="#2a6a9a">冷→降</text>
+  <text x="350" y="245" text-anchor="middle" font-size="11" fill="#2a6a9a">液體熱脹冷縮</text>
+
+  <!-- panel 3: jar lid -->
+  <rect x="470" y="55" width="210" height="200" rx="10" fill="#f6ede2" stroke="#c08a4a" stroke-width="2"/>
+  <text x="575" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#a0602a">熱水沖鬆瓶蓋</text>
+  <rect x="545" y="150" width="60" height="70" rx="6" fill="#cfe4f2" stroke="#88b8c8" stroke-width="2"/>
+  <rect x="540" y="130" width="70" height="24" rx="4" fill="#d0a040"/>
+  <g stroke="#e06a4a" stroke-width="2.5" fill="none"><path d="M520 120 q6 10 0 20"/><path d="M630 120 q-6 10 0 20"/></g>
+  <text x="575" y="240" text-anchor="middle" font-size="11" fill="#a0602a">金屬蓋熱脹變鬆</text>
+
+  <text x="350" y="290" text-anchor="middle" font-size="15" fill="#7a5a2a">有時利用它、有時要預防它——熱脹冷縮到處都在！</text>
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#7a5a2a">鐵軌留縫、溫度計、鬆瓶蓋，都靠熱脹冷縮。</text>
+</svg>

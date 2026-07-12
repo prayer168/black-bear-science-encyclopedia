@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f2"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a7a6a">氣球套瓶泡熱水與冰水</text>
+
+  <!-- left: hot water, balloon up -->
+  <text x="185" y="66" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0602a">🔥 泡熱水 → 氣球鼓</text>
+  <!-- basin -->
+  <path d="M70 250 L60 350 q0 14 16 14 L294 364 q16 0 16 -14 L300 250 z" fill="#fbd6c0" stroke="#e0894a" stroke-width="2"/>
+  <path d="M66 290 L304 290 L298 350 q0 14 -16 14 L76 364 q-16 0 -16 -14 z" fill="#f4a878" opacity="0.6"/>
+  <text x="185" y="335" text-anchor="middle" font-size="12" fill="#a04a2a">熱水</text>
+  <!-- bottle -->
+  <rect x="160" y="150" width="50" height="130" rx="6" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+  <rect x="176" y="135" width="18" height="18" fill="#c8dde4"/>
+  <!-- balloon inflated -->
+  <ellipse cx="185" cy="110" rx="30" ry="34" fill="#f2a6b8" stroke="#d67a92" stroke-width="2"/>
+  <path d="M177 143 l16 0 l-8 -8z" fill="#f2a6b8"/>
+  <path d="M185 300 q0 -8 0 -14" stroke="#e0894a" stroke-width="0" fill="none"/>
+  <text x="185" y="60" text-anchor="middle" font-size="0"> </text>
+
+  <!-- right: ice water, balloon deflated -->
+  <text x="515" y="66" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6a9a">❄️ 泡冰水 → 氣球扁</text>
+  <path d="M400 250 L390 350 q0 14 16 14 L624 364 q16 0 16 -14 L630 250 z" fill="#d6ecf5" stroke="#5a9ac8" stroke-width="2"/>
+  <path d="M396 290 L634 290 L628 350 q0 14 -16 14 L406 364 q-16 0 -16 -14 z" fill="#a6d4e4" opacity="0.6"/>
+  <text x="515" y="335" text-anchor="middle" font-size="12" fill="#2a6a9a">冰水</text>
+  <circle cx="450" cy="300" r="6" fill="#fff" opacity="0.8"/><circle cx="580" cy="310" r="5" fill="#fff" opacity="0.8"/>
+  <rect x="490" y="150" width="50" height="130" rx="6" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+  <rect x="506" y="135" width="18" height="18" fill="#c8dde4"/>
+  <!-- balloon deflated, sucked in -->
+  <path d="M508 138 q7 -14 14 0 q-3 8 -7 8 q-4 0 -7 -8z" fill="#c89aa6" stroke="#a67a86" stroke-width="1.5"/>
+  <text x="515" y="120" text-anchor="middle" font-size="11" fill="#2a6a9a">扁下去</text>
+
+  <text x="350" y="388" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a6a">熱水讓空氣脹、吹鼓氣球；冰水讓空氣縮、氣球扁。</text>
+</svg>

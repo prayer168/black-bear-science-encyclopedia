@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9a86a" opacity="0.3"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="24" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- dry round ball, no water -->
+<circle cx="290" cy="145" r="34" fill="#fff8dc" stroke="#d0b060" stroke-width="2"/>
+<text x="290" y="150" text-anchor="middle" font-size="12" fill="#a08040" font-weight="bold">乾的</text>
+<text x="290" y="200" text-anchor="middle" font-size="11" fill="#7a5a2a">裡面沒有水</text>
+<!-- bear -->
+<g transform="translate(390,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：是體積變大，不是空氣變多。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「熱水跑進去啦！」🐻「球是乾的，是空氣脹大！」</text>
+</svg>

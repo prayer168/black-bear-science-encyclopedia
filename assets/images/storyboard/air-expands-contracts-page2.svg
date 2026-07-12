@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f7ece0"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9a86a" opacity="0.35"/>
+<rect x="250" y="200" width="230" height="12" fill="#c9905a"/>
+<!-- bowl of hot water with steam -->
+<path d="M300 150 L292 195 q0 10 12 10 L406 205 q12 0 12 -10 L410 150 z" fill="#fbd6c0" stroke="#e0894a" stroke-width="2"/>
+<path d="M298 168 L412 168 L406 195 q0 10 -12 10 L304 205 q-12 0 -12 -10 z" fill="#f4a878" opacity="0.6"/>
+<g stroke="#e8b090" stroke-width="3" fill="none" opacity="0.8"><path d="M340 148 q-6 -14 4 -26"/><path d="M370 148 q6 -14 -4 -26"/></g>
+<circle cx="355" cy="180" r="16" fill="#fff4d0" stroke="#d0b060" stroke-width="2"/>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：把凹球放進溫熱水的碗裡。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「我有辦法讓它變回來。」</text>
+</svg>

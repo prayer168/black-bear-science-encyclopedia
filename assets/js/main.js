@@ -84,7 +84,7 @@ const TOPICS = [
   {id:"plant-drinking-secret",title:"植物喝水的祕密：根與莖的運輸",grade:4,category:"plants-life",status:"published",path:"topics/grade-4/plant-drinking-secret.html",keywords:["根","莖","運輸","蒸散"]},
   {id:"rainbow-colors",title:"彩虹是怎麼出現的？光的色散",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/rainbow-colors.html",keywords:["彩虹","色散","三稜鏡"]},
   {id:"static-electricity-magic",title:"頭髮為什麼站起來？靜電魔法",grade:4,category:"sound-light-electricity",status:"published",path:"topics/grade-4/static-electricity-magic.html",keywords:["靜電","摩擦起電","氣球"]},
-  {id:"air-expands-contracts",title:"空氣也會熱脹冷縮",grade:4,category:"matter-heat-change",status:"planned",path:"",keywords:["熱脹冷縮","空氣","氣球"]},
+  {id:"air-expands-contracts",title:"空氣也會熱脹冷縮",grade:4,category:"matter-heat-change",status:"published",path:"topics/grade-4/air-expands-contracts.html",keywords:["熱脹冷縮","空氣","氣球"]},
   {id:"compass-earth-magnet",title:"指北針與地球大磁鐵",grade:4,category:"force-motion-machines",status:"planned",path:"",keywords:["指北針","地磁","方位"]},
   {id:"star-constellations",title:"星星的家：認識星座與北極星",grade:4,category:"earth-resources",status:"planned",path:"",keywords:["星座","北極星","北斗七星"]},
   {id:"campus-weather-station",title:"校園氣象站：自己動手量雨量與風向",grade:4,category:"inquiry-methods",status:"planned",path:"",keywords:["雨量器","風向計","觀測"]},

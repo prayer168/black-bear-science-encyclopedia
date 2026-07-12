@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#fbf1e8"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#b06a2a">空氣受熱膨脹、遇冷收縮</text>
+
+  <!-- center: normal -->
+  <rect x="300" y="150" width="100" height="120" rx="8" fill="#eef4f7" stroke="#88b8c8" stroke-width="2"/>
+  <g fill="#a6d4e4" opacity="0.7"><circle cx="330" cy="200" r="7"/><circle cx="365" cy="220" r="7"/><circle cx="345" cy="245" r="7"/><circle cx="375" cy="190" r="7"/></g>
+  <text x="350" y="130" text-anchor="middle" font-size="13" fill="#555" font-weight="bold">同樣多的空氣</text>
+
+  <!-- left: heated expand -->
+  <rect x="40" y="110" width="150" height="200" rx="10" fill="#fdece0" stroke="#e0894a" stroke-width="2"/>
+  <text x="115" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0602a">🔥 加熱 → 膨脹</text>
+  <g fill="#f0a878" opacity="0.55"><circle cx="80" cy="170" r="10"/><circle cx="150" cy="180" r="10"/><circle cx="110" cy="220" r="10"/><circle cx="70" cy="250" r="10"/><circle cx="160" cy="255" r="10"/><circle cx="115" cy="290" r="10"/></g>
+  <text x="115" y="330" text-anchor="middle" font-size="12" fill="#c0602a">佔的空間變大</text>
+  <path d="M240 210 L295 210" stroke="#e0894a" stroke-width="3" marker-start="url(#eL)" fill="none"/>
+
+  <!-- right: cooled contract -->
+  <rect x="510" y="180" width="150" height="90" rx="10" fill="#e6f2f7" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="585" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6a9a">❄️ 冷卻 → 收縮</text>
+  <g fill="#8ab8d0" opacity="0.7"><circle cx="555" cy="215" r="6"/><circle cx="600" cy="225" r="6"/><circle cx="575" cy="245" r="6"/><circle cx="615" cy="205" r="6"/></g>
+  <text x="585" y="290" text-anchor="middle" font-size="12" fill="#2a6a9a">佔的空間變小</text>
+  <path d="M405 210 L505 215" stroke="#5a9ac8" stroke-width="3" marker-end="url(#eR)" fill="none"/>
+
+  <defs>
+    <marker id="eL" markerWidth="11" markerHeight="11" refX="2" refY="4" orient="auto"><path d="M8 0 L0 4 L8 8 z" fill="#e0894a"/></marker>
+    <marker id="eR" markerWidth="11" markerHeight="11" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#5a9ac8"/></marker>
+  </defs>
+
+  <rect x="200" y="335" width="300" height="34" rx="17" fill="#fff3d6" stroke="#d0a020" stroke-width="2"/>
+  <text x="350" y="358" text-anchor="middle" font-size="14" font-weight="bold" fill="#b07a10">空氣數量沒變，只是體積變大或變小</text>
+
+  <text x="350" y="392" text-anchor="middle" font-size="14" font-weight="bold" fill="#b06a2a">同樣多的空氣，受熱佔大空間、遇冷佔小空間。</text>
+</svg>

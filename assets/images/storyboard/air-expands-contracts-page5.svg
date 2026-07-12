@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f7ece0"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9a86a" opacity="0.35"/>
+<rect x="240" y="200" width="240" height="12" fill="#c9905a"/>
+<!-- basin hot water -->
+<path d="M290 178 L282 205 q0 8 12 8 L406 213 q12 0 12 -8 L410 178 z" fill="#f4a878" opacity="0.6" stroke="#e0894a" stroke-width="2"/>
+<g stroke="#e8b090" stroke-width="2.5" fill="none"><path d="M330 176 q-5 -12 3 -22"/></g>
+<!-- bottle with balloon inflated -->
+<rect x="330" y="120" width="40" height="86" rx="5" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+<rect x="343" y="108" width="14" height="14" fill="#c8dde4"/>
+<ellipse cx="350" cy="88" rx="24" ry="26" fill="#f2a6b8" stroke="#d67a92" stroke-width="2"/>
+<!-- drop -->
+<g transform="translate(60,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：氣球套瓶泡熱水，氣球鼓起來。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「這樣就看見空氣脹縮了！」</text>
+</svg>
