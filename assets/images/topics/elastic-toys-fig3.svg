@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f2f0f8"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#6a4a9a">彈力在生活中的幫忙</text>
+
+  <!-- 1 pen -->
+  <rect x="20" y="55" width="320" height="150" rx="10" fill="#eef0fb" stroke="#7a7ac0" stroke-width="2"/>
+  <text x="180" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#5a5aa0">按壓原子筆</text>
+  <rect x="150" y="100" width="16" height="80" rx="6" fill="#5a9ac8"/>
+  <rect x="152" y="90" width="12" height="14" rx="3" fill="#e06a5a"/>
+  <path d="M158 120 q6 -6 0 -8 q-6 -3 0 -8 q6 -6 0 -8" fill="none" stroke="#888" stroke-width="2.5" transform="translate(20,10)"/>
+  <text x="230" y="150" font-size="12" fill="#5a5aa0">內部彈簧</text>
+  <text x="180" y="196" text-anchor="middle" font-size="11" fill="#5a5aa0">按一下，筆芯彈出</text>
+
+  <!-- 2 spring scale -->
+  <rect x="360" y="55" width="320" height="150" rx="10" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="520" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a5a">彈簧秤量重量</text>
+  <line x1="500" y1="95" x2="500" y2="110" stroke="#888" stroke-width="2"/>
+  <path d="M500 110 q8 -8 0 -12 q-8 -4 0 -12 q8 -8 0 -12 q-8 -4 0 -12 q8 -8 0 -12" fill="none" stroke="#5a8ac0" stroke-width="3" transform="translate(0,60)"/>
+  <rect x="488" y="172" width="24" height="18" rx="4" fill="#e0a040"/>
+  <text x="560" y="150" font-size="12" fill="#2a7a5a">越重伸越長</text>
+  <text x="520" y="196" text-anchor="middle" font-size="11" fill="#2a7a5a">彈簧伸長對應重量</text>
+
+  <!-- 3 trampoline -->
+  <rect x="20" y="220" width="320" height="150" rx="10" fill="#fdf0e6" stroke="#e0a050" stroke-width="2"/>
+  <text x="180" y="245" text-anchor="middle" font-size="14" font-weight="bold" fill="#c0802a">彈簧床彈跳</text>
+  <ellipse cx="180" cy="330" rx="90" ry="14" fill="#8ab8d0"/>
+  <g stroke="#5a8ac0" stroke-width="2"><line x1="110" y1="330" x2="110" y2="345"/><line x1="180" y1="330" x2="180" y2="348"/><line x1="250" y1="330" x2="250" y2="345"/></g>
+  <circle cx="180" cy="290" r="14" fill="#f2a6b8"/>
+  <path d="M180 304 l-6 14 M180 304 l6 14" stroke="#f2a6b8" stroke-width="4"/>
+  <text x="180" y="362" text-anchor="middle" font-size="11" fill="#c0802a">彈力把人彈高</text>
+
+  <!-- 4 hair tie -->
+  <rect x="360" y="220" width="320" height="150" rx="10" fill="#f7eef5" stroke="#c070a0" stroke-width="2"/>
+  <text x="520" y="245" text-anchor="middle" font-size="14" font-weight="bold" fill="#a04a80">髮圈／鬆緊帶</text>
+  <ellipse cx="520" cy="300" rx="40" ry="30" fill="none" stroke="#d67aa8" stroke-width="8"/>
+  <path d="M500 285 q20 -8 40 0" fill="none" stroke="#8a5a34" stroke-width="10"/>
+  <text x="520" y="362" text-anchor="middle" font-size="11" fill="#a04a80">彈力束緊又有彈性</text>
+
+  <text x="350" y="390" text-anchor="middle" font-size="14" font-weight="bold" fill="#6a4a9a">原子筆、彈簧秤、彈簧床、鬆緊帶都靠彈力。</text>
+</svg>

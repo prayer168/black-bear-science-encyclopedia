@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f3eef8"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#6a4a9a">拉長／壓扁產生彈力</text>
+
+  <!-- top: rubber band -->
+  <text x="60" y="90" font-size="14" fill="#6a4a9a" font-weight="bold">橡皮筋</text>
+  <!-- original -->
+  <ellipse cx="150" cy="120" rx="26" ry="16" fill="none" stroke="#c07a4a" stroke-width="5"/>
+  <text x="150" y="160" text-anchor="middle" font-size="11" fill="#8a5a2a">原狀</text>
+  <!-- stretched -->
+  <ellipse cx="330" cy="120" rx="70" ry="12" fill="none" stroke="#c07a4a" stroke-width="5"/>
+  <path d="M258 120 L240 120" stroke="#333" stroke-width="2"/><path d="M402 120 L420 120" stroke="#333" stroke-width="2"/>
+  <path d="M300 120 L270 120" stroke="#e0503a" stroke-width="3" marker-end="url(#el)"/>
+  <path d="M360 120 L390 120" stroke="#e0503a" stroke-width="3" marker-end="url(#er)"/>
+  <text x="330" y="160" text-anchor="middle" font-size="11" fill="#c0402a">拉長→彈力想縮回</text>
+  <!-- arrow to release -->
+  <path d="M450 120 L500 120" stroke="#6a4a9a" stroke-width="3" marker-end="url(#el2)"/>
+  <text x="475" y="108" text-anchor="middle" font-size="10" fill="#6a4a9a">放手</text>
+  <ellipse cx="560" cy="120" rx="26" ry="16" fill="none" stroke="#c07a4a" stroke-width="5"/>
+  <text x="560" y="160" text-anchor="middle" font-size="11" fill="#2a7a4a">彈回原狀 ✓</text>
+
+  <!-- bottom: spring -->
+  <text x="60" y="250" font-size="14" fill="#6a4a9a" font-weight="bold">彈簧</text>
+  <!-- original spring -->
+  <path d="M150 220 q10 -10 0 -14 q-10 -4 0 -14 q10 -10 0 -14 q-10 -4 0 -14" fill="none" stroke="#5a8ac0" stroke-width="4" transform="translate(0,20)"/>
+  <text x="150" y="300" text-anchor="middle" font-size="11" fill="#3a6a9a">原狀</text>
+  <!-- compressed -->
+  <path d="M330 250 q10 -6 0 -8 q-10 -3 0 -8 q10 -6 0 -8 q-10 -3 0 -8" fill="none" stroke="#5a8ac0" stroke-width="4"/>
+  <rect x="310" y="222" width="40" height="8" fill="#888"/>
+  <path d="M330 240 L330 215" stroke="#e0503a" stroke-width="3" marker-end="url(#eu)"/>
+  <text x="330" y="300" text-anchor="middle" font-size="11" fill="#c0402a">壓扁→彈力想撐開</text>
+  <!-- release -->
+  <path d="M450 255 L500 255" stroke="#6a4a9a" stroke-width="3" marker-end="url(#el2)"/>
+  <text x="475" y="243" text-anchor="middle" font-size="10" fill="#6a4a9a">放手</text>
+  <path d="M560 230 q10 -12 0 -16 q-10 -5 0 -16 q10 -12 0 -16" fill="none" stroke="#5a8ac0" stroke-width="4" transform="translate(0,16)"/>
+  <text x="560" y="300" text-anchor="middle" font-size="11" fill="#2a7a4a">彈起 ✓</text>
+
+  <defs>
+    <marker id="el" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M6 0 L0 3 L6 6 z" fill="#e0503a"/></marker>
+    <marker id="er" markerWidth="10" markerHeight="10" refX="4" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#e0503a"/></marker>
+    <marker id="eu" markerWidth="10" markerHeight="10" refX="4" refY="3" orient="auto"><path d="M0 6 L3 0 L6 6 z" fill="#e0503a"/></marker>
+    <marker id="el2" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#6a4a9a"/></marker>
+  </defs>
+
+  <text x="350" y="352" text-anchor="middle" font-size="15" fill="#6a4a9a">彈力＝物體想恢復原狀的力（方向和形變相反）</text>
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#6a4a9a">拉長或壓扁，它就產生想彈回原狀的彈力。</text>
+</svg>

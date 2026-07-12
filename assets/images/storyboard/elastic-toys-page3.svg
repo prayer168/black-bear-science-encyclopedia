@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf2ee"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab8a0" opacity="0.35"/>
+<!-- rubber band snapped back with motion lines -->
+<ellipse cx="340" cy="130" rx="26" ry="16" fill="none" stroke="#c07a4a" stroke-width="5"/>
+<g stroke="#7aa0c0" stroke-width="2" opacity="0.7"><path d="M300 120 l-20 0"/><path d="M300 130 l-26 0"/><path d="M300 140 l-20 0"/></g>
+<text x="300" y="100" text-anchor="middle" font-size="16" fill="#2a7a5a" font-weight="bold">咻！</text>
+<!-- fox delighted -->
+<g transform="translate(80,130)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：一放手，彈力就把它彈回去。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「咻！彈回去了！」</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8f0ee"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab0a0" opacity="0.3"/>
+<rect x="230" y="205" width="260" height="12" fill="#c9905a"/>
+<!-- rubber band car -->
+<rect x="300" y="180" width="70" height="24" rx="6" fill="#e07a5a"/>
+<circle cx="315" cy="206" r="9" fill="#333"/><circle cx="355" cy="206" r="9" fill="#333"/>
+<path d="M300 192 q-20 -6 -40 0" stroke="#c07a4a" stroke-width="3" fill="none"/>
+<g stroke="#7aa0c0" stroke-width="2" opacity="0.6"><line x1="385" y1="185" x2="410" y2="185"/><line x1="385" y1="195" x2="415" y2="195"/></g>
+<text x="410" y="180" font-size="12" fill="#2a7a5a">拉越長跑越遠</text>
+<!-- drop -->
+<g transform="translate(60,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：拉越長，彈力越大、跑越遠。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「不能對著人發射喔！」</text>
+</svg>

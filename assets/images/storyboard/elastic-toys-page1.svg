@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe8f6"/>
+<rect x="0" y="205" width="520" height="73" fill="#b0a0c8" opacity="0.4"/>
+<rect x="250" y="200" width="240" height="12" fill="#c9905a"/>
+<!-- jumping toy with spring -->
+<circle cx="360" cy="110" r="20" fill="#f2a6b8"/>
+<circle cx="354" cy="106" r="2.5" fill="#333"/><circle cx="366" cy="106" r="2.5" fill="#333"/>
+<path d="M360 130 q6 -8 0 -10 q-6 -3 0 -10 q6 -8 0 -10" fill="none" stroke="#5a8ac0" stroke-width="4" transform="translate(0,20)"/>
+<g stroke="#e0a040" stroke-width="2"><line x1="335" y1="95" x2="325" y2="88"/><line x1="385" y1="95" x2="395" y2="88"/></g>
+<text x="360" y="80" text-anchor="middle" font-size="18" fill="#c0802a" font-weight="bold">啵！</text>
+<!-- fox -->
+<g transform="translate(75,130)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：壓一下，跳跳人就跳得老高！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「是誰在推它跳起來？」</text>
+</svg>
