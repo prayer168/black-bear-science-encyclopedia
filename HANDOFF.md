@@ -1,18 +1,19 @@
 # 交接筆記（HANDOFF）
 
-> 給下一個接手的人／Session。更新於 2026-07-12（第6輪完成）。
+> 給下一個接手的人／Session。更新於 2026-07-12（第7輪完成）。
 
-## 現況：全站 64/80 上線 ✅（第一批 40/40、第二批 24/40）；第二批第 6 輪已完成，工作區乾淨
+## 現況：全站 68/80 上線 ✅（第一批 40/40、第二批 28/40）；第二批第 7 輪已完成，工作區乾淨
 
-- **第二批進度：24/40 已產製上線**（最新 commit `2300189`「第二批第6輪(4/4)」）。工作區乾淨，無 WIP。
-- **第二批已上線 24 篇**（每年級各 6 篇）：
+- **第二批進度：28/40 已產製上線**（最新 commit `aa5151d`「第二批第7輪(4/4)」，已 push、線上皆 200）。工作區乾淨，無 WIP。
+- **第二批已上線 28 篇**（每年級各 7 篇）：
   - 第1輪 `fa70614`：flower-invitation-card(G3)、bird-beak-code(G4)、seed-germination-experiment(G5)、solar-lunar-eclipse(G6)
   - 第2輪 `1af42b0`：snail-and-earthworm(G3)、rainbow-colors(G4)、density-and-buoyancy(G5)、earth-rotation-seasons(G6)
   - 第3輪 `14f96c3`：float-or-sink(G3)、static-electricity-magic(G4)、insect-camouflage(G5)、tides-ocean-breathing(G6)
   - 第4輪 `7c5724b`：wind-is-running-air(G3)、water-surface-tension(G4)、water-purification(G5)、volcano-earth-chimney(G6)
   - 第5輪 `64b522d`：cloud-expressions(G3)、capillary-action(G4)、magnifier-refraction(G5)、fermentation-science(G6)
   - 第6輪 `6fefb86`→`2300189`：secrets-in-soil(G3土壤/INa-Ⅱ-7+INd-Ⅱ-5)、plant-drinking-secret(G4根莖運輸/INb-Ⅱ-6/4/7)、echo-and-ultrasound(G5回聲超音波/INe-Ⅱ-5)、photosynthesis-respiration(G6光合呼吸/INa-Ⅲ-9，呼吸作用屬國中)。⚠️ 本輪寫作時 echo 篇又不慎混入 Cyrillic「концепт」當場修正——每篇完成務必用 Python `re.search(r'[Ѐ-ӿ]', s)` 檢查 HTML 與 9 張 SVG。
-- **第二批剩 16 篇待產製**（TOPIC-MAP.md 第二批區仍標 🚧 者）。剩餘候選見下方，第 7 輪可挑每年級各 1 篇繼續。已知候選：G3 鏡子反射/彈力/測量工具，G4 熱脹冷縮/指北針地磁/星座/氣象站，G5 串並聯/斜面/黴菌/四季星空，G6 遺傳/溫室效應/再生能源/圖表統計。產製前務必先 WebFetch 查證課綱代碼。
+  - 第7輪 `f7448d7`→`aa5151d`：mirror-world(G3光反射/INe-Ⅱ-6)、air-expands-contracts(G4熱脹冷縮/INa-Ⅱ-5＋探究能力，中年級無專屬熱脹冷縮碼，已據實標註不硬湊)、series-parallel-circuits(G5串並聯/INe-Ⅱ-8/9，安全紅線只用電池不接插座)、greenhouse-warming-earth(G6溫室效應氣候變遷/INg-Ⅲ-3/4/7，強調溫室效應自然必要、問題在「太多」，區辨暖化≠臭氧洞、天氣≠氣候)。⚠️ 本輪踩雷：延伸閱讀連結曾多次寫錯檔名（light-goes→light-travels-straight、electromagnet-dance→electromagnet-duo、only-one-earth→one-earth-sustainability），寫連結前務必 `ls` 確認實際檔名；另 greenhouse 一度誤打英文「food」、fig1 一度出現重複 x 屬性，皆當場修正。
+- **第二批剩 12 篇待產製**（TOPIC-MAP.md 第二批區仍標 🚧 者）。剩餘候選（第 8 輪可挑每年級各 1）：G3 彈力玩具(elastic-toys)/測量工具(measuring-toolbox)，G4 指北針地磁(compass-earth-magnet)/星座(star-constellations)/校園氣象站(campus-weather-station)，G5 斜面螺旋(inclined-plane-screw)/黴菌微生物(mold-and-microbes)/四季星空(four-seasons-stars)，G6 遺傳(heredity-family-face)/再生能源(renewable-energy)/圖表統計(data-tells-story)；另 G3 還有 silkworm-diary(蠶寶寶)。產製前務必先 WebFetch 查證課綱代碼、寫延伸閱讀連結前先 ls 確認檔名。
 - **每輪標準流程（照做）**：4 篇一輪 → 每篇 14 區塊 HTML＋3 圖解 SVG＋6 分鏡 SVG → 跑驗證腳本（見下「驗證」）→ topics.json/main.js/TOPIC-MAP 三處同步改 published → commit＋push → 等 Pages build=built → curl 驗證 200。
 - ⚠️ **踩雷提醒**：(1) 寫作時曾兩度不慎混入 Cyrillic 字元（концепт、модель），每篇完成務必用 Python `re.search(r'[Ѐ-ӿ]', s)` 或 ripgrep 檢查。(2) 延伸閱讀連結**不可指向 status=planned 未上線篇**（曾誤連，改連已上線篇）。(3) SVG 顏色值別打錯（曾寫成 `#cdddd d` 含空格）。(4) 每篇 SVG 用 `xml.dom.minidom` 驗證合法。
 
