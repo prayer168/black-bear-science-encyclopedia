@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f0ede2"/>
+<rect x="0" y="205" width="520" height="73" fill="#b0a068" opacity="0.4"/>
+<!-- pile of leaves imagined -->
+<g fill="#c99a3a"><ellipse cx="300" cy="185" rx="24" ry="10"/><ellipse cx="340" cy="180" rx="24" ry="10"/><ellipse cx="380" cy="185" rx="24" ry="10"/></g>
+<g fill="#b8863a"><ellipse cx="320" cy="165" rx="22" ry="9"/><ellipse cx="360" cy="162" rx="22" ry="9"/></g>
+<g fill="#a8783a"><ellipse cx="340" cy="145" rx="20" ry="9"/></g>
+<text x="340" y="130" text-anchor="middle" font-size="11" fill="#8a6420">堆滿不爛的落葉？</text>
+<!-- beetle -->
+<g transform="translate(55,125)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：沒有分解者，地球會被垃圾淹沒。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「養分才能回收再利用！」</text>
+</svg>

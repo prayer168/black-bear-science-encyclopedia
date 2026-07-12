@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4e6"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab070" opacity="0.35"/>
+<!-- leaf decompose to soil -->
+<path d="M300 110 q12 -12 28 -4 q-4 18 -22 20 q-12 -6 -6 -16z" fill="#8aa843"/>
+<path d="M320 120 q12 -12 28 -4 q-4 18 -22 20z" fill="#c99a3a"/>
+<path d="M330 145 L360 175" stroke="#5a7a3a" stroke-width="3" marker-end="url(#m3)"/>
+<defs><marker id="m3" markerWidth="10" markerHeight="10" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#5a7a3a"/></marker></defs>
+<ellipse cx="390" cy="185" rx="40" ry="18" fill="#a9754a"/>
+<text x="390" y="190" text-anchor="middle" font-size="11" fill="#fff">變養分回土</text>
+<g fill="#7aa050"><circle cx="345" cy="160" r="5"/><circle cx="358" cy="168" r="4"/></g>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：黴菌是大自然的回收大隊。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「它把落葉分解成養分！」</text>
+</svg>

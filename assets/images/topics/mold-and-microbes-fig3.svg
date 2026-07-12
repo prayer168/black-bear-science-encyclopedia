@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef2f4"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a6a7a">發霉條件變因（全程密封）</text>
+
+  <!-- 4 sealed bags -->
+  <!-- helper: bag -->
+  <!-- 1 dry room temp -->
+  <g transform="translate(30,55)">
+    <rect x="0" y="0" width="150" height="130" rx="8" fill="#fff" stroke="#88b8c8" stroke-width="2"/>
+    <rect x="20" y="10" width="110" height="14" rx="4" fill="#c8dde4"/>
+    <rect x="35" y="45" width="80" height="55" rx="8" fill="#f0dcae" stroke="#c0a050"/>
+    <text x="75" y="118" text-anchor="middle" font-size="12" fill="#c0602a">乾燥・常溫</text>
+    <text x="75" y="40" text-anchor="middle" font-size="10" fill="#2a7a5a">霉少</text>
+  </g>
+  <!-- 2 wet room temp -->
+  <g transform="translate(200,55)">
+    <rect x="0" y="0" width="150" height="130" rx="8" fill="#fff" stroke="#88b8c8" stroke-width="2"/>
+    <rect x="20" y="10" width="110" height="14" rx="4" fill="#c8dde4"/>
+    <rect x="35" y="45" width="80" height="55" rx="8" fill="#f0dcae" stroke="#c0a050"/>
+    <g opacity="0.75"><circle cx="55" cy="62" r="12" fill="#6a9a3a"/><circle cx="90" cy="78" r="14" fill="#5a8a3a"/><circle cx="72" cy="88" r="9" fill="#8aa850"/></g>
+    <text x="75" y="118" text-anchor="middle" font-size="12" fill="#c0402a" font-weight="bold">潮溼・常溫</text>
+    <text x="75" y="40" text-anchor="middle" font-size="10" fill="#c0402a" font-weight="bold">霉最多</text>
+  </g>
+  <!-- 3 wet fridge -->
+  <g transform="translate(370,55)">
+    <rect x="0" y="0" width="150" height="130" rx="8" fill="#eef6fb" stroke="#5a9ac8" stroke-width="2"/>
+    <rect x="20" y="10" width="110" height="14" rx="4" fill="#c8dde4"/>
+    <rect x="35" y="45" width="80" height="55" rx="8" fill="#f0dcae" stroke="#c0a050"/>
+    <g opacity="0.5"><circle cx="70" cy="72" r="8" fill="#7aa050"/></g>
+    <text x="75" y="118" text-anchor="middle" font-size="12" fill="#2a6a9a">潮溼・冷藏 ❄️</text>
+    <text x="75" y="40" text-anchor="middle" font-size="10" fill="#2a6a9a">霉較少</text>
+  </g>
+  <!-- 4 dry fridge -->
+  <g transform="translate(540,55)">
+    <rect x="0" y="0" width="150" height="130" rx="8" fill="#eef6fb" stroke="#5a9ac8" stroke-width="2"/>
+    <rect x="20" y="10" width="110" height="14" rx="4" fill="#c8dde4"/>
+    <rect x="35" y="45" width="80" height="55" rx="8" fill="#f0dcae" stroke="#c0a050"/>
+    <text x="75" y="118" text-anchor="middle" font-size="12" fill="#2a6a9a">乾燥・冷藏 ❄️</text>
+    <text x="75" y="40" text-anchor="middle" font-size="10" fill="#2a7a5a">幾乎沒有</text>
+  </g>
+
+  <rect x="150" y="215" width="400" height="46" rx="23" fill="#fff3d6" stroke="#d0a020" stroke-width="2"/>
+  <text x="350" y="244" text-anchor="middle" font-size="16" font-weight="bold" fill="#b07a10">潮溼＋溫暖，最容易發霉</text>
+
+  <rect x="180" y="280" width="340" height="40" rx="10" fill="#ffe0e0" stroke="#e08080" stroke-width="2"/>
+  <text x="350" y="306" text-anchor="middle" font-size="15" font-weight="bold" fill="#c04040">⚠️ 全程密封，不可打開／不聞不摸不吃</text>
+
+  <text x="350" y="360" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a6a7a">潮溼又溫暖最容易發霉，乾燥低溫可防霉。</text>
+</svg>

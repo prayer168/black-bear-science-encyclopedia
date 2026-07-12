@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6f0f2"/>
+<rect x="0" y="205" width="520" height="73" fill="#88b0a0" opacity="0.35"/>
+<!-- four small sealed bags -->
+<g>
+<rect x="230" y="120" width="52" height="42" rx="4" fill="#fff" stroke="#88b8c8" stroke-width="2"/>
+<rect x="238" y="132" width="36" height="22" rx="4" fill="#f0dcae"/>
+<g opacity="0.75"><circle cx="252" cy="142" r="8" fill="#5a8a3a"/></g>
+<text x="256" y="176" text-anchor="middle" font-size="8" fill="#c0402a">溼常溫</text>
+</g>
+<g>
+<rect x="292" y="120" width="52" height="42" rx="4" fill="#fff" stroke="#88b8c8" stroke-width="2"/>
+<rect x="300" y="132" width="36" height="22" rx="4" fill="#f0dcae"/>
+<text x="318" y="176" text-anchor="middle" font-size="8" fill="#a06a20">乾常溫</text>
+</g>
+<g>
+<rect x="354" y="120" width="52" height="42" rx="4" fill="#eef6fb" stroke="#5a9ac8" stroke-width="2"/>
+<rect x="362" y="132" width="36" height="22" rx="4" fill="#f0dcae"/>
+<text x="380" y="176" text-anchor="middle" font-size="8" fill="#2a6a9a">溼冷藏</text>
+</g>
+<!-- drop -->
+<g transform="translate(60,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：潮溼又溫暖的吐司先發霉。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「全程密封不可打開喔！」</text>
+</svg>

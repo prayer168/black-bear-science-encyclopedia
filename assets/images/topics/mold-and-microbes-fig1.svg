@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4e8"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a7a3a">分解者的角色與物質循環</text>
+
+  <!-- circular layout -->
+  <!-- producer (top) -->
+  <g transform="translate(350,90)">
+    <line x1="0" y1="20" x2="0" y2="-6" stroke="#4a7030" stroke-width="5"/>
+    <ellipse cx="0" cy="-12" rx="26" ry="16" fill="#6ba03a"/>
+    <text x="0" y="48" text-anchor="middle" font-size="13" fill="#2a6a2a" font-weight="bold">生產者（植物）</text>
+  </g>
+  <!-- consumer (right) -->
+  <g transform="translate(560,210)">
+    <ellipse cx="0" cy="0" rx="30" ry="20" fill="#c98a5a"/>
+    <circle cx="22" cy="-10" r="10" fill="#c98a5a"/><circle cx="20" cy="-13" r="2" fill="#333"/>
+    <text x="0" y="42" text-anchor="middle" font-size="13" fill="#8a5a2a" font-weight="bold">消費者（動物）</text>
+  </g>
+  <!-- dead matter (bottom) -->
+  <g transform="translate(350,310)">
+    <path d="M-24 0 q10 -14 24 -6 q14 -8 24 6 q-12 10 -24 6 q-14 4 -24 -6z" fill="#8a7a3a"/>
+    <text x="0" y="34" text-anchor="middle" font-size="13" fill="#6a5a20" font-weight="bold">死亡生物、落葉</text>
+  </g>
+  <!-- decomposer (left) -->
+  <g transform="translate(140,210)">
+    <g fill="#7aa050"><circle cx="-10" cy="0" r="8"/><circle cx="8" cy="-4" r="7"/><circle cx="4" cy="10" r="6"/><circle cx="-14" cy="12" r="5"/></g>
+    <text x="0" y="40" text-anchor="middle" font-size="13" fill="#3a7a3a" font-weight="bold">分解者（黴菌、細菌）</text>
+  </g>
+  <!-- soil nutrients (center) -->
+  <ellipse cx="350" cy="205" rx="46" ry="22" fill="#a9754a"/>
+  <text x="350" y="210" text-anchor="middle" font-size="12" fill="#fff" font-weight="bold">土壤養分</text>
+
+  <!-- cycle arrows -->
+  <g fill="none" stroke="#4a8a4a" stroke-width="3">
+    <path d="M400 120 q90 30 130 70" marker-end="url(#mc)"/>
+    <path d="M540 250 q-90 50 -160 45" marker-end="url(#mc)"/>
+    <path d="M300 320 q-90 -30 -140 -80" marker-end="url(#mc)"/>
+    <path d="M180 190 q80 -50 150 -70" marker-end="url(#mc)"/>
+  </g>
+  <defs><marker id="mc" markerWidth="11" markerHeight="11" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#4a8a4a"/></marker></defs>
+  <!-- nutrient back to plant -->
+  <path d="M340 185 q-6 -50 6 -80" stroke="#c08a3a" stroke-width="2.5" stroke-dasharray="5 4" fill="none" marker-end="url(#mc2)"/>
+  <defs><marker id="mc2" markerWidth="10" markerHeight="10" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#c08a3a"/></marker></defs>
+  <text x="300" y="150" font-size="10" fill="#a06a20">養分回給植物</text>
+
+  <text x="350" y="386" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7a3a">分解者把死掉的生物變養分，讓大自然回收再利用。</text>
+</svg>
