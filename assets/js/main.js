@@ -108,7 +108,7 @@ const TOPICS = [
   {id:"photosynthesis-respiration",title:"植物也會呼吸嗎？光合作用與呼吸作用",grade:6,category:"plants-life",status:"published",path:"topics/grade-6/photosynthesis-respiration.html",keywords:["光合作用","呼吸作用","氧氣"]},
   {id:"heredity-family-face",title:"為什麼我像爸爸又像媽媽？遺傳初探",grade:6,category:"animals-insects",status:"published",path:"topics/grade-6/heredity-family-face.html",keywords:["遺傳","性狀","親代"]},
   {id:"greenhouse-warming-earth",title:"地球發燒了：氣候變遷與溫室效應",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/greenhouse-warming-earth.html",keywords:["溫室效應","氣候變遷","減碳"]},
-  {id:"renewable-energy",title:"風、光、水來發電：再生能源",grade:6,category:"ecology-sustainability",status:"planned",path:"",keywords:["再生能源","太陽能","風力"]},
+  {id:"renewable-energy",title:"風、光、水來發電：再生能源",grade:6,category:"ecology-sustainability",status:"published",path:"topics/grade-6/renewable-energy.html",keywords:["再生能源","太陽能","風力"]},
   {id:"data-tells-story",title:"資料會說話：圖表與統計初探",grade:6,category:"inquiry-methods",status:"planned",path:"",keywords:["圖表","長條圖","資料"]}
 ];
 

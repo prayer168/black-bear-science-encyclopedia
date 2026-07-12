@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef3f7"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a6a8a">發電是能量轉換</text>
+
+  <!-- solar -->
+  <rect x="20" y="60" width="215" height="280" rx="12" fill="#fdf6e6" stroke="#e0b850" stroke-width="2"/>
+  <text x="127" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#b08010">太陽能發電</text>
+  <circle cx="70" cy="130" r="20" fill="#ffd24a"/><g stroke="#ffd24a" stroke-width="3"><line x1="70" y1="152" x2="70" y2="162"/></g>
+  <rect x="105" y="150" width="70" height="44" rx="4" fill="#2a5a9a" transform="rotate(-8 140 172)"/>
+  <g stroke="#5a8ac8" stroke-width="1"><line x1="115" y1="158" x2="170" y2="150"/><line x1="118" y1="172" x2="173" y2="164"/></g>
+  <path d="M80 140 L110 165" stroke="#f0a020" stroke-width="3" marker-end="url(#re)"/>
+  <text x="127" y="240" text-anchor="middle" font-size="13" fill="#b08010">光能 → 電能 ⚡</text>
+  <text x="127" y="290" text-anchor="middle" font-size="26">⚡</text>
+
+  <!-- wind -->
+  <rect x="245" y="60" width="215" height="280" rx="12" fill="#eaf5fb" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="352" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">風力發電</text>
+  <line x1="352" y1="220" x2="352" y2="140" stroke="#888" stroke-width="5"/><circle cx="352" cy="140" r="6" fill="#666"/>
+  <g stroke="#7ab0d0" stroke-width="5"><line x1="352" y1="140" x2="352" y2="108"/><line x1="352" y1="140" x2="380" y2="156"/><line x1="352" y1="140" x2="324" y2="156"/></g>
+  <g stroke="#a8cbe0" stroke-width="2" fill="none"><path d="M290 130 q14 -6 26 0"/><path d="M290 145 q14 -6 26 0"/></g>
+  <text x="300" y="128" font-size="11" fill="#5a8ab0">風</text>
+  <text x="352" y="255" text-anchor="middle" font-size="13" fill="#2a6a9a">動能 → 電能 ⚡</text>
+  <text x="352" y="300" text-anchor="middle" font-size="26">⚡</text>
+
+  <!-- hydro -->
+  <rect x="470" y="60" width="210" height="280" rx="12" fill="#eaf7f2" stroke="#5aa090" stroke-width="2"/>
+  <text x="575" y="86" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a5a">水力發電</text>
+  <rect x="500" y="110" width="70" height="60" fill="#a6d4e4"/>
+  <path d="M570 150 q20 20 30 50" fill="none" stroke="#5a9ac8" stroke-width="8"/>
+  <circle cx="610" cy="215" r="20" fill="none" stroke="#666" stroke-width="4"/>
+  <g stroke="#666" stroke-width="3"><line x1="610" y1="195" x2="610" y2="235"/><line x1="590" y1="215" x2="630" y2="215"/></g>
+  <text x="575" y="270" text-anchor="middle" font-size="12" fill="#2a7a5a">水往下流的能量 → 電 ⚡</text>
+  <text x="575" y="308" text-anchor="middle" font-size="26">⚡</text>
+
+  <defs><marker id="re" markerWidth="10" markerHeight="10" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#f0a020"/></marker></defs>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a8a">陽光、風、流水，各把自己的能量變成電。</text>
+</svg>

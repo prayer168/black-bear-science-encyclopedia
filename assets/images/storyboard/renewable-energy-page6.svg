@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0b090" opacity="0.4"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- off light + earth happy -->
+<circle cx="270" cy="135" r="16" fill="#b8b8b8" stroke="#888" stroke-width="2"/><rect x="262" y="151" width="16" height="10" fill="#888"/>
+<text x="270" y="185" text-anchor="middle" font-size="10" fill="#3a7a4a">關燈</text>
+<circle cx="340" cy="140" r="24" fill="#5aa0e0"/><path d="M322 132 a12 10 0 0 1 24 3" fill="#6ba03a"/>
+<circle cx="332" cy="138" r="2.5" fill="#fff"/><circle cx="348" cy="138" r="2.5" fill="#fff"/>
+<path d="M330 150 q10 6 20 0" fill="none" stroke="#234" stroke-width="2"/>
+<!-- bear -->
+<g transform="translate(400,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a6a3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：再生能源也要省，能量是轉換不是消失。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「用不完就狂開！」🐻「省電＝少排碳，很有用喔！」</text>
+</svg>

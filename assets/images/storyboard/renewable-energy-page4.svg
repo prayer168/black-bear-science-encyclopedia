@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef2f8"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0a8c0" opacity="0.35"/>
+<!-- energy conversion arrows -->
+<circle cx="270" cy="120" r="16" fill="#ffd24a"/><text x="270" y="150" text-anchor="middle" font-size="10" fill="#a07010">光能</text>
+<path d="M295 125 L345 140" stroke="#f0a020" stroke-width="3" marker-end="url(#r4)"/>
+<defs><marker id="r4" markerWidth="9" markerHeight="9" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#3a7a4a"/></marker></defs>
+<text x="365" y="135" font-size="20" fill="#e0a020">⚡</text>
+<text x="380" y="155" font-size="10" fill="#2a6a4a">電能</text>
+<!-- beetle -->
+<g transform="translate(60,125)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：發電是把能量轉換成電。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「能量不會消失，只會轉換！」</text>
+</svg>

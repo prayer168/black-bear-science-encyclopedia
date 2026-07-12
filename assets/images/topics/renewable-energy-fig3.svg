@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef6ee"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a7a4a">選乾淨能源＋節約用電</text>
+
+  <!-- center earth -->
+  <circle cx="350" cy="205" r="48" fill="#5aa0e0"/>
+  <path d="M315 195 a18 16 0 0 1 36 4 a15 13 0 0 1 28 -2" fill="#6ba03a"/>
+  <path d="M320 228 q30 12 60 0" fill="#6ba03a"/>
+  <circle cx="335" cy="200" r="4" fill="#fff"/><circle cx="335" cy="200" r="2" fill="#333"/>
+  <circle cx="366" cy="200" r="4" fill="#fff"/><circle cx="366" cy="200" r="2" fill="#333"/>
+  <path d="M335 216 q15 10 30 0" fill="none" stroke="#234" stroke-width="2"/>
+
+  <!-- 1 solar roof -->
+  <rect x="30" y="60" width="180" height="105" rx="10" fill="#fff7e0" stroke="#e0b040" stroke-width="2"/>
+  <text x="120" y="84" text-anchor="middle" font-size="13" font-weight="bold" fill="#a07010">屋頂太陽能</text>
+  <polygon points="80,140 160,140 145,110 95,110" fill="#c08a5a"/>
+  <rect x="98" y="115" width="44" height="20" fill="#2a5a9a"/>
+  <text x="120" y="158" text-anchor="middle" font-size="10" fill="#a07010">發乾淨的電</text>
+
+  <!-- 2 turn off -->
+  <rect x="490" y="60" width="180" height="105" rx="10" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="580" y="84" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a7a4a">關燈拔插頭</text>
+  <circle cx="545" cy="120" r="14" fill="#b8b8b8" stroke="#888" stroke-width="2"/><rect x="537" y="134" width="16" height="10" fill="#888"/>
+  <rect x="600" y="112" width="20" height="26" rx="3" fill="#c08a5a"/><path d="M622 120 l14 -6 l-2 8z" fill="#888"/>
+  <text x="580" y="158" text-anchor="middle" font-size="10" fill="#2a7a4a">待機也耗電</text>
+
+  <!-- 3 AC 26-28 -->
+  <rect x="30" y="245" width="180" height="105" rx="10" fill="#eaf5fb" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="120" y="269" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a6a9a">冷氣26-28度</text>
+  <rect x="70" y="285" width="100" height="34" rx="6" fill="#fff" stroke="#88b8c8" stroke-width="2"/>
+  <text x="120" y="308" text-anchor="middle" font-size="16" fill="#2a6a9a" font-weight="bold">26~28℃</text>
+  <text x="120" y="340" text-anchor="middle" font-size="10" fill="#2a6a9a">搭配電扇</text>
+
+  <!-- 4 energy label -->
+  <rect x="490" y="245" width="180" height="105" rx="10" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="580" y="269" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a7a4a">節能標章家電</text>
+  <rect x="555" y="282" width="50" height="40" rx="4" fill="#7ab060"/>
+  <text x="580" y="300" text-anchor="middle" font-size="10" fill="#fff">節能</text><text x="580" y="314" text-anchor="middle" font-size="10" fill="#fff">標章</text>
+  <text x="580" y="342" text-anchor="middle" font-size="10" fill="#2a7a4a">同樣事用更少電</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a4a">用乾淨能源、隨手節電，一起讓地球永續。</text>
+</svg>

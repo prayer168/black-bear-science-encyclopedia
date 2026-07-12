@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e8e2d8"/>
+<rect x="0" y="205" width="520" height="73" fill="#a09880" opacity="0.5"/>
+<!-- power plant smokestacks -->
+<rect x="300" y="130" width="34" height="80" fill="#9a9a9a"/>
+<rect x="345" y="115" width="34" height="95" fill="#8a8a8a"/>
+<g fill="#bbb" opacity="0.85"><circle cx="317" cy="120" r="12"/><circle cx="332" cy="106" r="10"/><circle cx="362" cy="105" r="12"/><circle cx="378" cy="92" r="10"/></g>
+<text x="345" y="230" text-anchor="middle" font-size="10" fill="#8a5a2a">火力發電·排碳</text>
+<!-- drop -->
+<g transform="translate(60,125)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="94" height="94"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：燒煤石油會用完又排碳。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「那些叫非再生能源。」</text>
+</svg>
