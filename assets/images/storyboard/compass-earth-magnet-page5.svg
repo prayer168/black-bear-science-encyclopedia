@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ee"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab090" opacity="0.35"/>
+<!-- compass with directions -->
+<circle cx="320" cy="140" r="48" fill="#fff" stroke="#888" stroke-width="2"/>
+<polygon points="320,100 328,140 320,146 312,140" fill="#e05a5a"/>
+<polygon points="320,180 328,140 320,134 312,140" fill="#5a7ac8"/>
+<text x="320" y="94" text-anchor="middle" font-size="10" fill="#c04040">北</text>
+<text x="378" y="144" font-size="10" fill="#2a7a4a">東</text><text x="252" y="144" font-size="10" fill="#2a7a4a">西</text>
+<!-- card with X -->
+<rect x="400" y="120" width="40" height="26" rx="3" fill="#e0b040"/>
+<line x1="400" y1="120" x2="440" y2="146" stroke="#c04040" stroke-width="3"/><line x1="440" y1="120" x2="400" y2="146" stroke="#c04040" stroke-width="3"/>
+<text x="420" y="162" text-anchor="middle" font-size="9" fill="#c04040">磁卡遠離</text>
+<!-- drop -->
+<g transform="translate(55,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：面向北，右東左西後南。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「磁鐵要遠離手機和磁卡！」</text>
+</svg>

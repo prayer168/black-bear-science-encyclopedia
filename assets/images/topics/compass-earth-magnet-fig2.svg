@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf0f7"/>
+  <text x="350" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a5a8a">指北針為什麼指北——地球大磁鐵</text>
+
+  <!-- Earth -->
+  <circle cx="350" cy="215" r="130" fill="#bfe0ef" stroke="#6aa0c8" stroke-width="2" opacity="0.85"/>
+  <path d="M250 170 q40 -14 80 4 q40 -18 80 2 q-20 30 -60 26 q-40 20 -100 -8z" fill="#8fc070" opacity="0.7"/>
+  <path d="M300 280 q50 12 100 -6 q-10 26 -50 30 q-40 -4 -50 -24z" fill="#8fc070" opacity="0.7"/>
+  <!-- internal tilted bar magnet -->
+  <g transform="rotate(-15 350 215)">
+    <rect x="335" y="110" width="30" height="105" fill="#e05a5a"/><rect x="335" y="215" width="30" height="105" fill="#5a7ac8"/>
+    <text x="350" y="140" text-anchor="middle" font-size="15" fill="#fff" font-weight="bold">N</text>
+    <text x="350" y="300" text-anchor="middle" font-size="15" fill="#fff" font-weight="bold">S</text>
+  </g>
+  <text x="350" y="215" text-anchor="middle" font-size="12" fill="#3a4a6a" font-weight="bold">地球像大磁鐵</text>
+
+  <!-- north label -->
+  <text x="350" y="70" text-anchor="middle" font-size="16" fill="#2a5a8a" font-weight="bold">北 ↑</text>
+
+  <!-- compass on surface -->
+  <g transform="translate(350,85)">
+    <circle cx="0" cy="0" r="30" fill="#fff" stroke="#888" stroke-width="2"/>
+    <polygon points="0,-22 6,0 0,4 -6,0" fill="#e05a5a"/>
+    <polygon points="0,22 6,0 0,-4 -6,0" fill="#5a7ac8"/>
+    <text x="0" y="-24" text-anchor="middle" font-size="9" fill="#333">N</text>
+  </g>
+  <text x="430" y="90" font-size="12" fill="#2a5a8a">磁針 N 端指北</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a5a8a">地球是大磁鐵，讓小磁針乖乖指北。</text>
+</svg>

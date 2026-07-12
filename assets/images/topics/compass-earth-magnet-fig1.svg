@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef2f7"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a5a8a">磁鐵的兩極與同斥異吸</text>
+
+  <!-- single bar magnet top -->
+  <g transform="translate(230,80)">
+    <rect x="0" y="0" width="120" height="40" fill="#e05a5a"/><rect x="120" y="0" width="120" height="40" fill="#5a7ac8"/>
+    <text x="60" y="27" text-anchor="middle" font-size="20" fill="#fff" font-weight="bold">N</text>
+    <text x="180" y="27" text-anchor="middle" font-size="20" fill="#fff" font-weight="bold">S</text>
+  </g>
+  <text x="350" y="145" text-anchor="middle" font-size="13" fill="#3a5a8a">每個磁鐵都有 N 極（紅）和 S 極（藍）</text>
+
+  <!-- same pole repel -->
+  <text x="180" y="185" text-anchor="middle" font-size="15" font-weight="bold" fill="#c04a4a">同極相斥（推開）</text>
+  <g transform="translate(70,205)">
+    <rect x="0" y="0" width="55" height="30" fill="#5a7ac8"/><rect x="55" y="0" width="55" height="30" fill="#e05a5a"/>
+    <text x="82" y="21" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">N</text>
+  </g>
+  <g transform="translate(210,205)">
+    <rect x="0" y="0" width="55" height="30" fill="#e05a5a"/><rect x="55" y="0" width="55" height="30" fill="#5a7ac8"/>
+    <text x="28" y="21" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">N</text>
+  </g>
+  <path d="M188 220 L172 220" stroke="#c04a4a" stroke-width="3" marker-end="url(#rp1)"/>
+  <path d="M202 220 L218 220" stroke="#c04a4a" stroke-width="3" marker-end="url(#rp2)"/>
+  <defs>
+    <marker id="rp1" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto"><path d="M6 0 L0 3 L6 6 z" fill="#c04a4a"/></marker>
+    <marker id="rp2" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#c04a4a"/></marker>
+  </defs>
+  <text x="190" y="262" text-anchor="middle" font-size="12" fill="#c04a4a">N 對 N 互相推開</text>
+
+  <!-- opposite pole attract -->
+  <text x="520" y="185" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a4a">異極相吸（吸住）</text>
+  <g transform="translate(410,205)">
+    <rect x="0" y="0" width="55" height="30" fill="#5a7ac8"/><rect x="55" y="0" width="55" height="30" fill="#e05a5a"/>
+    <text x="82" y="21" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">N</text>
+  </g>
+  <g transform="translate(550,205)">
+    <rect x="0" y="0" width="55" height="30" fill="#5a7ac8"/><rect x="55" y="0" width="55" height="30" fill="#e05a5a"/>
+    <text x="28" y="21" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">S</text>
+  </g>
+  <path d="M528 220 L544 220" stroke="#2a7a4a" stroke-width="3" marker-end="url(#at1)"/>
+  <path d="M562 220 L546 220" stroke="#2a7a4a" stroke-width="3" marker-end="url(#at2)"/>
+  <defs>
+    <marker id="at1" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#2a7a4a"/></marker>
+    <marker id="at2" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto"><path d="M6 0 L0 3 L6 6 z" fill="#2a7a4a"/></marker>
+  </defs>
+  <text x="530" y="262" text-anchor="middle" font-size="12" fill="#2a7a4a">N 對 S 互相吸住</text>
+
+  <rect x="140" y="300" width="420" height="42" rx="21" fill="#fff3d6" stroke="#d0a020" stroke-width="2"/>
+  <text x="350" y="328" text-anchor="middle" font-size="16" font-weight="bold" fill="#b07a10">磁鐵只吸「含鐵」的東西（鐵、鎳、鈷）</text>
+
+  <text x="350" y="382" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a5a8a">同極相斥（推開）、異極相吸（吸住）。</text>
+</svg>

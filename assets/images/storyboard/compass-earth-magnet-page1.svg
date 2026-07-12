@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#cdd6dc"/>
+<rect x="0" y="205" width="520" height="73" fill="#9aa8b0" opacity="0.5"/>
+<!-- fog -->
+<g fill="#e8edf0" opacity="0.7"><ellipse cx="200" cy="90" rx="70" ry="24"/><ellipse cx="360" cy="70" rx="60" ry="20"/><ellipse cx="420" cy="130" rx="60" ry="22"/></g>
+<!-- compass in hand -->
+<circle cx="330" cy="150" r="34" fill="#fff" stroke="#888" stroke-width="3"/>
+<polygon points="330,124 338,150 330,156 322,150" fill="#e05a5a"/>
+<polygon points="330,176 338,150 330,144 322,150" fill="#5a7ac8"/>
+<text x="330" y="120" text-anchor="middle" font-size="9" fill="#333">N</text>
+<!-- fox -->
+<g transform="translate(75,130)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a4a3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：濃霧迷路，隊長拿出指北針。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「它怎麼知道北方在哪？」</text>
+</svg>

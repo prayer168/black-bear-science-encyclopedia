@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f2"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a6a5a">用指北針辨方位＋自製浮針</text>
+
+  <!-- left: direction finding -->
+  <rect x="20" y="55" width="320" height="300" rx="12" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="180" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a4a">面向北，判斷四方位</text>
+  <!-- compass -->
+  <circle cx="180" cy="185" r="60" fill="#fff" stroke="#888" stroke-width="2"/>
+  <polygon points="180,133 190,185 180,193 170,185" fill="#e05a5a"/>
+  <polygon points="180,237 190,185 180,177 170,185" fill="#5a7ac8"/>
+  <text x="180" y="128" text-anchor="middle" font-size="13" fill="#c04040" font-weight="bold">北</text>
+  <text x="180" y="252" text-anchor="middle" font-size="13" fill="#3a5a8a">南（後）</text>
+  <text x="255" y="190" text-anchor="middle" font-size="13" fill="#2a7a4a">東（右）</text>
+  <text x="108" y="190" text-anchor="middle" font-size="13" fill="#2a7a4a">西（左）</text>
+  <text x="180" y="320" text-anchor="middle" font-size="12" fill="#3a6a4a">面向北：右東、左西、後南</text>
+
+  <!-- right: floating needle steps -->
+  <rect x="360" y="55" width="320" height="300" rx="12" fill="#eaf5fb" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="520" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6a9a">自製浮針指北針</text>
+  <!-- step1 rub -->
+  <text x="380" y="115" font-size="12" fill="#2a6a9a" font-weight="bold">① 磁鐵同方向摩擦針</text>
+  <rect x="390" y="125" width="70" height="16" fill="#e05a5a"/><text x="425" y="137" text-anchor="middle" font-size="9" fill="#fff">磁鐵</text>
+  <line x1="480" y1="133" x2="600" y2="133" stroke="#999" stroke-width="3"/>
+  <path d="M470 120 l16 0" stroke="#2a6a9a" stroke-width="2" marker-end="url(#c3)"/>
+  <defs><marker id="c3" markerWidth="9" markerHeight="9" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#2a6a9a"/></marker></defs>
+  <!-- step2 pierce foam -->
+  <text x="380" y="180" font-size="12" fill="#2a6a9a" font-weight="bold">② 針穿過小保麗龍</text>
+  <ellipse cx="500" cy="205" rx="34" ry="14" fill="#fff" stroke="#c0c0c0" stroke-width="2"/>
+  <line x1="466" y1="205" x2="540" y2="205" stroke="#999" stroke-width="3"/>
+  <!-- step3 float -->
+  <text x="380" y="250" font-size="12" fill="#2a6a9a" font-weight="bold">③ 輕放水面，轉到南北</text>
+  <path d="M400 300 L640 300 L640 320 L400 320 z" fill="#a6d4e4" opacity="0.6"/>
+  <ellipse cx="520" cy="298" rx="34" ry="10" fill="#fff" stroke="#c0c0c0" stroke-width="1.5"/>
+  <line x1="490" y1="298" x2="550" y2="298" stroke="#999" stroke-width="3"/>
+  <text x="560" y="285" font-size="16" fill="#2a6a9a">↕</text>
+  <text x="520" y="342" text-anchor="middle" font-size="11" fill="#2a6a9a">針指向南北</text>
+
+  <text x="350" y="382" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a6a5a">面向北，右東左西後南；自己也能做浮針指北針。</text>
+</svg>
