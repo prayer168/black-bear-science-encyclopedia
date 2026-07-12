@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#181e38"/>
+<rect x="0" y="205" width="520" height="73" fill="#2a3050"/>
+<!-- constellation with dashed lines -->
+<g fill="#fff8d0"><circle cx="280" cy="70" r="4"/><circle cx="340" cy="90" r="4.5"/><circle cx="380" cy="140" r="4"/><circle cx="320" cy="160" r="4"/><circle cx="270" cy="130" r="4"/></g>
+<polyline points="280,70 340,90 380,140 320,160 270,130 280,70" fill="none" stroke="#7a8ac0" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="330" y="190" text-anchor="middle" font-size="11" fill="#9ab0e0">想像的連線</text>
+<!-- bear -->
+<g transform="translate(70,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#3a2f20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：把亮星連連看，就成了星座。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「天上其實沒有線喔！」</text>
+</svg>

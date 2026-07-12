@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#141a30"/>
+<rect x="0" y="205" width="520" height="73" fill="#2a3050"/>
+<!-- dipper small bottom -->
+<g fill="#fff8d0"><circle cx="200" cy="180" r="3.5"/><circle cx="235" cy="172" r="4"/><circle cx="265" cy="182" r="3.5"/><circle cx="255" cy="150" r="4"/><circle cx="222" cy="148" r="3.5"/></g>
+<!-- pointer extension -->
+<line x1="245" y1="160" x2="400" y2="80" stroke="#ff9a5a" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#p4)"/>
+<defs><marker id="p4" markerWidth="10" markerHeight="10" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#ff9a5a"/></marker></defs>
+<circle cx="415" cy="72" r="5" fill="#fffbe0"/>
+<g stroke="#fffbe0" stroke-width="1.2"><line x1="415" y1="62" x2="415" y2="56"/><line x1="415" y1="82" x2="415" y2="88"/><line x1="405" y1="72" x2="399" y2="72"/><line x1="425" y1="72" x2="431" y2="72"/></g>
+<text x="415" y="50" text-anchor="middle" font-size="12" fill="#ffe07a" font-weight="bold">北極星（北方）</text>
+<!-- beetle -->
+<g transform="translate(55,125)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#3a2f20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：順著勺口延伸，找到北極星。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「北極星永遠指北方！」</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#181e38"/>
+<rect x="0" y="205" width="520" height="73" fill="#2a3050"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#c07ad0" font-weight="bold">?!</text>
+<!-- a normal polaris and a brighter sirius -->
+<circle cx="270" cy="90" r="4" fill="#fff8d0"/>
+<text x="270" y="75" text-anchor="middle" font-size="10" fill="#ffe07a">北極星（普通亮）</text>
+<circle cx="340" cy="140" r="7" fill="#fffbe0"/>
+<g stroke="#fffbe0" stroke-width="1"><line x1="340" y1="128" x2="340" y2="122"/><line x1="340" y1="152" x2="340" y2="158"/></g>
+<text x="345" y="170" text-anchor="middle" font-size="10" fill="#c8d4f0">天狼星（最亮）</text>
+<!-- bear -->
+<g transform="translate(390,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#3a2f20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：沒有線，北極星靠位置不是最亮。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「北極星最亮！」🐻「它靠位置指北喔！」</text>
+</svg>
