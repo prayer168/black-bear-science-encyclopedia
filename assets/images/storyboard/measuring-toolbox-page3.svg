@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6f2f8"/>
+<rect x="0" y="205" width="520" height="73" fill="#88b0c8" opacity="0.35"/>
+<rect x="250" y="200" width="240" height="12" fill="#c9905a"/>
+<!-- fat & thin cups -->
+<path d="M270 140 L262 195 q0 8 10 8 L296 203 q10 0 10 -8 L300 140 z" fill="#cfe4f2" stroke="#88b8c8" stroke-width="2"/>
+<path d="M267 165 L303 165 L299 195 q0 8 -10 8 L272 203 q-10 0 -10 -8 z" fill="#a6d4e4" opacity="0.7"/>
+<!-- graduated cylinder -->
+<path d="M370 130 L370 200 q0 8 8 8 L400 208 q8 0 8 -8 L408 130 z" fill="#eaf6fb" stroke="#88b8c8" stroke-width="2"/>
+<path d="M370 160 L408 160 L408 200 q0 8 -8 8 L378 208 q-8 0 -8 -8 z" fill="#a6d4e4" opacity="0.7"/>
+<g stroke="#5a9ac8" stroke-width="1"><line x1="408" y1="150" x2="416" y2="150"/><line x1="408" y1="175" x2="416" y2="175"/></g>
+<text x="389" y="228" text-anchor="middle" font-size="10" fill="#2a6a9a">量筒有刻度</text>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：杯子胖瘦不同，要用量筒量。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「量體積要用量筒！」</text>
+</svg>

@@ -76,7 +76,7 @@ const TOPICS = [
   {id:"secrets-in-soil",title:"泥土裡藏著什麼？土壤觀察",grade:3,category:"earth-resources",status:"published",path:"topics/grade-3/secrets-in-soil.html",keywords:["土壤","腐植質","黏土"]},
   {id:"mirror-world",title:"鏡子裡的世界：光的反射初體驗",grade:3,category:"sound-light-electricity",status:"published",path:"topics/grade-3/mirror-world.html",keywords:["鏡子","反射","影像"]},
   {id:"elastic-toys",title:"彈簧與橡皮筋：玩具裡的彈力",grade:3,category:"force-motion-machines",status:"published",path:"topics/grade-3/elastic-toys.html",keywords:["彈簧","橡皮筋","彈力","形變"]},
-  {id:"measuring-toolbox",title:"我的測量工具箱：長度與體積怎麼量",grade:3,category:"inquiry-methods",status:"planned",path:"",keywords:["尺","量筒","單位","測量"]},
+  {id:"measuring-toolbox",title:"我的測量工具箱：長度與體積怎麼量",grade:3,category:"inquiry-methods",status:"published",path:"topics/grade-3/measuring-toolbox.html",keywords:["尺","量筒","單位","測量"]},
 
   {id:"bird-beak-code",title:"鳥嘴的形狀密碼：吃什麼長什麼嘴",grade:4,category:"animals-insects",status:"published",path:"topics/grade-4/bird-beak-code.html",keywords:["鳥喙","食性","適應"]},
   {id:"water-surface-tension",title:"水黽為什麼不會沉？水的表面張力",grade:4,category:"air-water-weather",status:"published",path:"topics/grade-4/water-surface-tension.html",keywords:["表面張力","水黽","水滴"]},

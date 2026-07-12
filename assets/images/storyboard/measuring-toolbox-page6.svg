@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#c0a878" opacity="0.35"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- two equal lines look different -->
+<line x1="250" y1="110" x2="310" y2="110" stroke="#5a9ac8" stroke-width="5"/>
+<line x1="280" y1="140" x2="280" y2="200" stroke="#5a9ac8" stroke-width="5"/>
+<text x="290" y="230" text-anchor="middle" font-size="10" fill="#3a6a8a">其實一樣長</text>
+<!-- ruler -->
+<rect x="330" y="150" width="70" height="16" fill="#ffe9a8" stroke="#c0a040"/>
+<text x="337" y="145" font-size="9" fill="#c0402a">0</text>
+<!-- bear -->
+<g transform="translate(400,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：感覺會騙人，起點要對準0。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「用眼睛看就準！」🐻「從1量到31其實是30喔！」</text>
+</svg>

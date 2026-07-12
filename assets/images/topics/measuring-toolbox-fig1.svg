@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef3f7"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#3a6a9a">用對工具量對的量</text>
+
+  <!-- 1 length: ruler + pencil -->
+  <rect x="20" y="55" width="320" height="140" rx="10" fill="#fdf6e8" stroke="#e0b850" stroke-width="2"/>
+  <text x="180" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#b08010">長度 → 尺（公分 cm）</text>
+  <rect x="50" y="120" width="230" height="24" fill="#ffe9a8" stroke="#c0a040" stroke-width="1.5"/>
+  <g stroke="#8a6a20" stroke-width="1"><line x1="70" y1="120" x2="70" y2="132"/><line x1="110" y1="120" x2="110" y2="132"/><line x1="150" y1="120" x2="150" y2="132"/><line x1="190" y1="120" x2="190" y2="132"/><line x1="230" y1="120" x2="230" y2="132"/></g>
+  <rect x="70" y="150" width="160" height="12" rx="6" fill="#e08a5a"/><path d="M230 156 l14 0 l-6 -6 l0 12z" fill="#8a5a2a"/>
+  <text x="150" y="182" text-anchor="middle" font-size="12" fill="#a07020">量鉛筆有多長</text>
+
+  <!-- 2 volume: graduated cylinder -->
+  <rect x="360" y="55" width="320" height="140" rx="10" fill="#eaf5fb" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="520" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6a9a">體積 → 量筒（毫升 mL）</text>
+  <path d="M490 100 L490 175 q0 8 10 8 L520 183 q10 0 10 -8 L530 100 z" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+  <path d="M490 135 L530 135 L530 175 q0 8 -10 8 L500 183 q-10 0 -10 -8 z" fill="#a6d4e4" opacity="0.7"/>
+  <path d="M490 135 q20 6 40 0" fill="none" stroke="#5a9ac8" stroke-width="1.5"/>
+  <g stroke="#5a9ac8" stroke-width="1"><line x1="530" y1="120" x2="538" y2="120"/><line x1="530" y1="150" x2="538" y2="150"/></g>
+  <text x="560" y="150" font-size="12" fill="#2a6a9a">量水多少</text>
+
+  <!-- 3 weight: scale -->
+  <rect x="20" y="215" width="320" height="140" rx="10" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="180" y="240" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a4a">重量 → 磅秤（公克 g）</text>
+  <rect x="120" y="300" width="120" height="40" rx="8" fill="#c8d0d8" stroke="#8a929a" stroke-width="2"/>
+  <circle cx="180" cy="320" r="14" fill="#fff" stroke="#8a929a" stroke-width="2"/><path d="M180 320 l8 -6" stroke="#e05a5a" stroke-width="2"/>
+  <circle cx="180" cy="285" r="16" fill="#e05a5a"/><path d="M172 285 q8 -8 16 0" fill="#c04a3a"/>
+  <text x="180" y="352" text-anchor="middle" font-size="11" fill="#2a7a4a">量蘋果多重</text>
+
+  <!-- 4 temperature: thermometer -->
+  <rect x="360" y="215" width="320" height="140" rx="10" fill="#fdeef0" stroke="#d68a8a" stroke-width="2"/>
+  <text x="520" y="240" text-anchor="middle" font-size="15" font-weight="bold" fill="#b04a4a">溫度 → 溫度計（度 ℃）</text>
+  <rect x="512" y="265" width="16" height="70" rx="8" fill="#fff" stroke="#888" stroke-width="2"/>
+  <circle cx="520" cy="335" r="14" fill="#e05a5a"/><rect x="515" y="290" width="10" height="48" fill="#e05a5a"/>
+  <g stroke="#888" stroke-width="1"><line x1="528" y1="285" x2="536" y2="285"/><line x1="528" y1="305" x2="536" y2="305"/></g>
+  <text x="560" y="305" font-size="12" fill="#b04a4a">量冷熱</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a6a9a">量長度、體積、重量、溫度，各有專用工具。</text>
+</svg>

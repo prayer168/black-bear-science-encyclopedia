@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef7ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab070" opacity="0.35"/>
+<rect x="250" y="200" width="240" height="12" fill="#c9905a"/>
+<!-- ruler + straight ribbon -->
+<rect x="270" y="150" width="180" height="22" fill="#ffe9a8" stroke="#c0a040" stroke-width="1.5"/>
+<g stroke="#8a6a20" stroke-width="1"><line x1="280" y1="150" x2="280" y2="162"/><line x1="320" y1="150" x2="320" y2="162"/><line x1="360" y1="150" x2="360" y2="162"/><line x1="400" y1="150" x2="400" y2="162"/><line x1="440" y1="150" x2="440" y2="162"/></g>
+<text x="280" y="185" text-anchor="middle" font-size="10" fill="#c0402a">0</text>
+<rect x="280" y="132" width="160" height="10" rx="5" fill="#e05a7a"/>
+<text x="360" y="120" text-anchor="middle" font-size="11" fill="#2a7a4a">都是30公分！</text>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：用尺量，原來都是30公分。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「從0開始、平視刻度！」</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf4f8"/>
+<rect x="0" y="205" width="520" height="73" fill="#88b0c8" opacity="0.3"/>
+<!-- large cylinder concave -->
+<path d="M300 90 L300 190 q0 8 10 8 L344 198 q10 0 10 -8 L354 90 z" fill="#eaf6fb" stroke="#88b8c8" stroke-width="2"/>
+<path d="M300 135 L354 135 L354 190 q0 8 -10 8 L310 198 q-10 0 -10 -8 z" fill="#a6d4e4" opacity="0.7"/>
+<path d="M300 135 q27 12 54 0" fill="#eaf6fb" stroke="#5a9ac8" stroke-width="1.5"/>
+<!-- eye level -->
+<circle cx="240" cy="140" r="10" fill="#fff" stroke="#2a7a4a" stroke-width="2"/><circle cx="243" cy="140" r="4" fill="#2a7a4a"/>
+<line x1="250" y1="140" x2="298" y2="140" stroke="#2a7a4a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="378" y="135" font-size="10" fill="#2a7a4a">平視最低處</text>
+<!-- beetle -->
+<g transform="translate(60,130)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：水面凹下去，平視最低處讀。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「俯視偏大、仰視偏小！」</text>
+</svg>

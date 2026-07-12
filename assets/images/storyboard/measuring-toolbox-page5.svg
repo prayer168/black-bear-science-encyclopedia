@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ee"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab090" opacity="0.35"/>
+<!-- record sheet -->
+<rect x="270" y="100" width="180" height="110" rx="6" fill="#fff" stroke="#7aa080" stroke-width="2"/>
+<line x1="270" y1="130" x2="450" y2="130" stroke="#c0d0c0"/><line x1="270" y1="160" x2="450" y2="160" stroke="#c0d0c0"/><line x1="270" y1="190" x2="450" y2="190" stroke="#c0d0c0"/>
+<text x="285" y="122" font-size="12" fill="#3a6a4a">鉛筆：15 公分</text>
+<text x="285" y="152" font-size="12" fill="#3a6a4a">水：50 毫升</text>
+<text x="285" y="182" font-size="12" fill="#3a6a4a">蘋果：200 公克</text>
+<!-- drop -->
+<g transform="translate(60,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：記錄要寫數字加單位。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「30公分、50毫升，誠實記錄！」</text>
+</svg>
