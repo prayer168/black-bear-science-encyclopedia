@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef0fa"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0a0c8" opacity="0.35"/>
+<!-- triangle -> screw -->
+<polygon points="255,130 340,130 255,105" fill="#c0c0e0" stroke="#7a7ac0" stroke-width="2"/>
+<text x="360" y="130" font-size="16" fill="#5a5aa0">→</text>
+<rect x="385" y="115" width="26" height="90" fill="#b0b0c0" stroke="#8888a0" stroke-width="1.5"/>
+<g stroke="#7a7a98" stroke-width="3"><line x1="385" y1="125" x2="411" y2="132"/><line x1="385" y1="142" x2="411" y2="149"/><line x1="385" y1="159" x2="411" y2="166"/><line x1="385" y1="176" x2="411" y2="183"/><line x1="385" y1="193" x2="411" y2="200"/></g>
+<text x="333" y="230" text-anchor="middle" font-size="10" fill="#5a5aa0">斜面繞成螺紋</text>
+<!-- beetle -->
+<g transform="translate(60,125)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：螺絲就是捲起來的斜面！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「盤山公路也是斜面！」</text>
+</svg>

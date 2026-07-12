@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef7ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab070" opacity="0.35"/>
+<!-- platform + incline board -->
+<rect x="400" y="140" width="70" height="70" fill="#c8bda0"/>
+<polygon points="250,210 400,210 400,140" fill="#d8cdb8" stroke="#a89878" stroke-width="2"/>
+<line x1="250" y1="210" x2="400" y2="140" stroke="#8a7a5a" stroke-width="3"/>
+<!-- bucket on incline -->
+<path d="M320 178 l5 26 q0 4 6 4 l16 0 q6 0 6 -4 l5 -26z" fill="#5a9ac8" stroke="#3a7ab0" stroke-width="2" transform="rotate(-25 335 190)"/>
+<!-- fox pushing -->
+<g transform="translate(150,140)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：改用斜坡推，輕鬆好多！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「咦？輕鬆好多！」</text>
+</svg>

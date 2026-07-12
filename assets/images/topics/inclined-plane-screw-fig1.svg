@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef2ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a7a4a">直接抬 vs 沿斜面推</text>
+
+  <!-- left: vertical lift -->
+  <rect x="20" y="55" width="320" height="300" rx="12" fill="#fdeeee" stroke="#d68a8a" stroke-width="2"/>
+  <text x="180" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#b04a4a">直接垂直抬（費力）</text>
+  <!-- platform -->
+  <rect x="230" y="120" width="90" height="180" fill="#d8cdb8"/>
+  <!-- box lifted -->
+  <rect x="120" y="130" width="46" height="40" fill="#c08a4a" stroke="#8a5a2a" stroke-width="2"/>
+  <!-- spring scale big -->
+  <line x1="143" y1="130" x2="143" y2="90" stroke="#888" stroke-width="2"/>
+  <rect x="128" y="60" width="30" height="30" rx="4" fill="#e05a5a"/><text x="143" y="80" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">大</text>
+  <!-- up arrow height -->
+  <line x1="200" y1="300" x2="200" y2="150" stroke="#b04a4a" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#u)"/>
+  <text x="185" y="240" font-size="11" fill="#b04a4a" transform="rotate(-90 185 240)">高度 h（距離短）</text>
+  <defs><marker id="u" markerWidth="10" markerHeight="10" refX="4" refY="2" orient="auto"><path d="M0 8 L4 0 L8 8 z" fill="#b04a4a"/></marker></defs>
+  <text x="180" y="335" text-anchor="middle" font-size="12" fill="#b04a4a">力大、距離短</text>
+
+  <!-- right: incline -->
+  <rect x="360" y="55" width="320" height="300" rx="12" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="520" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a4a">沿斜面推（省力）</text>
+  <rect x="600" y="150" width="60" height="150" fill="#d8cdb8"/>
+  <!-- incline -->
+  <polygon points="420,300 600,300 600,150" fill="#c8dcc0" stroke="#7aa070" stroke-width="2"/>
+  <line x1="420" y1="300" x2="600" y2="150" stroke="#5a8a4a" stroke-width="3"/>
+  <!-- box on incline -->
+  <rect x="480" y="228" width="40" height="34" fill="#c08a4a" stroke="#8a5a2a" stroke-width="2" transform="rotate(-33 500 245)"/>
+  <!-- small spring scale along incline -->
+  <line x1="490" y1="235" x2="455" y2="264" stroke="#888" stroke-width="2"/>
+  <rect x="435" y="255" width="24" height="24" rx="4" fill="#5aa070"/><text x="447" y="271" text-anchor="middle" font-size="11" fill="#fff" font-weight="bold">小</text>
+  <!-- long distance -->
+  <text x="500" y="320" text-anchor="middle" font-size="11" fill="#2a7a4a">斜邊 L（距離長 L＞h）</text>
+  <text x="520" y="342" text-anchor="middle" font-size="12" fill="#2a7a4a">力小、距離長</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#5a7a4a">沿斜面推較省力，但要走比較長的路。</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ee"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab090" opacity="0.35"/>
+<!-- incline with cart + spring scale -->
+<polygon points="260,200 430,200 430,120" fill="#d8ecd0" stroke="#7aa070" stroke-width="2"/>
+<line x1="260" y1="200" x2="430" y2="120" stroke="#5a8a4a" stroke-width="3"/>
+<rect x="330" y="155" width="30" height="20" fill="#c08a4a" transform="rotate(-25 345 165)"/>
+<line x1="335" y1="160" x2="300" y2="188" stroke="#888" stroke-width="2"/>
+<rect x="280" y="178" width="24" height="20" rx="4" fill="#5aa070"/><text x="292" y="192" text-anchor="middle" font-size="10" fill="#fff">力小</text>
+<!-- drop -->
+<g transform="translate(55,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：坡越緩，需要的力越小。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「省力不省功，路要走長一點！」</text>
+</svg>

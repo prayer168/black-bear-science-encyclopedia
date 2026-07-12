@@ -96,7 +96,7 @@ const TOPICS = [
   {id:"magnifier-refraction",title:"放大鏡的祕密：光的折射與透鏡",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/magnifier-refraction.html",keywords:["折射","放大鏡","凸透鏡"]},
   {id:"echo-and-ultrasound",title:"回聲與超音波：聲音的反彈",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/echo-and-ultrasound.html",keywords:["回聲","反射","蝙蝠"]},
   {id:"series-parallel-circuits",title:"誰的燈泡比較亮？串聯與並聯",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/series-parallel-circuits.html",keywords:["串聯","並聯","燈泡"]},
-  {id:"inclined-plane-screw",title:"斜坡與螺絲：省力的斜面",grade:5,category:"force-motion-machines",status:"planned",path:"",keywords:["斜面","螺絲","省力"]},
+  {id:"inclined-plane-screw",title:"斜坡與螺絲：省力的斜面",grade:5,category:"force-motion-machines",status:"published",path:"topics/grade-5/inclined-plane-screw.html",keywords:["斜面","螺絲","省力"]},
   {id:"mold-and-microbes",title:"看不見的分解者：黴菌與微生物",grade:5,category:"ecology-sustainability",status:"published",path:"topics/grade-5/mold-and-microbes.html",keywords:["黴菌","微生物","分解者"]},
   {id:"four-seasons-stars",title:"夏夜與冬夜的星星不一樣？四季星空",grade:5,category:"earth-resources",status:"planned",path:"",keywords:["四季星空","獵戶座","公轉"]},
 

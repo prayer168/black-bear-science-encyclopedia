@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f0ece0"/>
+<rect x="0" y="205" width="520" height="73" fill="#b0a878" opacity="0.4"/>
+<!-- high flower platform -->
+<rect x="360" y="150" width="90" height="60" fill="#c8bda0"/>
+<!-- water bucket being lifted -->
+<path d="M290 150 l6 40 q0 6 8 6 l24 0 q8 0 8 -6 l6 -40z" fill="#5a9ac8" stroke="#3a7ab0" stroke-width="2"/>
+<path d="M292 150 q22 -8 44 0" fill="none" stroke="#3a7ab0" stroke-width="3"/>
+<!-- fox straining -->
+<g transform="translate(180,140)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="120" font-size="16" fill="#c04040">💦</text>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：直接抬大水桶，好重抬不動！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「根本抬不動啦！」</text>
+</svg>

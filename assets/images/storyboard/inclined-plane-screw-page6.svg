@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#a8a0c0" opacity="0.35"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- steep ramp = tired -->
+<polygon points="240,190 340,190 340,110" fill="#f0d0d0" stroke="#c07a7a" stroke-width="2"/>
+<line x1="240" y1="190" x2="340" y2="110" stroke="#b04a4a" stroke-width="3"/>
+<text x="290" y="210" text-anchor="middle" font-size="10" fill="#b04a4a">陡→費力💦</text>
+<!-- bear -->
+<g transform="translate(400,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：省力不省距離，越緩才越省力。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「越陡越好！」🐻「越陡越費力喔！」</text>
+</svg>

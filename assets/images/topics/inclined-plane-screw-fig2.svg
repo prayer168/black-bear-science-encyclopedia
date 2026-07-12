@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f0"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a7a5a">坡度越緩越省力</text>
+
+  <!-- common height reference -->
+  <line x1="60" y1="300" x2="660" y2="300" stroke="#999" stroke-width="2"/>
+  <text x="350" y="322" text-anchor="middle" font-size="12" fill="#666">（兩坡都上到同樣高度）</text>
+
+  <!-- steep -->
+  <text x="180" y="70" text-anchor="middle" font-size="15" font-weight="bold" fill="#b04a4a">陡坡：費力・路短</text>
+  <polygon points="120,300 240,300 240,120" fill="#f0d0d0" stroke="#c07a7a" stroke-width="2"/>
+  <line x1="120" y1="300" x2="240" y2="120" stroke="#b04a4a" stroke-width="3"/>
+  <rect x="170" y="205" width="34" height="28" fill="#c08a4a" stroke="#8a5a2a" stroke-width="2" transform="rotate(-56 187 219)"/>
+  <rect x="150" y="215" width="24" height="24" rx="4" fill="#e05a5a"/><text x="162" y="231" text-anchor="middle" font-size="11" fill="#fff" font-weight="bold">大</text>
+  <line x1="240" y1="300" x2="240" y2="120" stroke="#888" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="250" y="215" font-size="11" fill="#888">高</text>
+
+  <!-- gentle -->
+  <text x="500" y="70" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a4a">緩坡：省力・路長</text>
+  <polygon points="360,300 640,300 640,120" fill="#d8ecd0" stroke="#7aa070" stroke-width="2"/>
+  <line x1="360" y1="300" x2="640" y2="120" stroke="#2a7a4a" stroke-width="3"/>
+  <rect x="490" y="205" width="34" height="26" fill="#c08a4a" stroke="#8a5a2a" stroke-width="2" transform="rotate(-33 507 218)"/>
+  <rect x="470" y="222" width="22" height="22" rx="4" fill="#5aa070"/><text x="481" y="238" text-anchor="middle" font-size="11" fill="#fff" font-weight="bold">小</text>
+  <line x1="640" y1="300" x2="640" y2="120" stroke="#888" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="650" y="215" font-size="11" fill="#888">高</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7a5a">坡越緩越省力（但要走越長）。</text>
+</svg>
