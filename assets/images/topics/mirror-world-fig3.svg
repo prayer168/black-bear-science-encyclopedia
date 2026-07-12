@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef3f6"/>
+  <text x="350" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#2a5a8a">反射的生活應用與左右相反</text>
+
+  <!-- panel 1: car rear mirror -->
+  <rect x="20" y="55" width="210" height="150" rx="10" fill="#e6eff7" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="125" y="78" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">後照鏡</text>
+  <rect x="55" y="150" width="120" height="30" rx="8" fill="#e06a5a"/>
+  <circle cx="75" cy="182" r="9" fill="#333"/><circle cx="155" cy="182" r="9" fill="#333"/>
+  <rect x="90" y="100" width="50" height="20" rx="4" fill="#8ab8d0" stroke="#5a9ac8" stroke-width="2"/>
+  <path d="M115 135 L115 122" stroke="#3a9ad0" stroke-width="2" marker-end="url(#f3)"/>
+  <text x="125" y="132" font-size="10" fill="#2a6a9a">看到後方</text>
+
+  <!-- panel 2: corner convex mirror -->
+  <rect x="245" y="55" width="210" height="150" rx="10" fill="#f0f7ea" stroke="#7bb046" stroke-width="2"/>
+  <text x="350" y="78" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a7030">轉角凸面鏡</text>
+  <path d="M300 160 L300 110 L360 110" fill="none" stroke="#888" stroke-width="6"/>
+  <circle cx="395" cy="105" r="26" fill="#cfe4f2" stroke="#5a9ac8" stroke-width="3"/>
+  <path d="M340 150 q30 -10 40 -30" stroke="#f0a020" stroke-width="2.5" fill="none" marker-end="url(#f3b)"/>
+  <path d="M375 90 q-30 -6 -55 40" stroke="#3a9ad0" stroke-width="2.5" fill="none" marker-end="url(#f3)"/>
+  <text x="350" y="195" text-anchor="middle" font-size="11" fill="#3a7030">看到看不到的來車</text>
+
+  <!-- panel 3: mirror text reversed -->
+  <rect x="470" y="55" width="210" height="150" rx="10" fill="#f7ece2" stroke="#c08a4a" stroke-width="2"/>
+  <text x="575" y="78" text-anchor="middle" font-size="14" font-weight="bold" fill="#a0602a">鏡中左右相反</text>
+  <text x="510" y="150" font-size="50" font-weight="bold" fill="#333">ㄅ</text>
+  <rect x="562" y="98" width="8" height="86" fill="#8ab8d0"/>
+  <g transform="translate(1200,0) scale(-1,1)"><text x="600" y="150" font-size="50" font-weight="bold" fill="#999">ㄅ</text></g>
+  <text x="575" y="195" text-anchor="middle" font-size="11" fill="#a0602a">照鏡子，字反過來</text>
+
+  <defs>
+    <marker id="f3" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#3a9ad0"/></marker>
+    <marker id="f3b" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#f0a020"/></marker>
+  </defs>
+
+  <rect x="120" y="240" width="460" height="110" rx="12" fill="#fff8ec" stroke="#e0b060" stroke-width="2"/>
+  <text x="350" y="278" text-anchor="middle" font-size="15" fill="#8a5a10">只要想「看到原本看不到的方向」，</text>
+  <text x="350" y="308" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a5a10">就會用到鏡子的反射。</text>
+  <text x="350" y="335" text-anchor="middle" font-size="13" fill="#a0602a">潛望鏡、牙醫小鏡子也都是反射！</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a5a8a">鏡子幫我們看到看不到的方向，影像會左右相反。</text>
+</svg>

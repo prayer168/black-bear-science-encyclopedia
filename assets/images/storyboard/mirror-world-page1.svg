@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#dCEBF2"/>
+<rect x="0" y="205" width="520" height="73" fill="#bcd0da" opacity="0.6"/>
+<!-- mirror frame -->
+<rect x="300" y="60" width="150" height="150" rx="8" fill="#cfe4f2" stroke="#5a9ac8" stroke-width="4"/>
+<line x1="375" y1="60" x2="375" y2="210" stroke="#8ab8d0" stroke-width="2"/>
+<!-- fox real raising left-of-image (their right) -->
+<g transform="translate(70,120)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="96" height="96"/></g>
+<line x1="150" y1="150" x2="185" y2="120" stroke="#e08a4a" stroke-width="7" stroke-linecap="round"/>
+<!-- reflected fox in mirror raising other hand -->
+<g transform="translate(320,120) scale(-1,1) translate(-96,0)" opacity="0.85"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="96" height="96"/></g>
+<line x1="425" y1="150" x2="392" y2="120" stroke="#e08a4a" stroke-width="7" stroke-linecap="round"/>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">1</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第1頁：小狐舉右手，鏡中分身卻舉左手。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「鏡子裡住著相反的我嗎？」</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e4eef0"/>
+<rect x="0" y="205" width="520" height="73" fill="#bcd0da" opacity="0.5"/>
+<!-- wall with light spot -->
+<rect x="430" y="60" width="90" height="160" fill="#f0ead8"/>
+<circle cx="470" cy="120" r="18" fill="#ffe86a" opacity="0.9"/>
+<circle cx="470" cy="120" r="10" fill="#fff8b0"/>
+<!-- flashlight -->
+<rect x="180" y="140" width="46" height="22" rx="4" fill="#555"/>
+<path d="M226 145 l14 6 l-14 6z" fill="#ffe86a"/>
+<!-- mirror -->
+<rect x="300" y="120" width="14" height="60" fill="#cfe4f2" stroke="#5a9ac8" stroke-width="2" transform="rotate(20 307 150)"/>
+<path d="M240 151 L300 150" stroke="#f0a020" stroke-width="3" marker-end="url(#p5)"/>
+<path d="M312 148 L455 122" stroke="#3a9ad0" stroke-width="3" marker-end="url(#p5b)"/>
+<defs><marker id="p5" markerWidth="9" markerHeight="9" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#f0a020"/></marker>
+<marker id="p5b" markerWidth="9" markerHeight="9" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#3a9ad0"/></marker></defs>
+<!-- drop -->
+<g transform="translate(55,135)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="88" height="88"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：用鏡子把光點反射到牆上操控。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「不能反射到別人眼睛喔！」</text>
+</svg>

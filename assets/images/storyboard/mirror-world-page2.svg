@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef0e4"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9b878" opacity="0.35"/>
+<!-- card with normal 'ㄅ' -->
+<rect x="200" y="90" width="70" height="90" rx="6" fill="#fff" stroke="#c08a4a" stroke-width="2"/>
+<text x="235" y="155" text-anchor="middle" font-size="46" font-weight="bold" fill="#333">ㄅ</text>
+<!-- mirror with reversed -->
+<rect x="300" y="80" width="90" height="110" rx="6" fill="#cfe4f2" stroke="#5a9ac8" stroke-width="3"/>
+<g transform="translate(690,0) scale(-1,1)"><text x="345" y="155" text-anchor="middle" font-size="46" font-weight="bold" fill="#777">ㄅ</text></g>
+<text x="345" y="205" text-anchor="middle" font-size="11" fill="#a0602a">反過來了</text>
+<!-- bear -->
+<g transform="translate(55,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：把「ㄅ」字照鏡子，字反過來了！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「這就是鏡子的祕密。」</text>
+</svg>

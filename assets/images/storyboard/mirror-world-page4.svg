@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef2e6"/>
+<rect x="0" y="205" width="520" height="73" fill="#c9b878" opacity="0.35"/>
+<!-- smooth mirror small -->
+<rect x="210" y="90" width="80" height="14" fill="#8ab8d0"/>
+<g stroke="#f0a020" stroke-width="2"><line x1="225" y1="60" x2="240" y2="90"/></g>
+<g stroke="#3a9ad0" stroke-width="2"><line x1="240" y1="90" x2="270" y2="60" marker-end="url(#p4b)"/><line x1="255" y1="90" x2="285" y2="60" marker-end="url(#p4b)"/></g>
+<text x="250" y="125" text-anchor="middle" font-size="10" fill="#2a6a9a">光滑→整齊✓</text>
+<!-- rough wall -->
+<path d="M210 190 l10 -8 l10 8 l10 -8 l10 8 l10 -8 l10 8 l10 -8 l10 8" fill="none" stroke="#a5713f" stroke-width="3"/>
+<g stroke="#3a9ad0" stroke-width="2"><line x1="230" y1="182" x2="210" y2="150" marker-end="url(#p4b)"/><line x1="250" y1="182" x2="270" y2="145" marker-end="url(#p4b)"/><line x1="270" y1="182" x2="290" y2="165" marker-end="url(#p4b)"/></g>
+<text x="250" y="205" text-anchor="middle" font-size="10" fill="#a0602a">粗糙→亂彈✗</text>
+<defs><marker id="p4b" markerWidth="9" markerHeight="9" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#3a9ad0"/></marker></defs>
+<!-- beetle -->
+<g transform="translate(340,130)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：光滑才成像，粗糙就亂彈。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「牆面把光往四面八方亂彈！」</text>
+</svg>

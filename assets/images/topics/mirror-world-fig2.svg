@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f2f4ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a5a7a">光滑面成像 vs 粗糙面漫射</text>
+
+  <!-- left: smooth mirror -->
+  <rect x="30" y="60" width="310" height="300" rx="12" fill="#e6f0f7" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="185" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6a9a">光滑面（鏡子）</text>
+  <!-- smooth surface -->
+  <rect x="60" y="250" width="250" height="16" fill="#8ab8d0"/>
+  <line x1="60" y1="250" x2="310" y2="250" stroke="#5a9ac8" stroke-width="3"/>
+  <!-- incoming parallel -->
+  <g stroke="#f0a020" stroke-width="2.5"><line x1="110" y1="120" x2="150" y2="250" marker-end="url(#s1)"/><line x1="160" y1="120" x2="200" y2="250" marker-end="url(#s1)"/><line x1="210" y1="120" x2="250" y2="250" marker-end="url(#s1)"/></g>
+  <!-- reflected parallel -->
+  <g stroke="#3a9ad0" stroke-width="2.5"><line x1="150" y1="250" x2="190" y2="120" marker-end="url(#s2)"/><line x1="200" y1="250" x2="240" y2="120" marker-end="url(#s2)"/><line x1="250" y1="250" x2="290" y2="120" marker-end="url(#s2)"/></g>
+  <text x="185" y="300" text-anchor="middle" font-size="13" fill="#2a6a9a" font-weight="bold">反射整齊平行</text>
+  <text x="185" y="322" text-anchor="middle" font-size="13" fill="#2a7a2a">→ 能成清楚影像 ✓</text>
+
+  <!-- right: rough surface -->
+  <rect x="360" y="60" width="310" height="300" rx="12" fill="#f6ede2" stroke="#c08a4a" stroke-width="2"/>
+  <text x="515" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#a0602a">粗糙面（牆、紙）</text>
+  <!-- bumpy surface -->
+  <path d="M390 258 l16 -12 l16 12 l16 -12 l16 12 l16 -12 l16 12 l16 -12 l16 12 l16 -12 l16 12 l16 -12 l16 12" fill="none" stroke="#a5713f" stroke-width="4"/>
+  <!-- incoming parallel -->
+  <g stroke="#f0a020" stroke-width="2.5"><line x1="440" y1="120" x2="470" y2="250" marker-end="url(#s1)"/><line x1="500" y1="120" x2="525" y2="250" marker-end="url(#s1)"/><line x1="560" y1="120" x2="580" y2="250" marker-end="url(#s1)"/></g>
+  <!-- reflected scattered -->
+  <g stroke="#3a9ad0" stroke-width="2.5"><line x1="470" y1="250" x2="430" y2="150" marker-end="url(#s2)"/><line x1="525" y1="250" x2="560" y2="140" marker-end="url(#s2)"/><line x1="580" y1="250" x2="620" y2="180" marker-end="url(#s2)"/><line x1="500" y1="250" x2="500" y2="130" marker-end="url(#s2)"/></g>
+  <text x="515" y="300" text-anchor="middle" font-size="13" fill="#a0602a" font-weight="bold">往各方向亂彈（漫射）</text>
+  <text x="515" y="322" text-anchor="middle" font-size="13" fill="#a04a2a">→ 看到顏色但不成像 ✗</text>
+
+  <defs>
+    <marker id="s1" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#f0a020"/></marker>
+    <marker id="s2" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#3a9ad0"/></marker>
+  </defs>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a5a7a">光滑面整齊反射能成像，粗糙面亂彈就不成像。</text>
+</svg>

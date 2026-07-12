@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6eef4"/>
+<rect x="0" y="205" width="520" height="73" fill="#bcd0da" opacity="0.5"/>
+<!-- mirror -->
+<rect x="360" y="70" width="14" height="150" fill="#cfe4f2" stroke="#5a9ac8" stroke-width="2"/>
+<!-- eye -->
+<circle cx="240" cy="100" r="12" fill="#fff" stroke="#333" stroke-width="2"/><circle cx="240" cy="100" r="5" fill="#333"/>
+<!-- light path -->
+<path d="M200 160 L360 175" stroke="#f0a020" stroke-width="3" marker-end="url(#l3)"/>
+<path d="M366 175 L250 108" stroke="#3a9ad0" stroke-width="3" marker-end="url(#l3b)"/>
+<defs><marker id="l3" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#f0a020"/></marker>
+<marker id="l3b" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#3a9ad0"/></marker></defs>
+<text x="270" y="155" font-size="11" fill="#c07a10">光去</text>
+<text x="270" y="130" font-size="11" fill="#2a7ab0">反彈回眼睛</text>
+<!-- bear -->
+<g transform="translate(55,130)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：光反彈進眼睛，我們才看見影像。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「光遇到光滑面會反射！」</text>
+</svg>
