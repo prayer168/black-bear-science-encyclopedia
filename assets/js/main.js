@@ -98,7 +98,7 @@ const TOPICS = [
   {id:"series-parallel-circuits",title:"誰的燈泡比較亮？串聯與並聯",grade:5,category:"sound-light-electricity",status:"published",path:"topics/grade-5/series-parallel-circuits.html",keywords:["串聯","並聯","燈泡"]},
   {id:"inclined-plane-screw",title:"斜坡與螺絲：省力的斜面",grade:5,category:"force-motion-machines",status:"published",path:"topics/grade-5/inclined-plane-screw.html",keywords:["斜面","螺絲","省力"]},
   {id:"mold-and-microbes",title:"看不見的分解者：黴菌與微生物",grade:5,category:"ecology-sustainability",status:"published",path:"topics/grade-5/mold-and-microbes.html",keywords:["黴菌","微生物","分解者"]},
-  {id:"four-seasons-stars",title:"夏夜與冬夜的星星不一樣？四季星空",grade:5,category:"earth-resources",status:"planned",path:"",keywords:["四季星空","獵戶座","公轉"]},
+  {id:"four-seasons-stars",title:"夏夜與冬夜的星星不一樣？四季星空",grade:5,category:"earth-resources",status:"published",path:"topics/grade-5/four-seasons-stars.html",keywords:["四季星空","獵戶座","公轉"]},
 
   {id:"solar-lunar-eclipse",title:"天空的捉迷藏：日食與月食",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/solar-lunar-eclipse.html",keywords:["日食","月食","日月地"]},
   {id:"earth-rotation-seasons",title:"四季為什麼會變換？地球的自轉與公轉",grade:6,category:"earth-resources",status:"published",path:"topics/grade-6/earth-rotation-seasons.html",keywords:["自轉","公轉","地軸","四季"]},

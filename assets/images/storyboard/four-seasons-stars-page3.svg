@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#20263e"/>
+<rect x="0" y="205" width="520" height="73" fill="#2a3050"/>
+<!-- lamp sun + globe -->
+<circle cx="290" cy="140" r="20" fill="#ffd24a"/>
+<g stroke="#ffd24a" stroke-width="2"><line x1="290" y1="164" x2="290" y2="174"/><line x1="266" y1="140" x2="256" y2="140"/></g>
+<text x="290" y="180" text-anchor="middle" font-size="9" fill="#c8b060">太陽（燈）</text>
+<ellipse cx="290" cy="140" rx="90" ry="60" fill="none" stroke="#4a5a8a" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="380" cy="140" r="15" fill="#5aa0e0"/>
+<path d="M365 140 A15 15 0 0 0 395 140 L395 125 A15 15 0 0 0 365 125z" fill="#2a3a5a" opacity="0.5"/>
+<text x="380" y="170" text-anchor="middle" font-size="9" fill="#c8d4f0">地球</text>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#3a2f20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：地球公轉，晚上面對不同方向的星空。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「是我們在搬家，不是星星！」</text>
+</svg>

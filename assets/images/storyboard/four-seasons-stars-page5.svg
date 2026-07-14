@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#1a2038"/>
+<rect x="0" y="205" width="520" height="73" fill="#2a3a2a"/>
+<!-- star wheel -->
+<circle cx="330" cy="150" r="60" fill="#232a48" stroke="#7a8ac0" stroke-width="3"/>
+<circle cx="330" cy="150" r="44" fill="#1a2038"/>
+<g fill="#fff8d0"><circle cx="320" cy="130" r="2"/><circle cx="345" cy="140" r="2"/><circle cx="330" cy="165" r="2"/><circle cx="310" cy="155" r="2"/></g>
+<text x="330" y="228" text-anchor="middle" font-size="10" fill="#9ab0e0">星座盤·轉季節</text>
+<!-- drop -->
+<g transform="translate(55,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#3a2f20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：轉星座盤，看每季的星空。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「北極星附近整年都看得到！」</text>
+</svg>

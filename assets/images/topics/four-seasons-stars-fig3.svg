@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#141a30"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#ffe07a">拱極星整年可見、其他隨季節換</text>
+
+  <!-- polaris + big dipper circling (top area) -->
+  <circle cx="220" cy="150" r="5" fill="#fffbe0"/>
+  <text x="220" y="130" text-anchor="middle" font-size="12" fill="#ffe07a" font-weight="bold">北極星</text>
+  <g fill="none" stroke="#5a6aa0" stroke-width="1.2" stroke-dasharray="5 5"><circle cx="220" cy="150" r="55"/></g>
+  <g fill="#fff8d0"><circle cx="180" cy="130" r="3.5"/><circle cx="200" cy="120" r="3.5"/><circle cx="225" cy="118" r="3.5"/><circle cx="248" cy="128" r="3.5"/><circle cx="255" cy="150" r="3"/><circle cx="238" cy="165" r="3"/><circle cx="212" cy="160" r="3"/></g>
+  <polyline points="180,130 200,120 225,118 248,128 255,150 238,165 212,160 225,118" fill="none" stroke="#5a6aa0" stroke-width="1.2"/>
+  <text x="220" y="228" text-anchor="middle" font-size="11" fill="#9ab0e0">北斗七星·整年看得到</text>
+
+  <!-- horizon with seasonal stars rising -->
+  <line x1="380" y1="300" x2="680" y2="300" stroke="#5a6a9a" stroke-width="2"/>
+  <text x="400" y="322" font-size="12" fill="#9ab0e0">東升</text>
+  <text x="640" y="322" font-size="12" fill="#9ab0e0">西落</text>
+  <g fill="#fff8d0"><circle cx="430" cy="250" r="3"/><circle cx="470" cy="220" r="3.5"/><circle cx="520" cy="200" r="3"/><circle cx="580" cy="220" r="3.5"/><circle cx="620" cy="255" r="3"/></g>
+  <path d="M420 290 q100 -110 210 5" fill="none" stroke="#4a5a8a" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <text x="525" y="180" text-anchor="middle" font-size="11" fill="#c8b0e0">其他星座隨季節換一批</text>
+  <path d="M430 260 l14 -8" stroke="#c0a0d0" stroke-width="2" marker-end="url(#sr)"/>
+  <defs><marker id="sr" markerWidth="9" markerHeight="9" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#c0a0d0"/></marker></defs>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffe07a">北邊的星整年常在，其他方向的星隨季節換。</text>
+</svg>

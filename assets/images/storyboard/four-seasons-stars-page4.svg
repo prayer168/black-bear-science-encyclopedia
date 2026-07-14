@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#161c34"/>
+<rect x="0" y="205" width="520" height="73" fill="#2a3050"/>
+<!-- orion small + scorpius small -->
+<g fill="#fff8d0"><circle cx="250" cy="90" r="3"/><circle cx="290" cy="90" r="3"/><circle cx="262" cy="120" r="2.5"/><circle cx="270" cy="120" r="2.5"/><circle cx="278" cy="120" r="2.5"/></g>
+<text x="270" y="150" text-anchor="middle" font-size="9" fill="#9ab0e0">冬·獵戶座</text>
+<g fill="#fff8d0"><circle cx="360" cy="90" r="3"/><circle cx="385" cy="105" r="3"/><circle cx="395" cy="130" r="3"/></g>
+<circle cx="380" cy="115" r="5" fill="#e0603a"/>
+<text x="378" y="150" text-anchor="middle" font-size="9" fill="#e0b0c0">夏·天蠍座</text>
+<!-- beetle -->
+<g transform="translate(60,125)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#3a2f20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：每季都有招牌星座。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「冬獵戶、夏天蠍，看星猜季節！」</text>
+</svg>

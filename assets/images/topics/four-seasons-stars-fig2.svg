@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#141a30"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#ffe07a">夏夜與冬夜的招牌星座</text>
+
+  <!-- winter left -->
+  <rect x="20" y="55" width="320" height="300" rx="12" fill="#1a2444" stroke="#3a4a7a" stroke-width="2"/>
+  <text x="180" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#9ab8e8">冬夜</text>
+  <!-- orion -->
+  <g fill="#fff8d0">
+    <circle cx="130" cy="130" r="4"/><circle cx="230" cy="130" r="4"/>
+    <circle cx="165" cy="185" r="3.5"/><circle cx="180" cy="185" r="3.5"/><circle cx="195" cy="185" r="3.5"/>
+    <circle cx="125" cy="245" r="4.5"/><circle cx="235" cy="245" r="4"/>
+  </g>
+  <polyline points="130,130 165,185 125,245" fill="none" stroke="#5a6aa0" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <polyline points="230,130 195,185 235,245" fill="none" stroke="#5a6aa0" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="180" y="215" text-anchor="middle" font-size="11" fill="#9ab0e0">獵人腰帶（三星）</text>
+  <circle cx="260" cy="290" r="6" fill="#fffbe0"/><text x="260" y="312" text-anchor="middle" font-size="11" fill="#c8d4f0">天狼星</text>
+  <text x="180" y="340" text-anchor="middle" font-size="14" fill="#9ab8e8" font-weight="bold">獵戶座</text>
+
+  <!-- summer right -->
+  <rect x="360" y="55" width="320" height="300" rx="12" fill="#1a2038" stroke="#5a4a6a" stroke-width="2"/>
+  <text x="520" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#e0b0c0">夏夜</text>
+  <!-- scorpius curve -->
+  <g fill="#fff8d0"><circle cx="440" cy="120" r="3.5"/><circle cx="470" cy="135" r="3.5"/><circle cx="500" cy="155" r="3.5"/><circle cx="515" cy="190" r="3.5"/><circle cx="505" cy="225" r="3.5"/><circle cx="475" cy="245" r="3.5"/></g>
+  <circle cx="485" cy="170" r="6" fill="#e0603a"/>
+  <polyline points="440,120 470,135 485,170 515,190 505,225 475,245" fill="none" stroke="#6a5a7a" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="485" y="160" text-anchor="middle" font-size="10" fill="#e08a7a">心宿二</text>
+  <text x="470" y="278" text-anchor="middle" font-size="14" fill="#e0b0c0" font-weight="bold">天蠍座</text>
+  <!-- summer triangle -->
+  <g fill="#fffbe0"><circle cx="600" cy="120" r="5"/><circle cx="640" cy="180" r="5"/><circle cx="585" cy="200" r="5"/></g>
+  <polyline points="600,120 640,180 585,200 600,120" fill="none" stroke="#8a7a5a" stroke-width="1.5"/>
+  <text x="612" y="235" text-anchor="middle" font-size="11" fill="#e0d0a0">夏季大三角</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffe07a">冬夜獵戶座，夏夜天蠍座與夏季大三角。</text>
+</svg>
