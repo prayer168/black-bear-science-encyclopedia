@@ -1,11 +1,12 @@
 # 交接筆記（HANDOFF）
 
-> 給下一個接手的人／Session。更新於 2026-07-12（第9輪完成）。
+> 給下一個接手的人／Session。更新於 2026-07-12（🎉 全站 80/80 完成）。
 
-## 現況：全站 76/80 上線 ✅（第一批 40/40、第二批 36/40）；第二批第 9 輪已完成，工作區乾淨
+## 現況：🎉 全站 80/80 全數上線完成！（第一批 40/40、第二批 40/40）工作區乾淨，專案主題產製收官
 
-- **第二批進度：36/40 已產製上線**（最新 commit `d490553`「第二批第9輪(4/4)」，已 push、線上皆 200）。工作區乾淨，無 WIP。
-- **第二批已上線 36 篇**（每年級各 9 篇）：
+- **第二批 40/40 全數上線**（最新 commit `17c4e38`「第二批第10輪(4/4)…80/80 完成」，已 push、線上皆 200）。topics.json 無 planned、TOPIC-MAP 80 列全 ✅。工作區乾淨，無 WIP。
+- **全站合計 80 篇**＝第一批 40＋第二批 40，每年級各 20 篇；每篇 14 區塊 HTML＋3 圖解 SVG＋6 分鏡 SVG（第二批新增 40 篇×9＝360 張 SVG）。
+- **第二批已上線 40 篇**（每年級各 10 篇）：
   - 第1輪 `fa70614`：flower-invitation-card(G3)、bird-beak-code(G4)、seed-germination-experiment(G5)、solar-lunar-eclipse(G6)
   - 第2輪 `1af42b0`：snail-and-earthworm(G3)、rainbow-colors(G4)、density-and-buoyancy(G5)、earth-rotation-seasons(G6)
   - 第3輪 `14f96c3`：float-or-sink(G3)、static-electricity-magic(G4)、insect-camouflage(G5)、tides-ocean-breathing(G6)
@@ -15,6 +16,13 @@
   - 第7輪 `f7448d7`→`aa5151d`：mirror-world(G3光反射/INe-Ⅱ-6)、air-expands-contracts(G4熱脹冷縮/INa-Ⅱ-5＋探究能力，中年級無專屬熱脹冷縮碼，已據實標註不硬湊)、series-parallel-circuits(G5串並聯/INe-Ⅱ-8/9，安全紅線只用電池不接插座)、greenhouse-warming-earth(G6溫室效應氣候變遷/INg-Ⅲ-3/4/7，強調溫室效應自然必要、問題在「太多」，區辨暖化≠臭氧洞、天氣≠氣候)。⚠️ 本輪踩雷：延伸閱讀連結曾多次寫錯檔名（light-goes→light-travels-straight、electromagnet-dance→electromagnet-duo、only-one-earth→one-earth-sustainability），寫連結前務必 `ls` 確認實際檔名；另 greenhouse 一度誤打英文「food」、fig1 一度出現重複 x 屬性，皆當場修正。
   - 第8輪 `ceecb43`→`806382b`：elastic-toys(G3彈力/INd-Ⅱ-8+INd-Ⅱ-9，橡皮筋非記憶、安全不對人發射)、star-constellations(G4星座北極星/INc-Ⅱ-10，破除天上有線、北極星最亮迷思)、mold-and-microbes(G5黴菌分解者/INa-Ⅲ-10＋探究能力；無專屬分解者/微生物碼、據實標註；安全紅線發霉物全程密封不聞不摸不吃)、heredity-family-face(G6遺傳/INd-Ⅲ-4，子代非平均、後天不遺傳；性狀調查顧及倫理與隱私、不評優劣)。⚠️ 本輪踩雷：延伸閱讀又寫錯檔名（moon-changes-face→grade-4/moon-changing-face、grade-6/plant-reproduction→grade-5/plant-reproduction），寫連結前務必 ls／grep topics.json 確認實際路徑與年級。
   - 第9輪 `4388daf`→`d490553`：measuring-toolbox(G3測量工具/INc-Ⅱ-1+2＋探究能力，感覺不可靠、起點對0平視、數字加單位)、compass-earth-magnet(G4指北針地磁/INe-Ⅱ-7，磁極同斥異吸、地球像大磁鐵、只吸含鐵；紅線磁鐵遠離磁卡電器不吞)、inclined-plane-screw(G5斜面/INb-Ⅲ-4，省力不省功、越緩越省力、螺絲=捲起斜面)、renewable-energy(G6再生能源/INg-Ⅲ-5，再生vs非再生、發電是能量轉換、能量守恆不說被用光、紅線不碰插座高壓)。延伸閱讀連結皆先 grep topics.json 確認，本輪無檔名踩雷。
+  - 第10輪（最後一輪）`158dd72`→`17c4e38`：silkworm-diary(G3蠶寶寶生活史/INd-Ⅱ-3，完全變態四階段、愛護生命勿野放)、campus-weather-station(G4氣象站/INd-Ⅱ-7，雨量直筒量、風向來向命名、雷雨進室內)、four-seasons-stars(G5四季星空/INc-Ⅲ-14+13，公轉造成、獵戶座被太陽蓋住非消失、區辨自轉/公轉)、data-tells-story(G6圖表統計/對應學習表現探究能力—資料處理與論證，無專屬內容碼據實標註；選對圖表、縱軸從0誠實不誤導、相關≠因果)。⚠️ 本輪踩雷：延伸閱讀寫錯檔名(typhoon-growth→how-typhoon-grows、dissolving-detective→dissolving-fast-slow)、data 篇一度誤打英文「changes」與出現 1 個亂碼字元(�)，皆當場修正——每篇完成除 Cyrillic 外，也要檢查 `s.count('�')`==0 與有無殘留英文單字。
+
+## 🎉 專案完成總結（第二批收官）
+- **主題產製 100% 完成**：80 篇文章、圖解 240 張、分鏡 480 張，全數上線、線上皆 200、九大分類與四年級全覆蓋。
+- 全程課綱代碼逐一 WebFetch 官方頁查證、無臆造；無專屬內容碼者（熱脹冷縮、分解者、圖表統計）皆改對應學習表現並於教師補充據實說明。
+- 已跑 XML 合法性與 Cyrillic 檢查；教訓彙整：①每篇完成檢查 Cyrillic＋亂碼字元＋殘留英文單字；②寫延伸閱讀連結前先 grep topics.json 確認實際檔名與年級。
+- **後續可選（非缺口）**：分鏡場景美化、跨篇搜尋/詞彙表串連、臉書宣傳文更新（第二批新篇）。
 - **第二批剩 4 篇待產製（第 10 輪＝最後一輪，TOPIC-MAP 仍標 🚧）**。剩餘 id：G3 silkworm-diary(蠶寶寶/生活史；可查 INd-Ⅱ-3 生物生命週期)、G4 campus-weather-station(校園氣象站/INd-Ⅱ-7 天氣觀測儀器)、G5 four-seasons-stars(四季星空/INc-Ⅲ 天文，可查對應碼)、G6 data-tells-story(圖表統計/探究能力—資料整理與圖表判讀)。做完這 4 篇即全站 80/80 完成。產製前務必先 WebFetch 查證課綱代碼、寫延伸閱讀連結前先 ls／grep topics.json 確認檔名與年級。
 - **每輪標準流程（照做）**：4 篇一輪 → 每篇 14 區塊 HTML＋3 圖解 SVG＋6 分鏡 SVG → 跑驗證腳本（見下「驗證」）→ topics.json/main.js/TOPIC-MAP 三處同步改 published → commit＋push → 等 Pages build=built → curl 驗證 200。
 - ⚠️ **踩雷提醒**：(1) 寫作時曾兩度不慎混入 Cyrillic 字元（концепт、модель），每篇完成務必用 Python `re.search(r'[Ѐ-ӿ]', s)` 或 ripgrep 檢查。(2) 延伸閱讀連結**不可指向 status=planned 未上線篇**（曾誤連，改連已上線篇）。(3) SVG 顏色值別打錯（曾寫成 `#cdddd d` 含空格）。(4) 每篇 SVG 用 `xml.dom.minidom` 驗證合法。
