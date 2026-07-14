@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0a8b8" opacity="0.4"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- compass rose with NE wind -->
+<circle cx="290" cy="150" r="42" fill="#fff" stroke="#7aa070" stroke-width="2"/>
+<text x="290" y="116" font-size="9" fill="#c04040">北</text><text x="336" y="154" font-size="9" fill="#3a7a4a">東</text>
+<line x1="266" y1="174" x2="314" y2="126" stroke="#e0803a" stroke-width="4"/><polygon points="314,126 302,130 308,138" fill="#e0803a"/>
+<text x="290" y="205" text-anchor="middle" font-size="9" fill="#a06030">東北風＝從東北來</text>
+<!-- bear -->
+<g transform="translate(400,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：要用數字，東北風是從東北來。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「感覺講講就好！」🐻「用數字才準、風向講來向！」</text>
+</svg>

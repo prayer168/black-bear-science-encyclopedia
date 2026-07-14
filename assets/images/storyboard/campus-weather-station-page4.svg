@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef6ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#8ab070" opacity="0.35"/>
+<!-- wind vane on compass rose -->
+<circle cx="330" cy="150" r="52" fill="#fff" stroke="#7aa070" stroke-width="2"/>
+<text x="330" y="108" text-anchor="middle" font-size="10" fill="#c04040">北</text><text x="330" y="200" text-anchor="middle" font-size="10" fill="#3a5a8a">南</text>
+<text x="386" y="154" font-size="10" fill="#3a7a4a">東</text><text x="278" y="154" font-size="10" fill="#3a7a4a">西</text>
+<line x1="300" y1="180" x2="360" y2="120" stroke="#e0803a" stroke-width="4"/><polygon points="360,120 346,124 353,134" fill="#e0803a"/>
+<g stroke="#5a9ac8" stroke-width="2" fill="none"><path d="M400 100 q-12 10 -24 20"/></g>
+<text x="410" y="98" font-size="10" fill="#2a6a9a">東北來</text>
+<!-- beetle -->
+<g transform="translate(55,130)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：從哪個方向來，就叫什麼風。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「東北風＝從東北吹來！」</text>
+</svg>

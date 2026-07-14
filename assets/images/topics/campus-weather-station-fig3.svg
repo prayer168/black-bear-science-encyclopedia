@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef7ea"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a7a4a">風向計與風向命名</text>
+
+  <!-- compass rose base -->
+  <circle cx="350" cy="215" r="130" fill="#fff" stroke="#7aa070" stroke-width="2"/>
+  <circle cx="350" cy="215" r="130" fill="none" stroke="#cfe0c8" stroke-width="1"/>
+  <text x="350" y="105" text-anchor="middle" font-size="18" fill="#c04040" font-weight="bold">北</text>
+  <text x="350" y="340" text-anchor="middle" font-size="18" fill="#3a5a8a" font-weight="bold">南</text>
+  <text x="470" y="222" text-anchor="middle" font-size="18" fill="#3a7a4a" font-weight="bold">東</text>
+  <text x="230" y="222" text-anchor="middle" font-size="18" fill="#3a7a4a" font-weight="bold">西</text>
+  <text x="432" y="150" font-size="13" fill="#a06030" font-weight="bold">東北</text>
+
+  <!-- wind arrow pointing to NE (come-from direction) -->
+  <line x1="290" y1="275" x2="410" y2="155" stroke="#e0803a" stroke-width="6"/>
+  <polygon points="410,155 388,160 400,178" fill="#e0803a"/>
+  <circle cx="350" cy="215" r="8" fill="#8a5a34"/>
+
+  <!-- wind coming from NE -->
+  <g stroke="#5a9ac8" stroke-width="3" fill="none">
+    <path d="M470 120 q-16 12 -30 26" marker-end="url(#wd)"/>
+    <path d="M495 145 q-16 12 -30 26" marker-end="url(#wd)"/>
+  </g>
+  <defs><marker id="wd" markerWidth="11" markerHeight="11" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#5a9ac8"/></marker></defs>
+  <text x="520" y="120" font-size="12" fill="#2a6a9a">風從東北方吹來</text>
+
+  <rect x="150" y="352" width="400" height="0" fill="none"/>
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a7a4a">風從哪個方向來，就叫什麼風（東北風＝從東北來）。</text>
+</svg>

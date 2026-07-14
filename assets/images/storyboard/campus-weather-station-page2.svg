@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4f7"/>
+<rect x="0" y="205" width="520" height="73" fill="#88a8c0" opacity="0.35"/>
+<!-- icons row -->
+<path d="M280 130 L280 175 q0 5 6 5 L306 180 q6 0 6 -5 L312 130z" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+<text x="296" y="200" text-anchor="middle" font-size="9" fill="#2a6a9a">雨量</text>
+<rect x="340" y="130" width="10" height="40" rx="5" fill="#fff" stroke="#888"/><circle cx="345" cy="172" r="8" fill="#e05a5a"/>
+<text x="345" y="200" text-anchor="middle" font-size="9" fill="#b04a4a">氣溫</text>
+<circle cx="400" cy="150" r="22" fill="#fff" stroke="#7aa070" stroke-width="2"/><polygon points="414,138 388,150 414,155" fill="#e05a5a"/>
+<text x="400" y="200" text-anchor="middle" font-size="9" fill="#2a7a4a">風向</text>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：天氣用可測量的項目來描述。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🐻：「量成數字才準確！」</text>
+</svg>

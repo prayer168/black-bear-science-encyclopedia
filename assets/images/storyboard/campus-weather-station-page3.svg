@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#e6eef7"/>
+<rect x="0" y="205" width="520" height="73" fill="#88b090" opacity="0.35"/>
+<!-- rain into cylinder -->
+<g stroke="#7fb0d6" stroke-width="2"><line x1="300" y1="95" x2="296" y2="108"/><line x1="330" y1="95" x2="326" y2="108"/><line x1="360" y1="95" x2="356" y2="108"/></g>
+<rect x="305" y="130" width="56" height="80" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+<rect x="305" y="180" width="56" height="30" fill="#a6d4e4" opacity="0.7"/>
+<g stroke="#5a9ac8" stroke-width="1"><line x1="361" y1="165" x2="371" y2="165"/><line x1="361" y1="185" x2="373" y2="185"/></g>
+<text x="333" y="228" text-anchor="middle" font-size="10" fill="#2a6a9a">直筒雨量器</text>
+<!-- fox -->
+<g transform="translate(70,130)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="96" height="96"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：直筒接雨，量水的高度就是雨量。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「原來雨量是量深度！」</text>
+</svg>

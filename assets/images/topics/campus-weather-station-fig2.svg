@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eaf2fb"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a6a9a">自製雨量器量雨量</text>
+
+  <!-- correct: straight cylinder -->
+  <rect x="30" y="55" width="310" height="300" rx="12" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="185" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#2a7a4a">正確 ✓ 直筒</text>
+  <!-- rain -->
+  <g stroke="#7fb0d6" stroke-width="2"><line x1="150" y1="100" x2="146" y2="115"/><line x1="185" y1="100" x2="181" y2="115"/><line x1="220" y1="100" x2="216" y2="115"/></g>
+  <!-- straight cylinder -->
+  <rect x="150" y="150" width="70" height="160" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+  <rect x="150" y="250" width="70" height="60" fill="#a6d4e4" opacity="0.7"/>
+  <g stroke="#5a9ac8" stroke-width="1"><line x1="220" y1="230" x2="232" y2="230"/><line x1="220" y1="250" x2="236" y2="250"/><line x1="220" y1="270" x2="232" y2="270"/></g>
+  <text x="248" y="254" font-size="12" fill="#2a6a9a" font-weight="bold">20 mm</text>
+  <!-- eye -->
+  <circle cx="110" cy="250" r="11" fill="#fff" stroke="#2a7a4a" stroke-width="2"/><circle cx="113" cy="250" r="4" fill="#2a7a4a"/>
+  <line x1="121" y1="250" x2="148" y2="250" stroke="#2a7a4a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="185" y="335" text-anchor="middle" font-size="13" fill="#2a7a4a">量水面高度＝雨量</text>
+
+  <!-- wrong: tapered -->
+  <rect x="360" y="55" width="310" height="300" rx="12" fill="#fdeeee" stroke="#d68a8a" stroke-width="2"/>
+  <text x="515" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#b04a4a">錯誤 ✗ 上寬下窄</text>
+  <g stroke="#7fb0d6" stroke-width="2"><line x1="480" y1="100" x2="476" y2="115"/><line x1="515" y1="100" x2="511" y2="115"/><line x1="550" y1="100" x2="546" y2="115"/></g>
+  <!-- tapered cup -->
+  <path d="M460 150 L570 150 L540 310 L490 310 z" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+  <path d="M478 250 L552 250 L540 310 L490 310 z" fill="#a6d4e4" opacity="0.7"/>
+  <text x="515" y="335" text-anchor="middle" font-size="13" fill="#b04a4a">同樣的雨，高度不對</text>
+  <text x="515" y="130" text-anchor="middle" font-size="20" fill="#c04040">✗</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">直筒容器接雨，量水的高度就是雨量（要放空曠處）。</text>
+</svg>

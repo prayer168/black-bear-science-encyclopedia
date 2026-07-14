@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef4f7"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a6a9a">描述天氣的觀測項目</text>
+
+  <!-- 1 rainfall -->
+  <rect x="20" y="55" width="320" height="140" rx="10" fill="#eaf2fb" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="180" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6a9a">雨量 → 雨量器（mm）</text>
+  <path d="M130 105 L130 175 q0 6 8 6 L162 181 q8 0 8 -6 L168 105 z" fill="#dff0f5" stroke="#88b8c8" stroke-width="2"/>
+  <path d="M130 145 L168 145 L168 175 q0 6 -8 6 L138 181 q-8 0 -8 -6 z" fill="#a6d4e4" opacity="0.7"/>
+  <g stroke="#5a9ac8" stroke-width="1"><line x1="168" y1="125" x2="176" y2="125"/><line x1="168" y1="150" x2="176" y2="150"/></g>
+  <g stroke="#7fb0d6" stroke-width="2"><line x1="145" y1="90" x2="143" y2="102"/><line x1="155" y1="92" x2="153" y2="104"/></g>
+  <text x="240" y="150" font-size="12" fill="#2a6a9a">量雨的深度</text>
+
+  <!-- 2 temperature -->
+  <rect x="360" y="55" width="320" height="140" rx="10" fill="#fdeef0" stroke="#d68a8a" stroke-width="2"/>
+  <text x="520" y="80" text-anchor="middle" font-size="15" font-weight="bold" fill="#b04a4a">氣溫 → 溫度計（℃）</text>
+  <rect x="470" y="105" width="14" height="60" rx="7" fill="#fff" stroke="#888" stroke-width="2"/>
+  <circle cx="477" cy="168" r="12" fill="#e05a5a"/><rect x="472" y="130" width="10" height="40" fill="#e05a5a"/>
+  <text x="560" y="150" font-size="12" fill="#b04a4a">量冷熱幾度</text>
+
+  <!-- 3 wind direction -->
+  <rect x="20" y="205" width="320" height="150" rx="10" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="180" y="230" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a4a">風向 → 風向計</text>
+  <circle cx="130" cy="290" r="34" fill="#fff" stroke="#7aa070" stroke-width="2"/>
+  <text x="130" y="262" font-size="9" fill="#666">北</text><text x="130" y="325" font-size="9" fill="#666">南</text>
+  <polygon points="150,270 118,290 150,296 142,288" fill="#e05a5a"/>
+  <text x="240" y="290" font-size="12" fill="#2a7a4a">風從哪裡來</text>
+
+  <!-- 4 wind speed -->
+  <rect x="360" y="205" width="320" height="150" rx="10" fill="#fef4e8" stroke="#e0a860" stroke-width="2"/>
+  <text x="520" y="230" text-anchor="middle" font-size="15" font-weight="bold" fill="#a07020">風速 → 看樹搖／風速計</text>
+  <line x1="450" y1="330" x2="450" y2="280" stroke="#8a5a34" stroke-width="5"/>
+  <ellipse cx="450" cy="270" rx="26" ry="18" fill="#6ba03a" transform="rotate(15 450 270)"/>
+  <g stroke="#a8cbe0" stroke-width="2" fill="none"><path d="M400 260 q14 -6 26 0"/><path d="M400 275 q14 -6 26 0"/></g>
+  <text x="560" y="290" font-size="12" fill="#a07020">風多大</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">雨量、氣溫、風向、風速，都可以量成數字。</text>
+</svg>
