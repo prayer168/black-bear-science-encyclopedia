@@ -68,7 +68,7 @@ const TOPICS = [
 
   /* ===== 第二批 40 主題（籌備中） ===== */
   {id:"flower-invitation-card",title:"花是植物的邀請卡：花的構造",grade:3,category:"plants-life",status:"published",path:"topics/grade-3/flower-invitation-card.html",keywords:["花瓣","雄蕊","雌蕊","傳粉"]},
-  {id:"silkworm-diary",title:"蠶寶寶日記：飼養與觀察",grade:3,category:"animals-insects",status:"planned",path:"",keywords:["蠶","桑葉","結繭","觀察日記"]},
+  {id:"silkworm-diary",title:"蠶寶寶日記：飼養與觀察",grade:3,category:"animals-insects",status:"published",path:"topics/grade-3/silkworm-diary.html",keywords:["蠶","桑葉","結繭","觀察日記"]},
   {id:"snail-and-earthworm",title:"雨後的小訪客：蝸牛與蚯蚓",grade:3,category:"animals-insects",status:"published",path:"topics/grade-3/snail-and-earthworm.html",keywords:["蝸牛","蚯蚓","觸角","潮溼"]},
   {id:"float-or-sink",title:"浮與沉：什麼東西會浮在水上？",grade:3,category:"matter-heat-change",status:"published",path:"topics/grade-3/float-or-sink.html",keywords:["浮","沉","水","船"]},
   {id:"wind-is-running-air",title:"風是空氣在跑步",grade:3,category:"air-water-weather",status:"published",path:"topics/grade-3/wind-is-running-air.html",keywords:["風","空氣流動","風向"]},

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0b088" opacity="0.4"/>
+<rect x="250" y="200" width="240" height="12" fill="#c9905a"/>
+<!-- broken cocoon + moth -->
+<ellipse cx="300" cy="180" rx="30" ry="20" fill="#fdf3d0" stroke="#e0c870" stroke-width="2"/>
+<path d="M290 165 l-8 -10 l14 4z" fill="#fff"/>
+<!-- moth -->
+<g transform="translate(360,150)">
+<ellipse cx="0" cy="0" rx="7" ry="16" fill="#e8e0d0" stroke="#b0a888" stroke-width="1.5"/>
+<path d="M-7 -6 q-26 -12 -30 5 q9 12 30 3z" fill="#f0ead8" stroke="#c0b898" stroke-width="1.5"/>
+<path d="M7 -6 q26 -12 30 5 q-9 12 -30 3z" fill="#f0ead8" stroke="#c0b898" stroke-width="1.5"/>
+<g stroke="#8a7a5a" stroke-width="1.5"><path d="M-3 -14 q-5 -7 -10 -9"/><path d="M3 -14 q5 -7 10 -9"/></g>
+</g>
+<g fill="#8a7a5a"><circle cx="410" cy="195" r="2"/><circle cx="418" cy="192" r="2"/></g>
+<text x="360" y="120" text-anchor="middle" font-size="11" fill="#7a6a30">破繭成蛾</text>
+<!-- fox -->
+<g transform="translate(60,130)"><image xlink:href="../characters/fox.svg" href="../characters/fox.svg" x="0" y="0" width="94" height="94"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：破繭而出，變成會飛的蛾。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「變成蛾了，好神奇！」</text>
+</svg>

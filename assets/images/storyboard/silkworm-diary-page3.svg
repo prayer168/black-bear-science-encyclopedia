@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f2f4ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0b088" opacity="0.4"/>
+<rect x="250" y="200" width="240" height="12" fill="#c9905a"/>
+<!-- big white silkworm + shed skin -->
+<path d="M280 155 q16 -20 42 -16 q30 -4 46 0 q26 4 30 18 q-6 14 -30 16 q-16 4 -46 0 q-26 4 -42 -18z" fill="#f7f2e4" stroke="#d4ccac" stroke-width="2"/>
+<g stroke="#d4ccac" stroke-width="1.5"><line x1="308" y1="145" x2="308" y2="167"/><line x1="330" y1="143" x2="330" y2="169"/><line x1="352" y1="143" x2="352" y2="169"/></g>
+<circle cx="368" cy="156" r="8" fill="#e8ddc0"/>
+<path d="M300 200 q14 -8 28 -2" fill="none" stroke="#c8b890" stroke-width="2" stroke-dasharray="3 2"/>
+<text x="330" y="222" text-anchor="middle" font-size="10" fill="#8a7a4a">蛻下的舊皮</text>
+<!-- drop -->
+<g transform="translate(55,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：蠶寶寶吃桑葉、蛻皮長大。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「牠脫皮才能長更大！」</text>
+</svg>

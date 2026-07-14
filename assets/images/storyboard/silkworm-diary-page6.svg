@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#b0a878" opacity="0.4"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- bear holding silkworm box gently -->
+<rect x="250" y="150" width="90" height="46" rx="6" fill="#fff" stroke="#7aa080" stroke-width="2"/>
+<path d="M262 172 q16 -10 34 -2" fill="#f5f0e0" stroke="#d0c8a8" stroke-width="2"/>
+<path d="M300 168 q14 -8 26 0" fill="#7bb046"/>
+<text x="295" y="140" text-anchor="middle" font-size="18">💚</text>
+<!-- bear -->
+<g transform="translate(390,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a6a3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：蠶會完全變態，要溫柔負責照顧。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「長大變大蟲！」🐻「牠會結繭變蛾，要愛護喔！」</text>
+</svg>

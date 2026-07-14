@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f4f6ee"/>
+  <text x="350" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#5a7a3a">蠶寶寶的樣子與蛻皮</text>
+
+  <!-- big silkworm eating -->
+  <g transform="translate(230,180)">
+    <path d="M-120 0 q20 -34 60 -30 q40 -4 60 0 q40 -4 60 0 q30 4 40 30 q-10 26 -40 30 q-20 4 -60 0 q-20 4 -60 0 q-40 4 -60 -30z" fill="#f7f2e4" stroke="#d4ccac" stroke-width="2.5"/>
+    <g stroke="#d4ccac" stroke-width="2"><line x1="-70" y1="-24" x2="-70" y2="24"/><line x1="-40" y1="-28" x2="-40" y2="28"/><line x1="-10" y1="-29" x2="-10" y2="29"/><line x1="20" y1="-29" x2="20" y2="29"/><line x1="50" y1="-28" x2="50" y2="28"/><line x1="80" y1="-24" x2="80" y2="24"/></g>
+    <!-- legs -->
+    <g stroke="#c8bf9c" stroke-width="4"><line x1="-60" y1="30" x2="-64" y2="42"/><line x1="-20" y1="32" x2="-22" y2="44"/><line x1="20" y1="32" x2="22" y2="44"/><line x1="60" y1="30" x2="64" y2="42"/></g>
+    <!-- head -->
+    <circle cx="115" cy="-2" r="12" fill="#e8ddc0" stroke="#c0b088" stroke-width="1.5"/>
+  </g>
+  <!-- mulberry leaf -->
+  <path d="M355 165 q30 -20 60 -6 q-6 34 -44 40 q-24 -8 -16 -34z" fill="#7bb046" stroke="#4a7030" stroke-width="2"/>
+  <path d="M360 175 q26 6 46 24" stroke="#4a7030" stroke-width="1.5" fill="none"/>
+  <text x="255" y="248" text-anchor="middle" font-size="13" fill="#5a7a3a">身體一節一節、有腳、正在吃桑葉</text>
+
+  <!-- shed skin small -->
+  <g transform="translate(500,300)">
+    <path d="M-40 0 q10 -12 40 -10 q30 -2 40 10 q-10 10 -40 8 q-30 2 -40 -8z" fill="none" stroke="#c8b890" stroke-width="2" stroke-dasharray="4 3"/>
+    <text x="0" y="34" text-anchor="middle" font-size="12" fill="#8a7a4a">蛻下的舊皮</text>
+  </g>
+  <path d="M420 300 L455 300" stroke="#8a7a4a" stroke-width="3" marker-end="url(#s2)"/>
+  <defs><marker id="s2" markerWidth="10" markerHeight="10" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#8a7a4a"/></marker></defs>
+  <text x="380" y="295" text-anchor="middle" font-size="12" fill="#5a7a3a">蛻皮</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#5a7a3a">蠶寶寶吃桑葉、蛻皮，一天天長大。</text>
+</svg>
