@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f4f1ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#7a5a4a">誠實的圖表 vs 誤導的圖表</text>
+
+  <!-- honest: axis from 0 -->
+  <rect x="20" y="55" width="320" height="300" rx="12" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="180" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#2a7a4a">誠實 ✓ 軸從 0</text>
+  <line x1="80" y1="300" x2="300" y2="300" stroke="#888" stroke-width="2"/>
+  <line x1="80" y1="300" x2="80" y2="110" stroke="#888" stroke-width="2"/>
+  <text x="70" y="304" text-anchor="end" font-size="11" fill="#666">0</text>
+  <text x="70" y="205" text-anchor="end" font-size="11" fill="#666">50</text>
+  <line x1="76" y1="205" x2="80" y2="205" stroke="#888"/>
+  <text x="70" y="115" text-anchor="end" font-size="11" fill="#666">100</text>
+  <line x1="76" y1="112" x2="80" y2="112" stroke="#888"/>
+  <rect x="120" y="120" width="55" height="180" fill="#6aa0c8"/>
+  <rect x="215" y="130" width="55" height="170" fill="#e0a860"/>
+  <text x="147" y="315" text-anchor="middle" font-size="11" fill="#3a6a4a">100</text>
+  <text x="242" y="315" text-anchor="middle" font-size="11" fill="#3a6a4a">95</text>
+  <text x="180" y="340" text-anchor="middle" font-size="13" fill="#2a7a4a">差不多（差距真實）</text>
+
+  <!-- misleading: truncated axis -->
+  <rect x="360" y="55" width="320" height="300" rx="12" fill="#fdeeee" stroke="#d68a8a" stroke-width="2"/>
+  <text x="520" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#b04a4a">誤導 ✗ 軸截斷</text>
+  <line x1="420" y1="300" x2="640" y2="300" stroke="#888" stroke-width="2"/>
+  <line x1="420" y1="300" x2="420" y2="110" stroke="#888" stroke-width="2"/>
+  <text x="410" y="304" text-anchor="end" font-size="11" fill="#c04040" font-weight="bold">90</text>
+  <text x="410" y="115" text-anchor="end" font-size="11" fill="#666">100</text>
+  <line x1="416" y1="112" x2="420" y2="112" stroke="#888"/>
+  <!-- wavy break -->
+  <path d="M414 290 q6 -6 0 -12" stroke="#c04040" stroke-width="2" fill="none"/>
+  <rect x="460" y="112" width="55" height="188" fill="#6aa0c8"/>
+  <rect x="555" y="205" width="55" height="95" fill="#e0a860"/>
+  <text x="487" y="315" text-anchor="middle" font-size="11" fill="#b04a4a">100</text>
+  <text x="582" y="315" text-anchor="middle" font-size="11" fill="#b04a4a">95</text>
+  <text x="520" y="340" text-anchor="middle" font-size="13" fill="#b04a4a">差距被放大（騙人）</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#7a5a4a">軸從0才誠實；軸被動手腳會騙人。</text>
+</svg>

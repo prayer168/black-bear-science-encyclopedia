@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#efe4ec"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0b0a0" opacity="0.4"/>
+<!-- monster -->
+<g transform="translate(40,140)"><image xlink:href="../characters/monster.svg" href="../characters/monster.svg" x="0" y="0" width="92" height="92"/></g>
+<text x="150" y="118" font-size="22" fill="#a24a8a" font-weight="bold">?!</text>
+<!-- honest chart with check -->
+<rect x="255" y="115" width="90" height="80" rx="4" fill="#fff" stroke="#7aa080" stroke-width="2"/>
+<line x1="268" y1="180" x2="335" y2="180" stroke="#888"/><line x1="268" y1="180" x2="268" y2="128" stroke="#888"/>
+<rect x="278" y="145" width="16" height="35" fill="#7ab080"/><rect x="304" y="150" width="16" height="30" fill="#7ab080"/>
+<text x="300" y="128" text-anchor="middle" font-size="9" fill="#2a7a4a">誠實✓</text>
+<!-- bear -->
+<g transform="translate(400,140)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">6</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a6a3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第6頁：不能扭曲資料，要讓證據誠實說話。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">👾「拉高一點沒關係！」🐻「扭曲資料是騙人喔！」</text>
+</svg>

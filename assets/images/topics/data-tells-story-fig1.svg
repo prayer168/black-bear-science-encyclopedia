@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#eef3f7"/>
+  <text x="350" y="32" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a6a9a">資料 → 表格 → 圖表 → 結論</text>
+
+  <!-- 1 messy numbers -->
+  <rect x="20" y="90" width="140" height="200" rx="10" fill="#fdeeee" stroke="#d68a8a" stroke-width="2"/>
+  <text x="90" y="115" text-anchor="middle" font-size="13" font-weight="bold" fill="#b04a4a">①雜亂數字</text>
+  <g fill="#a06060" font-size="11"><text x="35" y="140">22 5 20</text><text x="35" y="160">0 18 12</text><text x="35" y="180">15 3 21</text><text x="35" y="200">8 19 2</text><text x="35" y="220">24 6 17</text><text x="35" y="240">11 25 9</text></g>
+  <text x="90" y="275" text-anchor="middle" font-size="11" fill="#b04a4a">看不出重點</text>
+
+  <!-- 2 table -->
+  <rect x="195" y="90" width="140" height="200" rx="10" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="265" y="115" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a7a4a">②表格</text>
+  <rect x="215" y="130" width="100" height="130" fill="#fff" stroke="#7aa080"/>
+  <g stroke="#c0d0c0"><line x1="215" y1="155" x2="315" y2="155"/><line x1="215" y1="180" x2="315" y2="180"/><line x1="215" y1="205" x2="315" y2="205"/><line x1="215" y1="230" x2="315" y2="230"/><line x1="265" y1="130" x2="265" y2="260"/></g>
+  <g fill="#3a6a4a" font-size="9"><text x="230" y="147">週一</text><text x="278" y="147">22</text><text x="230" y="172">週二</text><text x="278" y="172">20</text><text x="230" y="197">週三</text><text x="278" y="197">18</text><text x="230" y="222">週四</text><text x="278" y="222">17</text></g>
+
+  <!-- arrows -->
+  <path d="M165 190 L192 190" stroke="#5a7a9a" stroke-width="3" marker-end="url(#df)"/>
+  <path d="M340 190 L367 190" stroke="#5a7a9a" stroke-width="3" marker-end="url(#df)"/>
+  <path d="M515 190 L542 190" stroke="#5a7a9a" stroke-width="3" marker-end="url(#df)"/>
+  <defs><marker id="df" markerWidth="10" markerHeight="10" refX="5" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#5a7a9a"/></marker></defs>
+
+  <!-- 3 chart -->
+  <rect x="370" y="90" width="140" height="200" rx="10" fill="#eaf2fb" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="440" y="115" text-anchor="middle" font-size="13" font-weight="bold" fill="#2a6a9a">③圖表</text>
+  <line x1="395" y1="255" x2="495" y2="255" stroke="#888" stroke-width="1.5"/>
+  <line x1="395" y1="255" x2="395" y2="140" stroke="#888" stroke-width="1.5"/>
+  <polyline points="405,150 430,170 455,190 480,210" fill="none" stroke="#e0603a" stroke-width="3"/>
+  <g fill="#e0603a"><circle cx="405" cy="150" r="3"/><circle cx="430" cy="170" r="3"/><circle cx="455" cy="190" r="3"/><circle cx="480" cy="210" r="3"/></g>
+  <text x="445" y="278" text-anchor="middle" font-size="10" fill="#2a6a9a">氣溫折線</text>
+
+  <!-- 4 conclusion -->
+  <rect x="545" y="90" width="140" height="200" rx="10" fill="#fff7e0" stroke="#e0b040" stroke-width="2"/>
+  <text x="615" y="115" text-anchor="middle" font-size="13" font-weight="bold" fill="#a07010">④結論</text>
+  <text x="615" y="165" text-anchor="middle" font-size="30">💡</text>
+  <text x="615" y="205" text-anchor="middle" font-size="12" fill="#8a6010">氣溫一天</text>
+  <text x="615" y="225" text-anchor="middle" font-size="12" fill="#8a6010">比一天低！</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#2a6a9a">整理成表格、畫成圖表，資料就會開口說話。</text>
+</svg>

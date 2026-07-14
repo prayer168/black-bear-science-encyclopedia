@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#f2f4ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#a0b088" opacity="0.4"/>
+<!-- three mini charts -->
+<g><rect x="250" y="150" width="8" height="30" fill="#6aa0c8"/><rect x="262" y="140" width="8" height="40" fill="#e0a860"/><rect x="274" y="160" width="8" height="20" fill="#7ab080"/></g>
+<text x="264" y="200" text-anchor="middle" font-size="8" fill="#3a6a4a">長條</text>
+<polyline points="300,175 312,160 324,150 336,145" fill="none" stroke="#e0603a" stroke-width="2"/>
+<text x="318" y="200" text-anchor="middle" font-size="8" fill="#2a6a9a">折線</text>
+<circle cx="375" cy="160" r="20" fill="#6aa0c8"/><path d="M375 160 L375 140 A20 20 0 0 1 393 168 Z" fill="#e0a860"/>
+<text x="375" y="200" text-anchor="middle" font-size="8" fill="#a07020">圓餅</text>
+<!-- beetle -->
+<g transform="translate(60,125)"><image xlink:href="../characters/beetle.svg" href="../characters/beetle.svg" x="0" y="0" width="92" height="92"/></g>
+<circle cx="45" cy="40" r="22" fill="#c0a060"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">4</text>
+<rect x="0" y="278" width="520" height="42" fill="#4a3a20"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第4頁：比較用長條、趨勢用折線、比例用圓餅。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🪲：「選對圖表資料才會說清楚！」</text>
+</svg>

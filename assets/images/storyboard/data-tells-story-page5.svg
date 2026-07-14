@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef4f2"/>
+<rect x="0" y="205" width="520" height="73" fill="#88b0a0" opacity="0.35"/>
+<!-- two bar charts: honest vs truncated -->
+<g><line x1="250" y1="185" x2="300" y2="185" stroke="#888"/><line x1="250" y1="185" x2="250" y2="130" stroke="#888"/>
+<rect x="258" y="140" width="14" height="45" fill="#7ab080"/><rect x="278" y="145" width="14" height="40" fill="#7ab080"/>
+<text x="262" y="128" text-anchor="middle" font-size="8" fill="#2a7a4a">0起✓</text></g>
+<g><line x1="350" y1="185" x2="400" y2="185" stroke="#888"/><line x1="350" y1="185" x2="350" y2="130" stroke="#888"/>
+<rect x="358" y="135" width="14" height="50" fill="#e08080"/><rect x="378" y="165" width="14" height="20" fill="#e08080"/>
+<text x="366" y="128" text-anchor="middle" font-size="8" fill="#c04040">截斷✗</text></g>
+<!-- drop -->
+<g transform="translate(55,130)"><image xlink:href="../characters/drop.svg" href="../characters/drop.svg" x="0" y="0" width="90" height="90"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">5</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第5頁：縱軸要從0，看清楚才不被騙。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">💧：「畫圖表要誠實喔！」</text>
+</svg>

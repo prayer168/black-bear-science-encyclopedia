@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eef7ea"/>
+<rect x="0" y="205" width="520" height="73" fill="#88b090" opacity="0.35"/>
+<!-- bar chart, week3 highest -->
+<rect x="270" y="100" width="170" height="110" rx="4" fill="#fff" stroke="#7aa080" stroke-width="2"/>
+<line x1="285" y1="195" x2="425" y2="195" stroke="#888" stroke-width="1.5"/>
+<line x1="285" y1="195" x2="285" y2="115" stroke="#888" stroke-width="1.5"/>
+<rect x="298" y="175" width="18" height="20" fill="#6aa0c8"/>
+<rect x="326" y="185" width="18" height="10" fill="#6aa0c8"/>
+<rect x="354" y="130" width="18" height="65" fill="#e0603a"/>
+<rect x="382" y="165" width="18" height="30" fill="#6aa0c8"/>
+<text x="363" y="122" text-anchor="middle" font-size="10" fill="#c0402a">週三最高</text>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">3</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第3頁：畫成長條，一眼看出週三雨最多。</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「週三的長條最高！」</text>
+</svg>

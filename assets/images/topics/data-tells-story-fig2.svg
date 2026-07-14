@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+  <rect width="700" height="400" fill="#f2f4ee"/>
+  <text x="350" y="32" text-anchor="middle" font-size="21" font-weight="bold" fill="#3a6a5a">三種常用圖表怎麼選</text>
+
+  <!-- bar chart -->
+  <rect x="20" y="55" width="215" height="300" rx="12" fill="#eef7ea" stroke="#5aa070" stroke-width="2"/>
+  <text x="127" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a7a4a">長條圖</text>
+  <line x1="55" y1="250" x2="210" y2="250" stroke="#888" stroke-width="1.5"/>
+  <line x1="55" y1="250" x2="55" y2="120" stroke="#888" stroke-width="1.5"/>
+  <rect x="70" y="180" width="26" height="70" fill="#6aa0c8"/>
+  <rect x="110" y="140" width="26" height="110" fill="#e0a860"/>
+  <rect x="150" y="200" width="26" height="50" fill="#7ab080"/>
+  <rect x="190" y="165" width="16" height="85" fill="#c07aa0"/>
+  <text x="127" y="290" text-anchor="middle" font-size="14" fill="#2a7a4a" font-weight="bold">比較「多少」</text>
+  <text x="127" y="315" text-anchor="middle" font-size="11" fill="#5a7a6a">誰最多、誰最少</text>
+
+  <!-- line chart -->
+  <rect x="245" y="55" width="215" height="300" rx="12" fill="#eaf2fb" stroke="#5a9ac8" stroke-width="2"/>
+  <text x="352" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#2a6a9a">折線圖</text>
+  <line x1="280" y1="250" x2="435" y2="250" stroke="#888" stroke-width="1.5"/>
+  <line x1="280" y1="250" x2="280" y2="120" stroke="#888" stroke-width="1.5"/>
+  <polyline points="295,220 330,180 365,150 400,130 425,135" fill="none" stroke="#e0603a" stroke-width="3"/>
+  <g fill="#e0603a"><circle cx="295" cy="220" r="3"/><circle cx="330" cy="180" r="3"/><circle cx="365" cy="150" r="3"/><circle cx="400" cy="130" r="3"/></g>
+  <text x="352" y="290" text-anchor="middle" font-size="14" fill="#2a6a9a" font-weight="bold">看「變化趨勢」</text>
+  <text x="352" y="315" text-anchor="middle" font-size="11" fill="#5a7a9a">隨時間升或降</text>
+
+  <!-- pie chart -->
+  <rect x="470" y="55" width="210" height="300" rx="12" fill="#fdf3e8" stroke="#e0a860" stroke-width="2"/>
+  <text x="575" y="82" text-anchor="middle" font-size="15" font-weight="bold" fill="#a07020">圓餅圖</text>
+  <circle cx="575" cy="185" r="58" fill="#6aa0c8"/>
+  <path d="M575 185 L575 127 A58 58 0 0 1 628 208 Z" fill="#e0a860"/>
+  <path d="M575 185 L628 208 A58 58 0 0 1 545 238 Z" fill="#7ab080"/>
+  <path d="M575 185 L545 238 A58 58 0 0 1 533 165 Z" fill="#c07aa0"/>
+  <text x="575" y="290" text-anchor="middle" font-size="14" fill="#a07020" font-weight="bold">看「各部分比例」</text>
+  <text x="575" y="315" text-anchor="middle" font-size="11" fill="#8a6a30">佔整體多少</text>
+
+  <text x="350" y="384" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a6a5a">比較用長條、趨勢用折線、比例用圓餅。</text>
+</svg>

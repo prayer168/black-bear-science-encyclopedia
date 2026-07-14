@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 320" font-family="'Microsoft JhengHei','Noto Sans TC',sans-serif">
+<rect width="520" height="320" fill="#eaf2fb"/>
+<rect x="0" y="205" width="520" height="73" fill="#88a8c8" opacity="0.35"/>
+<!-- descending line chart -->
+<rect x="270" y="100" width="170" height="110" rx="4" fill="#fff" stroke="#88b8c8" stroke-width="2"/>
+<line x1="285" y1="195" x2="425" y2="195" stroke="#888" stroke-width="1.5"/>
+<line x1="285" y1="195" x2="285" y2="115" stroke="#888" stroke-width="1.5"/>
+<polyline points="295,125 330,140 365,160 400,180" fill="none" stroke="#e0603a" stroke-width="3"/>
+<g fill="#e0603a"><circle cx="295" cy="125" r="3"/><circle cx="330" cy="140" r="3"/><circle cx="365" cy="160" r="3"/><circle cx="400" cy="180" r="3"/></g>
+<text x="355" y="90" text-anchor="middle" font-size="10" fill="#2a6a9a">氣溫一路往下</text>
+<!-- bear -->
+<g transform="translate(60,125)"><image xlink:href="../characters/bear.svg" href="../characters/bear.svg" x="0" y="0" width="98" height="98"/></g>
+<circle cx="45" cy="40" r="22" fill="#6b4f3a"/><text x="45" y="47" text-anchor="middle" font-size="19" fill="#fff" font-weight="bold">2</text>
+<rect x="0" y="278" width="520" height="42" fill="#6b4f3a"/>
+<text x="14" y="297" font-size="13" fill="#fff">📖 第2頁：畫成折線，氣溫一路往下，一看就懂！</text>
+<text x="14" y="314" font-size="12" fill="#f4d9a8">🦊：「真的耶，氣溫在下降！」</text>
+</svg>

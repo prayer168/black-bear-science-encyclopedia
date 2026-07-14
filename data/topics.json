@@ -101,6 +101,6 @@
     { "id": "heredity-family-face", "title": "為什麼我像爸爸又像媽媽？遺傳初探", "grade": 6, "bridge": "國中遺傳與基因", "category": "animals-insects", "coreConcepts": ["遺傳與性狀", "親代與子代的相似與差異"], "keywords": ["遺傳", "性狀", "親代", "子代"], "status": "published", "path": "topics/grade-6/heredity-family-face.html" },
     { "id": "greenhouse-warming-earth", "title": "地球發燒了：氣候變遷與溫室效應", "grade": 6, "bridge": "國中全球變遷", "category": "ecology-sustainability", "coreConcepts": ["溫室效應的機制", "氣候變遷的影響與行動"], "keywords": ["溫室效應", "氣候變遷", "二氧化碳", "減碳"], "status": "published", "path": "topics/grade-6/greenhouse-warming-earth.html" },
     { "id": "renewable-energy", "title": "風、光、水來發電：再生能源", "grade": 6, "bridge": "國中能源與永續", "category": "ecology-sustainability", "coreConcepts": ["再生與非再生能源", "能量轉換的發電應用"], "keywords": ["再生能源", "太陽能", "風力", "水力"], "status": "published", "path": "topics/grade-6/renewable-energy.html" },
-    { "id": "data-tells-story", "title": "資料會說話：圖表與統計初探", "grade": 6, "bridge": "國中數據分析與科學論證", "category": "inquiry-methods", "coreConcepts": ["整理資料與繪製圖表", "從圖表找規律下結論"], "keywords": ["圖表", "長條圖", "折線圖", "資料", "結論"], "status": "planned", "path": "" }
+    { "id": "data-tells-story", "title": "資料會說話：圖表與統計初探", "grade": 6, "bridge": "國中數據分析與科學論證", "category": "inquiry-methods", "coreConcepts": ["整理資料與繪製圖表", "從圖表找規律下結論"], "keywords": ["圖表", "長條圖", "折線圖", "資料", "結論"], "status": "published", "path": "topics/grade-6/data-tells-story.html" }
   ]
 }
